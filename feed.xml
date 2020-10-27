@@ -3,7 +3,7 @@
     <title>Microsoft Portals</title>
     <link href="https://adamfowlerit.github.io/feed.xml" rel="self" />
     <link href="https://adamfowlerit.github.io" />
-    <updated>2020-10-27T16:56:02+10:30</updated>
+    <updated>2020-10-28T10:11:59+10:30</updated>
     <author>
         <name>Adam Fowler</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://adamfowlerit.github.io/microsoft-administrator-portals.html"/>
         <id>https://adamfowlerit.github.io/microsoft-administrator-portals.html</id>
 
-        <updated>2020-10-27T16:56:02+10:30</updated>
+        <updated>2020-10-28T10:11:59+10:30</updated>
             <summary>
                 <![CDATA[
-                    IT Admin Portals 
+                    IT Admin Portals End User Portals Other Useful Microsoft PortalsPortalURLOffice 365 Anti-Spam IP Delist Portalhttps://sender.office.comAzure Statushttps://status.azure.com/Windows Virtual Desktop Consent Pagehttps://rdweb.wvd.microsoft.com/ 
                 ]]>
             </summary>
         <content type="html">
@@ -102,7 +102,96 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
+<p><strong>End User Portals</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<th style="width: 26.0809%;"><em>Portal Name</em></th>
+<th style="width: 73.7796%;"><em>Portal URL</em></th>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>My Apps</strong></td>
+<td style="width: 73.7796%;"><a rel="noreferrer noopener" href="https://account.activedirectory.windowsazure.com/" onclick="javascript:window.open('https://account.activedirectory.windowsazure.com/'); return false;">https://account.activedirectory.windowsazure.com/</a><br><a href="https://myapplications.microsoft.com/" onclick="javascript:window.open('https://myapplications.microsoft.com/'); return false;">https://myapplications.microsoft.com/</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>MFA Setup</strong></td>
+<td style="width: 73.7796%;"><a href="https://aks.ms/mfasetup" rel="noreferrer noopener" onclick="javascript:window.open('https://aks.ms/mfasetup'); return false;">https://aks.ms/mfasetup</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>Self Service Password Reset</strong></td>
+<td style="width: 73.7796%;"><a href="https://aka.ms/sspr" onclick="javascript:window.open('https://aka.ms/sspr'); return false;">https://aka.ms/sspr</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>Forgot Password</strong></td>
+<td style="width: 73.7796%;"><a href="https://passwordreset.microsoftonline.com/" onclick="javascript:window.open('https://passwordreset.microsoftonline.com/'); return false;">https://passwordreset.microsoftonline.com/</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>My Sign-Ins</strong></td>
+<td style="width: 73.7796%;"><a href="https://mysignins.microsoft.com/" rel="noreferrer noopener" onclick="javascript:window.open('https://mysignins.microsoft.com/'); return false;">https://mysignins.microsoft.com/</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>My Access</strong></td>
+<td style="width: 73.7796%;"><a href="https://myaccess.microsoft.com/" onclick="javascript:window.open('https://myaccess.microsoft.com/'); return false;">https://myaccess.microsoft.com/</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>My Groups</strong></td>
+<td style="width: 73.7796%;"><a href="https://account.activedirectory.windowsazure.com/r#/groups" onclick="javascript:window.open('https://account.activedirectory.windowsazure.com/r#/groups'); return false;">https://account.activedirectory.windowsazure.com/r#/groups</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"><strong>My Account</strong></td>
+<td style="width: 73.7796%;"><a rel="noreferrer noopener" href="https://myworkaccount.microsoft.com/" onclick="javascript:window.open('https://myworkaccount.microsoft.com/'); return false;">https://myworkaccount.microsoft.com</a><br><a href="https://myprofile.microsoft.com/" rel="noreferrer noopener" onclick="javascript:window.open('https://myprofile.microsoft.com/'); return false;">https://myprofile.microsoft.com</a></td>
+</tr>
+<tr>
+<td style="width: 26.0809%;"> </td>
+<td style="width: 73.7796%;"> </td>
+</tr>
+</tbody>
+</table>
+<p><strong>Other Useful Microsoft Portals</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<th style="width: 49.9303%;">Portal</th>
+<th style="width: 49.9303%;">URL</th>
+</tr>
+<tr>
+<td style="width: 49.9303%;"><strong>Office 365 Anti-Spam IP Delist Portal</strong></td>
+<td style="width: 49.9303%;"><a href="https://sender.office.com/" rel="noreferrer noopener" onclick="javascript:window.open('https://sender.office.com/'); return false;">https://sender.office.com</a></td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"><strong>Azure Status</strong></td>
+<td style="width: 49.9303%;"><a href="https://status.azure.com/" rel="noreferrer noopener" onclick="javascript:window.open('https://status.azure.com/'); return false;">https://status.azure.com/</a></td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"><strong>Windows Virtual Desktop Consent Page</strong></td>
+<td style="width: 49.9303%;"><a href="https://rdweb.wvd.microsoft.com/" onclick="javascript:window.open('https://rdweb.wvd.microsoft.com/'); return false;">https://rdweb.wvd.microsoft.com/</a></td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"> </td>
+<td style="width: 49.9303%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"> </td>
+<td style="width: 49.9303%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"> </td>
+<td style="width: 49.9303%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"> </td>
+<td style="width: 49.9303%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"> </td>
+<td style="width: 49.9303%;"> </td>
+</tr>
+<tr>
+<td style="width: 49.9303%;"> </td>
+<td style="width: 49.9303%;"> </td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
