@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>AdamFowlerIT</title>
+    <link href="https://adamfowlerit.github.io/feed.xml" rel="self" />
+    <link href="https://adamfowlerit.github.io" />
+    <updated>1970-01-01T10:00:00+10:00</updated>
+    <author>
+        <name>Adam Fowler</name>
+    </author>
+    <id>https://adamfowlerit.github.io</id>
+
+</feed>

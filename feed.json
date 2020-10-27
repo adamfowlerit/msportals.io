@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AdamFowlerIT",
+    "description": "",
+    "home_page_url": "https://adamfowlerit.github.io",
+    "feed_url": "https://adamfowlerit.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Adam Fowler"
+    },
+    "items": [
+    ]
+}
