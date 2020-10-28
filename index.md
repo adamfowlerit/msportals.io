@@ -8,7 +8,7 @@
 
 | Portal Name                               | URL                                                                                                                                                      |
 | ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Azure Portal                              | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                                                                                 |
+| `Azure Portal`                              | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                                                                                 |
 | Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
 | Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                                                       |
 | Microsoft 365 Compliance                  | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                                 |
