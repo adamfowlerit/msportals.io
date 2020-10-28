@@ -24,7 +24,9 @@
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Azure Portal                           | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}               |
+| Microsoft Azure Portal                           | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}               |
+| Microsoft Azure (Release Candidate)             | [https://rc.portal.azure.com/](https://rc.portal.azure.com/){:target="_blank"}               |
+| Microsoft Azure (Preview)              | [https://preview.portal.azure.com/](https://preview.portal.azure.com/){:target="_blank"}               |
 | Azure Resource Explorer                   | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                             |
 | Azure Cloud Shell                         | [https://shell.azure.com/](https://shell.azure.com/){:target="_blank"}                                                                                   |
 
