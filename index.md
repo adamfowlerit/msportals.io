@@ -62,7 +62,33 @@
 
 | Portal Name                  | URL                                                                                                                                          |
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
+| Outlook                      | [https://outlook.office.com/](https://outlook.office.com/){:target="_blank"}                                                       |
+| Bookings                     | [https://outlook.office.com/bookings/](https://outlook.office.com/bookings/){:target="_blank"}                                                       |
+| Calendar                      | [https://outlook.office.com/calendar/](https://outlook.office.com/calendar/){:target="_blank"}                                                       |
+| Compliance                      | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                       |
+| Delve                        | [https://delve.office.com/](https://delve.office.com/){:target="_blank"}                                                       |
+| Dynamics 365                      | [https://home.dynamics.com/](https://home.dynamics.com/){:target="_blank"}                                                       |
+| Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                                       |
+| Forms                      | [https://www.office.com/launch/forms](https://www.office.com/launch/forms{:target="_blank"}                                                       |
+| MyAnalytics                      | [https://myanalytics.microsoft.com/](https://myanalytics.microsoft.com/){:target="_blank"}                                                       |
+| OneDrive                      | [https://office.com/](https://office.com/){:target="_blank"}                                                       |
+| OneNote                      | [https://www.office.com/launch/onenote](https://www.office.com/launch/onenote){:target="_blank"}                                                       |
 | Outlook                      | [https://outlook.office.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
+| People                      | [https://outlook.office.com/people/](https://outlook.office.com/people/){:target="_blank"}                                                       |
+| Planner                      | [https://tasks.office.com/](https://tasks.office.com/){:target="_blank"}                                                       |
+| Power Apps                      | [https://make.powerapps.com/(https://make.powerapps.com/){:target="_blank"}                                                       |
+| Power Automate                    | [https://flow.microsoft.com/](https://flow.microsoft.com/){:target="_blank"}                                                       |
+| Power BI                      | [https://app.powerbi.com/](https://app.powerbi.com/){:target="_blank"}                                                       |
+| PowerPoint                     | [https://www.office.com/launch/powerpoint](https://www.office.com/launch/powerpoint){:target="_blank"}                                                       |
+| Project                     | [https://project.microsoft.com/](https://project.microsoft.com/){:target="_blank"}                                                       |
+| Security                      | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                                                       |
+| SharePoint                      | [https://sharepoint.com/](https://sharepoint.com/){:target="_blank"}                                                       |
+| Stream                     | [https://web.microsoftstream.com/](https://web.microsoftstream.com/){:target="_blank"}                                                       |
+| Sway                      | [https://www.office.com/launch/sway](https://www.office.com/launch/sway){:target="_blank"}                                                       |
+| Teams                      | [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"}                                                       |
+| To Do                      | [hhttps://to-do.office.com/](https://to-do.office.com/){:target="_blank"}                                                       |
+| Whiteboard                      | [https://whiteboard.microsoft.com](https://whiteboard.microsoft.com/){:target="_blank"}                                                       |
+| Word                     | [https://www.office.com/launch/word](https://www.office.com/launch/word){:target="_blank"}                                                       |
 
 ## Other Useful Microsoft Portals
 
