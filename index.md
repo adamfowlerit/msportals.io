@@ -40,7 +40,7 @@
 | Microsoft Defender for Identity         | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                                                         |
 
 
-## End User Portals
+## End User Portals - General
 
 | Portal Name                  | URL                                                                                                                                          |
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -54,6 +54,12 @@
 | My Groups                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
 | My Account 1                 | [https://myworkaccount.microsoft.com/](https://myworkaccount.microsoft.com/){:target="_blank"}                                               |
 | My Account 2                 | [https://myprofile.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
+
+## End User Portals - Microsoft 365 Apps
+
+| Portal Name                  | URL                                                                                                                                          |
+| -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
+| Outlook                      | [https://outlook.office.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 
 ## Other Useful Microsoft Portals
 
