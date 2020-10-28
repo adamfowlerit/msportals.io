@@ -4,11 +4,10 @@
 
 # Microsoft Portals
 
-## IT Admin Portals
+## Microsoft 365 Admin Portals
 
 | Portal Name                               | URL                                                                                                                                                      |
 | ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Azure Portal                              | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                                                                                 |
 | Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
 | Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                                                       |
 | Microsoft 365 Compliance                  | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                                 |
@@ -24,8 +23,12 @@
 | OneDrive Admin Center                     | [https://admin.onedrive.com/](https://admin.onedrive.com/){:target="_blank"}                                                                             |
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
-| Azure Resource Explorer                    | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                             |
+| Azure Resource Explorer                   | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                             |
 
+## Azure IT Admin Portals
+| Portal Name                               | URL                                                                                                                                                      |
+| ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Azure Portal                              | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                                                                                 |
 
 ## End User Portals
 
