@@ -54,6 +54,7 @@
 | My Groups                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
 | My Account 1                 | [https://myworkaccount.microsoft.com/](https://myworkaccount.microsoft.com/){:target="_blank"}                                               |
 | My Account 2                 | [https://myprofile.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
+| My Sign-ins                 | [https://mysignins.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 
 ## End User Portals - Microsoft 365 Apps
 
