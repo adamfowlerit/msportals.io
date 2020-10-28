@@ -43,16 +43,16 @@
 
 | Portal Name                  | URL                                                                                                                                          |
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
-| My Apps                      | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                     |
-|                              | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
+| My Apps 1                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                     |
+| My Apps 2                    | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
 | Self Service Password Reset  | [https://aka.ms/sspr](https://aka.ms/sspr){:target="_blank"}                                                                                 |
 | Forgot Password              | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                   |
 | My Sign-Ins                  | [https://mysignins.microsoft.com/](https://mysignins.microsoft.com/){:target="_blank"}                                                       |
 | My Access                    | [https://myaccess.microsoft.com/](https://myaccess.microsoft.com/){:target="_blank"}                                                         |
 | My Groups                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
-| My Account                   | [https://myworkaccount.microsoft.com/](https://myworkaccount.microsoft.com/){:target="_blank"}                                               |
-|                              | [https://myprofile.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
+| My Account 1                 | [https://myworkaccount.microsoft.com/](https://myworkaccount.microsoft.com/){:target="_blank"}                                               |
+| My Account 2                 | [https://myprofile.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 
 ## Other Useful Microsoft Portals
 
