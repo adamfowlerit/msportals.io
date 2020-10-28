@@ -24,6 +24,8 @@
 | OneDrive Admin Center                     | [https://admin.onedrive.com/](https://admin.onedrive.com/){:target="_blank"}                                                                             |
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
+| Azure Resource Explorer                    | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                             |
+
 
 ## End User Portals
 
