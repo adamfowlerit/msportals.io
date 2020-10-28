@@ -26,8 +26,12 @@
 | Azure Resource Explorer                   | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                             |
 
 ## Azure IT Admin Portals
-| Portal Name                               | URL                                                                                                                                                      |
-| ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+| Portal Name                            | URL                                                                                      |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|
+| Azure Portal                           | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}               |
+| Azure Status                           | [https://status.azure.com/](https://status.azure.com/){:target="_blank"}                 |
+| Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
 | Azure Portal                              | [https://portal.azure.com/](https://portal.azure.com/){:target="_blank"}                                                                                 |
 
 ## End User Portals
