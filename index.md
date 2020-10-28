@@ -10,7 +10,6 @@
 | ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
 | Microsoft 365 Compliance                  | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                                 |
-| Microsoft Defender for Identity         | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                                                         |
 | Microsoft Endpoint Manager Admin Console  | [https://endpoint.microsoft.com/](https://endpoint.microsoft.com/){:target="_blank"}                                                                     |
 | Exchange Admin Center                     | [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/){:target="_blank"}                                                         |
 | Microsoft Teams Admin Center              | [https://admin.teams.microsoft.com/](https://admin.teams.microsoft.com/){:target="_blank"}                                                               |
@@ -38,6 +37,8 @@
 | Microsoft Defender Security Center        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                                                             |
 | Microsoft 365 Security                    | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                                                                     |
 | Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                                                       |
+| Microsoft Defender for Identity         | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                                                         |
+
 
 ## End User Portals
 
