@@ -67,7 +67,7 @@
 | My Account 2                 | [https://myprofile.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | My Sign-ins                 | [https://mysignins.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | Microsoft AppSource         | [https://store.office.com/redirect.aspx](https://store.office.com/redirect.aspx){:target="_blank"}                                           |
-| Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/{:target="_blank"}                                           |
+| Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                                           |
 
 ## End User Portals - Microsoft 365 Apps
 
