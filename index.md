@@ -18,6 +18,8 @@
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
 | Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
+| Skype for Business               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
+| Kaizala Management Portal             | [https://manage.kaiza.la/](https://manage.kaiza.la/){:target="_blank"}                             |
 
 
 ## Azure IT Admin Portals
@@ -35,11 +37,12 @@
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Cloud App Security                        | [https://portal.cloudappsecurity.com/](https://portal.cloudappsecurity.com/){:target="_blank"}                                                           |
-| Microsoft Defender Security Center        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                                                             |
-| Microsoft 365 Security                    | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                                                                     |
-| Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                                                       |
-| Microsoft Defender for Identity           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                                                         |
+| Cloud App Security                        | [https://portal.cloudappsecurity.com/](https://portal.cloudappsecurity.com/){:target="_blank"}                     |
+| Microsoft Defender Security Center        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                       |
+| Microsoft 365 Security                    | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                               |
+| Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                 |
+| Microsoft Defender for Identity           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
+| multi-factor authentication           | [https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 
 ## End User Portals - General
@@ -48,6 +51,7 @@
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
 | My Apps 1                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                     |
 | My Apps 2                    | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
+| Office 365 Apps              | [https://www.office.com/apps](https://myapplications.microsoft.com/){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
 | Self Service Password Reset  | [https://aka.ms/sspr](https://aka.ms/sspr){:target="_blank"}                                                                                 |
 | Forgot Password              | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                   |
@@ -57,6 +61,8 @@
 | My Account 1                 | [https://myworkaccount.microsoft.com/](https://myworkaccount.microsoft.com/){:target="_blank"}                                               |
 | My Account 2                 | [https://myprofile.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | My Sign-ins                 | [https://mysignins.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
+| Microsoft AppSource         | [https://store.office.com/redirect.aspx](https://store.office.com/redirect.aspx){:target="_blank"}                                           |
+| Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/{:target="_blank"}                                           |
 
 ## End User Portals - Microsoft 365 Apps
 
@@ -70,8 +76,9 @@
 | Dynamics 365                      | [https://home.dynamics.com/](https://home.dynamics.com/){:target="_blank"}                                                       |
 | Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                                       |
 | Forms                      | [https://www.office.com/launch/forms](https://www.office.com/launch/forms{:target="_blank"}                                                       |
+| Kaizala Web                    | [https://web.kaiza.la/](https://web.kaiza.la/){:target="_blank"}                                                       |
 | MyAnalytics                      | [https://myanalytics.microsoft.com/](https://myanalytics.microsoft.com/){:target="_blank"}                                                       |
-| OneDrive                      | [https://office.com/](https://office.com/){:target="_blank"}                                                       |
+| OneDrive                      | [https://portal.office.com/onedrive](https://portal.office.com/onedrive){:target="_blank"}                                                       |
 | OneNote                      | [https://www.office.com/launch/onenote](https://www.office.com/launch/onenote){:target="_blank"}                                                       |
 | Outlook                      | [https://outlook.office.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | People                      | [https://outlook.office.com/people/](https://outlook.office.com/people/){:target="_blank"}                                                       |
@@ -82,7 +89,7 @@
 | PowerPoint                     | [https://www.office.com/launch/powerpoint](https://www.office.com/launch/powerpoint){:target="_blank"}                                                       |
 | Project                     | [https://project.microsoft.com/](https://project.microsoft.com/){:target="_blank"}                                                       |
 | Security                      | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                                                       |
-| SharePoint                      | [https://sharepoint.com/](https://sharepoint.com/){:target="_blank"}                                                       |
+| SharePoint                      | [http://portal.office.com/sharepoint](http://portal.office.com/sharepoint){:target="_blank"}                                                       |
 | Stream                     | [https://web.microsoftstream.com/](https://web.microsoftstream.com/){:target="_blank"}                                                       |
 | Sway                      | [https://www.office.com/launch/sway](https://www.office.com/launch/sway){:target="_blank"}                                                       |
 | Teams                      | [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"}                                                       |
