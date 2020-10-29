@@ -21,7 +21,10 @@
 | Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
 | Skype for Business admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
 | Kaizala Management Portal             | [https://manage.kaiza.la/](https://manage.kaiza.la/){:target="_blank"}                             |
-| Yammer Admin              | [hhttps://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
+| Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
+| Microsoft Store for Business           | [https://businessstore.microsoft.com/](https://businessstore.microsoft.com/){:target="_blank"}                             |
+| Microsoft Store for Education          | [https://educationstore.microsoft.com/](https://educationstore.microsoft.com/){:target="_blank"}                             |
+| Microsoft Parner Center         | [https://partner.microsoft.com/dashboard](https://partner.microsoft.com/dashboard){:target="_blank"}                             |
 
 
 ## Azure IT Admin Portals
@@ -107,3 +110,4 @@
 | Office 365 Anti-Spam IP Delist Portal  | [https://sender.office.com/](https://sender.office.com/){:target="_blank"}               |
 | Azure Status                           | [https://status.azure.com/](https://status.azure.com/){:target="_blank"}                 |
 | Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
+| Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
