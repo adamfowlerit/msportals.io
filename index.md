@@ -79,8 +79,8 @@
 | Compliance                      | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                       |
 | Delve                        | [https://delve.office.com/](https://delve.office.com/){:target="_blank"}                                                       |
 | Dynamics 365                      | [https://home.dynamics.com/](https://home.dynamics.com/){:target="_blank"}                                                       |
-| Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                                       |
-| Forms                      | [https://www.office.com/launch/forms](https://www.office.com/launch/forms){:target="_blank"}                                                       |
+| Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                  |
+| Forms                      | [https://www.office.com/launch/forms](https://www.office.com/launch/forms){:target="_blank"}                                  |
 | Kaizala Web                    | [https://web.kaiza.la/](https://web.kaiza.la/){:target="_blank"}                                                       |
 | MyAnalytics                      | [https://myanalytics.microsoft.com/](https://myanalytics.microsoft.com/){:target="_blank"}                                                       |
 | OneDrive                      | [https://portal.office.com/onedrive](https://portal.office.com/onedrive){:target="_blank"}                                                       |
