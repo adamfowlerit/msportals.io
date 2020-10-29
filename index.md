@@ -44,7 +44,7 @@
 | Microsoft 365 Security                    | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                               |
 | Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                 |
 | Microsoft Defender for Identity           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
-| multi-factor authentication           | [https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
+| multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 
 ## End User Portals - General
