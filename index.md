@@ -98,7 +98,7 @@
 | Stream                     | [https://web.microsoftstream.com/](https://web.microsoftstream.com/){:target="_blank"}                                                       |
 | Sway                      | [https://www.office.com/launch/sway](https://www.office.com/launch/sway){:target="_blank"}                                                       |
 | Teams                      | [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"}                                                       |
-| To Do                      | [hhttps://to-do.office.com/](https://to-do.office.com/){:target="_blank"}                                                       |
+| To-Do                      | [https://to-do.office.com/](https://to-do.office.com/){:target="_blank"}                                                       |
 | Whiteboard                      | [https://whiteboard.microsoft.com](https://whiteboard.microsoft.com/){:target="_blank"}                                                       |
 | Word                     | [https://www.office.com/launch/word](https://www.office.com/launch/word){:target="_blank"}                                                       |
 | Yammer                    | [https://www.yammer.com/](https://www.yammer.com/){:target="_blank"}                                                       |
