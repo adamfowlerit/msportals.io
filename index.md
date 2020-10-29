@@ -43,11 +43,11 @@
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Cloud App Security                        | [https://portal.cloudappsecurity.com/](https://portal.cloudappsecurity.com/){:target="_blank"}                     |
-| Microsoft Defender Security Center        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                       |
+| Microsoft Defender Security Center<br>(Previously Defender ATP)        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                       |
 | Microsoft 365 Security                    | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                               |
 | Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                 |
-| Microsoft Defender for Identity           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
-| multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
+| Microsoft Defender for Identity<br>(Previously Azure ATP)           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
+| Multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 
 ## End User Portals - General
