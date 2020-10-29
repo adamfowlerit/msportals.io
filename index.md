@@ -91,7 +91,7 @@
 | PowerPoint                     | [https://www.office.com/launch/powerpoint](https://www.office.com/launch/powerpoint){:target="_blank"}                                                       |
 | Project                     | [https://project.microsoft.com/](https://project.microsoft.com/){:target="_blank"}                                                       |
 | Security                      | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                                                       |
-| SharePoint                      | [https://www.office.com/launch/sharepoint](https://www.office.com/launch/sharepoint){:target="_blank"}                                                       |
+| SharePoint                      | [https://www.office.com/launch/sharepoint](https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1){:target="_blank"}                                                       |
 | Stream                     | [https://web.microsoftstream.com/](https://web.microsoftstream.com/){:target="_blank"}                                                       |
 | Sway                      | [https://www.office.com/launch/sway](https://www.office.com/launch/sway){:target="_blank"}                                                       |
 | Teams                      | [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"}                                                       |
