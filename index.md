@@ -11,15 +11,17 @@
 | Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
 | Microsoft 365 Compliance                  | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                                 |
 | Microsoft Endpoint Manager Admin Console  | [https://endpoint.microsoft.com/](https://endpoint.microsoft.com/){:target="_blank"}                                                                     |
-| Exchange Admin Center                     | [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/){:target="_blank"}                                                         |
+| Exchange Admin Center (new)                     | [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/){:target="_blank"}                                                         |
+| Exchange Admin Center (old)                     | [https://outlook.office365.com/ecp/](https://outlook.office365.com/ecp/){:target="_blank"}                                                         |
 | Microsoft Teams Admin Center              | [https://admin.teams.microsoft.com/](https://admin.teams.microsoft.com/){:target="_blank"}                                                               |
 | SharePoint Admin Center                   | [https://admin.microsoft.com/sharepoint](https://admin.microsoft.com/sharepoint){:target="_blank"}                                                       |
 | OneDrive Admin Center                     | [https://admin.onedrive.com/](https://admin.onedrive.com/){:target="_blank"}                                                                             |
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
 | Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
-| Skype for Business               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
+| Skype for Business admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
 | Kaizala Management Portal             | [https://manage.kaiza.la/](https://manage.kaiza.la/){:target="_blank"}                             |
+| Yammer Admin              | [hhttps://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
 
 
 ## Azure IT Admin Portals
@@ -89,13 +91,14 @@
 | PowerPoint                     | [https://www.office.com/launch/powerpoint](https://www.office.com/launch/powerpoint){:target="_blank"}                                                       |
 | Project                     | [https://project.microsoft.com/](https://project.microsoft.com/){:target="_blank"}                                                       |
 | Security                      | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                                                       |
-| SharePoint                      | [http://portal.office.com/sharepoint](http://portal.office.com/sharepoint){:target="_blank"}                                                       |
+| SharePoint                      | [https://www.office.com/launch/sharepoint](https://www.office.com/launch/sharepoint){:target="_blank"}                                                       |
 | Stream                     | [https://web.microsoftstream.com/](https://web.microsoftstream.com/){:target="_blank"}                                                       |
 | Sway                      | [https://www.office.com/launch/sway](https://www.office.com/launch/sway){:target="_blank"}                                                       |
 | Teams                      | [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"}                                                       |
 | To Do                      | [hhttps://to-do.office.com/](https://to-do.office.com/){:target="_blank"}                                                       |
 | Whiteboard                      | [https://whiteboard.microsoft.com](https://whiteboard.microsoft.com/){:target="_blank"}                                                       |
 | Word                     | [https://www.office.com/launch/word](https://www.office.com/launch/word){:target="_blank"}                                                       |
+| Yammer                    | [https://www.yammer.com/](https://www.yammer.com/){:target="_blank"}                                                       |
 
 ## Other Useful Microsoft Portals
 
