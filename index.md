@@ -19,6 +19,7 @@
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
 | Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
+| Microsoft Stream Admin Center               | [https://web.microsoftstream.com/admin](https://web.microsoftstream.com/admin){:target="_blank"}                             |
 | Skype for Business admin center (deprecated)       | [https://webdir2a.online.lync.com/LSCP](https://webdir2a.online.lync.com/LSCP){:target="_blank"}                             |
 | Kaizala Management Portal             | [https://manage.kaiza.la/](https://manage.kaiza.la/){:target="_blank"}                             |
 | Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
