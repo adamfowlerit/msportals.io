@@ -48,6 +48,7 @@
 | Next Generation Volume Licensing   | [https://businessaccount.microsoft.com/](https://businessaccount.microsoft.com/){:target="_blank"}            |
 | Microsoft Azure Enterprise Portal   | [https://ea.azure.com/](https://ea.azure.com/){:target="_blank"}            |
 | Microsoft Services Hub   | [https://serviceshub.microsoft.com/](https://serviceshub.microsoft.com/){:target="_blank"}            |
+| Microsoft License Advisor   | [https://mla.microsoft.com/](https://mla.microsoft.com/){:target="_blank"}            |
 
 
 
