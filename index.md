@@ -60,6 +60,7 @@
 | Microsoft Azure Enterprise Portal   | [https://ea.azure.com/](https://ea.azure.com/){:target="_blank"}            |
 | Microsoft Services Hub   | [https://serviceshub.microsoft.com/](https://serviceshub.microsoft.com/){:target="_blank"}            |
 | Microsoft License Advisor   | [https://mla.microsoft.com/](https://mla.microsoft.com/){:target="_blank"}            |
+| Microsoft Partner Center | [https://partner.microsoft.com/](https://partner.microsoft.com/)                       |
 
 
 
