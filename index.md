@@ -164,5 +164,5 @@
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | What is my Microsoft Azure and Office 365 tenant ID? | [https://www.whatismytenantid.com/](https://www.whatismytenantid.com/){:target="_blank"}               |
 | Office 365 ATP Safe Links Decoder | [https://o365atp.com/](https://o365atp.com/){:target="_blank"}               |
-| Message Header Analyzer | [https://mha.azurewebsites.net/](https://o365atp.com/){:target="_blank"}               |
+| Message Header Analyzer | [https://mha.azurewebsites.net/](https://mha.azurewebsites.net/){:target="_blank"}               |
 
