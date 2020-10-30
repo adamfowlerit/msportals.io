@@ -60,6 +60,7 @@
 | Multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 ## Developer Portals
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Graph Explorer   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
