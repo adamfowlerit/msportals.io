@@ -19,7 +19,7 @@
 | Apps Admin Center                         | [https://config.office.com/officeSettings#](https://config.office.com/officeSettings#){:target="_blank"}                                                 |
 | Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |
 | Power Platform admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
-| Skype for Business admin center               | [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/){:target="_blank"}                             |
+| Skype for Business admin center (deprecated)       | [https://webdir2a.online.lync.com/LSCP](https://webdir2a.online.lync.com/LSCP){:target="_blank"}                             |
 | Kaizala Management Portal             | [https://manage.kaiza.la/](https://manage.kaiza.la/){:target="_blank"}                             |
 | Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
 | Microsoft Store for Business           | [https://businessstore.microsoft.com/](https://businessstore.microsoft.com/){:target="_blank"}                             |
@@ -82,8 +82,8 @@
 | Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
-| Self Service Password Reset  | [https://aka.ms/sspr](https://aka.ms/sspr){:target="_blank"}                                                                                 |
-| Forgot Password              | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                   |
+| Self Service Password Reset / Forgot Password [aka.ms](ttps://aka.ms/sspr)  | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
+| Self Service Password Reset Setup [aka.ms](https://aka.ms/ssprsetup)  | [https://account.activedirectory.windowsazure.com/PasswordReset/](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | My Sign-Ins                  | [https://mysignins.microsoft.com/](https://mysignins.microsoft.com/){:target="_blank"}                                                       |
 | My Access                    | [https://myaccess.microsoft.com/](https://myaccess.microsoft.com/){:target="_blank"}                                                         |
 | My Groups                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
