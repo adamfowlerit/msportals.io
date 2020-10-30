@@ -73,7 +73,8 @@
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
 | My Apps 1                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                     |
 | My Apps 2                    | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
-| Office 365 Apps              | [https://www.office.com/apps](https://myapplications.microsoft.com/){:target="_blank"}                                       |
+| Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
+| Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
 | Self Service Password Reset  | [https://aka.ms/sspr](https://aka.ms/sspr){:target="_blank"}                                                                                 |
 | Forgot Password              | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                   |
