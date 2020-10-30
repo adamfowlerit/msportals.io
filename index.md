@@ -82,7 +82,7 @@
 | Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
-| Self Service Password Reset / Forgot Password(https://aka.ms/sspr)  | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
+| Self Service Password Reset / Forgot Password  |[aka]((https://aka.ms/sspr) [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
 | Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | My Sign-Ins                  | [https://mysignins.microsoft.com/](https://mysignins.microsoft.com/){:target="_blank"}                                                       |
 | My Access                    | [https://myaccess.microsoft.com/](https://myaccess.microsoft.com/){:target="_blank"}                                                         |
