@@ -129,5 +129,6 @@
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Office 365 Anti-Spam IP Delist Portal  | [https://sender.office.com/](https://sender.office.com/){:target="_blank"}               |
 | Azure Status                           | [https://status.azure.com/](https://status.azure.com/){:target="_blank"}                 |
+| Azure DevOps Status                           | [https://status.dev.azure.com/](https://status.dev.azure.com/){:target="_blank"}                 |
 | Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
