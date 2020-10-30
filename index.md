@@ -41,7 +41,9 @@
 | Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
 
 ## Microsoft Licensing Portals
-| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}                   |
+| Portal Name                            | URL                                                                                      |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|
+| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |
 
 
 
