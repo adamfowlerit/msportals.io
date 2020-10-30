@@ -24,7 +24,7 @@
 | Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
 | Microsoft Store for Business           | [https://businessstore.microsoft.com/](https://businessstore.microsoft.com/){:target="_blank"}                             |
 | Microsoft Store for Education          | [https://educationstore.microsoft.com/](https://educationstore.microsoft.com/){:target="_blank"}                             |
-| Microsoft Parner Center         | [https://partner.microsoft.com/dashboard](https://partner.microsoft.com/dashboard){:target="_blank"}                             |
+| Microsoft Partner Center         | [https://partner.microsoft.com/dashboard](https://partner.microsoft.com/dashboard){:target="_blank"}                             |
 
 
 ## Azure IT Admin Portals
