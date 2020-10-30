@@ -24,7 +24,7 @@
 | Yammer Admin              | [https://www.yammer.com/office365/admin](https://www.yammer.com/office365/admin){:target="_blank"}                             |
 | Microsoft Store for Business           | [https://businessstore.microsoft.com/](https://businessstore.microsoft.com/){:target="_blank"}                             |
 | Microsoft Store for Education          | [https://educationstore.microsoft.com/](https://educationstore.microsoft.com/){:target="_blank"}                             |
-| Microsoft Parner Center         | [https://partner.microsoft.com/dashboard](https://partner.microsoft.com/dashboard){:target="_blank"}                             |
+| Microsoft Partner Center         | [https://partner.microsoft.com/dashboard](https://partner.microsoft.com/dashboard){:target="_blank"}                             |
 
 
 ## Azure IT Admin Portals
@@ -37,18 +37,34 @@
 | Azure Resource Explorer                | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                      |
 | Azure Cloud Shell                      | [https://shell.azure.com/](https://shell.azure.com/){:target="_blank"}                              |
 | Azure Active Directory admin center    | [https://aad.portal.azure.com/](https://aad.portal.azure.com//){:target="_blank"}                   |
+| Azure Cosmos DB   | [https://cosmos.azure.com/](https://cosmos.azure.com/){:target="_blank"}                   |
+| Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
+
+## Microsoft Licensing Portals
+
+| Portal Name                            | URL                                                                                      |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|
+| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |
+
+
 
 ## Security / Defender IT Admin Portals
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Cloud App Security                        | [https://portal.cloudappsecurity.com/](https://portal.cloudappsecurity.com/){:target="_blank"}                     |
-| Microsoft Defender Security Center        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                       |
+| Microsoft Defender Security Center<br>(Previously Defender ATP)        | [https://securitycenter.windows.com/](https://securitycenter.windows.com/){:target="_blank"}                       |
 | Microsoft 365 Security                    | [https://security.microsoft.com/](https://security.microsoft.com/){:target="_blank"}                               |
 | Office 365 Security & Compliance          | [https://protection.office.com/](https://protection.office.com/){:target="_blank"}                                 |
-| Microsoft Defender for Identity           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
-| multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
+| Microsoft Defender for Identity<br>(Previously Azure ATP)           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
+| Multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
+## Developer Portals
+| Portal Name                            | URL                                                                                      |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|
+| Graph Explorer   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
+| Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
+| Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
 
 ## End User Portals - General
 
@@ -68,6 +84,9 @@
 | My Sign-ins                 | [https://mysignins.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | Microsoft AppSource         | [https://store.office.com/redirect.aspx](https://store.office.com/redirect.aspx){:target="_blank"}                                           |
 | Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                                           |
+| Office 365 Security & Compliance - Quarantined       | [https://protection.office.com/quarantine](https://protection.office.com/quarantine){:target="_blank"}             |
+
+
 
 ## End User Portals - Microsoft 365 Apps
 
@@ -77,10 +96,11 @@
 | Bookings                     | [https://outlook.office.com/bookings/](https://outlook.office.com/bookings/){:target="_blank"}                                                       |
 | Calendar                      | [https://outlook.office.com/calendar/](https://outlook.office.com/calendar/){:target="_blank"}                                                       |
 | Compliance                      | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                       |
+| Cortana        | [https://cortana.office.com/](hhttps://cortana.office.com/){:target="_blank"}             |
 | Delve                        | [https://delve.office.com/](https://delve.office.com/){:target="_blank"}                                                       |
 | Dynamics 365                      | [https://home.dynamics.com/](https://home.dynamics.com/){:target="_blank"}                                                       |
-| Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                                       |
-| Forms                      | [https://www.office.com/launch/forms](https://www.office.com/launch/forms{:target="_blank"}                                                       |
+| Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                  |
+| Forms                      | [https://www.office.com/launch/forms](https://www.office.com/launch/forms){:target="_blank"}                                  |
 | Kaizala Web                    | [https://web.kaiza.la/](https://web.kaiza.la/){:target="_blank"}                                                       |
 | MyAnalytics                      | [https://myanalytics.microsoft.com/](https://myanalytics.microsoft.com/){:target="_blank"}                                                       |
 | OneDrive                      | [https://portal.office.com/onedrive](https://portal.office.com/onedrive){:target="_blank"}                                                       |
@@ -88,7 +108,7 @@
 | Outlook                      | [https://outlook.office.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | People                      | [https://outlook.office.com/people/](https://outlook.office.com/people/){:target="_blank"}                                                       |
 | Planner                      | [https://tasks.office.com/](https://tasks.office.com/){:target="_blank"}                                                       |
-| Power Apps                      | [https://make.powerapps.com/(https://make.powerapps.com/){:target="_blank"}                                                       |
+| Power Apps                      | [https://make.powerapps.com/](https://make.powerapps.com/){:target="_blank"}                                                       |
 | Power Automate                    | [https://flow.microsoft.com/](https://flow.microsoft.com/){:target="_blank"}                                                       |
 | Power BI                      | [https://app.powerbi.com/](https://app.powerbi.com/){:target="_blank"}                                                       |
 | PowerPoint                     | [https://www.office.com/launch/powerpoint](https://www.office.com/launch/powerpoint){:target="_blank"}                                                       |
@@ -98,7 +118,7 @@
 | Stream                     | [https://web.microsoftstream.com/](https://web.microsoftstream.com/){:target="_blank"}                                                       |
 | Sway                      | [https://www.office.com/launch/sway](https://www.office.com/launch/sway){:target="_blank"}                                                       |
 | Teams                      | [https://teams.microsoft.com/](https://teams.microsoft.com/){:target="_blank"}                                                       |
-| To Do                      | [hhttps://to-do.office.com/](https://to-do.office.com/){:target="_blank"}                                                       |
+| To-Do                      | [https://to-do.office.com/](https://to-do.office.com/){:target="_blank"}                                                       |
 | Whiteboard                      | [https://whiteboard.microsoft.com](https://whiteboard.microsoft.com/){:target="_blank"}                                                       |
 | Word                     | [https://www.office.com/launch/word](https://www.office.com/launch/word){:target="_blank"}                                                       |
 | Yammer                    | [https://www.yammer.com/](https://www.yammer.com/){:target="_blank"}                                                       |
