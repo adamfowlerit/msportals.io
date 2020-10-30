@@ -160,4 +160,3 @@
 | Office 365 ATP Safe Links Decoder | [https://o365atp.com/] (https://o365atp.com/){:target="_blank"}               |
 | Message Header Analyzer | https://mha.azurewebsites.net/ (https://o365atp.com/){:target="_blank"}               |
 
-| :bowtie: `:bowtie:` |
