@@ -45,6 +45,7 @@
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |
+| Next Generation Volume Licensing   | [https://businessaccount.microsoft.com/](https://businessaccount.microsoft.com/){:target="_blank"}            |
 
 
 
@@ -60,9 +61,11 @@
 | Multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 ## Developer Portals
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Graph Explorer   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
+| Azure DevOps     | [https://dev.azure.com/](dev.azure.com){:target="_blank"}          |
 | Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
 | Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
 
@@ -72,7 +75,8 @@
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
 | My Apps 1                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                     |
 | My Apps 2                    | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
-| Office 365 Apps              | [https://www.office.com/apps](https://myapplications.microsoft.com/){:target="_blank"}                                       |
+| Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
+| Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
 | Self Service Password Reset  | [https://aka.ms/sspr](https://aka.ms/sspr){:target="_blank"}                                                                                 |
 | Forgot Password              | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                   |
@@ -129,5 +133,6 @@
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Office 365 Anti-Spam IP Delist Portal  | [https://sender.office.com/](https://sender.office.com/){:target="_blank"}               |
 | Azure Status                           | [https://status.azure.com/](https://status.azure.com/){:target="_blank"}                 |
+| Azure DevOps Status                           | [https://status.dev.azure.com/](https://status.dev.azure.com/){:target="_blank"}                 |
 | Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
