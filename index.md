@@ -158,6 +158,7 @@
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
 
 ## Third Party Useful Portals - Microsoft Related and Free
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | What is my Microsoft Azure and Office 365 tenant ID? | [https://www.whatismytenantid.com/](https://www.whatismytenantid.com/){:target="_blank"}               |
