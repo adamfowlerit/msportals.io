@@ -44,7 +44,8 @@
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |
+| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |\
+| Next Generation Volume Licensing   | [https://businessaccount.microsoft.com/](https://businessaccount.microsoft.com/){:target="_blank"}            |
 
 
 
@@ -74,7 +75,8 @@
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
 | My Apps 1                    | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                     |
 | My Apps 2                    | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
-| Office 365 Apps              | [https://www.office.com/apps](https://myapplications.microsoft.com/){:target="_blank"}                                       |
+| Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
+| Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
 | Self Service Password Reset  | [https://aka.ms/sspr](https://aka.ms/sspr){:target="_blank"}                                                                                 |
 | Forgot Password              | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                   |
@@ -131,5 +133,6 @@
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Office 365 Anti-Spam IP Delist Portal  | [https://sender.office.com/](https://sender.office.com/){:target="_blank"}               |
 | Azure Status                           | [https://status.azure.com/](https://status.azure.com/){:target="_blank"}                 |
+| Azure DevOps Status                           | [https://status.dev.azure.com/](https://status.dev.azure.com/){:target="_blank"}                 |
 | Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
