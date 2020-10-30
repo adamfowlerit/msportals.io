@@ -37,6 +37,9 @@
 | Azure Resource Explorer                | [https://resources.azure.com/](https://resources.azure.com/){:target="_blank"}                      |
 | Azure Cloud Shell                      | [https://shell.azure.com/](https://shell.azure.com/){:target="_blank"}                              |
 | Azure Active Directory admin center    | [https://aad.portal.azure.com/](https://aad.portal.azure.com//){:target="_blank"}                   |
+| Azure Cosmos DB   | [https://cosmos.azure.com/](https://cosmos.azure.com/){:target="_blank"}                   |
+| Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
+
 
 ## Security / Defender IT Admin Portals
 
@@ -49,6 +52,10 @@
 | Microsoft Defender for Identity<br>(Previously Azure ATP)           | [https://portal.atp.azure.com/](https://portal.atp.azure.com/){:target="_blank"}                                  |
 | Multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
+## Developer Portals
+| Graph Explorer   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
+| Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
+| Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
 
 ## End User Portals - General
 
@@ -68,7 +75,7 @@
 | My Sign-ins                 | [https://mysignins.microsoft.com/](https://myprofile.microsoft.com/){:target="_blank"}                                                       |
 | Microsoft AppSource         | [https://store.office.com/redirect.aspx](https://store.office.com/redirect.aspx){:target="_blank"}                                           |
 | Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                                           |
-| Office 365 Security & Compliance - Quarantined       | [https://protection.office.com/quarantine](https://protection.office.com/quarantine){:target="_blank"}                                           |
+| Office 365 Security & Compliance - Quarantined       | [https://protection.office.com/quarantine](https://protection.office.com/quarantine){:target="_blank"}             |
 
 
 
@@ -80,6 +87,7 @@
 | Bookings                     | [https://outlook.office.com/bookings/](https://outlook.office.com/bookings/){:target="_blank"}                                                       |
 | Calendar                      | [https://outlook.office.com/calendar/](https://outlook.office.com/calendar/){:target="_blank"}                                                       |
 | Compliance                      | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                       |
+| Cortana        | [https://cortana.office.com/](hhttps://cortana.office.com/){:target="_blank"}             |
 | Delve                        | [https://delve.office.com/](https://delve.office.com/){:target="_blank"}                                                       |
 | Dynamics 365                      | [https://home.dynamics.com/](https://home.dynamics.com/){:target="_blank"}                                                       |
 | Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                  |
