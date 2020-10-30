@@ -41,6 +41,8 @@
 | Azure Active Directory admin center    | [https://aad.portal.azure.com/](https://aad.portal.azure.com//){:target="_blank"}                   |
 | Azure Cosmos DB   | [https://cosmos.azure.com/](https://cosmos.azure.com/){:target="_blank"}                   |
 | Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
+| Azure Cognitive Services Custom Translator   | [https://portal.customtranslator.azure.ai/](https://portal.customtranslator.azure.ai/){:target="_blank"}                   |
+
 
 ## Azure IT Admin Portals - Sub Portal Links
 
