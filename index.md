@@ -84,6 +84,8 @@
 | Azure DevOps     | [https://dev.azure.com/](dev.azure.com){:target="_blank"}          |
 | Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
 | Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
+| Adaptive Cards  | [https://adaptivecards.io/](https://adaptivecards.io/){:target="_blank"}          |
+
 
 ## End User Portals - General
 
