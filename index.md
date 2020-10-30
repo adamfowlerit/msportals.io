@@ -43,9 +43,10 @@
 | Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
 
 ## Azure IT Admin Portals - Sub Portal Links
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-
+| Azure Security Center  | [https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0](https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0){:target="_blank"}                   |
 
 
 ## Microsoft Licensing/Support Portals
