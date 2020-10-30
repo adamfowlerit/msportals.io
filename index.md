@@ -40,6 +40,10 @@
 | Azure Cosmos DB   | [https://cosmos.azure.com/](https://cosmos.azure.com/){:target="_blank"}                   |
 | Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
 
+## Microsoft Licensing Portals
+| Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}                   |
+
+
 
 ## Security / Defender IT Admin Portals
 
