@@ -95,11 +95,6 @@
 | Office 365 Security & Compliance - Quarantined       | [https://protection.office.com/quarantine](https://protection.office.com/quarantine){:target="_blank"}             |
 | Microsoft Learning Certification Dashboard       | [https://mcp.microsoft.com](https://mcp.microsoft.com){:target="_blank"}             |
 
-## Most Valuable Professional Portals
-| MVP Portal       | [https://mvp.microsoft.com/](https://mvp.microsoft.com/){:target="_blank"}             |
-| MVP Perks        | [https://www.xavierdecoster.com/mvpperks/](https://www.xavierdecoster.com/mvpperks/){:target="_blank"}             |
-| Microsoft Community Influencers Yammer | [https://www.yammer.com/microsoftcommunityinfluencers](https://www.xavierdecoster.com/mvpperks/){:target="_blank"}             |
-
 ## End User Portals - Microsoft 365 Apps
 
 | Portal Name                  | URL                                                                                                                                          |
@@ -144,3 +139,7 @@
 | Azure DevOps Status                           | [https://status.dev.azure.com/](https://status.dev.azure.com/){:target="_blank"}                 |
 | Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
+
+## Most Valuable Professional Portals
+| MVP Portal       | [https://mvp.microsoft.com/](https://mvp.microsoft.com/){:target="_blank"}             |
+| Microsoft Community Influencers Yammer | [https://www.yammer.com/microsoftcommunityinfluencers](https://www.yammer.com/microsoftcommunityinfluencers){:target="_blank"}             |
