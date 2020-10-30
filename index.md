@@ -40,13 +40,14 @@
 | Azure Cosmos DB   | [https://cosmos.azure.com/](https://cosmos.azure.com/){:target="_blank"}                   |
 | Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
 
-## Microsoft Licensing Portals
+## Microsoft Licensing/Support Portals
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Volume Licensing Service Center   | [https://www.microsoft.com/Licensing/servicecenter/](https://www.microsoft.com/Licensing/servicecenter/){:target="_blank"}            |
 | Next Generation Volume Licensing   | [https://businessaccount.microsoft.com/](https://businessaccount.microsoft.com/){:target="_blank"}            |
 | Microsoft Azure Enterprise Portal   | [https://ea.azure.com/](https://ea.azure.com/){:target="_blank"}            |
+| Microsoft Services Hub   | [https://serviceshub.microsoft.com/](https://serviceshub.microsoft.com/){:target="_blank"}            |
 
 
 
