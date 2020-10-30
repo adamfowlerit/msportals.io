@@ -41,8 +41,11 @@
 | Azure Active Directory admin center    | [https://aad.portal.azure.com/](https://aad.portal.azure.com//){:target="_blank"}                   |
 | Azure Cosmos DB   | [https://cosmos.azure.com/](https://cosmos.azure.com/){:target="_blank"}                   |
 | Azure Data Factory   | [https://adf.azure.com/](https://adf.azure.com/){:target="_blank"}                   |
+| Azure Cognitive Services Custom Translator   | [https://portal.customtranslator.azure.ai/](https://portal.customtranslator.azure.ai/){:target="_blank"}                   |
+
 
 ## Azure IT Admin Portals - Sub Portal Links
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Azure Security Center  | [https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0](https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0){:target="_blank"}                   |
@@ -57,6 +60,7 @@
 | Microsoft Azure Enterprise Portal   | [https://ea.azure.com/](https://ea.azure.com/){:target="_blank"}            |
 | Microsoft Services Hub   | [https://serviceshub.microsoft.com/](https://serviceshub.microsoft.com/){:target="_blank"}            |
 | Microsoft License Advisor   | [https://mla.microsoft.com/](https://mla.microsoft.com/){:target="_blank"}            |
+| Microsoft Partner Center | [https://partner.microsoft.com/](https://partner.microsoft.com/)                       |
 
 
 
@@ -77,10 +81,12 @@
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Graph Explorer   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
+| Graph Explorer   | [aka.ms](https://aka.ms/ge) [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
 | Azure DevOps     | [https://dev.azure.com/](dev.azure.com){:target="_blank"}          |
 | Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
 | Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
+| Adaptive Cards  | [https://adaptivecards.io/](https://adaptivecards.io/){:target="_blank"}          |
+
 
 ## End User Portals - General
 
@@ -92,7 +98,7 @@
 | Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
-| Self Service Password Reset / Forgot Password  |[aka]((https://aka.ms/sspr) [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
+| Self Service Password Reset / Forgot Password  |[aka.ms](https://aka.ms/sspr) [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
 | Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | Channge Password             | [https://account.activedirectory.windowsazure.com/ChangePassword.aspx](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}   |
 | My Sign-Ins                  | [https://mysignins.microsoft.com/](https://mysignins.microsoft.com/){:target="_blank"}                                                       |
@@ -153,8 +159,10 @@
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
 
 ## Third Party Useful Portals - Microsoft Related and Free
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | What is my Microsoft Azure and Office 365 tenant ID? | [https://www.whatismytenantid.com/](https://www.whatismytenantid.com/){:target="_blank"}               |
-| Office 365 ATP Safe Links Decoder | [https://o365atp.com/] (https://o365atp.com/){:target="_blank"}               |
-| Message Header Analyzer | https://mha.azurewebsites.net/ (https://o365atp.com/){:target="_blank"}               |
+| Office 365 ATP Safe Links Decoder | [https://o365atp.com/](https://o365atp.com/){:target="_blank"}               |
+| Message Header Analyzer | [https://mha.azurewebsites.net/](https://o365atp.com/){:target="_blank"}               |
+
