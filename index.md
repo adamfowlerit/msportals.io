@@ -61,9 +61,11 @@
 | Multi-factor authentication           | [https://account.activedirectory.windowsazure.com](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 ## Developer Portals
+
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Graph Explorer   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
+| Azure DevOps     | [https://dev.azure.com/](dev.azure.com){:target="_blank"}          |
 | Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
 | Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
 
