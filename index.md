@@ -104,7 +104,7 @@
 | Bookings                     | [https://outlook.office.com/bookings/](https://outlook.office.com/bookings/){:target="_blank"}                                                       |
 | Calendar                      | [https://outlook.office.com/calendar/](https://outlook.office.com/calendar/){:target="_blank"}                                                       |
 | Compliance                      | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                       |
-| Cortana        | [https://cortana.office.com/](hhttps://cortana.office.com/){:target="_blank"}             |
+| Cortana        | [https://cortana.office.com/](https://cortana.office.com/){:target="_blank"}             |
 | Delve                        | [https://delve.office.com/](https://delve.office.com/){:target="_blank"}                                                       |
 | Dynamics 365                      | [https://home.dynamics.com/](https://home.dynamics.com/){:target="_blank"}                                                       |
 | Excel                      | [https://www.office.com/launch/excel](https://www.office.com/launch/excel){:target="_blank"}                                  |
