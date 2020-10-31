@@ -1,8 +1,7 @@
 ---
-
+layout: page
+title: Microsoft Portals
 ---
-
-# Microsoft Portals
 
 ## Microsoft 365 Admin Portals
 
