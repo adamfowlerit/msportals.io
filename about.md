@@ -18,4 +18,4 @@ Big thanks to those who have contributed:
 
 - All the contributors to this project on GitHub!
 
-- You if you bookmarked or shared this link :)
+- You if you bookmarked or shared this site :)
