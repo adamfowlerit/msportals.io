@@ -117,7 +117,6 @@ title: Microsoft Portals
 
 | Portal Name                  | URL                                                                                                                                          |
 | -----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
-| Outlook                      | [https://outlook.office.com/](https://outlook.office.com/){:target="_blank"}                                                       |
 | Bookings                     | [https://outlook.office.com/bookings/](https://outlook.office.com/bookings/){:target="_blank"}                                                       |
 | Calendar                      | [https://outlook.office.com/calendar/](https://outlook.office.com/calendar/){:target="_blank"}                                                       |
 | Compliance                      | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                       |
