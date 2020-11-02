@@ -3,6 +3,8 @@ layout: page
 title: Microsoft Portals
 ---
 
+Welcome to this community driven project to list all of Microsoft's portals in one place.
+
 ## Microsoft 365 Admin Portals
 
 | Portal Name                               | URL                                                                                                                                                      |
