@@ -157,6 +157,8 @@ title: Microsoft Portals
 | Azure DevOps Status                           | [https://status.dev.azure.com/](https://status.dev.azure.com/){:target="_blank"}                 |
 | Windows Virtual Desktop Consent Page   | [https://rdweb.wvd.microsoft.com/](https://rdweb.wvd.microsoft.com/){:target="_blank"}   |
 | Customer Digital Experiences   | [http://demos.microsoft.com/](http://demos.microsoft.com/){:target="_blank"}   |
+| Group Policy Search   | [https://gpsearch.azurewebsites.net/](https://gpsearch.azurewebsites.net/){:target="_blank"}   |
+
 
 ## Third Party Useful Portals - Microsoft Related and Free
 
