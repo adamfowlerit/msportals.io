@@ -110,6 +110,7 @@ title: Microsoft Portals
 | Microsoft AppSource         | [https://store.office.com/redirect.aspx](https://store.office.com/redirect.aspx){:target="_blank"}                                           |
 | Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                                           |
 | Office 365 Security & Compliance - Quarantined       | [https://protection.office.com/quarantine](https://protection.office.com/quarantine){:target="_blank"}             |
+| Windows Virtual Desktop Web Client     | [aka.ms](https://aka.ms/wvdweb) [https://rdweb.wvd.microsoft.com/webclient/](https://rdweb.wvd.microsoft.com/webclient/){:target="_blank"}             |
 
 
 
