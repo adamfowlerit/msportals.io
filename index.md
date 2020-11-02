@@ -81,7 +81,7 @@ title: Microsoft Portals
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Graph Explorer   | [aka.ms](https://aka.ms/ge) [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
+| Graph Explorer [aka.ms](https://aka.ms/ge)   | [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer){:target="_blank"}          |
 | Azure DevOps     | [https://dev.azure.com/](dev.azure.com){:target="_blank"}          |
 | Visual Studio Subscriptions   | [https://my.visualstudio.com/](https://my.visualstudio.com/){:target="_blank"}          |
 | Visual Studio Subscriptions Management   | [https://manage.visualstudio.com/](https://manage.visualstudio.com/){:target="_blank"}          |
@@ -98,7 +98,7 @@ title: Microsoft Portals
 | Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
 | MFA Setup                    | [https://aks.ms/mfasetup](https://aks.ms/mfasetup){:target="_blank"}                                                                         |
-| Self Service Password Reset / Forgot Password  |[aka.ms](https://aka.ms/sspr) [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
+| Self Service Password Reset / Forgot Password [aka.ms](https://aka.ms/sspr)  | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
 | Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | Channge Password             | [https://account.activedirectory.windowsazure.com/ChangePassword.aspx](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}   |
 | My Sign-Ins                  | [https://mysignins.microsoft.com/](https://mysignins.microsoft.com/){:target="_blank"}                                                       |
@@ -110,7 +110,7 @@ title: Microsoft Portals
 | Microsoft AppSource         | [https://store.office.com/redirect.aspx](https://store.office.com/redirect.aspx){:target="_blank"}                                           |
 | Additional Security Information         | [https://account.activedirectory.windowsazure.com/](https://account.activedirectory.windowsazure.com/){:target="_blank"}                                           |
 | Office 365 Security & Compliance - Quarantined       | [https://protection.office.com/quarantine](https://protection.office.com/quarantine){:target="_blank"}             |
-| Windows Virtual Desktop Web Client     | [aka.ms](https://aka.ms/wvdweb) [https://rdweb.wvd.microsoft.com/webclient/](https://rdweb.wvd.microsoft.com/webclient/){:target="_blank"}             |
+| Windows Virtual Desktop Web Client [aka.ms](https://aka.ms/wvdweb)     | [https://rdweb.wvd.microsoft.com/webclient/](https://rdweb.wvd.microsoft.com/webclient/){:target="_blank"}             |
 
 
 
