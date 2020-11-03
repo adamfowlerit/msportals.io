@@ -6,7 +6,7 @@ permalink: /about/
 
 This site is pretty new at this stage, and we're working on improving things. If you have feedback or found a site we don't have listed, visit our [GitHub page](https://github.com/adamfowlerit/msportals.xyz) and let us know there.
 
-## Q&A
+## Q & A
 
 Q: *Should you trust this site? How do you know the links are safe?*
 
