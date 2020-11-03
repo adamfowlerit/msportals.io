@@ -1,3 +1,5 @@
+These portals are for end users.
+
 ## End User Portals - General
 
 | Portal Name                                    | URL                                                                                                                |
