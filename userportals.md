@@ -11,16 +11,16 @@ These Microsoft portals are for end users.
 | -----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------:|
 | My Apps (Option 1)                    | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                     |
 | My Apps (Option 2)                    | <https://myapplications.microsoft.com/>{:target="_blank"}                                             |
-| My Apps (Option 3)                    | <https://myapps.microsoft.com/>){:target="_blank"}                                             |
+| My Apps (Option 3)                    | <https://myapps.microsoft.com/>{:target="_blank"}                                             |
 | Office 365 Apps              | <https://www.office.com/apps>{:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | <https://aka.ms/mysecurityinfo>{:target="_blank"}                                       |
 | MFA Setup                    | <https://account.activedirectory.windowsazure.com/proofup.aspx>{:target="_blank"} <https://aka.ms/mfasetup>|
-| Self Service Password Reset / Forgot Password [aka.ms](https://aka.ms/sspr)  | <https://passwordreset.microsoftonline.com/>(https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
-| Self Service Password Reset Setup   | <https://account.activedirectory.windowsazure.com/PasswordReset/...>(https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
+| Self Service Password Reset / Forgot Password [aka.ms](https://aka.ms/sspr)  | <https://passwordreset.microsoftonline.com/>{:target="_blank"}                                        |
+| Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/...](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | Channge Password             | <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>{:target="_blank"}   |
 | My Sign-Ins                  | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
 | My Access                    | <https://myaccess.microsoft.com/>{:target="_blank"}                                                         |
-| My Groups                    | <https://account.activedirectory.windowsazure.com/...>(https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
+| My Groups                    | [https://account.activedirectory.windowsazure.com/...](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
 | My Account 1                 | <https://myworkaccount.microsoft.com/>{:target="_blank"}                                               |
 | My Account 2                 | <https://myprofile.microsoft.com/>{:target="_blank"}                                                       |
 | My Sign-ins                 | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
@@ -56,7 +56,7 @@ These Microsoft portals are for end users.
 | PowerPoint                     | <https://www.office.com/launch/powerpoint>{:target="_blank"}                                                       |
 | Project                     | <https://project.microsoft.com/>{:target="_blank"}                                                       |
 | Security                      | <https://security.microsoft.com/>{:target="_blank"}                                                       |
-| SharePoint                      | <https://www.office.com/launch/sharepoint...>(https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1){:target="_blank"}                                                       |
+| SharePoint                      | [https://www.office.com/launch/sharepoint...](https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1){:target="_blank"}                                                       |
 | Stream                     | <https://web.microsoftstream.com/>{:target="_blank"}                                                       |
 | Sway                      | <https://www.office.com/launch/sway>{:target="_blank"}                                                       |
 | Teams                      | <https://teams.microsoft.com/>{:target="_blank"}                                                       |
