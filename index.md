@@ -76,7 +76,7 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Microsoft 365 Defender                    | <https://security.microsoft.com/>{:target="_blank"}                               |
 | Office 365 Security & Compliance          | <https://protection.office.com/>{:target="_blank"}                                 |
 | Microsoft Defender for Identity<br>(Previously Azure ATP)           | <https://portal.atp.azure.com/>{:target="_blank"}                                  |
-| Multi-factor authentication           | <https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx>{:target="_blank"}                                  |
+| Multi-factor authentication           | {https://account.activedirectory.windowsazure.com...}(https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
 
 
 ## Developer Portals
