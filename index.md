@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microsoft Portals
+title: Administrator Portals
 ---
 
 Welcome to this community driven project to list all of Microsoft's portals in one place.
