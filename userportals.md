@@ -2,7 +2,7 @@
 layout: page
 title: User Portals
 ---
-
+<meta charset="utf-8"/>
 These Microsoft portals are for end users.
 
 ## End User Portals - General
