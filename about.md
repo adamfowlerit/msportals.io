@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is pretty new at this stage, and we're working on improving things. If you have feedback or found a site we don't have listed, visit our [GitHub page] (https://github.com/adamfowlerit/adamfowlerit.github.io) and let us know there.
+This site is pretty new at this stage, and we're working on improving things. If you have feedback or found a site we don't have listed, visit our [GitHub page](https://github.com/adamfowlerit/msportals.xyz) and let us know there.
 
 Project set up and owned by [Adam Fowler](https://adamfowlerit.com)
 
