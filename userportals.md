@@ -8,13 +8,13 @@ These Microsoft portals are for end users.
 ## End User Portals - General
 
 | Portal Name                                    | URL                                                                                                         |
-| -----------------------------|------------------------|---------------------------------------------------------------------------------------------------------------------:|
+| -----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------:|
 | My Apps (Option 1)                    | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                     |
-| My Apps (Option 2)                    | [https://myapplications.microsoft.com/](https://myapplications.microsoft.com/){:target="_blank"}                                             |
-| My Apps (Option 3)                    | [https://myapps.microsoft.com/ ](https://myapps.microsoft.com/ ){:target="_blank"}                                             |
+| My Apps (Option 2)                    | <https://myapplications.microsoft.com/>{:target="_blank"}                                             |
+| My Apps (Option 3)                    | [https://myapps.microsoft.com/](https://myapps.microsoft.com/ ){:target="_blank"}                                             |
 | Office 365 Apps              | [https://www.office.com/apps](https://www.office.com/apps){:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | [https://aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo){:target="_blank"}                                       |
-| MFA Setup                    | [https://account.activedirectory.windowsazure.com/proofup.aspx] (https://account.activedirectory.windowsazure.com/proofup.aspx){:target="_blank"} [](https://aka.ms/mfasetup){:target="_blank"}                                                                         |
+| MFA Setup                    | [https://account.activedirectory.windowsazure.com/proofup.aspx] (https://account.activedirectory.windowsazure.com/proofup.aspx){:target="_blank"} <https://aka.ms/mfasetup>|
 | Self Service Password Reset / Forgot Password [aka.ms](https://aka.ms/sspr)  | [https://passwordreset.microsoftonline.com/](https://passwordreset.microsoftonline.com/){:target="_blank"}                                        |
 | Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | Channge Password             | [https://account.activedirectory.windowsazure.com/ChangePassword.aspx](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}   |
