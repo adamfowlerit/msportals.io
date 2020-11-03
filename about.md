@@ -10,7 +10,7 @@ This site is pretty new at this stage, and we're working on improving things. If
 
 Q: *Should you trust this site? How do you know the links are safe?*
 
-A: You don't know these links are safe, but going to a single source should be better than Googling/Binging what you're looking for and clicking on of the first results. Check - does the link go to microsoft.com or azure.com as the top level domain? Am I seeing an Azure AD login page that has customisations specific to my company before entering my credentials?
+A: You don't know these links are safe, but going to a single source should be better than Googling/Binging what you're looking for and clicking on of the first results. Check - does the link go to microsoft.com or azure.com as the top level domain? Don't just trust the text used on the page for the link, hover your cursor over it and see where the link actually goes to. Are you seeing an Azure AD login page that has customisations specific to my company before entering my credentials? Apply this to anything on the internet!
 
 
 Q: *Why does this site exist?*
