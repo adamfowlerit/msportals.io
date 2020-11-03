@@ -3,7 +3,7 @@ layout: page
 title: User Portals
 ---
 <meta charset="utf-8"/>
-These Microsoft portals are for end users.
+These Microsoft portals are for end users. :tent:
 
 ## End User Portals - General
 
