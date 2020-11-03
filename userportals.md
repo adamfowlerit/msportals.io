@@ -1,4 +1,9 @@
-These portals are for end users.
+---
+layout: page
+title: User Portals
+---
+
+These Microsoft portals are for end users.
 
 ## End User Portals - General
 
