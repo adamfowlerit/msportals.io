@@ -3,7 +3,7 @@ layout: page
 title: User Portals
 ---
 
-These Microsoft portals are for end users. The ↪ link is an aka.ms link.
+These Microsoft portals are for end users. The ↪🔗 link is an aka.ms link.
 
 ## End User Portals - General
 
