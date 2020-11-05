@@ -3,7 +3,7 @@ layout: page
 title: Administrator Portals
 ---
 
-Welcome to this community driven project to list all of Microsoft's portals in one place. [🔁](https://aka.ms)
+Welcome to this community driven project to list all of Microsoft's portals in one place.
 
 ## Microsoft 365 Admin Portals
 
@@ -101,7 +101,7 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Customer Digital Experiences   | <http://demos.microsoft.com/>{:target="_blank"}   |
 | Group Policy Search   | <https://gpsearch.azurewebsites.net/>{:target="_blank"}   |
 | Microsoft Startups   | <https://portal.startups.microsoft.com/>{:target="_blank"}   |
-| Office UI Fabric Icons   | <https://uifabricicons.azurewebsites.net/>{:target="_blank"} [🌏](https://aka.ms/fluentui-icons){:target="_blank"}   |
+| Office UI Fabric Icons   | <https://uifabricicons.azurewebsites.net/>{:target="_blank"} [🔁](https://aka.ms/fluentui-icons){:target="_blank"}   |
 
 
 
