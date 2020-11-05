@@ -3,7 +3,7 @@ layout: page
 title: Administrator Portals
 ---
 
-Welcome to this community driven project to list all of Microsoft's portals in one place. (🔁)[https://aka.ms]
+Welcome to this community driven project to list all of Microsoft's portals in one place. [🔁](https://aka.ms)
 
 ## Microsoft 365 Admin Portals
 
