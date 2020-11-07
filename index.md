@@ -102,6 +102,8 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Group Policy Search   | <https://gpsearch.azurewebsites.net/>{:target="_blank"}   |
 | Microsoft Startups   | <https://portal.startups.microsoft.com/>{:target="_blank"}   |
 | Office UI Fabric Icons   | <https://uifabricicons.azurewebsites.net/>{:target="_blank"} [🔁](https://aka.ms/fluentui-icons){:target="_blank"}   |
+| Become Microsoft Certified   | <https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI>{:target="_blank"} [🔁](https://aka.ms/traincertposter){:target="_blank"}   |
+
 
 
 
