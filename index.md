@@ -13,7 +13,6 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Microsoft 365 Admin Portal                | <https://admin.microsoft.com/>{:target="_blank"} [🔁](https://aka.ms/admincenter){:target="_blank"}             |
 | Microsoft 365 Compliance                  | <https://compliance.microsoft.com/>{:target="_blank"}                                                                 |
 | Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |
-| Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |
 | Microsoft Endpoint Manager Admin Console (old)  | <https://devicemanagement.portal.azure.com/>{:target="_blank"}                                                                     |
 | Exchange Admin Center (new)                     | <https://admin.exchange.microsoft.com/>{:target="_blank"}                                                         |
 | Exchange Admin Center (old)                     | <https://outlook.office365.com/ecp/>{:target="_blank"}                                                         |
