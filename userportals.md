@@ -28,6 +28,8 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | Additional Security Information         | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                                           |
 | Office 365 Security & Compliance - Quarantined       | <https://protection.office.com/quarantine>{:target="_blank"}             |
 | Windows Virtual Desktop Web Client     | <https://rdweb.wvd.microsoft.com/webclient/>{:target="_blank"} [🔁](https://aka.ms/wvdweb)             |
+| App Passwords    | <https://account.activedirectory.windowsazure.com/AppPasswords.aspx>{:target="_blank"} [🔁](https://aka.ms/createAppPassword)             |
+
 
 
 
