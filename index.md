@@ -113,6 +113,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Become Microsoft Certified   | <https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI>{:target="_blank"} [🔁](https://aka.ms/traincertposter){:target="_blank"}   |
 | Tech Community Video Hub  | <https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub>{:target="_blank"} [🔁](https://aka.ms/VideoHub){:target="_blank"}   |
 | Microsoft Azure Sponsorships  | <https://www.microsoftazuresponsorships.com/>{:target="_blank"}   |
+| Microsoft Dynamics Lifecycle Services  | <https://lcs.dynamics.com/>{:target="_blank"}   |
 
 
 
