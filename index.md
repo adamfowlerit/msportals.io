@@ -113,6 +113,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Tech Community Video Hub  | <https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub>{:target="_blank"} [🔁](https://aka.ms/VideoHub){:target="_blank"}   |
 | Microsoft Azure Sponsorships  | <https://www.microsoftazuresponsorships.com/>{:target="_blank"}   |
 | Microsoft Dynamics Lifecycle Services  | <https://lcs.dynamics.com/>{:target="_blank"}   |
+| Microsoft MVP  | <https://mvp.microsoft.com/>{:target="_blank"}   |
 
 
 
