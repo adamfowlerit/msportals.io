@@ -12,6 +12,8 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Microsoft 365 Admin Portal                | <https://admin.microsoft.com/>{:target="_blank"}                                                                           |
 | Microsoft 365 Compliance                  | <https://compliance.microsoft.com/>{:target="_blank"}                                                                 |
 | Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |
+| Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |
+| Microsoft Endpoint Manager Admin Console (old)  | <https://devicemanagement.portal.azure.com/>{:target="_blank"}                                                                     |
 | Exchange Admin Center (new)                     | <https://admin.exchange.microsoft.com/>{:target="_blank"}                                                         |
 | Exchange Admin Center (old)                     | <https://outlook.office365.com/ecp/>{:target="_blank"}                                                         |
 | Microsoft Teams Admin Center              | <https://admin.teams.microsoft.com/>{:target="_blank"}                                                               |
@@ -29,6 +31,7 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Microsoft Partner Center         | <https://partner.microsoft.com/dashboard>{:target="_blank"}                             |
 | Microsoft Remote Connectivity Analyzer         | <https://testconnectivity.microsoft.com>{:target="_blank"}                       |
 | Microsoft 365 network connectivity test        | <https://connectivity.office.com/>{:target="_blank"}                             |
+| Microsoft Call Quality Dashboard		       | <https://cqd.teams.microsoft.com/>{:target="_blank"}                             |
 
 
 ## Azure IT Admin Portals
