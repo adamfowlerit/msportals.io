@@ -3,20 +3,21 @@ layout: page
 title: Administrator Portals
 ---
 
-Welcome to this community driven project to list all of Microsoft's portals in one place. The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
+Welcome to this community driven project to list all of Microsoft's portals in one place. 
+The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 
 ## Microsoft 365 Admin Portals
 
 | Portal Name                               | URL                                                                                                                                                      |
 | ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Microsoft 365 Admin Portal                | <https://admin.microsoft.com/>{:target="_blank"}                                                                           |
+| Microsoft 365 Admin Portal                | <https://admin.microsoft.com/>{:target="_blank"} [🔁](https://aka.ms/admincenter){:target="_blank"}             |
 | Microsoft 365 Compliance                  | <https://compliance.microsoft.com/>{:target="_blank"}                                                                 |
 | Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |
 | Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |
 | Microsoft Endpoint Manager Admin Console (old)  | <https://devicemanagement.portal.azure.com/>{:target="_blank"}                                                                     |
 | Exchange Admin Center (new)                     | <https://admin.exchange.microsoft.com/>{:target="_blank"}                                                         |
 | Exchange Admin Center (old)                     | <https://outlook.office365.com/ecp/>{:target="_blank"}                                                         |
-| Microsoft Teams Admin Center              | <https://admin.teams.microsoft.com/>{:target="_blank"}                                                               |
+| Microsoft Teams Admin Center              | <https://admin.teams.microsoft.com/>{:target="_blank"} [🔁](https://aka.ms/teamsadmincenter){:target="_blank"}                                   |
 | SharePoint Admin Center                   | <https://admin.microsoft.com/sharepoint>{:target="_blank"}                                                       |
 | OneDrive Admin Center                     | <https://admin.onedrive.com/>{:target="_blank"}                                                                             |
 | Apps Admin Center                         | <https://config.office.com/officeSettings#>{:target="_blank"}                                                 |
@@ -38,7 +39,7 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Microsoft Azure Portal                 | <https://portal.azure.com/>{:target="_blank"}                            |
+| Microsoft Azure Portal                 | <https://portal.azure.com/>{:target="_blank"} [🔁](http://aka.ms/azconfig/portal){:target="_blank"}                            |
 | Microsoft Azure (Release Candidate)    | <https://rc.portal.azure.com/>{:target="_blank"}                      |
 | Microsoft Azure (Preview)              | <https://preview.portal.azure.com/>{:target="_blank"}            |
 | Azure Resource Explorer                | <https://resources.azure.com/>{:target="_blank"}                      |
@@ -47,6 +48,9 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Azure Cosmos DB   | <https://cosmos.azure.com/>{:target="_blank"}                   |
 | Azure Data Factory   | <https://adf.azure.com/>{:target="_blank"}                   |
 | Azure Cognitive Services Custom Translator   | <https://portal.customtranslator.azure.ai/>{:target="_blank"}                   |
+| Azure Non-profit Portal   | <https://nonprofit.microsoft.com/#/ngoportal>{:target="_blank"}                   |
+
+
 
 
 ## Azure IT Admin Portals - Sub Portal Links
@@ -66,6 +70,7 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Microsoft Services Hub   | <https://serviceshub.microsoft.com/>{:target="_blank"}            |
 | Microsoft License Advisor   | <https://mla.microsoft.com/>{:target="_blank"}            |
 | Microsoft Partner Center | <https://partner.microsoft.com/>{:target="_blank"}                            |
+| Azure Subscriptions   | <https://account.azure.com/Subscriptions>{:target="_blank"}                   |
 
 
 
@@ -107,6 +112,8 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 | Office UI Fabric Icons   | <https://uifabricicons.azurewebsites.net/>{:target="_blank"} [🔁](https://aka.ms/fluentui-icons){:target="_blank"}   |
 | Become Microsoft Certified   | <https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI>{:target="_blank"} [🔁](https://aka.ms/traincertposter){:target="_blank"}   |
 | Tech Community Video Hub  | <https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub>{:target="_blank"} [🔁](https://aka.ms/VideoHub){:target="_blank"}   |
+| Microsoft Azure Sponsorships  | <https://www.microsoftazuresponsorships.com/>{:target="_blank"}   |
+
 
 
 
