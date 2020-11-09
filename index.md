@@ -44,7 +44,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Azure Non-profit Portal   | <https://nonprofit.microsoft.com/#/ngoportal>{:target="_blank"}                   |
 | **Azure IT Admin Portals - Sub Portal Links**                           | **URL**                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Azure Security Center  | <https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0>{:target="_blank"}                   |
+| Azure Security Center  | [https://portal.azure.com...]{https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0}{:target="_blank"}                   |
 | **Microsoft Licensing/Support Portals**                          | **URL**                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Volume Licensing Service Center   | <https://www.microsoft.com/Licensing/servicecenter/>{:target="_blank"}            |
