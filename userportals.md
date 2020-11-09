@@ -7,28 +7,26 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 
 ## End User Portals - General
 
+[Additional Security Information](https://account.activedirectory.windowsazure.com/){:target="_blank"}<br>
+[App Passwords](https://account.activedirectory.windowsazure.com/AppPasswords.aspx){:target="_blank"} [🔁](https://aka.ms/createAppPassword){:target="_blank"}<br>
+[Channge Password](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}<br>
+[Converged MFA & SSPR Portal](https://aka.ms/mysecurityinfo){:target="_blank"}<br>
+[MFA Setup](https://account.activedirectory.windowsazure.com/proofup.aspx){:target="_blank" [🔁](https://aka.ms/mfasetup)<br>
+[Microsoft AppSource](https://store.office.com/redirect.aspx){:target="_blank"}<br>
+[My Access](https://myaccess.microsoft.com/){:target="_blank"}<br>
+[My Account 1](https://myworkaccount.microsoft.com/){:target="_blank"}<br>
+[My Account 2](https://myprofile.microsoft.com/){:target="_blank"}<br>
 [My Apps (Option 1)](https://account.activedirectory.windowsazure.com/){:target="_blank"}<br>
 [My Apps (Option 2)](https://myapplications.microsoft.com/){:target="_blank"}<br>
 [My Apps (Option 3)](https://myapps.microsoft.com/){:target="_blank"}<br>
+[My Groups](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}<br>
+[My Sign-Ins](https://mysignins.microsoft.com/){:target="_blank"}<br>
+[My Sign-ins](https://mysignins.microsoft.com/){:target="_blank"}<br>
 [Office 365 Apps](https://www.office.com/apps){:target="_blank"}<br>
-[Converged MFA & SSPR Portal](https://aka.ms/mysecurityinfo){:target="_blank"}<br>
-[MFA Setup](https://account.activedirectory.windowsazure.com/proofup.aspx){:target="_blank" [🔁](https://aka.ms/mfasetup)<br>
+[Office 365 Security & Compliance - Quarantined](https://protection.office.com/quarantine){:target="_blank"}<br>
 [Self Service Password Reset / Forgot Password](https://passwordreset.microsoftonline.com/){:target="_blank"} [🔁](https://aka.ms/sspr)<br>
 [Self Service Password Reset Setup](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}<br>
-[Channge Password](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}<br>
-[My Sign-Ins](https://mysignins.microsoft.com/){:target="_blank"}<br>
-[My Access](https://myaccess.microsoft.com/){:target="_blank"}<br>
-[My Groups](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}<br>
-[My Account 1](https://myworkaccount.microsoft.com/){:target="_blank"}<br>
-[My Account 2](https://myprofile.microsoft.com/){:target="_blank"}<br>
-[My Sign-ins](https://mysignins.microsoft.com/){:target="_blank"}<br>
-[Microsoft AppSource](https://store.office.com/redirect.aspx){:target="_blank"}<br>
-[Additional Security Information](https://account.activedirectory.windowsazure.com/){:target="_blank"}<br>
-[Office 365 Security & Compliance - Quarantined](https://protection.office.com/quarantine){:target="_blank"}<br>
 [Windows Virtual Desktop Web Client](https://rdweb.wvd.microsoft.com/webclient/){:target="_blank"} [🔁](https://aka.ms/wvdweb){:target="_blank"}<br>
-[App Passwords](https://account.activedirectory.windowsazure.com/AppPasswords.aspx){:target="_blank"} [🔁](https://aka.ms/createAppPassword){:target="_blank"}<br>
-
-
 
 
 ## End User Portals - Microsoft 365 Apps
