@@ -21,7 +21,6 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 [My Apps (Option 3)](https://myapps.microsoft.com/){:target="_blank"}<br>
 [My Groups](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}<br>
 [My Sign-Ins](https://mysignins.microsoft.com/){:target="_blank"}<br>
-[My Sign-ins](https://mysignins.microsoft.com/){:target="_blank"}<br>
 [Office 365 Apps](https://www.office.com/apps){:target="_blank"}<br>
 [Office 365 Security & Compliance - Quarantined](https://protection.office.com/quarantine){:target="_blank"}<br>
 [Self Service Password Reset / Forgot Password](https://passwordreset.microsoftonline.com/){:target="_blank"} [🔁](https://aka.ms/sspr)<br>
