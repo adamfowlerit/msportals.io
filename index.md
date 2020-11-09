@@ -42,10 +42,10 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Azure Data Factory   | <https://adf.azure.com/>{:target="_blank"}                   |
 | Azure Cognitive Services Custom Translator   | <https://portal.customtranslator.azure.ai/>{:target="_blank"}                   |
 | Azure Non-profit Portal   | <https://nonprofit.microsoft.com/#/ngoportal>{:target="_blank"}                   |
-| ## Azure IT Admin Portals - Sub Portal Links                           | **URL**                                                                                      |
+| **Azure IT Admin Portals - Sub Portal Links**                           | **URL**                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Azure Security Center  | <https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0>{:target="_blank"}                   |
-| ## Microsoft Licensing/Support Portals                          | **URL**                                                                                      |
+| **Microsoft Licensing/Support Portals**                          | **URL**                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Volume Licensing Service Center   | <https://www.microsoft.com/Licensing/servicecenter/>{:target="_blank"}            |
 | Next Generation Volume Licensing   | <https://businessaccount.microsoft.com/>{:target="_blank"}            |
