@@ -7,9 +7,6 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 
 ## End User Portals - General
 
-Portal Name
-
-
 [My Apps (Option 1)](https://account.activedirectory.windowsazure.com/){:target="_blank"}<br>   
 [My Apps (Option 2)](https://myapplications.microsoft.com/){:target="_blank"}<br>  
 [My Apps (Option 3)](https://myapps.microsoft.com/){:target="_blank"}<br>  
@@ -35,9 +32,6 @@ Portal Name
 
 
 ## End User Portals - Microsoft 365 Apps
-
-Portal
-
 
 [Bookings](https://outlook.office.com/bookings/){:target="_blank"}<br> 
 [Calendar](https://outlook.office.com/calendar/){:target="_blank"}<br> 
