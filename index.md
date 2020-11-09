@@ -91,7 +91,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Graph Explorer <aka.ms>(https://aka.ms/ge)   | <https://developer.microsoft.com/en-us/graph/graph-explorer>{:target="_blank"}          |
+| Graph Explorer  | <https://developer.microsoft.com/en-us/graph/graph-explorer>{:target="_blank"} [🔁](https://aka.ms/ge)          |
 | Azure DevOps     | <https://dev.azure.com/>{:target="_blank"}          |
 | Visual Studio Subscriptions   | <https://my.visualstudio.com/>{:target="_blank"}          |
 | Visual Studio Subscriptions Management   | <https://manage.visualstudio.com/>{:target="_blank"}          |
