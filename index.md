@@ -86,7 +86,8 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Microsoft Azure Sponsorships  | <https://www.microsoftazuresponsorships.com/>{:target="_blank"}   |
 | Microsoft Dynamics Lifecycle Services  | <https://lcs.dynamics.com/>{:target="_blank"}   |
 | Microsoft MVP  | <https://mvp.microsoft.com/>{:target="_blank"}   |
-| ## Third Party Useful Portals - Microsoft Related and Free                            | URL                  |                                                                 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
+| ## Third Party Useful Portals - Microsoft Related and Free                            | URL                  |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | What is my Microsoft Azure and Office 365 tenant ID? | <https://www.whatismytenantid.com/>{:target="_blank"}               |
 | Office 365 ATP Safe Links Decoder | <https://o365atp.com/>{:target="_blank"}               |
 | Message Header Analyzer | <https://mha.azurewebsites.net/>{:target="_blank"}               |
