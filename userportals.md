@@ -9,7 +9,7 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 
 [Additional Security Information](https://account.activedirectory.windowsazure.com/){:target="_blank"}<br>
 [App Passwords](https://account.activedirectory.windowsazure.com/AppPasswords.aspx){:target="_blank"} [🔁](https://aka.ms/createAppPassword){:target="_blank"}<br>
-[Channge Password](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}<br>
+[Change Password](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}<br>
 [Converged MFA & SSPR Portal](https://aka.ms/mysecurityinfo){:target="_blank"}<br>
 [MFA Setup](https://account.activedirectory.windowsazure.com/proofup.aspx){:target="_blank" [🔁](https://aka.ms/mfasetup)<br>
 [Microsoft AppSource](https://store.office.com/redirect.aspx){:target="_blank"}<br>
