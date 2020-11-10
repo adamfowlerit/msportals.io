@@ -10,23 +10,23 @@ This site is pretty new at this stage, and we're working on improving things. If
 
 Q: *Should you trust this site? How do you know the links are safe?*
 
-A: You don't know these links are safe, but going to a single source should be better than Googling/Binging what you're looking for and clicking on of the first results. Check - does the link go to microsoft.com or azure.com as the top level domain? Don't just trust the text used on the page for the link, hover your cursor over it and see where the link actually goes to. Are you seeing an Azure AD login page that has customisations specific to my company before entering my credentials? Apply this to anything on the internet!
+A: You don't know these links are safe, but going to a single source should be better than Googling/Binging what you're looking for and clicking one of the first results. Check - does the link go to microsoft.com or azure.com as the top level domain? Don't just trust the text used on the page for the link, hover your cursor over it and see where the link actually goes to. Are you seeing an Azure AD login page that has customisations specific to your company before entering your credentials? Apply this to anything on the internet!
 
 
 Q: *Why does this site exist?*
 
-A: Because there are so many Microsoft portals, and no single source of truth for them all. We probably don't have every single portal, but if you know of once we are missing, please let us know via GitHub - do a pull request if you know how, or just write an issue with the details and we'll sort it out. It's easy!
+A: Because there are so many Microsoft portals, and no single source of truth for them all. We probably don't have every single portal, but if you know of ones we are missing, please let us know via GitHub - do a pull request if you know how, or just write an issue with the details and we'll sort it out. It's easy!
 
 
 ## Project details and thanks
 
-Project set up and owned by [Adam Fowler](https://adamfowlerit.com)
+Project set up and owned by [Adam Fowler](https://adamfowlerit.com).
 
 Big thanks to those who have contributed:
 
 - [Karl Cooke](https://twitter.com/Karl_ITNerd) has been doing most of the coding and building of this site, and threw himself into making this a lot better than I could have.
 
-- [PsychoData](https://www.contoso.one/) who's attention to detail and extra coding work has made this site even better again.
+- [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again.
 
 - Users at the [WinAdmins Discord](https://winadmins.io/discord) who've provided feedback and a bunch of extra links; special mentions to 0x80070005 (Graeme Bray), krbtgt, and dec.
 
@@ -34,4 +34,4 @@ Big thanks to those who have contributed:
 
 - All the contributors to this project on GitHub!
 
-- You if you bookmarked or shared this site :)
+- You if you bookmarked or shared this site. :)
