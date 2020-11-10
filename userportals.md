@@ -3,7 +3,7 @@ layout: page
 title: User Portals
 ---
 
-These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
+These Microsoft portals are for end users. The ![aka.ms](https://msportals.xyz/images/akamsicon.png) icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 
 ## End User Portals - General
 
@@ -15,7 +15,7 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | Office 365 Apps              | <https://www.office.com/apps>{:target="_blank"}                                       |
 | Converged MFA & SSPR Portal  | <https://aka.ms/mysecurityinfo>{:target="_blank"}                                       |
 | MFA Setup                    | <https://account.activedirectory.windowsazure.com/proofup.aspx>{:target="_blank"} <https://aka.ms/mfasetup>|
-| Self Service Password Reset / Forgot Password   | <https://passwordreset.microsoftonline.com/>{:target="_blank"} [🔁](https://aka.ms/sspr)                                        |
+| Self Service Password Reset / Forgot Password   | <https://passwordreset.microsoftonline.com/>{:target="_blank"} [![aka.ms](https://msportals.xyz/images/akamsicon.png)](https://aka.ms/sspr)                                        |
 | Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/...](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | Change Password             | <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>{:target="_blank"}   |
 | My Sign-Ins                  | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
@@ -29,8 +29,8 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | Microsoft AppSource         | <https://store.office.com/redirect.aspx>{:target="_blank"}                                           |
 | Additional Security Information         | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                                           |
 | Office 365 Security & Compliance - Quarantined       | <https://protection.office.com/quarantine>{:target="_blank"}             |
-| Windows Virtual Desktop Web Client     | <https://rdweb.wvd.microsoft.com/webclient/>{:target="_blank"} [🔁](https://aka.ms/wvdweb)             |
-| App Passwords    | <https://account.activedirectory.windowsazure.com/AppPasswords.aspx>{:target="_blank"} [🔁](https://aka.ms/createAppPassword)             |
+| Windows Virtual Desktop Web Client     | <https://rdweb.wvd.microsoft.com/webclient/>{:target="_blank"} [![aka.ms](https://msportals.xyz/images/akamsicon.png)](https://aka.ms/wvdweb)             |
+| App Passwords    | <https://account.activedirectory.windowsazure.com/AppPasswords.aspx>{:target="_blank"} [![aka.ms](https://msportals.xyz/images/akamsicon.png)](https://aka.ms/createAppPassword)             |
 
 
 
