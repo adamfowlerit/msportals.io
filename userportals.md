@@ -22,7 +22,9 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | My Access                    | <https://myaccess.microsoft.com/>{:target="_blank"}                                                         |
 | My Groups                    | [https://account.activedirectory.windowsazure.com/...](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
 | My Account 1                 | <https://myworkaccount.microsoft.com/>{:target="_blank"}                                               |
-| My Account 2                 | <https://myprofile.microsoft.com/>{:target="_blank"}                                                       |
+| My Account 2                 | <https://myaccount.microsoft.com/>{:target="_blank"}                                               |
+| My Account 3                 | <https://myprofile.microsoft.com/>{:target="_blank"}                                                       |
+| My Account (Consumer)                 | <https://account.microsoft.com/>{:target="_blank"}                                                       |
 | My Sign-ins                 | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
 | Microsoft AppSource         | <https://store.office.com/redirect.aspx>{:target="_blank"}                                           |
 | Additional Security Information         | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                                           |
