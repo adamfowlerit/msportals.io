@@ -58,7 +58,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Azure Security Center  | [https://portal.azure.com...](<https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0>){:target="_blank"}                   |
-
+| Azure Backup Center  | [https://portal.azure.com...](<https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview>){:target="_blank"}                   |
 
 ## Microsoft Licensing/Support Portals
 
