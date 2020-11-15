@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Administrator Portals
@@ -23,6 +24,9 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Apps Admin Center                         | <https://config.office.com/officeSettings#>{:target="_blank"}                                                 |
 | Power BI Admin Portal                     | <https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1>{:target="_blank"}                             |
 | Power Platform admin center               | <https://admin.powerplatform.microsoft.com/>{:target="_blank"}                             |
+| Power Automate Maker Portal | <https://flow.microsoft.com/>{:target="_blank"} |
+| Power Apps Maker Portal | <https://make.powerapps.com/>{:target="_blank"} |
+| Power Virtual Agents Portal | <https://powerva.microsoft.com/>{:target="_blank"} |
 | Microsoft Stream Admin Center               | <https://web.microsoftstream.com/admin>{:target="_blank"}                             |
 | Skype for Business admin center (deprecated)       | <https://webdir2a.online.lync.com/LSCP>{:target="_blank"}                             |
 | Kaizala Management Portal             | <https://manage.kaiza.la/>{:target="_blank"}                             |
@@ -47,7 +51,6 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Azure Active Directory admin center    | <https://aad.portal.azure.com/>{:target="_blank"}                   |
 | Azure Cosmos DB   | <https://cosmos.azure.com/>{:target="_blank"}                   |
 | Azure Data Factory   | <https://adf.azure.com/>{:target="_blank"}                   |
-| Azure Cognitive Services Custom Translator   | <https://portal.customtranslator.azure.ai/>{:target="_blank"}                   |
 | Azure Non-profit Portal   | <https://nonprofit.microsoft.com/#/ngoportal>{:target="_blank"}                   |
 
 
@@ -59,6 +62,19 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Azure Security Center  | [https://portal.azure.com...](<https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0>){:target="_blank"}                   |
 | Azure Backup Center  | [https://portal.azure.com...](<https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview>){:target="_blank"}                   |
+
+## Azure AI / ML Portals
+
+| Portal Name                            | URL                                                                                      |
+| ---------------------------------------|-----------------------------------------------------------------------------------------:|
+| Azure ML Studio  | [https://ml.azure.com/](<https://ml.azure.com>){:target="_blank"}                   |
+| Custom Vision  | [https://www.customvision.ai/](<https://www.customvision.ai/>){:target="_blank"}                   |
+| Video Indexer  | [https://www.videoindexer.ai/](<https://www.videoindexer.ai/>){:target="_blank"}                   |
+| LUIS Portal  | [https://www.luis.ai/](<https://www.luis.ai/>){:target="_blank"}                   |
+| QnA Maker Portal  | [https://www.qnamaker.ai/](<https://www.qnamaker.ai/>){:target="_blank"}                   |
+| Bot Framework Dev Portal  | [https://dev.botframework.com/](<https://dev.botframework.com/>){:target="_blank"}                   |
+| Custom Translator   | <https://portal.customtranslator.azure.ai/>{:target="_blank"}                   |
+
 
 ## Microsoft Licensing/Support Portals
 
@@ -126,3 +142,4 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Message Header Analyzer | <https://mha.azurewebsites.net/>{:target="_blank"}               |
 | Tenant Availability Check | <https://o365.rocks/>{:target="_blank"}               |
 | Twitter - Microsoft 365 Status Page | <https://twitter.com/MSFT365Status>{:target="_blank"}         |
+
