@@ -21,7 +21,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Microsoft Teams Admin Center              | <https://admin.teams.microsoft.com/>{:target="_blank"} [🔁](https://aka.ms/teamsadmincenter){:target="_blank"}                                   |
 | SharePoint Admin Center                   | <https://admin.microsoft.com/sharepoint>{:target="_blank"}                                                       |
 | OneDrive Admin Center                     | <https://admin.onedrive.com/>{:target="_blank"}                                                                             |
-| Apps Admin Center                         | <https://config.office.com/officeSettings#>{:target="_blank"}                                                 |
+| Apps Admin Center                         | <https://config.office.com/>{:target="_blank"}                                                 |
 | Power BI Admin Portal                     | <https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1>{:target="_blank"}                             |
 | Power Platform admin center               | <https://admin.powerplatform.microsoft.com/>{:target="_blank"}                             |
 | Power Automate Maker Portal | <https://flow.microsoft.com/>{:target="_blank"} |
@@ -101,6 +101,9 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Office 365 Security & Compliance          | <https://protection.office.com/>{:target="_blank"}                                 |
 | Microsoft Defender for Identity<br>(Previously Azure ATP)           | <https://portal.atp.azure.com/>{:target="_blank"}                                  |
 | Multi-factor authentication           | [https://account.activedirectory.windowsazure.com...](https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx){:target="_blank"}                                  |
+| Microsoft Secure Score          | <https://securescore.microsoft.com>{:target="_blank"}                                  |
+| Submit Abuse Report (CERT)          | <https://portal.msrc.microsoft.com/en-us/engage/cars>{:target="_blank"}                                  |
+
 
 
 ## Developer Portals
@@ -131,6 +134,8 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Microsoft Azure Sponsorships  | <https://www.microsoftazuresponsorships.com/>{:target="_blank"}   |
 | Microsoft Dynamics Lifecycle Services  | <https://lcs.dynamics.com/>{:target="_blank"}   |
 | Microsoft MVP  | <https://mvp.microsoft.com/>{:target="_blank"}   |
+| Service Trust Portal  | <https://servicetrust.microsoft.com/>{:target="_blank"}   |
+
 
 
 ## Third Party Useful Portals - Microsoft Related and Free
