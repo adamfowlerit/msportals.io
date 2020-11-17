@@ -46,6 +46,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Microsoft Azure (Release Candidate)    | <https://rc.portal.azure.com/>{:target="_blank"}                      |
 | Microsoft Azure (Preview)              | <https://preview.portal.azure.com/>{:target="_blank"}            |
 | Azure Resource Explorer                | <https://resources.azure.com/>{:target="_blank"}                      |
+| Azure Resource Explorer (RAW)                | <https://resources.azure.com/raw>{:target="_blank"}                      |
 | Azure Cloud Shell                      | <https://shell.azure.com/>{:target="_blank"}                              |
 | Azure Active Directory admin center    | <https://aad.portal.azure.com/>{:target="_blank"}                   |
 | Azure Cosmos DB   | <https://cosmos.azure.com/>{:target="_blank"}                   |
