@@ -9,28 +9,29 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 
 | Portal Name                                    | URL                                                                                                         |
 | -----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------:|
-| My Apps (Option 1)                    | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}               |
-| My Apps (Option 2)                    | <https://myapplications.microsoft.com/>{:target="_blank"}                                             |
-| My Apps (Option 3)                    | <https://myapps.microsoft.com/>{:target="_blank"}                                             |
-| Office 365 Apps              | <https://www.office.com/apps>{:target="_blank"}                                       |
+| Additional Security Information         | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                                           |
+| App Passwords    | <https://account.activedirectory.windowsazure.com/AppPasswords.aspx>{:target="_blank"} [🔁](https://aka.ms/createAppPassword)             |
+| Change Password             | <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>{:target="_blank"}   |
 | Converged MFA & SSPR Portal  | <https://aka.ms/mysecurityinfo>{:target="_blank"}                                       |
 | MFA Setup                    | <https://account.activedirectory.windowsazure.com/proofup.aspx>{:target="_blank"} <https://aka.ms/mfasetup>|
-| Self Service Password Reset / Forgot Password   | <https://passwordreset.microsoftonline.com/>{:target="_blank"} [🔁](https://aka.ms/sspr)                                        |
-| Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/...](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
-| Change Password             | <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>{:target="_blank"}   |
-| My Sign-Ins                  | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
+| Microsoft AppSource         | <https://store.office.com/redirect.aspx>{:target="_blank"}                                           |
 | My Access                    | <https://myaccess.microsoft.com/>{:target="_blank"}                                                         |
-| My Groups                    | [https://account.activedirectory.windowsazure.com/...](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
+| My Account (Consumer)                 | <https://account.microsoft.com/>{:target="_blank"}                                                       |
 | My Account 1                 | <https://myworkaccount.microsoft.com/>{:target="_blank"}                                               |
 | My Account 2                 | <https://myaccount.microsoft.com/>{:target="_blank"}                                               |
 | My Account 3                 | <https://myprofile.microsoft.com/>{:target="_blank"}                                                       |
-| My Account (Consumer)                 | <https://account.microsoft.com/>{:target="_blank"}                                                       |
+| My Apps (Option 1)                    | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}               |
+| My Apps (Option 2)                    | <https://myapplications.microsoft.com/>{:target="_blank"}                                             |
+| My Apps (Option 3)                    | <https://myapps.microsoft.com/>{:target="_blank"}                                             |
+| My Groups                    | [https://account.activedirectory.windowsazure.com/...](https://account.activedirectory.windowsazure.com/r#/groups){:target="_blank"}            |
+| My Sign-Ins                  | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
 | My Sign-ins                 | <https://mysignins.microsoft.com/>{:target="_blank"}                                                       |
-| Microsoft AppSource         | <https://store.office.com/redirect.aspx>{:target="_blank"}                                           |
-| Additional Security Information         | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                                           |
+| Office 365 Apps              | <https://www.office.com/apps>{:target="_blank"}                                       |
 | Office 365 Security & Compliance - Quarantined       | <https://protection.office.com/quarantine>{:target="_blank"}             |
+| Self Service Password Reset / Forgot Password   | <https://passwordreset.microsoftonline.com/>{:target="_blank"} [🔁](https://aka.ms/sspr)                                        |
+| Self Service Password Reset Setup   | [https://account.activedirectory.windowsazure.com/PasswordReset/...](https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup){:target="_blank"}                                        |
 | Windows Virtual Desktop Web Client     | <https://rdweb.wvd.microsoft.com/webclient/>{:target="_blank"} [🔁](https://aka.ms/wvdweb)             |
-| App Passwords    | <https://account.activedirectory.windowsazure.com/AppPasswords.aspx>{:target="_blank"} [🔁](https://aka.ms/createAppPassword)             |
+
 
 
 
