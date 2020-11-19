@@ -90,6 +90,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
 | Azure Subscriptions   | <https://account.azure.com/Subscriptions>{:target="_blank"}                   |
+| Azure New Support Request   | <https://portal.azure.com/#create/Microsoft.Support>{:target="_blank"}                   |
 | Microsoft Azure Enterprise Portal   | <https://ea.azure.com/>{:target="_blank"}            |
 | Microsoft License Advisor   | <https://mla.microsoft.com/>{:target="_blank"}            |
 | Microsoft Partner Center | <https://partner.microsoft.com/>{:target="_blank"}                            |
