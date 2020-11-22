@@ -65,8 +65,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Azure Authentication methods   | [https://portal.azure.com...](<https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/AdminAuthMethods>){:target="_blank"}                   |
 | Azure Backup Center  | [https://portal.azure.com...](<https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview>){:target="_blank"}                   |
 | Azure Security Center  | [https://portal.azure.com...](<https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0>){:target="_blank"}                   |
-
-| Desktop Analytics Portal | [https://devicemanagement.portal.azure.com...](<https://devicemanagement.portal.azure.com/#blade/Microsoft_M365_ManageClient/ManageClientFrameBlade>){:target="_blank"} [🔁](https://aka.ms/desktopanalytics){:target="_blank"}             |
+| Desktop Analytics Portal | [https://devicemanagement.portal.azure.com...](https://devicemanagement.portal.azure.com/#blade/Microsoft_M365_ManageClient/ManageClientFrameBlade){:target="_blank"} [🔁](https://aka.ms/desktopanalytics){:target="_blank"}             |
 
 
 
