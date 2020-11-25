@@ -138,6 +138,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Become Microsoft Certified   | [https://query.prod.cms.rt.microsoft.com...](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI){:target="_blank"} [🔁](https://aka.ms/traincertposter){:target="_blank"}   |
 | Customer Digital Experiences   | <http://demos.microsoft.com/>{:target="_blank"}   |
 | Group Policy Search   | <https://gpsearch.azurewebsites.net/>{:target="_blank"}   |
+| MileIQ  | <https://admin.mileiq.com/>{:target="_blank"}   |
 | Microsoft Azure Sponsorships  | <https://www.microsoftazuresponsorships.com/>{:target="_blank"}   |
 | Microsoft Dynamics Lifecycle Services  | <https://lcs.dynamics.com/>{:target="_blank"}   |
 | Microsoft Home Use Program | <https://www.microsoft.com/home-use-program>{:target="_blank"}   |
