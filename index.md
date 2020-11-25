@@ -27,6 +27,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Microsoft Store for Education          | <https://educationstore.microsoft.com/>{:target="_blank"}                             |		
 | Microsoft Stream Admin Center               | <https://web.microsoftstream.com/admin>{:target="_blank"}                             |		
 | Microsoft Teams Admin Center              | <https://admin.teams.microsoft.com/>{:target="_blank"} [🔁](https://aka.ms/teamsadmincenter){:target="_blank"}                                   |		
+| MileIQ Admin Center                     | <https://admin.mileiq.com/>{:target="_blank"}                                                                             |		
 | OneDrive Admin Center                     | <https://admin.onedrive.com/>{:target="_blank"}                                                                             |		
 | Power Apps Maker Portal | <https://make.powerapps.com/>{:target="_blank"} |		
 | Power Automate Maker Portal | <https://flow.microsoft.com/>{:target="_blank"} |		
