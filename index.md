@@ -150,6 +150,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Tech Community Video Hub  | [https://techcommunity.microsoft.com...](https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub){:target="_blank"} [🔁](https://aka.ms/VideoHub){:target="_blank"}   |
 | Windows Virtual Desktop Consent Page   | <https://rdweb.wvd.microsoft.com/>{:target="_blank"}   |
 | Microsoft Documentation | <https://docs.microsoft.com>{:target="_blank"}  |
+| Skype Preview / Microsoft Teams Preview  | <https://www.skypepreview.com/>{:target="_blank"}  |
 
 
 
