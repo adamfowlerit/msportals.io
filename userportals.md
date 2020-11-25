@@ -50,8 +50,8 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | Excel                      | <https://www.office.com/launch/excel>{:target="_blank"}                                  |
 | Forms                      | <https://www.office.com/launch/forms>{:target="_blank"}                                  |
 | Kaizala Web                    | <https://web.kaiza.la/>{:target="_blank"}                                                       |
-| MyAnalytics                      | <https://myanalytics.microsoft.com/>{:target="_blank"}                                                       |
 | MileIQ                     | <https://dashboard.mileiq.com/>{:target="_blank"}                                                       |
+| MyAnalytics                      | <https://myanalytics.microsoft.com/>{:target="_blank"}                                                       |
 | OneDrive                      | <https://portal.office.com/onedrive>{:target="_blank"}                                                       |
 | OneNote                      | <https://www.office.com/launch/onenote>{:target="_blank"}                                                       |
 | Outlook                      | <https://outlook.office.com/>{:target="_blank"}                                                       |
