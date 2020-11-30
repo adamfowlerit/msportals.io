@@ -31,7 +31,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | OneDrive Admin Center                     | <https://admin.onedrive.com/>{:target="_blank"}                                                                             |		
 | Power Apps Maker Portal | <https://make.powerapps.com/>{:target="_blank"} |		
 | Power Automate Maker Portal | <https://flow.microsoft.com/>{:target="_blank"} |		
-| Power BI Admin Portal                     | <https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1>{:target="_blank"}                             |		
+| Power BI Admin Portal                     | [https://app.powerbi.com/admin-portal/...](https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1){:target="_blank"}                             |		
 | Power Platform admin center               | <https://admin.powerplatform.microsoft.com/>{:target="_blank"}                             |		
 | Power Virtual Agents Portal | <https://powerva.microsoft.com/>{:target="_blank"} |		
 | SharePoint Admin Center                   | <https://admin.microsoft.com/sharepoint>{:target="_blank"}                                                       |		
