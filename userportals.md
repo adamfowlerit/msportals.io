@@ -14,7 +14,7 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | Change Password             | <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>{:target="_blank"}   |
 | Converged MFA & SSPR Portal  | <https://aka.ms/mysecurityinfo>{:target="_blank"}                                       |
 | Cloud Voicemail   | <https://admin1a.online.lync.com/lscp/usp/voicemail>{:target="_blank"}                                       |
-| MFA Setup                    | <https://account.activedirectory.windowsazure.com/proofup.aspx>{:target="_blank"} [🔁]<https://aka.ms/mfasetup>|
+| MFA Setup                    | <https://account.activedirectory.windowsazure.com/proofup.aspx>{:target="_blank"} [🔁](https://aka.ms/mfasetup)|
 | Microsoft AppSource         | <https://store.office.com/redirect.aspx>{:target="_blank"}                                           |
 | My Access                    | <https://myaccess.microsoft.com/>{:target="_blank"}                                                         |
 | My Account (Consumer)                 | <https://account.microsoft.com/>{:target="_blank"}                                                       |
