@@ -28,10 +28,14 @@ Big thanks to those who have contributed:
 
 - [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again.
 
+- [Robert Crane](https://twitter.com/directorcia) who already had quite a good plain text list of admin portals and let me check against it.
+
+- [mdjx](https://twitter.com/mdjxkln) for creating the filter which is even better than Ctrl + F!
+
 - Users at the [WinAdmins Discord](https://winadmins.io/discord) who've provided feedback and a bunch of extra links; special mentions to 0x80070005 (Graeme Bray), krbtgt, and dec.
 
 - Everyone who shared and commented on [this tweet](https://twitter.com/AdamFowler_IT/status/1321959895839600640) who showed there was value in bothering to do this and again, provided a bunch more links to add.
 
-- All the contributors to this project on GitHub!
+- All the contributors to this project on GitHub with corrections and updates!
 
 - You if you bookmarked or shared this site. :)
