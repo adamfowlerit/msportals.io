@@ -10,8 +10,8 @@ These Microsoft portals are for end users. The 🔁 icon is an aka.ms link - a M
 | Portal Name                                    | URL                                                                                                         |
 | -----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------:|
 | Additional Security Information         | <https://account.activedirectory.windowsazure.com/>{:target="_blank"}                                           |
-| App Passwords    | <https://account.activedirectory.windowsazure.com/AppPasswords.aspx>{:target="_blank"} [🔁](https://aka.ms/createAppPassword)             |
-| Change Password             | <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>{:target="_blank"}   |
+| App Passwords    | [https://account.activedirectory.windowsazure.com/...](https://account.activedirectory.windowsazure.com/AppPasswords.aspx){:target="_blank"} [🔁](https://aka.ms/createAppPassword)             |
+| Change Password             | [https://account.activedirectory.windowsazure.com/...](https://account.activedirectory.windowsazure.com/ChangePassword.aspx){:target="_blank"}   |
 | Converged MFA & SSPR Portal  | <https://aka.ms/mysecurityinfo>{:target="_blank"}                                       |
 | Cloud Voicemail   | <https://admin1a.online.lync.com/lscp/usp/voicemail>{:target="_blank"}                                       |
 | MFA Setup                    | <https://account.activedirectory.windowsazure.com/proofup.aspx>{:target="_blank"} [🔁](https://aka.ms/mfasetup)|
