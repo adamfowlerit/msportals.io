@@ -42,6 +42,9 @@
           <a href="{{ site.baseurl }}/userportals" class="btn btn-github"><span class="icon"></span>End User Portals</a>
           <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
           <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span class="icon"></span>View on GitHub</a>
+          {% if page.title contains "Portals" %}
+            {% include quickfilter.html %}
+          {% endif %}
         </section>
       </div>
     </header>
@@ -49,6 +52,9 @@
     <div class="container">
       <section id="main_content">
         {{ content }}
+        {% if page.title contains "Portals" %}
+          {% include nomatches.html %}
+        {% endif %}
       </section>
     </div>
 
