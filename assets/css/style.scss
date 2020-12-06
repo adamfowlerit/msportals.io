@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
-/* Quick Filter Input
-*/
+
+.nomatches {
+    display:none;
+    padding-top: 25px;
+}
+
 .quickfilter {
   outline: none;
   padding: 10px;

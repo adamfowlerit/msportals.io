@@ -5,8 +5,10 @@
 <script type="text/javascript">
   function showOnlyMatchedPortals() {
     query = this.value;
-    if (query.length >= 2) {
-      Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
+
+    Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
+      // Remove individual table rows
+      if (query.length >= 2) {
         Array.from(tbl.children).forEach((td) => {
           if (td.innerText.toUpperCase().indexOf(query.toUpperCase()) === -1) {
             td.hidden = true;
@@ -14,14 +16,37 @@
             td.hidden = false;
           }
         });
-      });
-    } else {
-      Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
-        Array.from(tbl.children).forEach((td) => {
-          td.hidden = false;
+      } else {
+        Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
+          Array.from(tbl.children).forEach((td) => {
+            td.hidden = false;
+          });
         });
-      });
+      }
+
+      // Remove entire table and matching H2 if all child rows are hidden
+      let num = Array.from(tbl.children).reduce(
+        (total, td) => total + (td.hidden === false ? 1 : 0),
+        0
+      );
+      if (num === 0) {
+        tbl.parentNode.previousElementSibling.hidden = true;
+        tbl.parentNode.hidden = true;
+      } else {
+        tbl.parentNode.previousElementSibling.hidden = false;
+        tbl.parentNode.hidden = false;
+      }
+    });
+
+    // Display message if no portals are found
+    totalNum = Array.from(document.getElementsByTagName("table")).reduce((total,tbl) => total + (tbl.hidden === false ? 1 : 0),0)
+
+    if (totalNum === 0) {
+        document.getElementsByClassName('nomatches')[0].style = "display: block;"
+    } else {
+        document.getElementsByClassName('nomatches')[0].style = "display: none;"
     }
+
   }
 
   window.onload = function () {
