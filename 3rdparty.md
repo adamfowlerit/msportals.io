@@ -5,7 +5,7 @@ title: 3rd Party Portals
 
 These portals are not Microsoft owned or controlled, but provide free and useful tools.
 
-## Third Party Useful Portals
+## Third Party Portals - Microsoft Related
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
