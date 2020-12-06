@@ -152,16 +152,3 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 | Windows Virtual Desktop Consent Page   | <https://rdweb.wvd.microsoft.com/>{:target="_blank"}   |
 | Microsoft Documentation | <https://docs.microsoft.com>{:target="_blank"}  |
 | Skype Preview / Microsoft Teams Preview  | <https://www.skypepreview.com/>{:target="_blank"}  |
-
-
-
-## Third Party Useful Portals - Microsoft Related and Free
-
-| Portal Name                            | URL                                                                                      |
-| ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Message Header Analyzer | <https://mha.azurewebsites.net/>{:target="_blank"}               |
-| Office 365 ATP Safe Links Decoder | <https://o365atp.com/>{:target="_blank"}               |
-| Tenant Availability Check | <https://o365.rocks/>{:target="_blank"}               |
-| Twitter - Microsoft 365 Status Page | <https://twitter.com/MSFT365Status>{:target="_blank"}         |
-| What is my Microsoft Azure and Office 365 tenant ID? | <https://www.whatismytenantid.com/>{:target="_blank"}               |
-
