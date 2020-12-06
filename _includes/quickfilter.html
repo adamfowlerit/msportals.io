@@ -1,0 +1,32 @@
+<form style="margin: 0; padding: 0; display: inline">
+  <input class="quickfilter" type="text" placeholder="Quick Filter" />
+</form>
+
+<script type="text/javascript">
+  function showOnlyMatchedPortals() {
+    query = this.value;
+    if (query.length >= 2) {
+      Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
+        Array.from(tbl.children).forEach((td) => {
+          if (td.innerText.toUpperCase().indexOf(query.toUpperCase()) === -1) {
+            td.hidden = true;
+          } else {
+            td.hidden = false;
+          }
+        });
+      });
+    } else {
+      Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
+        Array.from(tbl.children).forEach((td) => {
+          td.hidden = false;
+        });
+      });
+    }
+  }
+
+  window.onload = function () {
+    const qfInput = document.querySelector(".quickfilter");
+    qfInput.addEventListener("change", showOnlyMatchedPortals);
+    qfInput.addEventListener("keyup", showOnlyMatchedPortals);
+  };
+</script>
