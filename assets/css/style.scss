@@ -3,19 +3,25 @@
 
 @import "{{ site.theme }}";
 
-
 /* Quick Filter Input
 */
-.quickfilter { 
+.quickfilter {
+  outline: none;
+  padding: 10px;
+  margin: 10px 0;
+  border-width: 0 0 1px;
+  width: 35%;
+  border-color: #b5e853;
+  border-style: solid;
+  background-color: transparent;
+  color: #eaeaea;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal,
+    monospace;
+}
+
+@media (min-width: 1024px) {
+  .quickfilter {
     float: right;
-    outline: none; 
-    padding: 10px;  
-    margin:10px 0; 
-    border-width: 0 0 1px; 
-    width: 25%; 
-    border-color: #b5e853; 
-    border-style: solid; 
-    background-color: transparent; 
-    color: #eaeaea; 
-    font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
+    width: 25%;
+  }
 }
