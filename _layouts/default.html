@@ -42,9 +42,9 @@
           <a href="{{ site.baseurl }}/userportals" class="btn btn-github"><span class="icon"></span>End User</a>
           <a href="{{ site.baseurl }}/3rdparty" class="btn btn-github"><span class="icon"></span>3rd Party</a>
           <a href="{{ site.baseurl }}/usgovt" class="btn btn-github"><span class="icon"></span>US Govt</a>
-          <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
           <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span class="icon"></span>GitHub</a>
-          {% if page.title contains "Portals" %}
+          <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
+            {% if page.title contains "Portals" %}
             {% include quickfilter.html %}
           {% endif %}
         </section>
