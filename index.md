@@ -5,6 +5,7 @@ title: Administrator Portals
 
 Welcome to this community driven project to list all of Microsoft's portals in one place. 
 The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
+The 🏢 icon is for Azure Government cloud links - usually ending in '.us'.
 
 
 ## Microsoft 365 Admin Portals
@@ -44,7 +45,7 @@ The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
 
 | Portal Name                            | URL                                                                                      |
 | ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Microsoft Azure Portal                 | <https://portal.azure.com/>{:target="_blank"} [🔁](http://aka.ms/azconfig/portal){:target="_blank"}                            |
+| Microsoft Azure Portal                 | <https://portal.azure.com/>{:target="_blank"} [🔁](http://aka.ms/azconfig/portal){:target="_blank"}[🏢](https://portal.azure.us/){:target="_blank"}                            |
 | Microsoft Azure (Release Candidate)    | <https://rc.portal.azure.com/>{:target="_blank"}                      |
 | Microsoft Azure (Preview)              | <https://preview.portal.azure.com/>{:target="_blank"}            |
 | Azure Active Directory admin center    | <https://aad.portal.azure.com/>{:target="_blank"}                   |
