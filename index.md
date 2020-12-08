@@ -21,6 +21,7 @@ The 🏢 icon is for Azure Government cloud links - usually ending in '.us'.
 | Microsoft 365 network connectivity test        | <https://connectivity.office.com/>{:target="_blank"}                             |		
 | Microsoft Call Quality Dashboard		       | <https://cqd.teams.microsoft.com/>{:target="_blank"}                             |
 | Microsoft Endpoint Manager Admin Console  | <https://endpoint.microsoft.com/>{:target="_blank"}                                                                     |		
+| Microsoft Endpoint Manager Admin Console (Release Candidate)| <https://rc-devicemanagement.portal.azure.com/>{:target="_blank"}                                  |
 | Microsoft Endpoint Manager Admin Console (old)  | <https://devicemanagement.portal.azure.com/>{:target="_blank"}                                                                     |		
 | Microsoft Partner Center         | <https://partner.microsoft.com/dashboard>{:target="_blank"}                             |		
 | Microsoft Remote Connectivity Analyzer         | <https://testconnectivity.microsoft.com>{:target="_blank"}                       |		
