@@ -23,9 +23,72 @@
     monospace;
 }
 
+.portal-group {
+  padding: 0 0 20px 0;
+}
+
+.portal {
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between; 
+  line-height: 2em;
+}
+
+.portal-name {
+  word-wrap: break-word; 
+  text-overflow: ellipsis; 
+  overflow: hidden;
+  padding-right: 5px;
+  flex: 0 0 100%;
+}
+
+.portal-details {
+  display: flex; 
+  justify-content: right;
+  text-overflow: ellipsis;
+  overflow: hidden; 
+  white-space: nowrap;
+
+}
+.portal-url {
+  text-overflow: ellipsis;
+  overflow: hidden; 
+  white-space: nowrap;
+}
+
+.portal-secondary-urls {
+  white-space: nowrap;
+}
+
+.portal-url::before {
+  content: " • ";
+}
+
+.portal-note {
+  font-size: 0.8rem;
+  color: #bcc7a7; 
+  font-style: italic;
+}
+
 @media (min-width: 1024px) {
   .quickfilter {
     float: right;
     width: 25%;
+  }
+
+  .portal {
+    flex-wrap: nowrap; 
+  }
+
+  .portal-name {
+    flex: initial;
+  }
+  
+  .portal-details {
+    max-width:50%
+  }
+
+  .portal-url::before {
+    content: none;
   }
 }
