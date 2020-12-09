@@ -3,16 +3,33 @@ layout: page
 title: 3rd Party Portals
 ---
 
-These portals are not Microsoft owned or controlled, but provide free and useful tools.
+Welcome to this community driven project to list all of Microsoft's portals in one place.
+The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
+The 🏢 icon is for Azure Government cloud links - usually ending in '.us'.
 
-## Third Party Portals - Microsoft Related
+{% for group in site.data.portals.thirdparty %}
 
-| Portal Name                            | URL                                                                                      |
-| ---------------------------------------|-----------------------------------------------------------------------------------------:|
-| Message Header Analyzer | <https://mha.azurewebsites.net/>{:target="_blank"}               |
-| Office 365 ATP Safe Links Decoder | <https://o365atp.com/>{:target="_blank"}               |
-| Tenant Availability Check | <https://o365.rocks/>{:target="_blank"}               |
-| Twitter - Microsoft 365 Status Page | <https://twitter.com/MSFT365Status>{:target="_blank"}         |
-| What is my Microsoft Azure and Office 365 tenant ID? | <https://www.whatismytenantid.com/>{:target="_blank"}               |
+<div class="portal-group">
+    <h2>{{ group.groupName }}</h2>
+    {% for portal in group.portals %}
+    <div class="portal">
+        <span class="portal-name">{{portal.portalName}}
+        {% if portal.note %}
+            <span class="portal-note">{{ portal.note }}</span>
+        {% endif %}    
+        </span>
+        <div class="portal-details">
+        <span class="portal-url">
+            <a href="{{portal.primaryURL}}" target="blank">{{portal.primaryURL}}</a> 
+        </span>
+                    {% if portal.secondaryURLs %}
+                    <span class="portal-secondary-urls">
+                    &ensp;• {% for secondary in portal.secondaryURLs %}<a href="{{secondary.url}}" target="_blank">{{secondary.icon}}</a>&thinsp;{% endfor %}
+                     </span>
+                {% endif %}
+                </div>
+    </div>
+    {% endfor %}
+</div>
 
-
+{% endfor %}

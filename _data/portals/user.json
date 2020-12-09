@@ -1,0 +1,251 @@
+[
+  {
+    "groupName": "End User Portals - General",
+    "portals": [
+      {
+        "portalName": "Additional Security Information",
+        "primaryURL": "https://account.activedirectory.windowsazure.com"
+      },
+      {
+        "portalName": "App Passwords",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/AppPasswords.aspx",
+        "secondaryURLs": [
+          {
+            "icon": "🔁",
+            "url": "https://aka.ms/createAppPassword"
+          }
+        ]
+      },
+      {
+        "portalName": "Change Password",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
+      },
+      {
+        "portalName": "Converged MFA & SSPR Portal",
+        "primaryURL": "https://aka.ms/mysecurityinfo/"
+      },
+      {
+        "portalName": "Cloud Voicemail",
+        "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
+      },
+      {
+        "portalName": "MFA Setup",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
+        "secondaryURLs": [
+          {
+            "icon": "🔁",
+            "url": "https://aka.ms/mfasetup"
+          }
+        ]
+      },
+      {
+        "portalName": "Microsoft AppSource",
+        "primaryURL": "https://store.office.com/redirect.aspx"
+      },
+      {
+        "portalName": "My Access",
+        "primaryURL": "https://myaccess.microsoft.com"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://account.microsoft.com",
+        "note": "Consumer"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://myaccount.microsoft.com",
+        "note": "Option 1"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://myworkaccount.microsoft.com",
+        "note": "Option 2"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://myprofile.microsoft.com",
+        "note": "Option 3"
+      },
+      {
+        "portalName": "My Apps",
+        "primaryURL": "https://account.activedirectory.windowsazure.com",
+        "note": "Option 1"
+      },
+      {
+        "portalName": "My Apps",
+        "primaryURL": "https://myapplications.microsoft.com",
+        "note": "Option 2"
+      },
+      {
+        "portalName": "My Apps",
+        "primaryURL": "https://myapps.microsoft.com",
+        "note": "Option 3"
+      },
+      {
+        "portalName": "My Groups",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups"
+      },
+      {
+        "portalName": "My Sign-Ins",
+        "primaryURL": "https://mysignins.microsoft.com"
+      },
+      {
+        "portalName": "Office 365 Apps",
+        "primaryURL": "https://www.office.com/apps"
+      },
+      {
+        "portalName": "Office 365 Security & Compliance - Quarantined",
+        "primaryURL": "https://protection.office.com/quarantine"
+      },
+      {
+        "portalName": "Self Service Password Reset / Forgot Password",
+        "primaryURL": "https://passwordreset.microsoftonline.com",
+        "secondaryURLs": [
+          {
+            "icon": "🔁",
+            "url": "https://aka.ms/sspr"
+          }
+        ]
+      },
+      {
+        "portalName": "Self Service Password Reset Setup",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
+      },
+      {
+        "portalName": "Windows Virtual Desktop Web Client",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
+        "secondaryURLs": [
+          {
+            "icon": "🔁",
+            "url": "https://aka.ms/wvdweb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupName": "End User Portals - Microsoft 365 Apps",
+    "portals": [
+      {
+        "portalName": "Bookings",
+        "primaryURL": "https://outlook.office.com/bookings"
+      },
+      {
+        "portalName": "Calendar",
+        "primaryURL": "https://outlook.office.com/calendar"
+      },
+      {
+        "portalName": "Compliance",
+        "primaryURL": "https://compliance.microsoft.com"
+      },
+      {
+        "portalName": "Cortana",
+        "primaryURL": "https://cortana.office.com"
+      },
+      {
+        "portalName": "Delve",
+        "primaryURL": "https://delve.office.com"
+      },
+      {
+        "portalName": "Dynamics 365",
+        "primaryURL": "https://home.dynamics.com"
+      },
+      {
+        "portalName": "Excel",
+        "primaryURL": "https://www.office.com/launch/excel"
+      },
+      {
+        "portalName": "Forms",
+        "primaryURL": "https://www.office.com/launch/forms"
+      },
+      {
+        "portalName": "Kaizala Web",
+        "primaryURL": "https://web.kaiza.la"
+      },
+      {
+        "portalName": "MileIQ",
+        "primaryURL": "https://dashboard.mileiq.com"
+      },
+      {
+        "portalName": "MyAnalytics",
+        "primaryURL": "https://myanalytics.microsoft.com"
+      },
+      {
+        "portalName": "OneDrive",
+        "primaryURL": "https://portal.office.com/onedrive"
+      },
+      {
+        "portalName": "OneNote",
+        "primaryURL": "https://www.office.com/launch/onenote"
+      },
+      {
+        "portalName": "Outlook",
+        "primaryURL": "https://outlook.office.com"
+      },
+      {
+        "portalName": "People",
+        "primaryURL": "https://outlook.office.com/people"
+      },
+      {
+        "portalName": "Planner",
+        "primaryURL": "https://tasks.office.com"
+      },
+      {
+        "portalName": "Power Apps",
+        "primaryURL": "https://make.powerapps.com"
+      },
+      {
+        "portalName": "Power Automate",
+        "primaryURL": "https://flow.microsoft.com"
+      },
+      {
+        "portalName": "Power BI",
+        "primaryURL": "https://app.powerbi.com"
+      },
+      {
+        "portalName": "PowerPoint",
+        "primaryURL": "https://www.office.com/launch/powerpoint"
+      },
+      {
+        "portalName": "Project",
+        "primaryURL": "https://project.microsoft.com"
+      },
+      {
+        "portalName": "Security",
+        "primaryURL": "https://security.microsoft.com"
+      },
+      {
+        "portalName": "SharePoint",
+        "primaryURL": "https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1"
+      },
+      {
+        "portalName": "Stream",
+        "primaryURL": "https://web.microsoftstream.com"
+      },
+      {
+        "portalName": "Sway",
+        "primaryURL": "https://www.office.com/launch/sway"
+      },
+      {
+        "portalName": "Teams",
+        "primaryURL": "https://teams.microsoft.com"
+      },
+      {
+        "portalName": "To-Do",
+        "primaryURL": "https://to-do.office.com"
+      },
+      {
+        "portalName": "Whiteboard",
+        "primaryURL": "https://whiteboard.microsoft.com"
+      },
+      {
+        "portalName": "Word",
+        "primaryURL": "https://www.office.com/launch/word"
+      },
+      {
+        "portalName": "Yammer",
+        "primaryURL": "https://www.yammer.com"
+      }
+    ]
+  }
+]

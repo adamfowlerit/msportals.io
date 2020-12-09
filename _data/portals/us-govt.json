@@ -1,0 +1,35 @@
+[
+  {
+    "groupName": "Microsoft 365 Admin Portals",
+    "portals": [
+      {
+        "portalName": "Microsoft 365 Admin Portal",
+        "primaryURL": "https://portal.office365.us",
+        "note" : "GCC High"
+      },
+      {
+        "portalName": "Microsoft 365 Admin Portal",
+        "primaryURL": "https://portal.apps.mil",
+        "note" : "DoD"
+      },
+      {
+        "portalName": "Intune Web Company Portal",
+        "primaryURL": "https://portal.manage.microsoft.us"
+      },
+      {
+        "portalName": "Microsoft Cloud App Security Portal",
+        "primaryURL": "https://portal.cloudappsecurity.us"
+      },
+      {
+        "portalName": "Dynamics 365 Instance Administration",
+        "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
+        "note" : "GCC"
+      },
+      {
+        "portalName": "Dynamics 365 Instance Administration",
+        "primaryURL": "https://port.crm.microsoftdynamics.us/G/Instances/InstancePicker.aspx",
+        "note" : "GCC High"
+      }
+    ]
+  }
+]
