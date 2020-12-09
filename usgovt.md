@@ -5,30 +5,4 @@ title: Government Portals
 
 GCC, GCC High and DoD links to Microsoft Portals
 
-
-{% for group in site.data.portals.us-govt %}
-
-<div class="portal-group">
-    <h2>{{ group.groupName }}</h2>
-    {% for portal in group.portals %}
-    <div class="portal">
-        <span class="portal-name">{{portal.portalName}}
-        {% if portal.note %}
-            <span class="portal-note">{{ portal.note }}</span>
-        {% endif %}    
-        </span>
-        <div class="portal-details">
-        <span class="portal-url">
-            <a href="{{portal.primaryURL}}" target="blank">{{portal.primaryURL}}</a> 
-        </span>
-                    {% if portal.secondaryURLs %}
-                    <span class="portal-secondary-urls">
-                    &ensp;• {% for secondary in portal.secondaryURLs %}<a href="{{secondary.url}}" target="_blank">{{secondary.icon}}</a>&thinsp;{% endfor %}
-                     </span>
-                {% endif %}
-                </div>
-    </div>
-    {% endfor %}
-</div>
-
-{% endfor %}
+{% include portal.html portal="us-govt" %}
