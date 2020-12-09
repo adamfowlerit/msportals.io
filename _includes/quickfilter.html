@@ -6,45 +6,54 @@
   function showOnlyMatchedPortals() {
     query = this.value;
 
-    Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
-      // Remove individual table rows
+    Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+      // Remove individual portal entries
       if (query.length >= 2) {
-        Array.from(tbl.children).forEach((td) => {
-          if (td.innerText.toUpperCase().indexOf(query.toUpperCase()) === -1) {
-            td.hidden = true;
-          } else {
-            td.hidden = false;
+        //searching innerHTML lets us search link text, like 'sspr' for https://aka.ms/sspr
+        if (portalEntry.innerHTML.toUpperCase().indexOf(query.toUpperCase()) === -1) {
+          //Iterate through all children, even nested children
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = true
           }
-        });
+          )
+        } else {
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = false
+          })
+        };
       } else {
-        Array.from(document.getElementsByTagName("tbody")).forEach((tbl) => {
-          Array.from(tbl.children).forEach((td) => {
-            td.hidden = false;
+        //Iterate through portal entries un-hiding them in case they were hidden
+        Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = false
           });
         });
       }
-
-      // Remove entire table and matching H2 if all child rows are hidden
-      let num = Array.from(tbl.children).reduce(
-        (total, td) => total + (td.hidden === false ? 1 : 0),
+    });
+    
+    //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
+    Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
+      let num = Array.from(portalGroup.querySelectorAll(".portal *")).reduce(
+      //Count how many elements are not-hidden (shown)  
+      (total, elem) => total + (elem.hidden === false ? 1 : 0),
         0
-      );
+      )
+      //If all elements are hidden, hide the entire portal-group
       if (num === 0) {
-        tbl.parentNode.previousElementSibling.hidden = true;
-        tbl.parentNode.hidden = true;
+        portalGroup.hidden = true;
       } else {
-        tbl.parentNode.previousElementSibling.hidden = false;
-        tbl.parentNode.hidden = false;
+        //If some portal elements are shown, be certain to show the parent portal-group
+        portalGroup.hidden = false;
       }
     });
 
     // Display message if no portals are found
-    totalNum = Array.from(document.getElementsByTagName("table")).reduce((total,tbl) => total + (tbl.hidden === false ? 1 : 0),0)
+    totalNum = Array.from(document.querySelectorAll("div[class='portal-group']")).reduce((total, portalGroup) => total + (portalGroup.hidden === false ? 1 : 0), 0)
 
     if (totalNum === 0) {
-        document.getElementsByClassName('nomatches')[0].style = "display: block;"
+      document.getElementsByClassName('nomatches')[0].style = "display: block;"
     } else {
-        document.getElementsByClassName('nomatches')[0].style = "display: none;"
+      document.getElementsByClassName('nomatches')[0].style = "display: none;"
     }
 
   }
