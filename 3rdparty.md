@@ -3,8 +3,6 @@ layout: page
 title: 3rd Party Portals
 ---
 
-Welcome to this community driven project to list all of Microsoft's portals in one place.
-The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
-The 🏢 icon is for Azure Government cloud links - usually ending in '.us'.
+These portals are not Microsoft owned or controlled, but provide free and useful tools.
 
 {% include portal.html portal="thirdparty" %}
