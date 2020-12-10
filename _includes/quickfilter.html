@@ -62,6 +62,12 @@
 
   function idleSave() {
     var t;
+    
+
+    function saveSearchParamToHistory() {
+        const qfInput = document.querySelector("#search");
+        writeSearchToHistory.call(qfInput)
+    }
     window.onload = resetIdleTimer;
     window.onmousemove = resetIdleTimer;
     window.onmousedown = resetIdleTimer;  // catches touchscreen presses as well      
@@ -70,21 +76,20 @@
     window.onkeydown = resetIdleTimer;   
     window.addEventListener('scroll', resetIdleTimer, true); // improved; see comments
 
-    function saveSearchParamToHistory() {
-      const qfInput = document.querySelector("#search");
-
+    
+    
+    function resetIdleTimer() {
+        clearTimeout(t);
+        t = setTimeout(saveSearchParamToHistory, 5000);  // time is in milliseconds
+    }
+    function writeSearchToHistory() {
       let theURL    = new URL(window.location.toString());             
       theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
       theURL.searchParams.set( "search", this.value );
 
-      if (qfInput.value !== (theURL.href)){
+      if (window.location.toString() !== (theURL.href)){
         window.history.replaceState({},'',theURL.href)
       }
-    }
-
-    function resetIdleTimer() {
-        clearTimeout(t);
-        t = setTimeout(saveSearchParamToHistory, 50000);  // time is in milliseconds
     }
 }
 idleSave();
