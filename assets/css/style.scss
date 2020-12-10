@@ -46,14 +46,23 @@
   flex: 0 0 100%;
 }
 
+.portal-name:hover > .portal-add {
+  display: unset;
+}
+
 .portal-details {
   display: flex; 
   justify-content: right;
   text-overflow: ellipsis;
   overflow: hidden; 
   white-space: nowrap;
-
 }
+
+.portal-add {
+  display: none;
+  cursor: pointer;
+}
+
 .portal-url {
   text-overflow: ellipsis;
   overflow: hidden; 
