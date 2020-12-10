@@ -1,11 +1,16 @@
 <form style="margin: 0; padding: 0; display: inline">
-  <label for="quickfilter" style="display:none" >Quick Filter:</label>
-  <input id="quickfilter" name="quickfilter" class="quickfilter" type="text" placeholder="Quick Filter" />
+  <label for="search" style="display:none" >Quick Filter:</label>
+  <input id="search" name="quickfilter" class="quickfilter" type="text" placeholder="Quick Filter" />
 </form>
 
 <script type="text/javascript">
   function showOnlyMatchedPortals() {
     query = this.value;
+    
+    let theURL    = new URL('https://dummy.com');             // create dummy url
+    theURL.search = window.location.hash.substring(1);        // copy current hash-parameters without the '#' AS search-parameters
+    theURL.searchParams.set( "search", this.value );
+    window.location.hash    = theURL.searchParams.toString();  
 
     Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
       // Remove individual portal entries
@@ -60,9 +65,14 @@
   }
 
   window.onload = function () {
-    const qfInput = document.querySelector(".quickfilter");
+    const qfInput = document.querySelector("#search");
     qfInput.addEventListener("change", showOnlyMatchedPortals);
     qfInput.addEventListener("keyup", showOnlyMatchedPortals);
     qfInput.focus();
+    
+    let theURL    = new URL('https://dummy.com');             // create dummy url
+    theURL.search = window.location.hash.substring(1);        // copy current hash-parameters without the '#' AS search-parameters
+    qfInput.value = theURL.searchParams.get("search")
+    showOnlyMatchedPortals.call(qfInput);
   };
 </script>
