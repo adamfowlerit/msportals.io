@@ -10,7 +10,7 @@
     let theURL    = new URL(window.location.toString());             // create dummy url
     theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
     theURL.searchParams.set( "search", this.value );
-    window.history.pushState({path:theURL.href},'',theURL.href)
+    window.history.replaceState({path:theURL.href},'',theURL.href)
 
     Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
       // Remove individual portal entries
