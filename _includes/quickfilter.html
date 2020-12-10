@@ -6,11 +6,11 @@
 <script type="text/javascript">
   function showOnlyMatchedPortals() {
     query = this.value;
-    
+
     let theURL    = new URL('https://dummy.com');             // create dummy url
-    theURL.search = window.location.hash.substring(1);        // copy current hash-parameters without the '#' AS search-parameters
+    theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
     theURL.searchParams.set( "search", this.value );
-    window.location.hash    = theURL.searchParams.toString();  
+    window.location.search    = theURL.searchParams.toString();  
 
     Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
       // Remove individual portal entries
@@ -71,7 +71,7 @@
     qfInput.focus();
     
     let theURL    = new URL('https://dummy.com');             // create dummy url
-    theURL.search = window.location.hash.substring(1);        // copy current hash-parameters without the '#' AS search-parameters
+    theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
     qfInput.value = theURL.searchParams.get("search")
     showOnlyMatchedPortals.call(qfInput);
   };
