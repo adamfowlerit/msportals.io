@@ -46,10 +46,11 @@
           <a href="{{ site.baseurl }}/saved" class="btn btn-github"><span class="icon"></span>Saved</a>
           <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span class="icon"></span>GitHub</a>
           <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
-            {% if page.title contains "Portals" %}
-            {% include quickfilter.html %}
-          {% endif %}
         </section>
+        {% if page.title contains "Portals" %}
+        {% include quickfilter.html %}
+      {% endif %}
+
       </div>
     </header>
 
