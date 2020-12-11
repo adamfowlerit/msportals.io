@@ -116,7 +116,7 @@ function generateSavedLinksHTML() {
     );
   } else {
     document.getElementsByClassName("entry")[0].innerHTML = "You haven't added any links for your favorites page.<br/>"
-    document.getElementsByClassName("entry")[0].innerHTML += "Click the <span style='color: red;'>❤</span> symbol when you hover over a portal name to add some, then come back!<br/>";
+    document.getElementsByClassName("entry")[0].innerHTML += "Click the <span style='color: red;'>❤</span> when you hover over a portal name to add some, then come back!<br/>";
   }
 }
 
