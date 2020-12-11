@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Non-IT Support Community: Microsoft Community Discord"
+    url: https://discord.com/invite/microsoft
+    about: Have a question on how to use something or where a portal is for Non-IT Administrators - you may want to try the Microsoft Community Discord
+  - name: "IT Admin Support Community: WinAdmins IT Discord"
+    url: https://discord.com/invite/winadmins
+    about: If you would rather chat with other IT Professionals, you might prefer this community
+  - name: "Official Support Channels"
+    url: http://support.microsoft.com/
+    about: All resources in this repo, msportals.xyz, and the Discord Communities linked above are completely volunteer based and not official support channels. If you need official support for something or want to "Open a ticket with Microsoft" then you can check with your IT Administrator or this page should help you find the correct area. 
