@@ -31,88 +31,94 @@ function writeArrayToLocalStorage(key, arr) {
 
 function generatePersonalLinksHTML() {
   let personalLinks = readLocalStorageToArray(personalLinksKey);
-  let groups = new Set(personalLinks.map((i) => i.groupName));
 
-  groups.forEach((group) => {
-    let groupPortals = personalLinks.filter(
-      (portal) => portal.groupName === group
-    );
+  if (personalLinks.length > 0) {
+    let groups = new Set(personalLinks.map((i) => i.groupName));
 
-    let portalGroup = document.createElement("div");
-    portalGroup.classList = "portal-group";
-    document.getElementsByClassName("entry")[0].appendChild(portalGroup);
+    groups.forEach((group) => {
+      let groupPortals = personalLinks.filter(
+        (portal) => portal.groupName === group
+      );
 
-    let heading = document.createElement("h2");
-    heading.innerText = groupPortals[0].groupName;
-    portalGroup.appendChild(heading);
+      let portalGroup = document.createElement("div");
+      portalGroup.classList = "portal-group";
+      document.getElementsByClassName("entry")[0].appendChild(portalGroup);
 
-    groupPortals.forEach((portal) => {
-      portalRow = document.createElement("div");
-      portalRow.classList = "portal";
+      let heading = document.createElement("h2");
+      heading.innerText = groupPortals[0].groupName;
+      portalGroup.appendChild(heading);
 
-      portalRowName = document.createElement("span");
-      portalRowName.classList = "portal-name";
+      groupPortals.forEach((portal) => {
+        portalRow = document.createElement("div");
+        portalRow.classList = "portal";
 
-      portalRemove = document.createElement("span");
-      portalRemove.classList = "portal-remove";
-      portalRemove.dataset.href = portal.primaryURL;
-      portalRemove.innerText = "➖ ";
+        portalRowName = document.createElement("span");
+        portalRowName.classList = "portal-name";
 
-      portalRowName.appendChild(portalRemove);
-      portalRowName.innerHTML += portal.portalName;
+        portalRemove = document.createElement("span");
+        portalRemove.classList = "portal-remove";
+        portalRemove.dataset.href = portal.primaryURL;
+        portalRemove.innerText = "➖ ";
 
-      portalRow.appendChild(portalRowName);
-      portalGroup.appendChild(portalRow);
+        portalRowName.appendChild(portalRemove);
+        portalRowName.innerHTML += portal.portalName;
 
-      if (portal.note) {
-        portalNote = document.createElement("span");
-        portalNote.classList = "portal-note";
-        portalNote.innerHTML = "&ensp;" + portal.note;
-        portalRowName.appendChild(portalNote);
-      }
+        portalRow.appendChild(portalRowName);
+        portalGroup.appendChild(portalRow);
 
-      portalDetails = document.createElement("div");
-      portalDetails.classList = "portal-details";
+        if (portal.note) {
+          portalNote = document.createElement("span");
+          portalNote.classList = "portal-note";
+          portalNote.innerHTML = "&ensp;" + portal.note;
+          portalRowName.appendChild(portalNote);
+        }
 
-      portalURLSpan = document.createElement("span");
-      portalURLSpan.classList = "portal-url";
+        portalDetails = document.createElement("div");
+        portalDetails.classList = "portal-details";
 
-      portalURL = document.createElement("a");
-      portalURL.href = portal.primaryURL;
-      portalURL.target = "_blank";
-      portalURL.innerText = portal.primaryURL;
+        portalURLSpan = document.createElement("span");
+        portalURLSpan.classList = "portal-url";
 
-      portalURLSpan.appendChild(portalURL);
-      portalDetails.appendChild(portalURLSpan);
+        portalURL = document.createElement("a");
+        portalURL.href = portal.primaryURL;
+        portalURL.target = "_blank";
+        portalURL.innerText = portal.primaryURL;
 
-      if (portal.secondaryURLs) {
-        portalSecondaryURLs = document.createElement("span");
-        portalSecondaryURLs.classList = "portal-secondary-urls";
-        portalSecondaryURLs.innerHTML = "&ensp;• ";
+        portalURLSpan.appendChild(portalURL);
+        portalDetails.appendChild(portalURLSpan);
 
-        portal.secondaryURLs.forEach((url) => {
-          secondaryURL = document.createElement("a");
-          secondaryURL.href = url.url;
-          secondaryURL.target = "_blank";
-          secondaryURL.innerText = url.icon;
-          portalSecondaryURLs.appendChild(secondaryURL);
-        });
+        if (portal.secondaryURLs) {
+          portalSecondaryURLs = document.createElement("span");
+          portalSecondaryURLs.classList = "portal-secondary-urls";
+          portalSecondaryURLs.innerHTML = "&ensp;• ";
 
-        portalDetails.appendChild(portalSecondaryURLs);
-      }
+          portal.secondaryURLs.forEach((url) => {
+            secondaryURL = document.createElement("a");
+            secondaryURL.href = url.url;
+            secondaryURL.target = "_blank";
+            secondaryURL.innerText = url.icon;
+            portalSecondaryURLs.appendChild(secondaryURL);
+          });
 
-      portalRow.appendChild(portalDetails);
+          portalDetails.appendChild(portalSecondaryURLs);
+        }
+
+        portalRow.appendChild(portalDetails);
+      });
     });
-  });
 
-  Array.from(document.getElementsByClassName("portal-remove")).forEach((e) =>
-    e.addEventListener("click", (event) => {
-      let removePortalURL = event.target.dataset.href;
-      removeLinkFromLocalStorage(removePortalURL);
-      removePersonalLinksHTML();
-      generatePersonalLinksHTML();
-    })
-  );
+    Array.from(document.getElementsByClassName("portal-remove")).forEach((e) =>
+      e.addEventListener("click", (event) => {
+        let removePortalURL = event.target.dataset.href;
+        removeLinkFromLocalStorage(removePortalURL);
+        removePersonalLinksHTML();
+        generatePersonalLinksHTML();
+      })
+    );
+  } else {
+    document.getElementsByClassName("entry")[0].innerHTML = "You haven't added any links for your personal page.<br/>"
+    document.getElementsByClassName("entry")[0].innerHTML += "Use the ➕ symbol when you hover over a portal name to add some, then come back!<br/>";
+  }
 }
 
 function removePersonalLinksHTML() {
