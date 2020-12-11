@@ -50,6 +50,10 @@
   display: unset;
 }
 
+.portal-name:hover > .portal-remove {
+  display: unset;
+}
+
 .portal-details {
   display: flex; 
   justify-content: right;
@@ -59,6 +63,11 @@
 }
 
 .portal-add {
+  display: none;
+  cursor: pointer;
+}
+
+.portal-remove {
   display: none;
   cursor: pointer;
 }
