@@ -141,10 +141,6 @@
             "icon": "🔁",
             "url": "http://aka.ms/azconfig/portal"
           },
-          {
-            "icon": "🏢",
-            "url": "https://portal.azure.us/"
-          }
         ]
       },
       {
