@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Personal Links
+title: Saved Links
 ---
 
 <script type="text/javascript">
-    generatePersonalLinksHTML()
+    generateSavedLinksHTML()
 </script>

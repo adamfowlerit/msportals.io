@@ -1,23 +1,22 @@
-const personalLinksKey = "personalLinks";
+const savedLinksKey = "savedLinks";
 
 function addLinkToLocalStorage(newLink) {
-  console.log(newLink);
-  let personalLinks = readLocalStorageToArray(personalLinksKey);
-  if (personalLinks === null) {
-    personalLinks = [newLink];
+  let savedLinks = readLocalStorageToArray(savedLinksKey);
+  if (savedLinks === null) {
+    savedLinks = [newLink];
   } else {
-    personalLinks.push(newLink);
+    savedLinks.push(newLink);
   }
 
-  writeArrayToLocalStorage(personalLinksKey, personalLinks);
+  writeArrayToLocalStorage(savedLinksKey, savedLinks);
 }
 
 function removeLinkFromLocalStorage(link) {
-  currentLinks = readLocalStorageToArray(personalLinksKey);
+  currentLinks = readLocalStorageToArray(savedLinksKey);
   newLinks = currentLinks.filter((portal) => {
     return portal.primaryURL != link;
   });
-  writeArrayToLocalStorage(personalLinksKey, newLinks);
+  writeArrayToLocalStorage(savedLinksKey, newLinks);
 }
 
 function readLocalStorageToArray(key) {
@@ -29,14 +28,14 @@ function writeArrayToLocalStorage(key, arr) {
   localStorage.setItem(key, JSON.stringify(arr));
 }
 
-function generatePersonalLinksHTML() {
-  let personalLinks = readLocalStorageToArray(personalLinksKey);
+function generateSavedLinksHTML() {
+  let savedLinks = readLocalStorageToArray(savedLinksKey);
 
-  if (personalLinks.length > 0) {
-    let groups = new Set(personalLinks.map((i) => i.groupName));
+  if (savedLinks != null && savedLinks.length > 0) {
+    let groups = new Set(savedLinks.map((i) => i.groupName));
 
     groups.forEach((group) => {
-      let groupPortals = personalLinks.filter(
+      let groupPortals = savedLinks.filter(
         (portal) => portal.groupName === group
       );
 
@@ -111,16 +110,16 @@ function generatePersonalLinksHTML() {
       e.addEventListener("click", (event) => {
         let removePortalURL = event.target.dataset.href;
         removeLinkFromLocalStorage(removePortalURL);
-        removePersonalLinksHTML();
-        generatePersonalLinksHTML();
+        removeSavedLinksHTML();
+        generateSavedLinksHTML();
       })
     );
   } else {
-    document.getElementsByClassName("entry")[0].innerHTML = "You haven't added any links for your personal page.<br/>"
+    document.getElementsByClassName("entry")[0].innerHTML = "You haven't added any links for your saved page.<br/>"
     document.getElementsByClassName("entry")[0].innerHTML += "Use the ➕ symbol when you hover over a portal name to add some, then come back!<br/>";
   }
 }
 
-function removePersonalLinksHTML() {
+function removeSavedLinksHTML() {
   document.getElementsByClassName("entry")[0].innerHTML = "";
 }
