@@ -68,9 +68,17 @@
   color: red;
 }
 
+.portal-add:active {
+  color: #b5e853;
+}
+
 .portal-remove {
   display: none;
   cursor: pointer;
+}
+
+.portal-remove:active {
+  color: #b5e853;
 }
 
 .portal-url {
