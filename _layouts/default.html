@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" type="image/png" href="/images/O365_Admin_Green.png"/>
+    <script src="/assets/js/favorites.js"></script>
     <meta property="og:image:url" content="https://msportals.xyz/images/O365_Admin_Green.png" />
     <meta property="og:image:width" content="400px" />
     <meta property="og:image:height" content="400px" />
@@ -42,12 +43,14 @@
           <a href="{{ site.baseurl }}/userportals" class="btn btn-github"><span class="icon"></span>End User</a>
           <a href="{{ site.baseurl }}/3rdparty" class="btn btn-github"><span class="icon"></span>3rd Party</a>
           <a href="{{ site.baseurl }}/usgovt" class="btn btn-github"><span class="icon"></span>US Govt</a>
+          <a href="{{ site.baseurl }}/favorites" class="btn btn-github"><span class="icon"></span>Favorites</a>
           <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span class="icon"></span>GitHub</a>
           <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
-            {% if page.title contains "Portals" %}
-            {% include quickfilter.html %}
-          {% endif %}
         </section>
+        {% if page.title contains "Portals" %}
+        {% include quickfilter.html %}
+      {% endif %}
+
       </div>
     </header>
 

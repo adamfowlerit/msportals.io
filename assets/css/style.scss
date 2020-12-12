@@ -14,7 +14,7 @@
   padding: 10px;
   margin: 10px 0;
   border-width: 0 0 1px;
-  width: 35%;
+  width: 70%;
   border-color: #b5e853;
   border-style: solid;
   background-color: transparent;
@@ -46,14 +46,41 @@
   flex: 0 0 100%;
 }
 
+.portal-name:hover > .portal-add {
+  display: unset;
+}
+
+.portal-name:hover > .portal-remove {
+  display: unset;
+}
+
 .portal-details {
   display: flex; 
   justify-content: right;
   text-overflow: ellipsis;
   overflow: hidden; 
   white-space: nowrap;
-
 }
+
+.portal-add {
+  display: none;
+  cursor: pointer;
+  color: red;
+}
+
+.portal-add:active {
+  color: #b5e853;
+}
+
+.portal-remove {
+  display: none;
+  cursor: pointer;
+}
+
+.portal-remove:active {
+  color: #b5e853;
+}
+
 .portal-url {
   text-overflow: ellipsis;
   overflow: hidden; 
@@ -76,7 +103,6 @@
 
 @media (min-width: 1024px) {
   .quickfilter {
-    float: right;
     width: 25%;
   }
 
