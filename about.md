@@ -24,13 +24,13 @@ Project set up and owned by [Adam Fowler](https://adamfowlerit.com).
 
 Big thanks to those who have contributed:
 
+- [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again, and continues to add a lot to this site.
+
+- [mdjx](https://xkln.net) for creating the filter which is even better than Ctrl + F, adding the Favourites section and a bunch of other improvements!
+
 - [Karl Cooke](https://twitter.com/Karl_ITNerd) has been doing most of the coding and building of this site, and threw himself into making this a lot better than I could have.
 
-- [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again.
-
 - [Robert Crane](https://twitter.com/directorcia) who already had quite a good plain text list of admin portals and let me check against it.
-
-- [mdjx](https://twitter.com/mdjxkln) for creating the filter which is even better than Ctrl + F!
 
 - Users at the [WinAdmins Discord](https://winadmins.io/discord) who've provided feedback and a bunch of extra links; special mentions to 0x80070005 (Graeme Bray), krbtgt, and dec.
 
