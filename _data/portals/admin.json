@@ -61,10 +61,6 @@
         "primaryURL": "https://partner.microsoft.com/dashboard/"
       },
       {
-        "portalName": "Microsoft Remote Connectivity Analyzer",
-        "primaryURL": "https://testconnectivity.microsoft.com"
-      },
-      {
         "portalName": "Microsoft Store for Business",
         "primaryURL": "https://businessstore.microsoft.com"
       },
@@ -395,6 +391,10 @@
       {
         "portalName": "Microsoft MVP",
         "primaryURL": "https://mvp.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Remote Connectivity Analyzer",
+        "primaryURL": "https://testconnectivity.microsoft.com"
       },
       {
         "portalName": "Microsoft Startups",
