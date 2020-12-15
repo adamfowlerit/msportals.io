@@ -289,6 +289,12 @@
       {
         "portalName": "Microsoft Defender for Endpoints",
         "primaryURL": "https://securitycenter.windows.com",
+        "secondaryURLs": [
+        {
+          "icon": "🔁",
+          "url": "https://aka.ms/MDATPportal"
+        }
+    ],
         "note": "Previously Defender ATP"
       },
       {
