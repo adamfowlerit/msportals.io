@@ -300,6 +300,12 @@
       {
         "portalName": "Microsoft Defender for Identity",
         "primaryURL": "https://portal.atp.azure.com",
+            "secondaryURLs": [
+        {
+        "icon": "🔁",
+        "url": "https://aka.ms/AATPportal"
+        }
+    ],
         "note": "Previously Azure ATP"
       },
       {
