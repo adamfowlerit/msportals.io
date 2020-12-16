@@ -83,6 +83,10 @@
         ]
       },
       {
+        "portalName": "Microsoft Teams Rooms Managed Services",
+        "primaryURL": "https://portal.rooms.microsoft.com/"
+      },
+      {
         "portalName": "MileIQ Admin Center",
         "primaryURL": "https://admin.mileiq.com"
       },
