@@ -3,8 +3,16 @@
     "groupName": "3rd Party Portals",
     "portals": [
       {
+        "portalName": "ChangeWindows",
+        "primaryURL": "https://changewindows.org/"
+      },      
+      {
         "portalName": "Message Header Analyzer",
         "primaryURL": "https://mha.azurewebsites.net"
+      },
+      {
+        "portalName": "Microsoft Mac Downloads",
+        "primaryURL": "https://macadmins.software/"
       },
       {
         "portalName": "Office 365 ATP Safe Links Decoder",
