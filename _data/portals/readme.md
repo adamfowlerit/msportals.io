@@ -6,10 +6,10 @@ We are currently making our web-pages from JSON files, our current JSON Portal s
 
 | Website Page                                              | JSON Source                                            |
 |---------------------------------------------------------- |------------------------------------------------------- |
-| [Home page / Admin Links](https://msportals.xyz/)         | [Home page / Admin JSON](./_data/portals/admin.json)   |
-| [3rd Party Links](https://msportals.xyz/3rdparty)         | [3rd Party JSON](./_data/portals/thirdparty.json)      |
-| [US Government Links](https://msportals.xyz/usgovt)       | [US Government JSON](./_data/portals/us-govt.json)     |
-| [End User Links/Apps](https://msportals.xyz/userportals)  | [End User JSON](./_data/portals/user.json)             |
+| [Home page / Admin Links](https://msportals.io/)         | [Home page / Admin JSON](./_data/portals/admin.json)   |
+| [3rd Party Links](https://msportals.io/3rdparty)         | [3rd Party JSON](./_data/portals/thirdparty.json)      |
+| [US Government Links](https://msportals.io/usgovt)       | [US Government JSON](./_data/portals/us-govt.json)     |
+| [End User Links/Apps](https://msportals.io/userportals)  | [End User JSON](./_data/portals/user.json)             |
 
 ## Fields ##
 
@@ -52,4 +52,4 @@ Example: The new versus old Exchange Portals shown below.
 
 ## Additional context ##
 
-Suggestions or context for the portals? If you are not certain about how to configure this, you may wish to create a [New Issue](https://github.com/adamfowlerit/msportals.xyz/issues/new/choose) instead.
+Suggestions or context for the portals? If you are not certain about how to configure this, you may wish to create a [New Issue](https://github.com/adamfowlerit/msportals.io/issues/new/choose) instead.
