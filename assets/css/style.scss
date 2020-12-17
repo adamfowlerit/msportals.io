@@ -101,6 +101,22 @@
   font-style: italic;
 }
 
+.btn-aka-ms {
+  display: inline;
+  padding: 2px 6px;
+  margin: 4px 0px;
+  background: rgba(0,120,212,0.9);
+  border-radius: 50px;
+  border: 2px solid rgba(0,0,0,0.7);
+  color: rgba(255,255,255,0.8);
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  text-decoration: none;
+  text-shadow: 1px 1px #000000;
+  box-shadow: 0 1px #444444;
+}
+
 @media (min-width: 1024px) {
   .quickfilter {
     width: 25%;

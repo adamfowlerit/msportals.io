@@ -42,7 +42,7 @@ Example: The new versus old Exchange Portals shown below.
     "primaryURL": "https://securitycenter.windows.com",
     "secondaryURLs": [
           {
-          "icon": "🔁",
+          "icon": "aka.ms",
           "url": "https://aka.ms/MDATPportal"
           }
         ],
