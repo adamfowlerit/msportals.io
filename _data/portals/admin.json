@@ -7,7 +7,7 @@
         "primaryURL": "https://admin.microsoft.com",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/admincenter"
           }
         ]
@@ -77,7 +77,7 @@
         "primaryURL": "https://admin.teams.microsoft.com",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/teamsadmincenter"
           }
         ]
@@ -138,7 +138,7 @@
         "shortURL": "",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "http://aka.ms/azconfig/portal"
           },
         ]
@@ -291,7 +291,7 @@
         "primaryURL": "https://securitycenter.windows.com",
         "secondaryURLs": [
         {
-          "icon": "🔁",
+          "icon": "aka.ms",
           "url": "https://aka.ms/MDATPportal"
         }
     ],
@@ -302,7 +302,7 @@
         "primaryURL": "https://portal.atp.azure.com",
             "secondaryURLs": [
         {
-        "icon": "🔁",
+        "icon": "aka.ms",
         "url": "https://aka.ms/AATPportal"
         }
     ],
@@ -367,7 +367,7 @@
         "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI/",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/traincertposter"
           }
         ]
@@ -413,7 +413,7 @@
         "primaryURL": "https://uifabricicons.azurewebsites.net/",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/fluentui-icons"
           }
         ]
@@ -431,7 +431,7 @@
         "primaryURL": "https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/VideoHub"
           }
         ]

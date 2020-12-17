@@ -11,7 +11,7 @@
         "primaryURL": "https://account.activedirectory.windowsazure.com/AppPasswords.aspx",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/createAppPassword"
           }
         ]
@@ -33,7 +33,7 @@
         "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/mfasetup"
           }
         ]
@@ -102,7 +102,7 @@
         "primaryURL": "https://passwordreset.microsoftonline.com",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/sspr"
           }
         ]
@@ -116,7 +116,7 @@
         "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
         "secondaryURLs": [
           {
-            "icon": "🔁",
+            "icon": "aka.ms",
             "url": "https://aka.ms/wvdweb"
           }
         ]
