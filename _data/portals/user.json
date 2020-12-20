@@ -43,6 +43,10 @@
         "primaryURL": "https://store.office.com/redirect.aspx"
       },
       {
+        "portalName": "Microsoft Intune Web Company Portal",
+        "primaryURL": "https://portal.manage.microsoft.com/"
+      },
+      {
         "portalName": "My Access",
         "primaryURL": "https://myaccess.microsoft.com"
       },
