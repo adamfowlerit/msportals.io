@@ -401,6 +401,14 @@
         "primaryURL": "https://testconnectivity.microsoft.com"
       },
       {
+        "portalName": "Microsoft Security Response Center",
+        "primaryURL": "https://msrc-blog.microsoft.com/",
+            "secondaryURLs": [
+        {
+        "icon": "aka.ms",
+        "url": "https://aka.ms/solorigate"
+        }
+      {
         "portalName": "Microsoft Startups",
         "primaryURL": "https://portal.startups.microsoft.com"
       },
