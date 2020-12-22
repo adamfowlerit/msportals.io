@@ -241,7 +241,11 @@
         "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
       },
       {
-        "portalName": "Windows Virtual Desktop Web Client",
+        "portalName": "Windows Virtual Desktop Web Client (ARM)",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient",
+      },
+      {
+        "portalName": "Windows Virtual Desktop Web Client (Old) ",
         "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
         "secondaryURLs": [
           {
@@ -250,6 +254,7 @@
           }
         ]
       }
+
     ]
   },
 ]
