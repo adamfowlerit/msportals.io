@@ -330,8 +330,22 @@
     "groupName": "Developer Portals",
     "portals": [
       {
-        "portalName": "Adaptive Cards",
-        "primaryURL": "https://adaptivecards.io/"
+        "portalName": "Actionable Messages Developer Dashboard",
+        "primaryURL": "https://outlook.office.com/connectors/oam/publish",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/publishoam"
+          }
+        ]
+      },
+      {
+        "portalName": "Actionable Message Designer",
+        "primaryURL": "https://amdesigner.azurewebsites.net/"
+      },
+      {
+        "portalName": "Adaptive Cards Designer",
+        "primaryURL": "https://adaptivecards.io/designer/"
       },
       {
         "portalName": "Azure DevOps",
@@ -341,6 +355,19 @@
         "portalName": "Graph Explorer",
         "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer"
       },
+      {
+        "portalName": "JWT/MS Token Decoder",
+          "primaryURL": "https://jwt.ms/"
+      },  
+      {
+        "portalName": "Message Card Playground",
+        "primaryURL": "https://messagecardplayground.azurewebsites.net/",
+        "note": "New Tool - Actionable Message Designer"
+      },
+      {
+        "portalName": "Microsoft Graph Toolkit",
+          "primaryURL": "https://mgt.dev/"
+      },  
       {
         "portalName": "Visual Studio Subscriptions",
         "primaryURL": "https://my.visualstudio.com"
@@ -418,6 +445,10 @@
         "primaryURL": "https://sender.office.com"
       },
       {
+        "portalName": "Outlook OAuth Sandbox",
+          "primaryURL": "https://oauthplay.azurewebsites.net/"
+      },
+      {
         "portalName": "Office UI Fabric Icons",
         "primaryURL": "https://uifabricicons.azurewebsites.net/",
         "secondaryURLs": [
@@ -432,7 +463,15 @@
         "primaryURL": "https://runone.powerappsportals.com"
       },
       {
-        "portalName": "Service Trust Portal",
+        "portalName": "PowerBI Embedded Playground",
+        "primaryURL": "https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html"
+    },
+    {
+      "portalName": "Azure Cosmos DB Query Playground",
+        "primaryURL": "https://www.documentdb.com/sql/demo"
+    },
+    {
+      "portalName": "Service Trust Portal",
         "primaryURL": "https://servicetrust.microsoft.com"
       },
       {
