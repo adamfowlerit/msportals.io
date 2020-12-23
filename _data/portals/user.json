@@ -1,129 +1,5 @@
 [
   {
-    "groupName": "End User Portals - General",
-    "portals": [
-      {
-        "portalName": "Additional Security Information",
-        "primaryURL": "https://account.activedirectory.windowsazure.com"
-      },
-      {
-        "portalName": "App Passwords",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/AppPasswords.aspx",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/createAppPassword"
-          }
-        ]
-      },
-      {
-        "portalName": "Change Password",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
-      },
-      {
-        "portalName": "Converged MFA & SSPR Portal",
-        "primaryURL": "https://aka.ms/mysecurityinfo/"
-      },
-      {
-        "portalName": "Cloud Voicemail",
-        "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
-      },
-      {
-        "portalName": "MFA Setup",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/mfasetup"
-          }
-        ]
-      },
-      {
-        "portalName": "Microsoft AppSource",
-        "primaryURL": "https://store.office.com/redirect.aspx"
-      },
-      {
-        "portalName": "My Access",
-        "primaryURL": "https://myaccess.microsoft.com"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://account.microsoft.com",
-        "note": "Consumer"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://myaccount.microsoft.com",
-        "note": "Option 1"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://myworkaccount.microsoft.com",
-        "note": "Option 2"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://myprofile.microsoft.com",
-        "note": "Option 3"
-      },
-      {
-        "portalName": "My Apps",
-        "primaryURL": "https://account.activedirectory.windowsazure.com",
-        "note": "Option 1"
-      },
-      {
-        "portalName": "My Apps",
-        "primaryURL": "https://myapplications.microsoft.com",
-        "note": "Option 2"
-      },
-      {
-        "portalName": "My Apps",
-        "primaryURL": "https://myapps.microsoft.com",
-        "note": "Option 3"
-      },
-      {
-        "portalName": "My Groups",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups"
-      },
-      {
-        "portalName": "My Sign-Ins",
-        "primaryURL": "https://mysignins.microsoft.com"
-      },
-      {
-        "portalName": "Office 365 Apps",
-        "primaryURL": "https://www.office.com/apps"
-      },
-      {
-        "portalName": "Office 365 Security & Compliance - Quarantined",
-        "primaryURL": "https://protection.office.com/quarantine"
-      },
-      {
-        "portalName": "Self Service Password Reset / Forgot Password",
-        "primaryURL": "https://passwordreset.microsoftonline.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/sspr"
-          }
-        ]
-      },
-      {
-        "portalName": "Self Service Password Reset Setup",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
-      },
-      {
-        "portalName": "Windows Virtual Desktop Web Client",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/wvdweb"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "groupName": "End User Portals - Microsoft 365 Apps",
     "portals": [
       {
@@ -246,6 +122,139 @@
         "portalName": "Yammer",
         "primaryURL": "https://www.yammer.com"
       }
+    ]
+  },
+    {
+    "groupName": "End User Portals - General",
+    "portals": [
+      {
+        "portalName": "Additional Security Information",
+        "primaryURL": "https://account.activedirectory.windowsazure.com"
+      },
+      {
+        "portalName": "App Passwords",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/AppPasswords.aspx",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/createAppPassword"
+          }
+        ]
+      },
+      {
+        "portalName": "Change Password",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
+      },
+      {
+        "portalName": "Converged MFA & SSPR Portal",
+        "primaryURL": "https://aka.ms/mysecurityinfo/"
+      },
+      {
+        "portalName": "Cloud Voicemail",
+        "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
+      },
+      {
+        "portalName": "MFA Setup",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mfasetup"
+          }
+        ]
+      },
+      {
+        "portalName": "Microsoft AppSource",
+        "primaryURL": "https://store.office.com/redirect.aspx"
+      },
+      {
+        "portalName": "Microsoft Intune Web Company Portal",
+        "primaryURL": "https://portal.manage.microsoft.com/"
+      },
+      {
+        "portalName": "My Access",
+        "primaryURL": "https://myaccess.microsoft.com"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://account.microsoft.com",
+        "note": "Consumer"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://myaccount.microsoft.com",
+        "note": "Option 1"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://myworkaccount.microsoft.com",
+        "note": "Option 2"
+      },
+      {
+        "portalName": "My Account",
+        "primaryURL": "https://myprofile.microsoft.com",
+        "note": "Option 3"
+      },
+      {
+        "portalName": "My Apps",
+        "primaryURL": "https://account.activedirectory.windowsazure.com",
+        "note": "Option 1"
+      },
+      {
+        "portalName": "My Apps",
+        "primaryURL": "https://myapplications.microsoft.com",
+        "note": "Option 2"
+      },
+      {
+        "portalName": "My Apps",
+        "primaryURL": "https://myapps.microsoft.com",
+        "note": "Option 3"
+      },
+      {
+        "portalName": "My Groups",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups"
+      },
+      {
+        "portalName": "My Sign-Ins",
+        "primaryURL": "https://mysignins.microsoft.com"
+      },
+      {
+        "portalName": "Office 365 Apps",
+        "primaryURL": "https://www.office.com/apps"
+      },
+      {
+        "portalName": "Office 365 Security & Compliance - Quarantined",
+        "primaryURL": "https://protection.office.com/quarantine"
+      },
+      {
+        "portalName": "Self Service Password Reset / Forgot Password",
+        "primaryURL": "https://passwordreset.microsoftonline.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sspr"
+          }
+        ]
+      },
+      {
+        "portalName": "Self Service Password Reset Setup",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
+      },
+      {
+        "portalName": "Windows Virtual Desktop Web Client (ARM)",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient"
+      },
+      {
+        "portalName": "Windows Virtual Desktop Web Client (Old) ",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/wvdweb"
+          }
+        ]
+      }
+
     ]
   }
 ]
