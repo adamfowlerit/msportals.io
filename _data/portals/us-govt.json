@@ -29,7 +29,7 @@
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm.microsoftdynamics.us/G/Instances/InstancePicker.aspx",
         "note": "GCC High"
-      }
+      },
       {
         "portalName": "Microsoft Azure Active Directory Portal",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
