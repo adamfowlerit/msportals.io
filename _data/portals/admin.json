@@ -19,12 +19,12 @@
       {
         "portalName": "Exchange Admin Center",
         "primaryURL": "https://admin.exchange.microsoft.com",
-        "note" : "New"
+        "note": "New"
       },
       {
         "portalName": "Exchange Admin Center",
         "primaryURL": "https://outlook.office365.com/ecp/",
-        "note" : "Old"
+        "note": "Old"
       },
       {
         "portalName": "Kaizala Management Portal",
@@ -49,7 +49,7 @@
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
         "primaryURL": "https://rc-devicemanagement.portal.azure.com",
-        "note" : "Release Candidate"
+        "note": "Release Candidate"
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
@@ -121,7 +121,7 @@
       {
         "portalName": "Skype for Business admin center",
         "primaryURL": "https://webdir2a.online.lync.com/LSCP",
-        "note":  "Deprecated"
+        "note": "Deprecated"
       },
       {
         "portalName": "Yammer Admin",
@@ -180,7 +180,7 @@
       {
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
-        "note":"Raw"
+        "note": "Raw"
       }
     ]
   },
@@ -290,22 +290,22 @@
         "portalName": "Microsoft Defender for Endpoints",
         "primaryURL": "https://securitycenter.windows.com",
         "secondaryURLs": [
-        {
-          "icon": "aka.ms",
-          "url": "https://aka.ms/MDATPportal"
-        }
-    ],
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/MDATPportal"
+          }
+        ],
         "note": "Previously Defender ATP"
       },
       {
         "portalName": "Microsoft Defender for Identity",
         "primaryURL": "https://portal.atp.azure.com",
-            "secondaryURLs": [
-        {
-        "icon": "aka.ms",
-        "url": "https://aka.ms/AATPportal"
-        }
-    ],
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/AATPportal"
+          }
+        ],
         "note": "Previously Azure ATP"
       },
       {
@@ -330,8 +330,22 @@
     "groupName": "Developer Portals",
     "portals": [
       {
-        "portalName": "Adaptive Cards",
-        "primaryURL": "https://adaptivecards.io/"
+        "portalName": "Actionable Messages Developer Dashboard",
+        "primaryURL": "https://outlook.office.com/connectors/oam/publish",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/publishoam"
+          }
+        ]
+      },
+      {
+        "portalName": "Actionable Message Designer",
+        "primaryURL": "https://amdesigner.azurewebsites.net/"
+      },
+      {
+        "portalName": "Adaptive Cards Designer",
+        "primaryURL": "https://adaptivecards.io/designer/"
       },
       {
         "portalName": "Azure DevOps",
@@ -340,6 +354,19 @@
       {
         "portalName": "Graph Explorer",
         "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer"
+      },
+      {
+        "portalName": "JWT/MS Token Decoder",
+        "primaryURL": "https://jwt.ms/"
+      },
+      {
+        "portalName": "Message Card Playground",
+        "primaryURL": "https://messagecardplayground.azurewebsites.net/",
+        "note": "New Tool - Actionable Message Designer"
+      },
+      {
+        "portalName": "Microsoft Graph Toolkit",
+        "primaryURL": "https://mgt.dev/"
       },
       {
         "portalName": "Visual Studio Subscriptions",
@@ -403,11 +430,12 @@
       {
         "portalName": "Microsoft Security Response Center",
         "primaryURL": "https://msrc-blog.microsoft.com/",
-            "secondaryURLs": [
-        {
-        "icon": "aka.ms",
-        "url": "https://aka.ms/solorigate"
-        }]
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/solorigate"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Startups",
@@ -416,6 +444,10 @@
       {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
         "primaryURL": "https://sender.office.com"
+      },
+      {
+        "portalName": "Outlook OAuth Sandbox",
+        "primaryURL": "https://oauthplay.azurewebsites.net/"
       },
       {
         "portalName": "Office UI Fabric Icons",
@@ -430,6 +462,14 @@
       {
         "portalName": "PowerApps Unified Interface Transition Portal",
         "primaryURL": "https://runone.powerappsportals.com"
+      },
+      {
+        "portalName": "PowerBI Embedded Playground",
+        "primaryURL": "https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html"
+      },
+      {
+        "portalName": "Azure Cosmos DB Query Playground",
+        "primaryURL": "https://www.documentdb.com/sql/demo"
       },
       {
         "portalName": "Service Trust Portal",
@@ -460,6 +500,3 @@
     ]
   }
 ]
-
-
-

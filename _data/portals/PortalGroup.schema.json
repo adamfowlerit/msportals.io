@@ -1,238 +1,238 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "http://example.com/example.json",
-    "type": "array",
-    "title": "The root schema",
-    "description": "The root schema comprises the entire JSON document.",
-    "default": [],
-    "examples": [
-        [
-            {
-                "groupName": "Microsoft 365 Admin Portals",
-                "portals": [
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "array",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": [],
+  "examples": [
+    [
+      {
+        "groupName": "Microsoft 365 Admin Portals",
+        "portals": [
+          {
+            "portalName": "Microsoft 365 Admin Portal",
+            "primaryURL": "https://admin.microsoft.com",
+            "secondaryURLs": [
+              {
+                "icon": "aka.ms",
+                "url": "https://aka.ms/admincenter"
+              }
+            ]
+          },
+          {
+            "portalName": "Microsoft Teams Admin Center",
+            "primaryURL": "https://admin.teams.microsoft.com",
+            "secondaryURLs": [
+              {
+                "icon": "aka.ms",
+                "url": "https://aka.ms/teamsadmincenter"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "additionalItems": true,
+  "items": {
+    "$id": "#/items",
+    "anyOf": [
+      {
+        "$id": "#/items/anyOf/0",
+        "type": "object",
+        "title": "The first anyOf schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": {},
+        "examples": [
+          {
+            "groupName": "Microsoft 365 Admin Portals",
+            "portals": [
+              {
+                "portalName": "Microsoft 365 Admin Portal",
+                "primaryURL": "https://admin.microsoft.com",
+                "secondaryURLs": [
+                  {
+                    "icon": "aka.ms",
+                    "url": "https://aka.ms/admincenter"
+                  }
+                ]
+              },
+              {
+                "portalName": "Microsoft Teams Admin Center",
+                "primaryURL": "https://admin.teams.microsoft.com",
+                "secondaryURLs": [
+                  {
+                    "icon": "aka.ms",
+                    "url": "https://aka.ms/teamsadmincenter"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "required": [
+          "groupName",
+          "portals"
+        ],
+        "properties": {
+          "groupName": {
+            "$id": "#/items/anyOf/0/properties/groupName",
+            "default": "",
+            "description": "A group of Portal Objects to be shown on the webpages. Each Portal Group will be made into a clickable section on the web page. Contains 1 or more Portal Objects. ",
+            "examples": [
+              "Microsoft 365 Admin Portals"
+            ],
+            "title": "The groupName schema",
+            "type": "string"
+          },
+          "portals": {
+            "$id": "#/items/anyOf/0/properties/portals",
+            "default": [],
+            "description": "An array of Portal objects to show under a given PortalGroup. It contains 1 or more Portal objects which will each be made into a portal entry and may have a SecondaryURL defined",
+            "examples": [
+              [
+                {
+                  "portalName": "Microsoft 365 Admin Portal",
+                  "primaryURL": "https://admin.microsoft.com",
+                  "secondaryURLs": [
                     {
-                        "portalName": "Microsoft 365 Admin Portal",
-                        "primaryURL": "https://admin.microsoft.com",
-                        "secondaryURLs": [
-                            {
+                      "icon": "aka.ms",
+                      "url": "https://aka.ms/admincenter"
+                    }
+                  ]
+                },
+                {
+                  "portalName": "Microsoft Teams Admin Center",
+                  "primaryURL": "https://admin.teams.microsoft.com",
+                  "secondaryURLs": [
+                    {
+                      "icon": "aka.ms",
+                      "url": "https://aka.ms/teamsadmincenter"
+                    }
+                  ]
+                }
+              ]
+            ],
+            "title": "The portals schema",
+            "type": "array",
+            "additionalItems": true,
+            "items": {
+              "$id": "#/items/anyOf/0/properties/portals/items",
+              "anyOf": [
+                {
+                  "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0",
+                  "default": {},
+                  "description": "An explanation about the purpose of this instance.",
+                  "examples": [
+                    {
+                      "portalName": "Microsoft 365 Admin Portal",
+                      "primaryURL": "https://admin.microsoft.com",
+                      "secondaryURLs": [
+                        {
+                          "icon": "aka.ms",
+                          "url": "https://aka.ms/admincenter"
+                        }
+                      ]
+                    }
+                  ],
+                  "required": [
+                    "portalName",
+                    "primaryURL"
+                  ],
+                  "title": "The first anyOf schema",
+                  "type": "object",
+                  "properties": {
+                    "portalName": {
+                      "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/portalName",
+                      "default": "",
+                      "description": "The title of the URL shown next to a Portal Link",
+                      "examples": [
+                        "Microsoft 365 Admin Portal"
+                      ],
+                      "title": "The portalName schema",
+                      "type": "string"
+                    },
+                    "primaryURL": {
+                      "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/primaryURL",
+                      "default": "",
+                      "description": "This will be the primary URL for a portal to be shown on the page.",
+                      "examples": [
+                        "https://admin.microsoft.com"
+                      ],
+                      "title": "The primaryURL schema",
+                      "type": "string"
+                    },
+                    "secondaryURLs": {
+                      "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs",
+                      "default": [],
+                      "description": "A secondary URL to show with an object. If defined, it contains 1 or more Secondary URL objects which will each be made into a link button.",
+                      "examples": [
+                        [
+                          {
+                            "icon": "aka.ms",
+                            "url": "https://aka.ms/admincenter"
+                          }
+                        ]
+                      ],
+                      "title": "The secondaryURLs schema",
+                      "type": "array",
+                      "additionalItems": true,
+                      "items": {
+                        "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items",
+                        "anyOf": [
+                          {
+                            "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items/anyOf/0",
+                            "type": "object",
+                            "title": "The first anyOf schema",
+                            "description": "An explanation about the purpose of this instance.",
+                            "default": {},
+                            "examples": [
+                              {
                                 "icon": "aka.ms",
                                 "url": "https://aka.ms/admincenter"
-                            }
-                        ]
-                    },
-                    {
-                        "portalName": "Microsoft Teams Admin Center",
-                        "primaryURL": "https://admin.teams.microsoft.com",
-                        "secondaryURLs": [
-                            {
-                                "icon": "aka.ms",
-                                "url": "https://aka.ms/teamsadmincenter"
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    ],
-    "additionalItems": true,
-    "items": {
-        "$id": "#/items",
-        "anyOf": [
-            {
-                "$id": "#/items/anyOf/0",
-                "type": "object",
-                "title": "The first anyOf schema",
-                "description": "An explanation about the purpose of this instance.",
-                "default": {},
-                "examples": [
-                    {
-                        "groupName": "Microsoft 365 Admin Portals",
-                        "portals": [
-                            {
-                                "portalName": "Microsoft 365 Admin Portal",
-                                "primaryURL": "https://admin.microsoft.com",
-                                "secondaryURLs": [
-                                    {
-                                        "icon": "aka.ms",
-                                        "url": "https://aka.ms/admincenter"
-                                    }
-                                ]
+                              }
+                            ],
+                            "required": [
+                              "icon",
+                              "url"
+                            ],
+                            "properties": {
+                              "icon": {
+                                "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items/anyOf/0/properties/icon",
+                                "default": "",
+                                "description": "The link text that will be applied to the Secondary URL button.",
+                                "examples": [
+                                  "aka.ms"
+                                ],
+                                "title": "The icon schema",
+                                "type": "string"
+                              },
+                              "url": {
+                                "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items/anyOf/0/properties/url",
+                                "default": "",
+                                "description": "The link target that will be applied to the Secondary URL button.",
+                                "examples": [
+                                  "https://aka.ms/admincenter"
+                                ],
+                                "title": "The url schema",
+                                "type": "string"
+                              }
                             },
-                            {
-                                "portalName": "Microsoft Teams Admin Center",
-                                "primaryURL": "https://admin.teams.microsoft.com",
-                                "secondaryURLs": [
-                                    {
-                                        "icon": "aka.ms",
-                                        "url": "https://aka.ms/teamsadmincenter"
-                                    }
-                                ]
-                            }
+                            "additionalProperties": true
+                          }
                         ]
+                      }
                     }
-                ],
-                "required": [
-                    "groupName",
-                    "portals"
-                ],
-                "properties": {
-                    "groupName": {
-                        "$id": "#/items/anyOf/0/properties/groupName",
-                        "default": "",
-                        "description": "A group of Portal Objects to be shown on the webpages. Each Portal Group will be made into a clickable section on the web page. Contains 1 or more Portal Objects. ",
-                        "examples": [
-                            "Microsoft 365 Admin Portals"
-                        ],
-                        "title": "The groupName schema",
-                        "type": "string"
-                    },
-                    "portals": {
-                        "$id": "#/items/anyOf/0/properties/portals",
-                        "default": [],
-                        "description": "An array of Portal objects to show under a given PortalGroup. It contains 1 or more Portal objects which will each be made into a portal entry and may have a SecondaryURL defined",
-                        "examples": [
-                            [
-                                {
-                                    "portalName": "Microsoft 365 Admin Portal",
-                                    "primaryURL": "https://admin.microsoft.com",
-                                    "secondaryURLs": [
-                                        {
-                                            "icon": "aka.ms",
-                                            "url": "https://aka.ms/admincenter"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "portalName": "Microsoft Teams Admin Center",
-                                    "primaryURL": "https://admin.teams.microsoft.com",
-                                    "secondaryURLs": [
-                                        {
-                                            "icon": "aka.ms",
-                                            "url": "https://aka.ms/teamsadmincenter"
-                                        }
-                                    ]
-                                }
-                            ]
-                        ],
-                        "title": "The portals schema",
-                        "type": "array",
-                        "additionalItems": true,
-                        "items": {
-                            "$id": "#/items/anyOf/0/properties/portals/items",
-                            "anyOf": [
-                                {
-                                    "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0",
-                                    "default": {},
-                                    "description": "An explanation about the purpose of this instance.",
-                                    "examples": [
-                                        {
-                                            "portalName": "Microsoft 365 Admin Portal",
-                                            "primaryURL": "https://admin.microsoft.com",
-                                            "secondaryURLs": [
-                                                {
-                                                    "icon": "aka.ms",
-                                                    "url": "https://aka.ms/admincenter"
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "required": [
-                                        "portalName",
-                                        "primaryURL"
-                                    ],
-                                    "title": "The first anyOf schema",
-                                    "type": "object",
-                                    "properties": {
-                                        "portalName": {
-                                            "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/portalName",
-                                            "default": "",
-                                            "description": "The title of the URL shown next to a Portal Link",
-                                            "examples": [
-                                                "Microsoft 365 Admin Portal"
-                                            ],
-                                            "title": "The portalName schema",
-                                            "type": "string"
-                                        },
-                                        "primaryURL": {
-                                            "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/primaryURL",
-                                            "default": "",
-                                            "description": "This will be the primary URL for a portal to be shown on the page.",
-                                            "examples": [
-                                                "https://admin.microsoft.com"
-                                            ],
-                                            "title": "The primaryURL schema",
-                                            "type": "string"
-                                        },
-                                        "secondaryURLs": {
-                                            "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs",
-                                            "default": [],
-                                            "description": "A secondary URL to show with an object. If defined, it contains 1 or more Secondary URL objects which will each be made into a link button.",
-                                            "examples": [
-                                                [
-                                                    {
-                                                        "icon": "aka.ms",
-                                                        "url": "https://aka.ms/admincenter"
-                                                    }
-                                                ]
-                                            ],
-                                            "title": "The secondaryURLs schema",
-                                            "type": "array",
-                                            "additionalItems": true,
-                                            "items": {
-                                                "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items",
-                                                "anyOf": [
-                                                    {
-                                                        "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items/anyOf/0",
-                                                        "type": "object",
-                                                        "title": "The first anyOf schema",
-                                                        "description": "An explanation about the purpose of this instance.",
-                                                        "default": {},
-                                                        "examples": [
-                                                            {
-                                                                "icon": "aka.ms",
-                                                                "url": "https://aka.ms/admincenter"
-                                                            }
-                                                        ],
-                                                        "required": [
-                                                            "icon",
-                                                            "url"
-                                                        ],
-                                                        "properties": {
-                                                            "icon": {
-                                                                "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items/anyOf/0/properties/icon",
-                                                                "default": "",
-                                                                "description": "The link text that will be applied to the Secondary URL button.",
-                                                                "examples": [
-                                                                    "aka.ms"
-                                                                ],
-                                                                "title": "The icon schema",
-                                                                "type": "string"
-                                                            },
-                                                            "url": {
-                                                                "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs/items/anyOf/0/properties/url",
-                                                                "default": "",
-                                                                "description": "The link target that will be applied to the Secondary URL button.",
-                                                                "examples": [
-                                                                    "https://aka.ms/admincenter"
-                                                                ],
-                                                                "title": "The url schema",
-                                                                "type": "string"
-                                                            }
-                                                        },
-                                                        "additionalProperties": true
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    },
-                                    "additionalProperties": true
-                                }
-                            ]
-                        }
-                    }
-                },
-                "additionalProperties": true
+                  },
+                  "additionalProperties": true
+                }
+              ]
             }
-        ]
-    }
+          }
+        },
+        "additionalProperties": true
+      }
+    ]
+  }
 }
