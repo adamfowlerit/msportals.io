@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is pretty new at this stage, and we're working on improving things. If you have feedback or found a site we don't have listed, visit our [GitHub page](https://github.com/adamfowlerit/msportals.xyz) and let us know there.
+This site is pretty new at this stage, and we're working on improving things. If you have feedback or found a site we don't have listed, visit our [GitHub page](https://github.com/adamfowlerit/msportals.io) and let us know there.
 
 ## Q & A
 
@@ -27,6 +27,8 @@ Big thanks to those who have contributed:
 - [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again, and continues to add a lot to this site.
 
 - [mdjx](https://xkln.net) for creating the filter which is even better than Ctrl + F, adding the Favourites section and a bunch of other improvements!
+
+- [SwiftOnSecurity](https://twitter.com/swiftonsecurity] for buying the msportals.io domain and handing it over, as some companies block less common domains such as XYZ which we used to be on.
 
 - [Karl Cooke](https://twitter.com/Karl_ITNerd) has been doing most of the coding and building of this site, and threw himself into making this a lot better than I could have.
 
