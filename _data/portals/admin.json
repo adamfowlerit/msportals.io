@@ -140,7 +140,7 @@
           {
             "icon": "aka.ms",
             "url": "http://aka.ms/azconfig/portal"
-          },
+          }
         ]
       },
       {
@@ -407,7 +407,8 @@
         {
         "icon": "aka.ms",
         "url": "https://aka.ms/solorigate"
-        }
+        }]
+      },
       {
         "portalName": "Microsoft Startups",
         "primaryURL": "https://portal.startups.microsoft.com"

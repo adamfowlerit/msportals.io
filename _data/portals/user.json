@@ -123,7 +123,7 @@
         "primaryURL": "https://www.yammer.com"
       }
     ]
-  }
+  },
     {
     "groupName": "End User Portals - General",
     "portals": [
@@ -242,7 +242,7 @@
       },
       {
         "portalName": "Windows Virtual Desktop Web Client (ARM)",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient"
       },
       {
         "portalName": "Windows Virtual Desktop Web Client (Old) ",
@@ -256,5 +256,5 @@
       }
 
     ]
-  },
+  }
 ]
