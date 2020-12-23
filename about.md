@@ -28,7 +28,7 @@ Big thanks to those who have contributed:
 
 - [mdjx](https://xkln.net) for creating the filter which is even better than Ctrl + F, adding the Favourites section and a bunch of other improvements!
 
-- [SwiftOnSecurity](https://twitter.com/swiftonsecurity] for buying the msportals.io domain and handing it over, as some companies block less common domains such as XYZ which we used to be on.
+- [SwiftOnSecurity](https://twitter.com/swiftonsecurity) for buying the msportals.io domain and handing it over, as some companies block less common domains such as XYZ which we used to be on.
 
 - [Karl Cooke](https://twitter.com/Karl_ITNerd) has been doing most of the coding and building of this site, and threw himself into making this a lot better than I could have.
 
