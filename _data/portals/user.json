@@ -124,7 +124,7 @@
       }
     ]
   },
-    {
+  {
     "groupName": "End User Portals - General",
     "portals": [
       {
@@ -254,7 +254,6 @@
           }
         ]
       }
-
     ]
   }
 ]

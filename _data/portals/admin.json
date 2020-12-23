@@ -19,12 +19,12 @@
       {
         "portalName": "Exchange Admin Center",
         "primaryURL": "https://admin.exchange.microsoft.com",
-        "note" : "New"
+        "note": "New"
       },
       {
         "portalName": "Exchange Admin Center",
         "primaryURL": "https://outlook.office365.com/ecp/",
-        "note" : "Old"
+        "note": "Old"
       },
       {
         "portalName": "Kaizala Management Portal",
@@ -49,7 +49,7 @@
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
         "primaryURL": "https://rc-devicemanagement.portal.azure.com",
-        "note" : "Release Candidate"
+        "note": "Release Candidate"
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
@@ -121,7 +121,7 @@
       {
         "portalName": "Skype for Business admin center",
         "primaryURL": "https://webdir2a.online.lync.com/LSCP",
-        "note":  "Deprecated"
+        "note": "Deprecated"
       },
       {
         "portalName": "Yammer Admin",
@@ -180,7 +180,7 @@
       {
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
-        "note":"Raw"
+        "note": "Raw"
       }
     ]
   },
@@ -290,22 +290,22 @@
         "portalName": "Microsoft Defender for Endpoints",
         "primaryURL": "https://securitycenter.windows.com",
         "secondaryURLs": [
-        {
-          "icon": "aka.ms",
-          "url": "https://aka.ms/MDATPportal"
-        }
-    ],
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/MDATPportal"
+          }
+        ],
         "note": "Previously Defender ATP"
       },
       {
         "portalName": "Microsoft Defender for Identity",
         "primaryURL": "https://portal.atp.azure.com",
-            "secondaryURLs": [
-        {
-        "icon": "aka.ms",
-        "url": "https://aka.ms/AATPportal"
-        }
-    ],
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/AATPportal"
+          }
+        ],
         "note": "Previously Azure ATP"
       },
       {
@@ -357,8 +357,8 @@
       },
       {
         "portalName": "JWT/MS Token Decoder",
-          "primaryURL": "https://jwt.ms/"
-      },  
+        "primaryURL": "https://jwt.ms/"
+      },
       {
         "portalName": "Message Card Playground",
         "primaryURL": "https://messagecardplayground.azurewebsites.net/",
@@ -366,8 +366,8 @@
       },
       {
         "portalName": "Microsoft Graph Toolkit",
-          "primaryURL": "https://mgt.dev/"
-      },  
+        "primaryURL": "https://mgt.dev/"
+      },
       {
         "portalName": "Visual Studio Subscriptions",
         "primaryURL": "https://my.visualstudio.com"
@@ -430,11 +430,12 @@
       {
         "portalName": "Microsoft Security Response Center",
         "primaryURL": "https://msrc-blog.microsoft.com/",
-            "secondaryURLs": [
-        {
-        "icon": "aka.ms",
-        "url": "https://aka.ms/solorigate"
-        }]
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/solorigate"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Startups",
@@ -446,7 +447,7 @@
       },
       {
         "portalName": "Outlook OAuth Sandbox",
-          "primaryURL": "https://oauthplay.azurewebsites.net/"
+        "primaryURL": "https://oauthplay.azurewebsites.net/"
       },
       {
         "portalName": "Office UI Fabric Icons",
@@ -465,13 +466,13 @@
       {
         "portalName": "PowerBI Embedded Playground",
         "primaryURL": "https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html"
-    },
-    {
-      "portalName": "Azure Cosmos DB Query Playground",
+      },
+      {
+        "portalName": "Azure Cosmos DB Query Playground",
         "primaryURL": "https://www.documentdb.com/sql/demo"
-    },
-    {
-      "portalName": "Service Trust Portal",
+      },
+      {
+        "portalName": "Service Trust Portal",
         "primaryURL": "https://servicetrust.microsoft.com"
       },
       {
@@ -499,6 +500,3 @@
     ]
   }
 ]
-
-
-

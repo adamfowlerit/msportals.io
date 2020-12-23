@@ -5,12 +5,12 @@
       {
         "portalName": "Microsoft 365 Admin Portal",
         "primaryURL": "https://portal.office365.us",
-        "note" : "GCC High"
+        "note": "GCC High"
       },
       {
         "portalName": "Microsoft 365 Admin Portal",
         "primaryURL": "https://portal.apps.mil",
-        "note" : "DoD"
+        "note": "DoD"
       },
       {
         "portalName": "Intune Web Company Portal",
@@ -23,12 +23,12 @@
       {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
-        "note" : "GCC"
+        "note": "GCC"
       },
       {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm.microsoftdynamics.us/G/Instances/InstancePicker.aspx",
-        "note" : "GCC High"
+        "note": "GCC High"
       }
     ]
   }
