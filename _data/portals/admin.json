@@ -40,7 +40,8 @@
       },
       {
         "portalName": "Microsoft 365 Network Insights",
-        "primaryURL": "https://portal.office.com/adminportal/home#/networkperformance"
+        "primaryURL": "https://portal.office.com/adminportal/home#/networkperformance",
+        "note": "Preview"
       },
       {
         "portalName": "Microsoft Call Quality Dashboard",
