@@ -105,10 +105,13 @@
     qfInput.value = theURL.searchParams.get("search")
     showOnlyMatchedPortals.call(qfInput);
 
-    document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
-      if (anchorLink.parentNode.hidden === false) {
-        anchorLink.scrollIntoView()
-      }
-    });
+
+    window.setTimeout(function () {
+      document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
+        if (anchorLink.parentNode.hidden === false) {
+          anchorLink.scrollIntoView()
+        }
+      });
+    }, 500)
   };
 </script>
