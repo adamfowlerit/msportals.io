@@ -95,23 +95,39 @@
   idleSave();
 
   window.onload = function () {
+    // Select Search Box Element
     const qfInput = document.querySelector("#search");
+
+    // Fill Search Box with URL Search value
+    let theURL = new URL('https://dummy.com');
+    // create dummy url
+    theURL.search = window.location.search.substring(1);
+    // copy current search-parameters without the '#' AS search-parameters
+    qfInput.value = theURL.searchParams.get("search")
+
+    // Add Event Listeners for changes (After we set the search box value)
     qfInput.addEventListener("change", showOnlyMatchedPortals);
     qfInput.addEventListener("keyup", showOnlyMatchedPortals);
-    qfInput.focus();
+    qfInput.focus({
+      preventScroll: true
+    });
+    // Place Cursor in the search box, ready to type
 
-    let theURL = new URL('https://dummy.com');             // create dummy url
-    theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
-    qfInput.value = theURL.searchParams.get("search")
-    showOnlyMatchedPortals.call(qfInput);
-
-
-    window.setTimeout(function () {
+    // Create Promise to resolve after initial filtering is done 
+    var loadScriptAsync = function () {
+      return new Promise((resolve, reject) => {
+        showOnlyMatchedPortals.call(qfInput)
+        resolve()
+      }
+      );
+    }
+    var scriptLoaded = loadScriptAsync();
+    scriptLoaded.then(function () {
       document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
         if (anchorLink.parentNode.hidden === false) {
-          anchorLink.scrollIntoView()
+          anchorLink.scrollIntoView({ preventScroll: true, behavior: 'smooth', block: 'start' })
         }
       });
-    }, 500)
+    })
   };
 </script>
