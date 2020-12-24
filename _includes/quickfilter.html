@@ -1,5 +1,5 @@
 <form style="margin: 0; padding: 0; display: inline">
-  <label for="search" style="display:none" >Quick Filter:</label>
+  <label for="search" style="display:none">Quick Filter:</label>
   <input id="search" name="quickfilter" class="quickfilter" type="text" placeholder="Quick Filter" />
 </form>
 
@@ -7,7 +7,7 @@
   function showOnlyMatchedPortals() {
     query = this.value;
 
-    
+
     Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
       // Remove individual portal entries
       if (query.length >= 2) {
@@ -32,12 +32,12 @@
         });
       }
     });
-    
+
     //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
     Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
       let num = Array.from(portalGroup.querySelectorAll(".portal *")).reduce(
-      //Count how many elements are not-hidden (shown)  
-      (total, elem) => total + (elem.hidden === false ? 1 : 0),
+        //Count how many elements are not-hidden (shown)  
+        (total, elem) => total + (elem.hidden === false ? 1 : 0),
         0
       )
       //If all elements are hidden, hide the entire portal-group
@@ -62,47 +62,53 @@
 
   function idleSave() {
     var t;
-    
+
 
     function saveSearchParamToHistory() {
-        const qfInput = document.querySelector("#search");
-        writeSearchToHistory.call(qfInput)
+      const qfInput = document.querySelector("#search");
+      writeSearchToHistory.call(qfInput)
     }
     window.onload = resetIdleTimer;
     window.onmousemove = resetIdleTimer;
     window.onmousedown = resetIdleTimer;  // catches touchscreen presses as well      
     window.ontouchstart = resetIdleTimer; // catches touchscreen swipes as well 
     window.onclick = resetIdleTimer;      // catches touchpad clicks as well
-    window.onkeydown = resetIdleTimer;   
+    window.onkeydown = resetIdleTimer;
     window.addEventListener('scroll', resetIdleTimer, true); // improved; see comments
 
-    
-    
+
+
     function resetIdleTimer() {
-        clearTimeout(t);
-        t = setTimeout(saveSearchParamToHistory, 5000);  // time is in milliseconds
+      clearTimeout(t);
+      t = setTimeout(saveSearchParamToHistory, 5000);  // time is in milliseconds
     }
     function writeSearchToHistory() {
-      let theURL    = new URL(window.location.toString());             
+      let theURL = new URL(window.location.toString());
       theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
-      theURL.searchParams.set( "search", this.value );
+      theURL.searchParams.set("search", this.value);
 
-      if (window.location.toString() !== (theURL.href)){
-        window.history.replaceState({},'',theURL.href)
+      if (window.location.toString() !== (theURL.href)) {
+        window.history.replaceState({}, '', theURL.href)
       }
     }
-}
-idleSave();
+  }
+  idleSave();
 
   window.onload = function () {
     const qfInput = document.querySelector("#search");
     qfInput.addEventListener("change", showOnlyMatchedPortals);
     qfInput.addEventListener("keyup", showOnlyMatchedPortals);
     qfInput.focus();
-    
-    let theURL    = new URL('https://dummy.com');             // create dummy url
+
+    let theURL = new URL('https://dummy.com');             // create dummy url
     theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
     qfInput.value = theURL.searchParams.get("search")
     showOnlyMatchedPortals.call(qfInput);
+
+    document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
+      if (anchorLink.parentNode.hidden === false) {
+        anchorLink.scrollIntoView()
+      }
+    });
   };
 </script>
