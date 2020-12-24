@@ -34,6 +34,36 @@
         "portalName": "Microsoft Azure Active Directory Portal",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
         "note": "GCC High"
+      },
+      {
+        "portalName": "Security & Compliance",
+        "primaryURL": "https://scc.office365.us/homepage",
+        "note": "GCC High"
+      },
+      {
+        "portalName": "Power Apps",
+        "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
+        "note": "GCC High"
+      },
+      {
+        "portalName": "OneDrive admin center",
+        "primaryURL": "https://admin.onedrive.us/",
+        "note": "GCC High"
+      },
+      {
+        "portalName": "OneDrive admin center",
+        "primaryURL": "https://admin.onedrive.us/",
+        "note": "GCC High"
+      },
+      {
+        "portalName": "Exchange Admin Center",
+        "primaryURL": "https://outlook.office365.us/ecp",
+        "note": "GCC High"
+      },
+      {
+        "portalName": "Microsoft Teams Admin Center",
+        "primaryURL": "https://admin.gov.teams.microsoft.us/dashboard",
+        "note": "GCC High"
       }
     ]
   }
