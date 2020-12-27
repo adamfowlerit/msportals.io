@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
     {% include analytics.html %}
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/png" href="/images/O365_Admin_Green.png"/>
+    <link rel="icon" type="image/png" href="/images/O365_Admin_Green.png" />
     <script src="/assets/js/favorites.js"></script>
     <meta property="og:image:url" content="https://msportals.io/images/O365_Admin_Green.png" />
     <meta property="og:image:width" content="400px" />
@@ -22,49 +23,52 @@
     <meta name="twitter:description" content="An aggregation of all of the Microsoft Portals we could find." />
     <meta name="twitter:image" content="https://msportals.io/images/O365_Admin_Green.png" />
 
-{% seo %}
-  </head>
+    {% seo %}
+</head>
 
-  <body>
+<body>
 
     <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <div class="container">
+            <a id="a-title" href="{{ '/' | relative_url }}">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            </a>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.baseurl }}/" class="btn btn-github"><span class="icon"></span>Home</a>
-          <a href="{{ site.baseurl }}/userportals" class="btn btn-github"><span class="icon"></span>End User</a>
-          <a href="{{ site.baseurl }}/3rdparty" class="btn btn-github"><span class="icon"></span>3rd Party</a>
-          <a href="{{ site.baseurl }}/usgovt" class="btn btn-github"><span class="icon"></span>US Govt</a>
-          <a href="{{ site.baseurl }}/favorites" class="btn btn-github"><span class="icon"></span>Favorites</a>
-          <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span class="icon"></span>GitHub</a>
-          <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
-        </section>
-        {% if page.title contains "Portals" %}
-        {% include quickfilter.html %}
-      {% endif %}
+            <section id="downloads">
+                {% if site.show_downloads %}
+                <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+                <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+                {% endif %}
+                <a href="{{ site.baseurl }}/" class="btn btn-github"><span class="icon"></span>Home</a>
+                <a href="{{ site.baseurl }}/userportals" class="btn btn-github"><span class="icon"></span>End User</a>
+                <a href="{{ site.baseurl }}/3rdparty" class="btn btn-github"><span class="icon"></span>3rd Party</a>
+                <a href="{{ site.baseurl }}/usgovt" class="btn btn-github"><span class="icon"></span>US Govt</a>
+                <a href="{{ site.baseurl }}/favorites" class="btn btn-github"><span class="icon"></span>Favorites</a>
+                <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span
+                        class="icon"></span>GitHub</a>
+                <a href="{{ site.baseurl }}/about" class="btn btn-github"><span class="icon"></span>About</a>
+            </section>
+            {% if page.title contains "Portals" %}
+            {% include quickfilter.html %}
+            {% endif %}
 
-      </div>
+        </div>
     </header>
 
     <div class="container">
-      <section id="main_content">
-        {{ content }}
-        {% if page.title contains "Portals" %}
-          {% include nomatches.html %}
-        {% endif %}
-      </section>
+        <section id="main_content">
+            {{ content }}
+            {% if page.title contains "Portals" %}
+            {% include nomatches.html %}
+            {% endif %}
+        </section>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+        integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
 
-  </body>
+</body>
+
 </html>
