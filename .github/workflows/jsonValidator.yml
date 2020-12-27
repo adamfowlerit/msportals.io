@@ -1,6 +1,12 @@
-name: Validate JSONs
+name: Validate Portal JSONs
 
-on: [pull_request,push]
+on:
+  push:
+    paths:
+      - '_data/portals/*.json'
+  pull_request:
+    paths:
+      - '_data/portals/*.json'
 
 jobs:
   verify-json-validation:
