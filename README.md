@@ -6,6 +6,6 @@ After not remembering all the Microsoft Portal URLs so many times, Adam decided 
 
 ## Contributing ##
 
-This project welcomes all pull requests and submissions! If you are seeing this elsewhere, you can contribute to the project at [this Github Repo](https://github.com/adamfowlerit/msportals.io). The website at [msportals.io](msportals.io) is hosted through GitHub Pages, and the portal links are currently built from JSON files. You can see more information about those [here](https://github.com/adamfowlerit/msportals.io/tree/master/_data/portals).
+This project welcomes all pull requests and submissions! If you are seeing this elsewhere, you can contribute to the project at [this Github Repo](https://github.com/adamfowlerit/msportals.io). The website at [msportals.io](https://msportals.io) is hosted through GitHub Pages, and the portal links are currently built from JSON files. You can see more information about those [here](./_data/portals/).
 
 If you don't want to make a Pull Request, but still have feedback, you can open an [Issue](https://github.com/adamfowlerit/msportals.io/issues)
