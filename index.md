@@ -2,7 +2,7 @@
 layout: page
 title: Administrator Portals
 ---
-***MSPORTALS.XYZ is now MSPORTALS.IO - Please update your bookmarks, and a redirect will be in place for 2 years.***
+***MSPORTALS.XYZ is now [MSPORTALS.IO](https://msportals.io) - Please update your bookmarks, and a redirect will be in place for 2 years.***
 
 Welcome to this community driven project to list all of Microsoft's portals in one place.
 
