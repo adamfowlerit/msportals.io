@@ -3,7 +3,10 @@
         "editor.tabSize": 2
     },
     "[html]": {
-        "editor.tabSize": 4
+        "editor.tabSize": 4,
+        // "cSpell.ignoreRegExpList": [
+        //     "{{.*?}}"
+        // ],
     },
     "[scss]": {
         "editor.tabSize": 2
@@ -15,9 +18,43 @@
         "editor.tabSize": 2
     },
     "[markdown]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        // "cSpell.ignoreRegExpList": [
+        //     "{{.*?}}"
+        // ],
     },
     "editor.insertSpaces": true,
     "editor.detectIndentation": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "cSpell.ignoreRegExpList": [
+        "msportals(?=.io)", //Ignore 'msportals' when followed by '.io'
+        "aka(?=.io)",
+        "{{.*?}}",
+        "G-F5HGTBWKF4"
+    ],
+    "cSpell.words": [
+        "Cortana",
+        "G-F5HGTBWKF4",
+        "Graeme",
+        "Intune",
+        "JSONs",
+        "Kaizala",
+        "N9G6QSTG3P",
+        "SSPR",
+        "akamsicon",
+        "constructocat",
+        "ensp",
+        "g",
+        "gtag",
+        "jsonify",
+        "krbtgt",
+        "mdjx",
+        "msportals",
+        "n",
+        "orrosenblatt",
+        "p",
+        "qstg"
+    ],
+    "cSpell.allowCompoundWords": true,
+    "html.validate.styles": true
 }

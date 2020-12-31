@@ -12,11 +12,9 @@ Q: *Should you trust this site? How do you know the links are safe?*
 
 A: You don't know these links are safe, but going to a single source should be better than Googling/Binging what you're looking for and clicking one of the first results. Check - does the link go to microsoft.com or azure.com as the top level domain? Don't just trust the text used on the page for the link, hover your cursor over it and see where the link actually goes to. Are you seeing an Azure AD login page that has customizations specific to your company before entering your credentials? Apply this to anything on the internet!
 
-
 Q: *Why does this site exist?*
 
 A: Because there are so many Microsoft portals, and no single source of truth for them all. We probably don't have every single portal, but if you know of ones we are missing, please let us know via GitHub - do a pull request if you know how, or just write an issue with the details and we'll sort it out. It's easy!
-
 
 ## Project details and thanks
 
@@ -26,7 +24,7 @@ Big thanks to those who have contributed:
 
 - [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again, and continues to add a lot to this site.
 
-- [mdjx](https://xkln.net) for creating the filter which is even better than Ctrl + F, adding the Favourites section and a bunch of other improvements!
+- [mdjx](https://xkln.net) for creating the filter which is even better than Ctrl + F, adding the Favorites section and a bunch of other improvements!
 
 - [SwiftOnSecurity](https://twitter.com/swiftonsecurity) for buying the msportals.io domain and handing it over, as some companies block less common domains such as XYZ which we used to be on.
 
