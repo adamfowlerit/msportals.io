@@ -7,4 +7,4 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 
 {% include portal.html portal="admin" %}
 
-The ![aka.ms button](.\images\akaMsIcon.png) icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
+The ![aka.ms button](.\images\akamsicon.png) icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
