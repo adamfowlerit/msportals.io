@@ -451,6 +451,11 @@
         "primaryURL": "https://portal.startups.microsoft.com"
       },
       {
+        "portalName": "Microsoft 365 Lighthouse",
+        "primaryURL": "https://lighthouse.microsoft.com/",
+        "note": "Private Preview"
+      },
+      {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
         "primaryURL": "https://sender.office.com"
       },
