@@ -395,6 +395,10 @@
         "primaryURL": "https://status.azure.com"
       },
       {
+        "portalName": "Azure Lighthouse Blade",
+        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
+      },
+      {
         "portalName": "Become Microsoft Certified",
         "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI/",
         "secondaryURLs": [
