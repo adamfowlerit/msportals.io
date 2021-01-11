@@ -49,7 +49,7 @@
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://endpoint.microsoft.com"
+        "primaryURL": "https://endpoint.microsoft.com",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
