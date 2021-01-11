@@ -102,6 +102,16 @@
         "primaryURL": "https://admin.mileiq.com"
       },
       {
+        "portalName": "My Staff (preview)",
+        "primaryURL": "https://mystaff.microsoft.com,
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mystaff"
+          }
+        ]
+      },
+      {
         "portalName": "OneDrive Admin Center",
         "primaryURL": "https://admin.onedrive.com"
       },
