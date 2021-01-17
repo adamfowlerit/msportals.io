@@ -400,16 +400,21 @@
     ]
   },
   {
-    "groupName": "Other Useful Microsoft Portals",
+    "groupName": "Health / Status Portals",
     "portals": [
-      {
-        "portalName": "Azure DevOps Status",
+       {
+        "portalName": "Microsoft 365 Service health status",
+        "primaryURL": "https://status.office.com/"
+      },
+       {
+        "portalName": "Azure DevOps - Status",
         "primaryURL": "https://status.dev.azure.com"
       },
-      {
-        "portalName": "Azure Status",
-        "primaryURL": "https://status.azure.com"
-      },
+    ]
+  },
+  {
+    "groupName": "Other Useful Microsoft Portals",
+    "portals": [
       {
         "portalName": "Azure Lighthouse Blade",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
