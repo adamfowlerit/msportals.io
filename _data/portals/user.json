@@ -176,6 +176,10 @@
         "primaryURL": "https://myaccess.microsoft.com"
       },
       {
+        "portalName": "My Access",
+        "primaryURL": "https://myaccess.microsoft.com/"
+      },
+      {
         "portalName": "My Account",
         "primaryURL": "https://account.microsoft.com",
         "note": "Consumer"
@@ -217,6 +221,10 @@
       {
         "portalName": "My Sign-Ins",
         "primaryURL": "https://mysignins.microsoft.com"
+      },
+      {
+        "portalName": "My Staff",
+        "primaryURL": "https://mystaff.microsoft.com/"
       },
       {
         "portalName": "Office 365 Apps",
