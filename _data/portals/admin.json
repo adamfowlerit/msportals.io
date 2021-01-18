@@ -416,7 +416,7 @@
       },
       {
         "portalName": "Azure Service Health -> Service issues",
-        "primaryURL": "https://portal.azure.com/?source=akams%2F#blade/Microsoft_Azure_Health/AzureHealthBrowseBlade/serviceIssues"
+        "primaryURL": "https://portal.azure.com/?source=akams%2F#blade/Microsoft_Azure_Health/AzureHealthBrowseBlade/serviceIssues",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
