@@ -409,7 +409,7 @@
        {
         "portalName": "Azure DevOps - Status",
         "primaryURL": "https://status.dev.azure.com"
-      },
+      }
     ]
   },
   {
