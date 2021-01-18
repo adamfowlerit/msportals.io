@@ -422,6 +422,7 @@
             "icon": "aka.ms",
             "url": "https://aka.ms/azureservicehealth"
           }
+				]
       },
       {
         "portalName": "Azure - Status",
