@@ -274,6 +274,10 @@
         "portalName": "Microsoft Azure Enterprise Portal",
         "primaryURL": "https://ea.azure.com"
       },
+       {
+        "portalName": "Microsoft FastTrack",
+        "primaryURL": "https://fasttrack.microsoft.com"
+      },
       {
         "portalName": "Microsoft License Advisor",
         "primaryURL": "https://mla.microsoft.com"
