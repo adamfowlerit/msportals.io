@@ -55,7 +55,8 @@
             "icon": "aka.ms",
             "url": "https://aka.ms/memac"
           }
-        ]
+        ],
+        "note": "Intune"
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
