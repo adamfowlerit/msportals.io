@@ -415,9 +415,31 @@
         "portalName": "Microsoft 365 Service health status",
         "primaryURL": "https://status.office.com/"
       },
-       {
+      {
+        "portalName": "Microsoft 365 Service health status (Admin portal)",
+        "primaryURL": "https://admin.microsoft.com/AdminPortal/Home#/servicehealth"
+      },
+      {
         "portalName": "Azure DevOps - Status",
         "primaryURL": "https://status.dev.azure.com"
+      },
+      {
+        "portalName": "Azure Service Health -> Service issues",
+        "primaryURL": "https://portal.azure.com/?source=akams%2F#blade/Microsoft_Azure_Health/AzureHealthBrowseBlade/serviceIssues",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/azureservicehealth"
+          }
+				]
+      },
+      {
+        "portalName": "Azure - Status",
+        "primaryURL": "https://status.azure.com/status/"
+      },
+      {
+        "portalName": "M365 Status - Twitter",
+        "primaryURL": "https://twitter.com/MSFT365Status"
       }
     ]
   },
