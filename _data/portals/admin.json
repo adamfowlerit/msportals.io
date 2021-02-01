@@ -17,12 +17,12 @@
         "primaryURL": "https://config.office.com"
       },
       {
-        "portalName": "Exchange Admin Center",
+        "portalName": "Exchange Admin Center (EAC)",
         "primaryURL": "https://admin.exchange.microsoft.com",
         "note": "New"
       },
       {
-        "portalName": "Exchange Admin Center",
+        "portalName": "Exchange Admin Center (EAC)",
         "primaryURL": "https://outlook.office365.com/ecp/",
         "note": "Old"
       },
