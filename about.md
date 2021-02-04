@@ -22,13 +22,13 @@ Project set up and owned by [Adam Fowler](https://adamfowlerit.com).
 
 Big thanks to those who have contributed:
 
-- [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again, and continues to add a lot to this site.
+- [PsychoData](https://www.contoso.one/) whose attention to detail and extra coding work has made this site even better again, and continues to add a lot to this site, probably racking up the most time spent now! 
 
 - [mdjx](https://xkln.net) for creating the filter which is even better than Ctrl + F, adding the Favorites section and a bunch of other improvements!
 
 - [SwiftOnSecurity](https://twitter.com/swiftonsecurity) for buying the msportals.io domain and handing it over, as some companies block less common domains such as XYZ which we used to be on.
 
-- [Karl Cooke](https://twitter.com/Karl_ITNerd) has been doing most of the coding and building of this site, and threw himself into making this a lot better than I could have.
+- [Karl Cooke](https://twitter.com/Karl_ITNerd) has been doing most of the initial coding and building of this site, and threw himself into making this a lot better than I could have.
 
 - [Robert Crane](https://twitter.com/directorcia) who already had quite a good plain text list of admin portals and let me check against it.
 
