@@ -9,6 +9,14 @@
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/admincenter"
+          },
+          {
+            "icon": "Old 🔗",
+            "url": "https://portal.office365.com"
+          },
+          {
+            "icon": "Alt",
+            "url": "https://portal.microsoft.com"
           }
         ]
       },
