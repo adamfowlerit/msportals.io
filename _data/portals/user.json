@@ -158,6 +158,10 @@
         "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
       },
       {
+        "portalName": "Microsoft Family Safety",
+        "primaryURL": "https://account.microsoft.com/family/"
+      },
+      {
         "portalName": "MFA Setup",
         "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
         "secondaryURLs": [
