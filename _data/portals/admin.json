@@ -390,6 +390,10 @@
         "primaryURL": "https://dev.azure.com"
       },
       {
+        "portalName": "Bing Maps Portal",
+        "primaryURL": "https://www.bingmapsportal.com/"
+      },
+      {
         "portalName": "Graph Explorer",
         "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer"
       },
