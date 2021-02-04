@@ -3,6 +3,10 @@
     "groupName": "3rd Party Portals",
     "portals": [
       {
+        "portalName": "Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      },
+      {
         "portalName": "ChangeWindows",
         "primaryURL": "https://changewindows.org/"
       },
