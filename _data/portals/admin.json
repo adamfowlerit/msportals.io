@@ -149,6 +149,10 @@
         "primaryURL": "https://admin.microsoft.com/sharepoint"
       },
       {
+        "portalName": "SharePoint look book",
+        "primaryURL": "https://lookbook.microsoft.com/"
+      },
+      {
         "portalName": "Skype for Business admin center",
         "primaryURL": "https://webdir2a.online.lync.com/LSCP",
         "note": "Deprecated"
