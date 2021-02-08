@@ -329,7 +329,7 @@
             "url": "https://aka.ms/AttackSim"
           }
         ],
-        "note": "Microsoft 365 security sub-portal"
+        "note": "sub-portal"
       },
       {
         "portalName": "Microsoft Cloud App Security",
