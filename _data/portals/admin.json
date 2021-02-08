@@ -415,6 +415,9 @@
         "primaryURL": "https://mgt.dev/"
       },
       {
+        "portalName": "Microsoft Online Error Code Lookup",
+        "primaryURL": "https://login.microsoftonline.com/error"
+      },      {
         "portalName": "Visual Studio Subscriptions",
         "primaryURL": "https://my.visualstudio.com"
       },
