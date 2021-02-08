@@ -8,24 +8,26 @@ assignees: ''
 ---
 
 ## Portal Name ##
-
-What is the portal you are looking for called?
+<!---  
+What is the portal you are looking for called? 
+-->
 
 ## Portal URL ##
-
+<!---  
 What is the main URL/Site we are missing
 Example: <https://github.com/adamfowlerit/msportals.io/search?q=admin.teams.microsoft.com>
+-->
 
 ## Secondary Portal URLs ##
-
+<!---  
 We try to add aka.ms links wherever we can. Do you know of a related aka.ms link for your suggestion?
 Example: <https://aka.ms/teamsadmincenter>
+-->
 
 ## What portal page and section would this fit best on? ##
-
+<!---  
 We are currently making our web-pages from JSON files, which page and section does this fit best with?
 
-<!--
 [All JSON Source Files](https://github.com/adamfowlerit/msportals.io/blob/master/_data/portals)
 
 | Website Page                                              | JSON Source                                            |
@@ -37,7 +39,7 @@ We are currently making our web-pages from JSON files, which page and section do
 -->
 
 ## Special Notes ##
-
+<!---  
 On some of the portals, we have been adding notes. For example
 
 Example: Using the notes to make old product name searchable for Defender products.
@@ -45,7 +47,9 @@ Example: Using the notes to make old product name searchable for Defender produc
 
 Example: The new versus old Exchange Portals shown below.  
 ![Website has two Exchange Admin Centers with the New and Old portals noted](https://i.imgur.com/mjX0gS7.png)
+-->
 
 ## Additional context ##
-
+<!---  
 Suggestions or context for the portals that we should have?
+-->
