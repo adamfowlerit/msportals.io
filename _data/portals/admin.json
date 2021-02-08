@@ -317,19 +317,8 @@
     "groupName": "Security / Defender IT Admin Portals",
     "portals": [
       {
-        "portalName": "Microsoft 365 security",
+        "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com"
-      },
-	{
-        "portalName": "Attack simulation training",
-        "primaryURL": "https://security.microsoft.com/attacksimulator"
-	      "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/AttackSim"
-          }
-        ],
-	"note": "Microsoft 365 Security Sub Portal"
       },
       {
         "portalName": "Microsoft Cloud App Security",
