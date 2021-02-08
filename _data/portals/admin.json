@@ -596,7 +596,12 @@
       {
         "portalName": "Skype Preview / Microsoft Teams Preview",
         "primaryURL": "https://www.skypepreview.com"
+      },
+	          {
+        "portalName": "Outlook.com Smart Network Data Service",
+        "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
       }
+	    
     ]
   }
 ]
