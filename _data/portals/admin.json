@@ -370,11 +370,7 @@
         "primaryURL": "https://protection.office.com"
       },
       {
-        "portalName": "Submit Abuse Report (CERT) (Current)",
-        "primaryURL": "https://portal.msrc.microsoft.com/en-us/engage/cars"
-      },
-	{
-        "portalName": "Submit Abuse Report (CERT) (Preview)",
+        "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse"
       }
     ]
