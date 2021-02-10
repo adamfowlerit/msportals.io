@@ -19,6 +19,16 @@
         "primaryURL": "https://macadmins.software/"
       },
       {
+        "portalName": "Microsoft 365 Licensing Diagrams",
+        "primaryURL": "https://m365maps.com/",
+        "secondaryURLs": [
+          {
+            "icon": "GitHub",
+            "url": "https://github.com/AaronDinnage/Licensing/"
+          }
+        ]
+      },
+      {
         "portalName": "Office 365 ATP Safe Links Decoder",
         "primaryURL": "https://o365atp.com"
       },
