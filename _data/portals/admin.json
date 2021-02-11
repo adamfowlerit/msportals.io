@@ -235,7 +235,7 @@
       },
 	{
         "portalName": "Privileged Identity Management",
-        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart"
+        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart",
 	"secondaryURLs": [
           {
             "icon": "aka.ms",
