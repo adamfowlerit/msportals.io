@@ -224,12 +224,12 @@
       },
       {
         "portalName": "My Groups",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups"
+        "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups",
         "note": "Option 1"
       },
       {
         "portalName": "My Groups",
-        "primaryURL": "https://mygroups.microsoft.com"
+        "primaryURL": "https://mygroups.microsoft.com",
         "note": "Option 2"
       },
       {
