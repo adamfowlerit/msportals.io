@@ -195,42 +195,40 @@
       {
         "portalName": "My Account",
         "primaryURL": "https://myaccount.microsoft.com",
-        "note": "Option 1"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://myworkaccount.microsoft.com",
-        "note": "Option 2"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://myprofile.microsoft.com",
-        "note": "Option 3"
+        secondaryURLs: [
+          {
+            "url": "https://myworkaccount.microsoft.com",
+            "icon": "Alt 🔗 1"
+          },
+          {
+            "url": "https://myprofile.microsoft.com",
+            "icon": "Alt 🔗 2"
+          }
+        ]
       },
       {
         "portalName": "My Apps",
         "primaryURL": "https://account.activedirectory.windowsazure.com",
-        "note": "Option 1"
-      },
-      {
-        "portalName": "My Apps",
-        "primaryURL": "https://myapplications.microsoft.com",
-        "note": "Option 2"
-      },
-      {
-        "portalName": "My Apps",
-        "primaryURL": "https://myapps.microsoft.com",
-        "note": "Option 3"
+        secondaryURLs: [
+          {
+            "url": "https://myapplications.microsoft.com",
+            "icon": "Alt 🔗 1"
+          },
+          {
+            "url": "https://myapps.microsoft.com",
+            "icon": "Alt 🔗 2"
+          }
+        ]
       },
       {
         "portalName": "My Groups",
         "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups",
-        "note": "Option 1"
-      },
-      {
-        "portalName": "My Groups",
-        "primaryURL": "https://mygroups.microsoft.com",
-        "note": "Option 2"
+        secondaryURLs: [
+          {
+            "url": "https://mygroups.microsoft.com",
+            "icon": "Alt 🔗"
+          }
+        ]
       },
       {
         "portalName": "My Sign-Ins",
