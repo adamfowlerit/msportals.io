@@ -195,7 +195,7 @@
       {
         "portalName": "My Account",
         "primaryURL": "https://myaccount.microsoft.com",
-        secondaryURLs: [
+        "secondaryURLs": [
           {
             "url": "https://myworkaccount.microsoft.com",
             "icon": "Alt 🔗 1"
@@ -209,7 +209,7 @@
       {
         "portalName": "My Apps",
         "primaryURL": "https://account.activedirectory.windowsazure.com",
-        secondaryURLs: [
+        "secondaryURLs": [
           {
             "url": "https://myapplications.microsoft.com",
             "icon": "Alt 🔗 1"
@@ -223,7 +223,7 @@
       {
         "portalName": "My Groups",
         "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups",
-        secondaryURLs: [
+        "secondaryURLs": [
           {
             "url": "https://mygroups.microsoft.com",
             "icon": "Alt 🔗"
