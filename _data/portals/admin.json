@@ -80,9 +80,9 @@
         "portalName": "Microsoft Intune for Education",
         "primaryURL": "https://intuneeducation.portal.azure.com"
       },
-      {
-        "portalName": "Microsoft Partner Center",
-        "primaryURL": "https://partner.microsoft.com/dashboard/"
+	{
+        "portalName": "Microsoft Online",
+        "primaryURL": "https://portal.microsoftonline.com/IWDefault.aspx"
       },
       {
         "portalName": "Microsoft Store for Business",
