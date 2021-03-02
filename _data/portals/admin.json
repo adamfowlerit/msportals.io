@@ -20,6 +20,10 @@
           }
         ]
       },
+	{
+        "portalName": "Microsoft 365 security",
+        "primaryURL": "https://security.microsoft.com"
+      },
       {
         "portalName": "Apps Admin Center",
         "primaryURL": "https://config.office.com"
@@ -334,10 +338,6 @@
   {
     "groupName": "Security / Defender IT Admin Portals",
     "portals": [
-      {
-        "portalName": "Microsoft 365 security",
-        "primaryURL": "https://security.microsoft.com"
-      },
 	{
         "portalName": "Attack simulation training",
         "primaryURL": "https://security.microsoft.com/attacksimulator",
