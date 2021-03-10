@@ -611,6 +611,10 @@
         "portalName": "Microsoft Documentation",
         "primaryURL": "https://docs.microsoft.com"
       },
+	          {
+        "portalName": "Windows Insider Lab for Enterprise",
+        "primaryURL": "https://olympia.windows.com/"
+      },
       {
         "portalName": "Skype Preview / Microsoft Teams Preview",
         "primaryURL": "https://www.skypepreview.com"
