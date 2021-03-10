@@ -375,6 +375,10 @@
         ],
         "note": "Previously Azure ATP"
       },
+	{
+        "portalName": "Microsoft Defender ATP Testground,
+        "primaryURL": "https://demo.wd.microsoft.com/"
+      },
       {
         "portalName": "Microsoft Secure Score",
         "primaryURL": "https://securescore.microsoft.com"
