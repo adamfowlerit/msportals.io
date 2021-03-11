@@ -540,6 +540,10 @@
         "portalName": "Microsoft Remote Connectivity Analyzer",
         "primaryURL": "https://testconnectivity.microsoft.com"
       },
+	 {
+        "portalName": "Microsoft Reseller Profile Registration Portal",
+        "primaryURL": "https://reselleruat.microsoftcrmportals.com/"
+      },
       {
         "portalName": "Microsoft Security Response Center",
         "primaryURL": "https://msrc-blog.microsoft.com/",
