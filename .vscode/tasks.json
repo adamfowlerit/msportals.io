@@ -1,0 +1,73 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Serve Website",
+            "type": "process",
+            "command": {
+                "quoting": "weak",
+                "value": [
+                    "bundle"
+                ]
+            },
+            "runOptions": {
+                "instanceLimit": 1
+            },
+            "args": [
+                "exec",
+                "jekyll",
+                "serve",
+                "--livereload",
+                "--watch",
+                "--force-polling"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "isBackground": true,
+            "presentation": {
+                "reveal": "always",
+                "clear": true,
+                "focus": true
+            },
+            "problemMatcher": [
+                {
+                    "owner": "msportals.io",
+                    "pattern": [
+                        {
+                            "regexp": "\\b\\B",
+                            "file": 1,
+                            "location": 2,
+                            "message": 3
+                        }
+                    ],
+                    "background": {
+                        "activeOnStart": true,
+                        "beginsPattern": "^Configuration file:",
+                        "endsPattern": "Server running... press ctrl-c to stop."
+                    }
+                }
+            ]
+        },
+        {
+            "label": "Stop Serving Website",
+            "type": "process",
+            "command": "${command:workbench.action.tasks.terminate}",
+            "args": [
+                "Serve Website",
+            ]
+        },
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "bundle exec jekyll build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+        }
+    ]
+}

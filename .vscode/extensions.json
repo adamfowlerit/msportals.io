@@ -1,5 +1,7 @@
 {
     "recommendations": [
         "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker",
+        "sissel.shopify-liquid"
     ]
 }
