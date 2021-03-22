@@ -1,133 +1,141 @@
 <form style="margin: 0; padding: 0; display: inline">
-    <label for="search" style="display:none">Quick Filter:</label>
-    <input id="search" name="search" class="quickfilter" type="text" placeholder="Quick Filter" />
+  <label for="search" style="display: none">Quick Filter:</label>
+  <input id="search" name="search" class="quickfilter" type="text" placeholder="Quick Filter" />
 </form>
 
 <script type="text/javascript">
-    function showOnlyMatchedPortals() {
-        query = this.value;
+  function showOnlyMatchedPortals() {
+    query = this.value;
 
-
-        Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
-            // Remove individual portal entries
-            if (query.length >= 2) {
-                //searching innerHTML lets us search link text, like 'sspr' for https://aka.ms/sspr
-                if (portalEntry.innerHTML.toUpperCase().indexOf(query.toUpperCase()) === -1) {
-                    //Iterate through all children, even nested children
-                    Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-                        elem.hidden = true
-                    }
-                    )
-                } else {
-                    Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-                        elem.hidden = false
-                    })
-                };
-            } else {
-                //Iterate through portal entries un-hiding them in case they were hidden
-                Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
-                    Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-                        elem.hidden = false
-                    });
-                });
-            }
-        });
-
-        //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
-        Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
-            let num = Array.from(portalGroup.querySelectorAll(".portal *")).reduce(
-                //Count how many elements are not-hidden (shown)  
-                (total, elem) => total + (elem.hidden === false ? 1 : 0),
-                0
-            )
-            //If all elements are hidden, hide the entire portal-group
-            if (num === 0) {
-                portalGroup.hidden = true;
-            } else {
-                //If some portal elements are shown, be certain to show the parent portal-group
-                portalGroup.hidden = false;
-            }
-        });
-
-        // Display message if no portals are found
-        totalNum = Array.from(document.querySelectorAll("div[class='portal-group']")).reduce((total, portalGroup) => total + (portalGroup.hidden === false ? 1 : 0), 0)
-
-        if (totalNum === 0) {
-            document.getElementsByClassName('nomatches')[0].style = "display: block;"
+    Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+      // Remove individual portal entries
+      if (query.length >= 2) {
+        // build string that includes all text and link href data
+        let searchableString = portalEntry.innerText;
+        searchableString += Array.from(portalEntry.getElementsByTagName("a"))
+          .map((e) => {
+            return e.href;
+          })
+          .join("|");
+        // clean up, remove http(s) and newlines
+        searchableString = searchableString
+          .replace(/(https|http):\/\//gi, "")
+          .replace(/\n/g, "|")
+          .toUpperCase();
+        if (searchableString.indexOf(query.toUpperCase()) === -1) {
+          //Iterate through all children, even nested children
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = true;
+          });
         } else {
-            document.getElementsByClassName('nomatches')[0].style = "display: none;"
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = false;
+          });
         }
-
-    }
-
-    function idleSave() {
-        var t;
-
-
-        function saveSearchParamToHistory() {
-            const qfInput = document.querySelector("#search");
-            writeSearchToHistory.call(qfInput)
-        }
-        window.onload = resetIdleTimer;
-        window.onmousemove = resetIdleTimer;
-        window.onmousedown = resetIdleTimer;  // catches touchscreen presses as well      
-        window.ontouchstart = resetIdleTimer; // catches touchscreen swipes as well 
-        window.onclick = resetIdleTimer;      // catches touchpad clicks as well
-        window.onkeydown = resetIdleTimer;
-        window.addEventListener('scroll', resetIdleTimer, true); // improved; see comments
-
-
-
-        function resetIdleTimer() {
-            clearTimeout(t);
-            t = setTimeout(saveSearchParamToHistory, 5000);  // time is in milliseconds
-        }
-        function writeSearchToHistory() {
-            let theURL = new URL(window.location.toString());
-            theURL.search = window.location.search.substring(1);        // copy current search-parameters without the '#' AS search-parameters
-            theURL.searchParams.set("search", this.value);
-
-            if (window.location.toString() !== (theURL.href)) {
-                window.history.replaceState({}, '', theURL.href)
-            }
-        }
-    }
-    idleSave();
-
-    window.onload = function () {
-        // Select Search Box Element
-        const qfInput = document.querySelector("#search");
-
-        // Fill Search Box with URL Search value
-        let theURL = new URL('https://dummy.com');
-        // create dummy url
-        theURL.search = window.location.search.substring(1);
-        // copy current search-parameters without the '#' AS search-parameters
-        qfInput.value = theURL.searchParams.get("search")
-
-        // Add Event Listeners for changes (After we set the search box value)
-        qfInput.addEventListener("change", showOnlyMatchedPortals);
-        qfInput.addEventListener("keyup", showOnlyMatchedPortals);
-        qfInput.focus({
-            preventScroll: true
+      } else {
+        //Iterate through portal entries un-hiding them in case they were hidden
+        Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = false;
+          });
         });
-        // Place Cursor in the search box, ready to type
+      }
+    });
 
-        // Create Promise to resolve after initial filtering is done 
-        var loadScriptAsync = function () {
-            return new Promise((resolve, reject) => {
-                showOnlyMatchedPortals.call(qfInput)
-                resolve()
-            }
-            );
-        }
-        var scriptLoaded = loadScriptAsync();
-        scriptLoaded.then(function () {
-            document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
-                if (anchorLink.parentNode.hidden === false) {
-                    anchorLink.scrollIntoView({ preventScroll: true, behavior: 'smooth', block: 'start' })
-                }
-            });
-        })
+    //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
+    Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
+      let num = Array.from(portalGroup.querySelectorAll(".portal *")).reduce(
+        //Count how many elements are not-hidden (shown)
+        (total, elem) => total + (elem.hidden === false ? 1 : 0),
+        0
+      );
+      //If all elements are hidden, hide the entire portal-group
+      if (num === 0) {
+        portalGroup.hidden = true;
+      } else {
+        //If some portal elements are shown, be certain to show the parent portal-group
+        portalGroup.hidden = false;
+      }
+    });
+
+    // Display message if no portals are found
+    totalNum = Array.from(document.querySelectorAll("div[class='portal-group']")).reduce((total, portalGroup) => total + (portalGroup.hidden === false ? 1 : 0), 0);
+
+    if (totalNum === 0) {
+      document.getElementsByClassName("nomatches")[0].style = "display: block;";
+    } else {
+      document.getElementsByClassName("nomatches")[0].style = "display: none;";
+    }
+  }
+
+  function idleSave() {
+    var t;
+
+    function saveSearchParamToHistory() {
+      const qfInput = document.querySelector("#search");
+      writeSearchToHistory.call(qfInput);
+    }
+    window.onload = resetIdleTimer;
+    window.onmousemove = resetIdleTimer;
+    window.onmousedown = resetIdleTimer; // catches touchscreen presses as well
+    window.ontouchstart = resetIdleTimer; // catches touchscreen swipes as well
+    window.onclick = resetIdleTimer; // catches touchpad clicks as well
+    window.onkeydown = resetIdleTimer;
+    window.addEventListener("scroll", resetIdleTimer, true); // improved; see comments
+
+    function resetIdleTimer() {
+      clearTimeout(t);
+      t = setTimeout(saveSearchParamToHistory, 5000); // time is in milliseconds
+    }
+    function writeSearchToHistory() {
+      let theURL = new URL(window.location.toString());
+      theURL.search = window.location.search.substring(1); // copy current search-parameters without the '#' AS search-parameters
+      theURL.searchParams.set("search", this.value);
+
+      if (window.location.toString() !== theURL.href) {
+        window.history.replaceState({}, "", theURL.href);
+      }
+    }
+  }
+  idleSave();
+
+  window.onload = function () {
+    // Select Search Box Element
+    const qfInput = document.querySelector("#search");
+
+    // Fill Search Box with URL Search value
+    let theURL = new URL("https://dummy.com");
+    // create dummy url
+    theURL.search = window.location.search.substring(1);
+    // copy current search-parameters without the '#' AS search-parameters
+    qfInput.value = theURL.searchParams.get("search");
+
+    // Add Event Listeners for changes (After we set the search box value)
+    qfInput.addEventListener("change", showOnlyMatchedPortals);
+    qfInput.addEventListener("keyup", showOnlyMatchedPortals);
+    qfInput.focus({
+      preventScroll: true,
+    });
+    // Place Cursor in the search box, ready to type
+
+    // Create Promise to resolve after initial filtering is done
+    var loadScriptAsync = function () {
+      return new Promise((resolve, reject) => {
+        showOnlyMatchedPortals.call(qfInput);
+        resolve();
+      });
     };
+    var scriptLoaded = loadScriptAsync();
+    scriptLoaded.then(function () {
+      document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
+        if (anchorLink.parentNode.hidden === false) {
+          anchorLink.scrollIntoView({
+            preventScroll: true,
+            behavior: "smooth",
+            block: "start",
+          });
+        }
+      });
+    });
+  };
 </script>
