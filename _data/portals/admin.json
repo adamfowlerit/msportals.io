@@ -494,6 +494,10 @@
   {
     "groupName": "Other Useful Microsoft Portals",
     "portals": [
+	{
+        "portalName": "Azure Cosmos DB Query Playground",
+        "primaryURL": "https://www.documentdb.com/sql/demo"
+      },
       {
         "portalName": "Azure Lighthouse Blade",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
@@ -527,6 +531,10 @@
 	{
         "portalName": "Microsoft Azure Sponsorships",
         "primaryURL": "https://www.microsoftazuresponsorships.com"
+      },
+	          {
+        "portalName": "Microsoft Documentation",
+        "primaryURL": "https://docs.microsoft.com"
       },
       {
         "portalName": "Microsoft Dynamics Lifecycle Services",
@@ -575,6 +583,10 @@
         "portalName": "Outlook OAuth Sandbox",
         "primaryURL": "https://oauthplay.azurewebsites.net/"
       },
+	{
+        "portalName": "Outlook.com Smart Network Data Service",
+        "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
+      }
       {
         "portalName": "Office UI Fabric Icons",
         "primaryURL": "https://uifabricicons.azurewebsites.net/",
@@ -594,12 +606,12 @@
         "primaryURL": "https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html"
       },
       {
-        "portalName": "Azure Cosmos DB Query Playground",
-        "primaryURL": "https://www.documentdb.com/sql/demo"
-      },
-      {
         "portalName": "Service Trust Portal",
         "primaryURL": "https://servicetrust.microsoft.com"
+      },
+	          {
+        "portalName": "Skype Web Preview",
+        "primaryURL": "https://preview.web.skype.com/"
       },
       {
         "portalName": "Tech Community Video Hub",
@@ -615,23 +627,10 @@
         "portalName": "Windows Virtual Desktop Consent Page",
         "primaryURL": "https://rdweb.wvd.microsoft.com"
       },
-      {
-        "portalName": "Microsoft Documentation",
-        "primaryURL": "https://docs.microsoft.com"
-      },
 	          {
         "portalName": "Windows Insider Lab for Enterprise",
         "primaryURL": "https://olympia.windows.com/"
-      },
-      {
-        "portalName": "Skype Preview / Microsoft Teams Preview",
-        "primaryURL": "https://www.skypepreview.com"
-      },
-	          {
-        "portalName": "Outlook.com Smart Network Data Service",
-        "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
-      }
-	    
+      }  
     ]
   }
 ]
