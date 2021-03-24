@@ -516,6 +516,10 @@
         "portalName": "Group Policy Search",
         "primaryURL": "https://gpsearch.azurewebsites.net/"
       },
+	           {
+        "portalName": "Infringement Report",
+        "primaryURL": "https://msrc.microsoft.com/report/infringement"
+      },
        {
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
