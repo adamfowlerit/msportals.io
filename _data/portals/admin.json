@@ -540,6 +540,10 @@
         "portalName": "Microsoft Dynamics Lifecycle Services",
         "primaryURL": "https://lcs.dynamics.com"
       },
+       {
+        "portalName": "Microsoft Dynamics Trials",
+        "primaryURL": "https://trials.dynamics.com/"
+      },
       {
         "portalName": "Microsoft Home Use Program",
         "primaryURL": "https://www.microsoft.com/home-use-program"
