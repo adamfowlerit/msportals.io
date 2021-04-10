@@ -32,6 +32,10 @@
         "portalName": "Office 365 ATP Safe Links Decoder",
         "primaryURL": "https://o365atp.com"
       },
+     {
+        "portalName": "MSShells.net - Current Official Microsoft PowerShell modules to administer Microsoft 365 and Azure",
+        "primaryURL": "https://msshells.net/
+      },
       {
         "portalName": "Tenant Availability Check",
         "primaryURL": "https://o365.rocks"
