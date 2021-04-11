@@ -11,6 +11,10 @@
         "primaryURL": "https://changewindows.org/"
       },
       {
+        "portalName": "Microsoft Token Analysis Tool",
+        "primaryURL": "https://jwt.ms/"
+      },
+      {
         "portalName": "Message Header Analyzer",
         "primaryURL": "https://mha.azurewebsites.net"
       },
@@ -33,7 +37,7 @@
         "primaryURL": "https://o365atp.com"
       },
      {
-        "portalName": "MSShells.net - PowerShell modules for Microsoft 365 and Azure",
+        "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
         "primaryURL": "https://msshells.net/"
       },
       {
