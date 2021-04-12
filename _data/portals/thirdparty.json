@@ -33,6 +33,10 @@
         ]
       },
       {
+        "portalName": "Defender for Endpoint Blog and KQL-Tools",
+        "primaryURL": "https://m365internals.com"
+      },
+      {
         "portalName": "Office 365 ATP Safe Links Decoder",
         "primaryURL": "https://o365atp.com"
       },
