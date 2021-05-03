@@ -204,6 +204,10 @@
         "primaryURL": "https://aad.portal.azure.com"
       },
       {
+        "portalName": "Create New Organization in Azure Active Directory (New Azure Active Directory)",
+        "primaryURL": "https://account.azure.com/organization"
+      },
+      {
         "portalName": "Azure Cloud Shell",
         "primaryURL": "https://shell.azure.com"
       },
