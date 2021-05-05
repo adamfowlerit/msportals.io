@@ -40,6 +40,11 @@
         "primaryURL": "https://scc.office365.us/homepage",
         "note": "GCC High"
       },
+            {
+        "portalName": "Microsoft 365 compliance",
+        "primaryURL": "https://compliance.microsoft.us/homepage",
+        "note": "GCC"
+      },
       {
         "portalName": "Power Apps",
         "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
