@@ -50,6 +50,11 @@
         "primaryURL": "https://gcc.admin.powerplatform.microsoft.us/environments",
         "note": "GCC Moderate"
       },
+                  {
+        "portalName": "Microsoft Power Automate End User",
+        "primaryURL": "https://gov.flow.microsoft.us",
+        "note": "GCC Moderate"
+      },
        {
         "portalName": "Power BI",
         "primaryURL": "https://app.powerbigov.us/",
