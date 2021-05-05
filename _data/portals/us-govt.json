@@ -81,6 +81,11 @@
         "note": "GCC"
       },
             {
+        "portalName": "Microsoft Endpoint Manager Government admin center",
+        "primaryURL": "https://endpoint.microsoft.us/#home",
+        "note": "GCC"
+      },
+            {
         "portalName": "Microsoft Defender for Identity",
         "primaryURL": "https://portal.atp.azure.us/",
         "note": "GCC"
