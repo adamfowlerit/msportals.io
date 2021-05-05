@@ -41,8 +41,13 @@
         "note": "GCC High"
       },
             {
-        "portalName": "Microsoft 365 compliance",
+        "portalName": "Microsoft 365 Compliance",
         "primaryURL": "https://compliance.microsoft.us/homepage",
+        "note": "GCC"
+      },
+                  {
+        "portalName": "Microsoft 365 Security",
+        "primaryURL": "https://security.microsoft.us/homepage",
         "note": "GCC"
       },
       {
