@@ -80,6 +80,11 @@
         "primaryURL": "https://gcc.securitycenter.microsoft.us",
         "note": "GCC"
       },
+            {
+        "portalName": "Microsoft Defender for Identity",
+        "primaryURL": "https://portal.atp.azure.us/",
+        "note": "GCC"
+      },
        {
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "TBA - Rolling Out",
