@@ -45,6 +45,11 @@
         "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
         "note": "GCC High"
       },
+       {
+        "portalName": "Power BI",
+        "primaryURL": "https://app.powerbigov.us/",
+        "note": "GCC Moderate"
+      },
       {
         "portalName": "OneDrive admin center",
         "primaryURL": "https://admin.onedrive.us/",
