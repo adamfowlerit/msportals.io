@@ -45,6 +45,11 @@
         "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
         "note": "GCC High"
       },
+            {
+        "portalName": "Power Platform Admin Center",
+        "primaryURL": "https://gcc.admin.powerplatform.microsoft.us/environments",
+        "note": "GCC Moderate"
+      },
        {
         "portalName": "Power BI",
         "primaryURL": "https://app.powerbigov.us/",
