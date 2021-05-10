@@ -299,6 +299,10 @@
       {
         "portalName": "Video Indexer",
         "primaryURL": "https://www.videoindexer.ai/"
+      },
+      {
+        "portalName": "Azure Graph Explorer (Deprecated)",
+        "primaryURL": "https://graphexplorer.azurewebsites.net/#"
       }
     ]
   },
@@ -439,7 +443,7 @@
         "primaryURL": "https://www.bingmapsportal.com/"
       },
       {
-        "portalName": "Graph Explorer",
+        "portalName": "Microsoft Graph Explorer",
         "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer"
       },
       {
