@@ -142,7 +142,8 @@
       },
       {
         "portalName": "Power Automate Maker Portal",
-        "primaryURL": "https://flow.microsoft.com"
+        "primaryURL": "https://flow.microsoft.com",
+        "note": "Microsoft Flow"
       },
       {
         "portalName": "Power BI Admin Portal",
@@ -362,11 +363,11 @@
         "note": "sub-portal"
       },
       {
-        "portalName": "Microsoft Cloud App Security",
+        "portalName": "Microsoft Cloud App Security (MCAS)",
         "primaryURL": "https://portal.cloudappsecurity.com"
       },
       {
-        "portalName": "Microsoft Defender for Endpoints",
+        "portalName": "Microsoft Defender for Endpoints (MDE)",
         "primaryURL": "https://securitycenter.windows.com",
         "secondaryURLs": [
           {
@@ -377,7 +378,7 @@
         "note": "Previously Defender ATP"
       },
       {
-        "portalName": "Microsoft Defender for Identity",
+        "portalName": "Microsoft Defender for Identity (MDI)",
         "primaryURL": "https://portal.atp.azure.com",
         "secondaryURLs": [
           {
@@ -400,7 +401,7 @@
         "primaryURL": "https://microsoft.com/wdsi"
       },
       {
-        "portalName": "Multi-factor authentication",
+        "portalName": "Multi-factor authentication (MFA)",
         "primaryURL": "https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx"
       },
       {
