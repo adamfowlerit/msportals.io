@@ -470,6 +470,14 @@
       {
         "portalName": "Visual Studio Subscriptions Management",
         "primaryURL": "https://manage.visualstudio.com"
+      },
+      {
+        "portalName": "Microsoft Clarity (HeatMaps & Sessions Recordings)",
+        "primaryURL": "https://clarity.microsoft.com/"
+      },
+      {
+        "portalName": "Bing WebMaster Tools",
+        "primaryURL": "https://www.bing.com/webmasters"
       }
     ]
   },
