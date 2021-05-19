@@ -364,7 +364,13 @@
       },
       {
         "portalName": "Microsoft Cloud App Security (MCAS)",
-        "primaryURL": "https://portal.cloudappsecurity.com"
+        "primaryURL": "https://portal.cloudappsecurity.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/MCASPortal"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Defender for Endpoints (MDE)",
