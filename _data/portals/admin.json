@@ -186,7 +186,7 @@
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "http://aka.ms/azconfig/portal"
+            "url": "https://aka.ms/AzPortal"
           }
         ]
       },
@@ -389,7 +389,7 @@
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/AATPportal"
+            "url": "https://aka.ms/MDIPortal"
           }
         ],
         "note": "Previously Azure ATP"
