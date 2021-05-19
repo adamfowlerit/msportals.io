@@ -186,7 +186,7 @@
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/AzPortal"
+            "url": "http://aka.ms/azconfig/portal"
           }
         ]
       },
@@ -364,13 +364,7 @@
       },
       {
         "portalName": "Microsoft Cloud App Security (MCAS)",
-        "primaryURL": "https://portal.cloudappsecurity.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/MCASPortal"
-          }
-        ]
+        "primaryURL": "https://portal.cloudappsecurity.com"
       },
       {
         "portalName": "Microsoft Defender for Endpoints (MDE)",
@@ -389,7 +383,7 @@
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/MDIPortal"
+            "url": "https://aka.ms/AATPportal"
           }
         ],
         "note": "Previously Azure ATP"
