@@ -173,7 +173,16 @@
       {
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin"
-      }
+      },
+      {
+        "portalName": "My Applications (My Apps)",
+        "primaryURL": "https://myapplications.microsoft.com/"
+      },
+
+      {
+        "portalName": "My Access (Access Packages)",
+        "primaryURL": "https://myaccess.microsoft.com/"
+      },    
     ]
   },
   {
@@ -665,8 +674,11 @@
 	          {
         "portalName": "Outlook.com Smart Network Data Service",
         "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
-      }
-	    
+      },
+	          {
+        "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
+        "primaryURL": "https://www.microsoftazurepass.com/"
+      }    
     ]
   }
 ]
