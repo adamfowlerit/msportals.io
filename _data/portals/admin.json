@@ -178,11 +178,10 @@
         "portalName": "My Applications (My Apps)",
         "primaryURL": "https://myapplications.microsoft.com/"
       },
-
       {
         "portalName": "My Access (Access Packages)",
         "primaryURL": "https://myaccess.microsoft.com/"
-      },    
+      }
     ]
   },
   {
