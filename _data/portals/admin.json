@@ -240,6 +240,11 @@
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
         "note": "Raw"
+      },
+      {
+        "portalName": "Azure Universal Print",
+        "primaryURL": "https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview",
+        "note": "Raw"
       }
     ]
   },
