@@ -275,7 +275,12 @@
       {
         "portalName": "Azure Sentinel",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade"
-      }
+      },
+	{
+        "portalName": "Azure Universal Print",
+        "primaryURL": "https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview",
+        "note": "Raw"
+      }    
     ]
   },
   {
