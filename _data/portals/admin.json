@@ -22,7 +22,7 @@
       },
 	{
         "portalName": "Microsoft 365 Defender",
-        "primaryURL": "https://security.microsoft.com"
+        "primaryURL": "https://security.microsoft.com",
 	"note": "Previously Microsoft 365 security"
 		
       },
