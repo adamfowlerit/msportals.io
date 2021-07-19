@@ -61,6 +61,10 @@
       {
         "portalName": "What is my Microsoft Azure and Office 365 tenant ID?",
         "primaryURL": "https://www.whatismytenantid.com"
+      },
+      {
+        "portalName": "Azure Governance change tracker",
+        "primaryURL": "https://www.azadvertizer.net"
       }
     ]
   }
