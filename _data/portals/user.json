@@ -260,9 +260,13 @@
         "portalName": "Self Service Password Reset Setup",
         "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
       },
-      {
+            {
         "portalName": "Windows Virtual Desktop Web Client (ARM)",
         "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient"
+      },
+      {
+        "portalName": "Windows 365",
+        "primaryURL": "https://windows365.microsoft.com"
       },
       {
         "portalName": "Windows Virtual Desktop Web Client (Old) ",
