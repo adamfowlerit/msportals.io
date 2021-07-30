@@ -160,6 +160,10 @@
         "primaryURL": "https://powerva.microsoft.com"
       },
       {
+        "portalName": "Phone Number Service Center",
+        "primaryURL": "https://pstnsd.powerappsportals.com/"
+      }, 
+      {
         "portalName": "SharePoint Admin Center",
         "primaryURL": "https://admin.microsoft.com/sharepoint"
       },
