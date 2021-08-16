@@ -433,6 +433,18 @@
         "portalName": "Office 365 Security & Compliance",
         "primaryURL": "https://protection.office.com"
       },
+	{
+        "portalName": "Report an unsafe site (login)",
+        "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site"
+      },
+	{
+        "portalName": "Report an unsafe site (guest)",
+        "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest"
+      },  
+	    	{
+        "portalName": "Submit a file for malware analysis",
+        "primaryURL": "https://www.microsoft.com/en-us/wdsi/filesubmission"
+      },  
       {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse"
