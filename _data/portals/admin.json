@@ -121,10 +121,6 @@
         "primaryURL": "https://portal.rooms.microsoft.com/"
       },
       {
-        "portalName": "MileIQ Admin Center",
-        "primaryURL": "https://admin.mileiq.com"
-      },
-      {
         "portalName": "My Staff (preview)",
         "primaryURL": "https://mystaff.microsoft.com",
         "secondaryURLs": [
