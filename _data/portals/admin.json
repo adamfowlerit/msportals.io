@@ -357,6 +357,10 @@
         "portalName": "Microsoft Services Hub",
         "primaryURL": "https://serviceshub.microsoft.com"
       },
+	{
+        "portalName": "Microsoft Volume Licensing eAgreements",
+        "primaryURL": "https://eagreements.microsoft.com/"
+      },
       {
         "portalName": "Next Generation Volume Licensing",
         "primaryURL": "https://businessaccount.microsoft.com"
