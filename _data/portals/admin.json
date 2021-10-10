@@ -560,6 +560,10 @@
         "portalName": "Azure - Status",
         "primaryURL": "https://status.azure.com/status/"
       },
+	      {
+        "portalName": "Windows release health",
+        "primaryURL": "https://docs.microsoft.com/en-us/windows/release-health/"
+      },
       {
         "portalName": "M365 Status - Twitter",
         "primaryURL": "https://twitter.com/MSFT365Status"
