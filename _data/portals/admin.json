@@ -235,6 +235,10 @@
         "primaryURL": "https://adf.azure.com"
       },
       {
+        "portalName": "Azure Synapse Analytics",
+        "primaryURL": "https://web.azuresynapse.net/"
+      },
+      {
         "portalName": "Azure Non-profit Portal",
         "primaryURL": "https://nonprofit.microsoft.com/#/ngoportal"
       },
@@ -307,6 +311,11 @@
       {
         "portalName": "Custom Vision",
         "primaryURL": "https://www.customvision.ai/"
+      },
+      {
+        "portalName": "Vision Studio",
+        "primaryURL": "https://preview.vision.azure.com/",
+        "note": "Preview"
       },
       {
         "portalName": "LUIS Portal",
