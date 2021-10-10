@@ -115,6 +115,10 @@
         "primaryURL": "https://to-do.office.com"
       },
       {
+        "portalName": "Visio",
+        "primaryURL": "https://www.office.com/launch/visio"
+      },
+      {
         "portalName": "Viva Insight",
         "primaryURL": "https://insights.viva.office.com"
       },
