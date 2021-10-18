@@ -69,6 +69,18 @@
       {
         "portalName": "Azure Governance change tracker",
         "primaryURL": "https://www.azadvertizer.net"
+      },
+      {
+        "portalName": "Apple Business Manager",
+        "primaryURL": "https://business.apple.com"
+      },
+      {
+        "portalName": "Apple School Manager",
+        "primaryURL": "https://school.apple.com"
+      },
+      {
+        "portalName": "Managed Google Play store",
+        "primaryURL": "https://play.google.com/work"
       }
     ]
   }
