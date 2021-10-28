@@ -81,6 +81,14 @@
       {
         "portalName": "Managed Google Play store",
         "primaryURL": "https://play.google.com/work"
+      },
+      {
+        "portalName": "Microsoft365DSC",
+        "primaryURL": "https://microsoft365dsc.com/"
+      },
+      {
+        "portalName": "Valimail DMARC Monitor",
+        "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
       }
     ]
   }
