@@ -9,13 +9,13 @@
       {
         "portalName": "CyberDrain Improved Partner Portal",
         "primaryURL": "https://github.com/KelvinTegelaar/CIPP#what-is-this",
-        "note": "CIPP",
         "secondaryURLs": [
           {
             "icon": "GitHub",
             "url": "https://github.com/KelvinTegelaar/CIPP"
           }
-        ]
+        ],
+        "note": "CIPP"
       },
       {
         "portalName": "ChangeWindows",
