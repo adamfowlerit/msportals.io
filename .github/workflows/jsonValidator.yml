@@ -19,3 +19,10 @@ jobs:
         env:
           INPUT_SCHEMA: /_data/portals/PortalGroup.schema.json
           INPUT_JSONS:  /_data/portals/admin.json,/_data/portals/thirdparty.json,/_data/portals/us-govt.json,/_data/portals/user.json
+      - name: Discord Webhook Notify
+        if: ${{ failure() }}
+        # uses: rjstone/discord-webhook-notify@89b0bf43c2c8514f70d0dcba4a706b904e8a3112
+        uses: rjstone/discord-webhook-notify@v1.0.4
+        with:
+          # Discord webhook URL. Should be stored in a secret and inserted as a context expression.
+          webhookUrl: ${{ secrets.DiscordPsychoPingKey }}
