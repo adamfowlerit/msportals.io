@@ -591,6 +591,10 @@
         "portalName": "Customer Digital Experiences",
         "primaryURL": "http://demos.microsoft.com"
       },
+	          {
+        "portalName": "Feedback",
+        "primaryURL": "https://feedbackportal.microsoft.com/"
+      },
       {
         "portalName": "Group Policy Search",
         "primaryURL": "https://gpsearch.azurewebsites.net/"
