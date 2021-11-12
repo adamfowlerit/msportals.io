@@ -265,8 +265,9 @@
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview"
       },
       {
-        "portalName": "Azure Security Center",
-        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0"
+        "portalName": "Microsoft Defender for Cloud (MDC)",
+        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0",
+	"note": "Azure Security Center"
       },
 	{
         "portalName": "Privileged Identity Management",
@@ -395,14 +396,15 @@
         "note": "sub-portal"
       },
       {
-        "portalName": "Microsoft Cloud App Security (MCAS)",
+        "portalName": "Microsoft Defender for Cloud Apps (MDCA)",
         "primaryURL": "https://portal.cloudappsecurity.com",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/MCASPortal"
           }
-        ]
+        ],
+	"note": "Previously Microsoft Cloud App Security (MCAS)"
       },
       {
         "portalName": "Microsoft Defender for Endpoints (MDE)",
