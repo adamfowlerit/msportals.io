@@ -589,6 +589,11 @@
         ]
       },
       {
+        "portalName": "Customer Digital Experiences",
+        "primaryURL": "https://cdx.transform.microsoft.com",
+        "note": "Previously Demos.Microsoft.com"
+      },
+      {
         "portalName": "Feedback",
         "primaryURL": "https://feedbackportal.microsoft.com/"
       },
@@ -654,6 +659,10 @@
       {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
         "primaryURL": "https://sender.office.com"
+      },
+      {
+        "portalName": "Outlook Oauth Sandbox",
+        "primaryURL": "https://myadevcenter.outlook.office365.com/"
       },
       {
         "portalName": "Office UI Fabric Icons",
