@@ -590,9 +590,10 @@
       },
       {
         "portalName": "Customer Digital Experiences",
-        "primaryURL": "http://demos.microsoft.com"
+        "primaryURL": "https://cdx.transform.microsoft.com",
+        "note": "Previously Demos.Microsoft.com"
       },
-	          {
+      {
         "portalName": "Feedback",
         "primaryURL": "https://feedbackportal.microsoft.com/"
       },
@@ -660,8 +661,8 @@
         "primaryURL": "https://sender.office.com"
       },
       {
-        "portalName": "Outlook OAuth Sandbox",
-        "primaryURL": "https://oauthplay.azurewebsites.net/"
+        "portalName": "Outlook Oauth Sandbox",
+        "primaryURL": "https://myadevcenter.outlook.office365.com/"
       },
       {
         "portalName": "Office UI Fabric Icons",
@@ -672,10 +673,6 @@
             "url": "https://aka.ms/fluentui-icons"
           }
         ]
-      },
-      {
-        "portalName": "PowerApps Unified Interface Transition Portal",
-        "primaryURL": "https://runone.powerappsportals.com"
       },
       {
         "portalName": "PowerBI Embedded Playground",
@@ -706,14 +703,6 @@
       {
         "portalName": "Microsoft Documentation",
         "primaryURL": "https://docs.microsoft.com"
-      },
-	          {
-        "portalName": "Windows Insider Lab for Enterprise",
-        "primaryURL": "https://olympia.windows.com/"
-      },
-      {
-        "portalName": "Skype Preview / Microsoft Teams Preview",
-        "primaryURL": "https://www.skypepreview.com"
       },
 	          {
         "portalName": "Outlook.com Smart Network Data Service",
