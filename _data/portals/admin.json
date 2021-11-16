@@ -656,10 +656,6 @@
         "primaryURL": "https://sender.office.com"
       },
       {
-        "portalName": "Outlook OAuth Sandbox",
-        "primaryURL": "https://oauthplay.azurewebsites.net/"
-      },
-      {
         "portalName": "Office UI Fabric Icons",
         "primaryURL": "https://uifabricicons.azurewebsites.net/",
         "secondaryURLs": [
@@ -668,10 +664,6 @@
             "url": "https://aka.ms/fluentui-icons"
           }
         ]
-      },
-      {
-        "portalName": "PowerApps Unified Interface Transition Portal",
-        "primaryURL": "https://runone.powerappsportals.com"
       },
       {
         "portalName": "PowerBI Embedded Playground",
