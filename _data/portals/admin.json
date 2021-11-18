@@ -128,6 +128,16 @@
         "portalName": "OneDrive Admin Center",
         "primaryURL": "https://admin.onedrive.com"
       },
+	    {
+        "portalName": "Power Apps ISV Studio",
+        "primaryURL": "https://make.powerapps.com",
+	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ISVStudio"
+          }
+	]
+      },
       {
         "portalName": "Power Apps Maker Portal",
         "primaryURL": "https://make.powerapps.com"
