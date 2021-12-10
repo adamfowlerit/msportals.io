@@ -318,6 +318,14 @@
         "note": "Preview"
       },
       {
+        "portalName": "Speech Studio",
+        "primaryURL": "https://speech.microsoft.com/"
+      },   
+      {
+        "portalName": "Language Studio",
+        "primaryURL": "https://language.azure.com/"
+      },
+      {
         "portalName": "LUIS Portal",
         "primaryURL": "https://www.luis.ai/"
       },
