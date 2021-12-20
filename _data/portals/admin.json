@@ -611,6 +611,10 @@
         "primaryURL": "https://cdx.transform.microsoft.com",
         "note": "Previously Demos.Microsoft.com"
       },
+     {
+        "portalName": "Deployment Guides for Microsoft 365 ",
+        "primaryURL": "https://assistants.microsoft.com/" 
+      },
       {
         "portalName": "Feedback",
         "primaryURL": "https://feedbackportal.microsoft.com/"
