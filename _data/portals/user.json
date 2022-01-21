@@ -270,7 +270,7 @@
       },
       {
         "portalName": "Windows 365",
-        "primaryURL": "https://windows365.microsoft.com"
+        "primaryURL": "https://windows365.microsoft.com",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
