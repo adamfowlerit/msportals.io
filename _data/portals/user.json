@@ -271,6 +271,12 @@
       {
         "portalName": "Windows 365",
         "primaryURL": "https://windows365.microsoft.com"
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/w365login"
+          }
+        ]
       },
       {
         "portalName": "Windows Virtual Desktop Web Client (Old) ",
