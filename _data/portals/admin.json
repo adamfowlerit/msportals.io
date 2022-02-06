@@ -627,6 +627,10 @@
         "portalName": "Infringement Report",
         "primaryURL": "https://msrc.microsoft.com/report/infringement"
       },
+	{
+        "portalName": "Fast Cloud File Migrations",
+        "primaryURL": "https://mover.io/"
+      },
        {
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
