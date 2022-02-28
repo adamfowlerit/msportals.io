@@ -338,8 +338,9 @@
         "primaryURL": "https://www.videoindexer.ai/"
       },
       {
-        "portalName": "Azure Graph Explorer (Deprecated)",
-        "primaryURL": "https://graphexplorer.azurewebsites.net/#"
+        "portalName": "Azure Graph Explorer",
+        "primaryURL": "https://graphexplorer.azurewebsites.net/#",
+	 "note": "Deprecated"
       }
     ]
   },
@@ -463,7 +464,8 @@
       },
       {
         "portalName": "Office 365 Security & Compliance",
-        "primaryURL": "Deprecated: https://protection.office.com"
+        "primaryURL": "https://protection.office.com",
+	      "note": "Deprecated"
       },
 	{
         "portalName": "Report an unsafe site (login)",
