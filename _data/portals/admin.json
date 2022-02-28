@@ -416,7 +416,7 @@
             "url": "https://aka.ms/MDATPportal"
           }
         ],
-        "note": "Previously Defender ATP"
+        "note": "Deprecated: Previously Defender ATP"
       },
       {
         "portalName": "Microsoft Defender for Identity (MDI)",
@@ -427,7 +427,7 @@
             "url": "https://aka.ms/MDIPortal"
           }
         ],
-        "note": "Previously Azure ATP"
+        "note": "Deprecated: Previously Azure ATP"
       },
 	{
         "portalName": "Microsoft Defender ATP Testground",
@@ -463,7 +463,7 @@
       },
       {
         "portalName": "Office 365 Security & Compliance",
-        "primaryURL": "https://protection.office.com"
+        "primaryURL": "Deprecated: https://protection.office.com"
       },
 	{
         "portalName": "Report an unsafe site (login)",
