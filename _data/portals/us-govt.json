@@ -114,6 +114,11 @@
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "https://securitycenter.microsoft.us",
         "note": "GCC High"
+      },
+      {
+        "portalName": "Microsoft 365 Apps admin center",
+        "primaryURL": "https://config.office365.us",
+        "note": "GCC High"
       }
     ]
   }
