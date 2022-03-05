@@ -753,5 +753,14 @@
         "primaryURL": "https://azure.microsoft.com/en-us/updates/"
       }
     ]
-  }
+  },
+	{
+    "groupName": "Other Useful Microsoft URLs",
+    "portals": [
+	{
+        "portalName": "Windows 365 Subscription URL",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
+      }
+    ]
+  {
 ]
