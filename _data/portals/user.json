@@ -279,6 +279,10 @@
         ]
       },
       {
+        "portalName": "Windows 365 Subscription URL",
+        "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
+      },
+      {
         "portalName": "Windows Virtual Desktop Web Client (Old) ",
         "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
         "secondaryURLs": [
