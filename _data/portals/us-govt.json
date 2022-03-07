@@ -118,17 +118,17 @@
             {
         "portalName": "Microsoft Online Self Service Password Reset",
         "primaryURL": "https://passwordreset.activedirectory.windowsazure.us/",
-        "note": "GCC"
+        "note": ""
       },
    {
         "portalName": "My Apps",
-        "primaryURL": "https://account.activedirectory.windowsazure.us,
-        "note": "GCC"
+        "primaryURL": "https://account.activedirectory.windowsazure.us",
+        "note": ""
       },
          {
         "portalName": "Azure Virtual Desktop",
         "primaryURL": "https://rdweb.wvd.azure.us/",
-        "note": "GCC"
+        "note": ""
       },
       {
         "portalName": "Microsoft 365 Apps admin center",
