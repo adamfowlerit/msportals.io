@@ -115,6 +115,21 @@
         "primaryURL": "https://securitycenter.microsoft.us",
         "note": "GCC High"
       },
+            {
+        "portalName": "Microsoft Online Self Service Password Reset",
+        "primaryURL": "https://passwordreset.activedirectory.windowsazure.us/",
+        "note": "GCC"
+      },
+   {
+        "portalName": "My Apps",
+        "primaryURL": "https://account.activedirectory.windowsazure.us,
+        "note": "GCC"
+      },
+         {
+        "portalName": "Azure Virtual Desktop",
+        "primaryURL": "https://rdweb.wvd.azure.us/",
+        "note": "GCC"
+      },
       {
         "portalName": "Microsoft 365 Apps admin center",
         "primaryURL": "https://config.office365.us",
