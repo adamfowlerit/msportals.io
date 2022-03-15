@@ -508,7 +508,13 @@
       },
 	{
         "portalName": "Azure Data Explorer",
-        "primaryURL": "https://dataexplorer.azure.com/"
+        "primaryURL": "https://dataexplorer.azure.com/",
+		"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/kustofree"
+          }
+        ]
       },
       {
         "portalName": "Azure DevOps",
