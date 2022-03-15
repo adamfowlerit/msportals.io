@@ -506,6 +506,10 @@
         "portalName": "Adaptive Cards Designer",
         "primaryURL": "https://adaptivecards.io/designer/"
       },
+	{
+        "portalName": "Azure Data Explorer",
+        "primaryURL": "https://dataexplorer.azure.com/"
+      },
       {
         "portalName": "Azure DevOps",
         "primaryURL": "https://dev.azure.com"
