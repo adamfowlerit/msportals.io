@@ -1,0 +1,14 @@
+{
+   "author": "Tony James",
+   "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Microsoft Portals"
+   },
+   "description": "Quick access to Microsoft 365 Admin Centers",
+   "homepage_url": "https://msportals.io/about/",
+   "manifest_version": 2,
+   "name": "Microsoft Portals",
+   "short_name": "msportals.io",
+   "_update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "2.0"
+}

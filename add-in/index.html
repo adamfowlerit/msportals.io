@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>msportals.io extension</title>
+      <style>
+         body {
+			margin: 0.5em;
+         }
+         .portal {
+			margin-left: 1em;
+         }
+         ul {
+			margin: 0;
+			padding: 0;
+			padding-left: 36px;
+         }
+         .nomatches {
+			display: none;
+         }
+      </style>
+   </head>
+   <body>
+      <div id="container">
+         <form>
+            <input id="search" name="search" class="quickfilter" type="text" placeholder="Quick Filter" />
+         </form>
+         <div class="loading">
+            <progress max='100'>%</progress>
+         </div>
+         <!-- id used in convertothtml function to convert json elements to div tags -->
+         <div id="set"></div>
+         <div class="nomatches">
+            <p>
+               No matches found
+            </p>
+         </div>
+         <p><a href=about.html >About msportals.io</a></p>
+      </div>
+      <script src="./js/data.js"></script>
+      <script src="./js/search.js"></script>
+   </body>
+</html>
