@@ -1,14 +1,20 @@
 {
-   "author": "Tony James",
-   "browser_action": {
-      "default_popup": "index.html",
-      "default_title": "Microsoft Portals"
-   },
-   "description": "Quick access to Microsoft 365 Admin Centers",
-   "homepage_url": "https://msportals.io/about/",
-   "manifest_version": 2,
-   "name": "Microsoft Portals",
-   "short_name": "msportals.io",
-   "_update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
-   "version": "2.0"
+	"manifest_version": 2,
+	"name": "Microsoft Portals",
+	"version": "2.0",
+	
+	"short_name": "msportals.io",
+	"homepage_url": "https://msportals.io/about/",
+	"description": "Quick access to Microsoft 365 Admin Centers",
+	
+	"author": "Tony James",
+	
+	"browser_action": {
+		"default_icon": {
+			"16": "img/icon_16_black.png",
+			"32": "img/icon_32_black.png"
+		},
+		"default_popup": "index.html",
+		"default_title": "Microsoft Portals"
+	}
 }
