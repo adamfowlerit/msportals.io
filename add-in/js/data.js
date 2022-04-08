@@ -6,7 +6,9 @@ msportalsIO.getJSON = async function() {
 	let json = null;
 	
 	const urls = [
-		'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/admin.json',			'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/user.json',			'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/thirdparty.json'
+		'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/admin.json',
+		'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/user.json',
+		'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/thirdparty.json'
 	];
 	
 	const requests = urls.map( 
