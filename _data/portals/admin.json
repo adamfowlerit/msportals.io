@@ -542,6 +542,15 @@
         "primaryURL": "https://mgt.dev/"
       },
       {
+        "portalName": "Visual Studio (VS) Code in the Web",
+        "primaryURL": "https://www.vscode.dev/"
+      },
+      {
+        "portalName": "Visual Studio (VS) Code in the Web",
+        "primaryURL": "https://insiders.vscode.dev/"
+        "note": "Insiders Version"
+      },
+      {
         "portalName": "Microsoft Online Error Code Lookup",
         "primaryURL": "https://login.microsoftonline.com/error"
       },      {
