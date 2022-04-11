@@ -515,7 +515,7 @@
             "url": "https://aka.ms/kustofree"
           }
         ]
-      },
+      }, 
       {
         "portalName": "Azure DevOps",
         "primaryURL": "https://dev.azure.com"
@@ -540,6 +540,15 @@
       {
         "portalName": "Microsoft Graph Toolkit",
         "primaryURL": "https://mgt.dev/"
+      },
+      {
+        "portalName": "Visual Studio (VS) Code in the Web",
+        "primaryURL": "https://www.vscode.dev/"
+      },
+      {
+        "portalName": "Visual Studio (VS) Code in the Web",
+        "primaryURL": "https://insiders.vscode.dev/"
+        "note": "Insiders Version"
       },
       {
         "portalName": "Microsoft Online Error Code Lookup",
