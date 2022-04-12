@@ -678,6 +678,12 @@
       {
         "portalName": "Microsoft Remote Connectivity Analyzer",
         "primaryURL": "https://testconnectivity.microsoft.com"
+	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/rca"
+          }
+        ]
       },
 	 {
         "portalName": "Microsoft Reseller Profile Registration Portal",
