@@ -547,7 +547,7 @@
       },
       {
         "portalName": "Visual Studio (VS) Code in the Web",
-        "primaryURL": "https://insiders.vscode.dev/"
+        "primaryURL": "https://insiders.vscode.dev/",
         "note": "Insiders Version"
       },
       {
