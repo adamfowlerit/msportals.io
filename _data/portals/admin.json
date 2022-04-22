@@ -153,7 +153,13 @@
       },
       {
         "portalName": "Power Platform admin center",
-        "primaryURL": "https://admin.powerplatform.microsoft.com"
+        "primaryURL": "https://admin.powerplatform.microsoft.com",
+	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ppacd"
+          }
+	]
       },
       {
         "portalName": "Power Virtual Agents Portal",
