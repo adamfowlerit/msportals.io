@@ -512,6 +512,10 @@
         "portalName": "Adaptive Cards Designer",
         "primaryURL": "https://adaptivecards.io/designer/"
       },
+	          {
+        "portalName": "Applied AI Form Recognizer Studio - Preview",
+        "primaryURL": "https://formrecognizer.appliedai.azure.com"
+      },
 	{
         "portalName": "Azure Data Explorer",
         "primaryURL": "https://dataexplorer.azure.com/",
