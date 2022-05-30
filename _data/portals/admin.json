@@ -586,6 +586,10 @@
       {
         "portalName": "Bing WebMaster Tools",
         "primaryURL": "https://www.bing.com/webmasters"
+      },
+      {
+        "portalName": "Teams Developer Dashboard",
+        "primaryURL": "https://dev.teams.microsoft.com"
       }
     ]
   },
