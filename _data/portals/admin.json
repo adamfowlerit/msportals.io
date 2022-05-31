@@ -496,6 +496,10 @@
       {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse"
+      },
+      {
+        "portalName": "Microsoft Entra",
+        "primaryURL": "https://entra.microsoft.com"
       }
     ]
   },
