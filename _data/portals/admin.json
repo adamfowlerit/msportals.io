@@ -465,6 +465,10 @@
 	"note": "Azure Security Center (ASC)"
       },
       {
+        "portalName": "Microsoft Entra",
+        "primaryURL": "https://entra.microsoft.com"
+      }
+      {
         "portalName": "Microsoft Secure Score",
         "primaryURL": "https://security.microsoft.com/securescore"
       },
@@ -476,7 +480,12 @@
         "portalName": "Multi-factor authentication (MFA)",
         "primaryURL": "https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx"
       },
-      {
+            {
+        "portalName": "CloudKnox Permissions Management",
+        "primaryURL": "https://c1.app.mciem.cloudknox.io"
+      },
+	
+	{
         "portalName": "Office 365 Security & Compliance",
         "primaryURL": "https://protection.office.com",
 	      "note": "Deprecated"
@@ -496,10 +505,6 @@
       {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse"
-      },
-      {
-        "portalName": "Microsoft Entra",
-        "primaryURL": "https://entra.microsoft.com"
       }
     ]
   },
