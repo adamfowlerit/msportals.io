@@ -465,7 +465,7 @@
 	"note": "Azure Security Center (ASC)"
       },
       {
-        "portalName": "Microsoft Entra",
+        "portalName": "Microsoft Entra admin center",
         "primaryURL": "https://entra.microsoft.com"
       },
       {
