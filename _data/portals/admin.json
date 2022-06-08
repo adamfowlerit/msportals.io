@@ -813,7 +813,11 @@
   {
     "groupName": "Other Useful Microsoft URLs",
     "portals": [
-	{
+		          {
+        "portalName": "Microsoft Unlocked",
+        "primaryURL": "https://unlocked.microsoft.com/"
+      },
+	    {
         "portalName": "Windows 365 Subscription URL",
         "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
       }
