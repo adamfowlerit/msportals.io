@@ -97,10 +97,14 @@
         "portalName": "Microsoft365DSC",
         "primaryURL": "https://microsoft365dsc.com/"
       },
-            {
+      {
         "portalName": "Azure Charts",
-        "primaryURL": "https://azurecharts.com/"
-      },
+        "primaryURL": "https://azurecharts.com/",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/azstatboard"
+          },
       {
         "portalName": "Valimail DMARC Monitor",
         "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
