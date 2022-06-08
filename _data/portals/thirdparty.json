@@ -99,11 +99,7 @@
       },
       {
         "portalName": "Azure Charts",
-        "primaryURL": "https://azurecharts.com/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/azstatboard"
+        "primaryURL": "https://azurecharts.com/"
           },
       {
         "portalName": "Valimail DMARC Monitor",
