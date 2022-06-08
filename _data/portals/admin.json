@@ -39,8 +39,9 @@
         "primaryURL": "https://manage.kaiza.la/"
       },
       {
-        "portalName": "Microsoft 365 Compliance",
-        "primaryURL": "https://compliance.microsoft.com"
+        "portalName": "Microsoft Purview",
+        "primaryURL": "https://compliance.microsoft.com",
+	      "note": "compliance portal"
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
@@ -102,7 +103,8 @@
       },
       {
         "portalName": "Microsoft Purview",
-        "primaryURL": "https://web.purview.azure.com/"
+        "primaryURL": "https://web.purview.azure.com/",
+	      "note": "Governance portal"
       },
       {
         "portalName": "Microsoft Teams Admin Center",
