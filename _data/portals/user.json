@@ -80,7 +80,8 @@
       },
       {
         "portalName": "Power Pages",
-        "primaryURL": "https://make.powerpages.microsoft.com"
+        "primaryURL": "https://make.powerpages.microsoft.com",
+        "note": "Preview"
       },
       {
         "portalName": "PowerPoint",
