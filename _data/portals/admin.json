@@ -155,13 +155,13 @@
       {
         "portalName": "Power Automate Maker Portal",
         "primaryURL": "https://make.powerautomate.com",
-        "note": "Microsoft Flow"
         "secondaryURLs": [
               {
             "icon": "Old 🔗",
             "url": "https://flow.microsoft.com"
           }        
-        ]
+        ],
+	"note": "Microsoft Flow"
       },
       {
         "portalName": "Power BI Admin Portal",
