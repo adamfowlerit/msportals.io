@@ -3,7 +3,7 @@
     "groupName": "Microsoft 365 Admin Portals",
     "portals": [
       {
-        "portalName": "Microsoft 365 Admin Portal",
+        "portalName": "Microsoft 365 Admin Center",
         "primaryURL": "https://admin.microsoft.com",
         "secondaryURLs": [
           {
