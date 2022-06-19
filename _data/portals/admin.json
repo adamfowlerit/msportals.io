@@ -237,11 +237,6 @@
         "note": "Preview"
       },
       {
-        "portalName": "Microsoft Entra",
-        "primaryURL": "https://entra.microsoft.com",
-        "note": "Identity Management"
-      },
-      {
         "portalName": "Azure Active Directory admin center (Azure AD)",
         "primaryURL": "https://aad.portal.azure.com"
       },
@@ -479,7 +474,8 @@
       },
       {
         "portalName": "Microsoft Entra admin center",
-        "primaryURL": "https://entra.microsoft.com"
+        "primaryURL": "https://entra.microsoft.com",
+      "note": "Identity Management"
       },
       {
         "portalName": "Microsoft Secure Score",
