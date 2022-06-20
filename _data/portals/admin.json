@@ -816,13 +816,8 @@
       {
         "portalName": "Azure Updates",
         "primaryURL": "https://azure.microsoft.com/en-us/updates/"
-      }
-    ]
-  },
-  {
-    "groupName": "Other Useful Microsoft URLs",
-    "portals": [
-      {
+      },
+        {
         "portalName": "Microsoft Unlocked",
         "primaryURL": "https://unlocked.microsoft.com/"
       },
