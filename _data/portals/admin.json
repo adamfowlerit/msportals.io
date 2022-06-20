@@ -822,6 +822,10 @@
         "primaryURL": "https://unlocked.microsoft.com/"
       },
       {
+        "portalName": "Expert Zone",
+        "primaryURL": "https://expertzone.microsoft.com/"
+      },
+      {
         "portalName": "Windows 365 Subscription URL",
         "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
       }
