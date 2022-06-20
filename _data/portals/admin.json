@@ -822,8 +822,9 @@
         "primaryURL": "https://unlocked.microsoft.com/"
       },
       {
-        "portalName": "Expert Zone",
-        "primaryURL": "https://expertzone.microsoft.com/"
+        "portalName": "ExpertZone",
+        "primaryURL": "https://expertzone.microsoft.com/",
+        "note": "Training"
       },
       {
         "portalName": "Windows 365 Subscription URL",
