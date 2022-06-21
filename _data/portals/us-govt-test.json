@@ -1,5 +1,9 @@
 [
   {
+    "groupName": "Shared",
+    "portals": []
+  }
+  {
     "groupName": "GCC",
     "portals": [
       {
@@ -151,5 +155,19 @@
         "note": "GCC High"
       }
     ]
+  },
+  {
+    "groupName": "GCC Moderate",
+    "portals": [
+      {
+        "portalName": "",
+        "primaryURL": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "groupName": "DoD (PREVIEW)",
+    "portals": []
   }
 ]
