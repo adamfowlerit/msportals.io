@@ -79,6 +79,11 @@
         "primaryURL": "https://app.powerbi.com"
       },
       {
+        "portalName": "Power Pages",
+        "primaryURL": "https://make.powerpages.microsoft.com",
+        "note": "Preview"
+      },
+      {
         "portalName": "PowerPoint",
         "primaryURL": "https://www.office.com/launch/powerpoint"
       },

@@ -3,7 +3,7 @@
     "groupName": "Microsoft 365 Admin Portals",
     "portals": [
       {
-        "portalName": "Microsoft 365 Admin Portal",
+        "portalName": "Microsoft 365 Admin Center",
         "primaryURL": "https://admin.microsoft.com",
         "secondaryURLs": [
           {
@@ -41,7 +41,7 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
-	      "note": "compliance portal"
+        "note": "compliance portal"
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
@@ -56,7 +56,7 @@
         "portalName": "Microsoft Call Quality Dashboard (Teams)",
         "primaryURL": "https://cqd.teams.microsoft.com"
       },
-	{
+      {
         "portalName": "Microsoft Call Quality Dashboard (Lync)",
         "primaryURL": "https://cqd.lync.com"
       },
@@ -85,7 +85,7 @@
         "portalName": "Microsoft Intune for Education",
         "primaryURL": "https://intuneeducation.portal.azure.com"
       },
-	{
+      {
         "portalName": "Microsoft Online",
         "primaryURL": "https://portal.microsoftonline.com/IWDefault.aspx"
       },
@@ -104,7 +104,7 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://web.purview.azure.com/",
-	      "note": "Governance portal"
+        "note": "Governance portal"
       },
       {
         "portalName": "Microsoft Teams Admin Center",
@@ -138,15 +138,15 @@
         "portalName": "OneDrive Admin Center",
         "primaryURL": "https://admin.onedrive.com"
       },
-	    {
+      {
         "portalName": "Power Apps ISV Studio",
         "primaryURL": "https://isvstudio.powerapps.com/home",
-	"secondaryURLs": [
+        "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/ISVStudio"
           }
-	]
+        ]
       },
       {
         "portalName": "Power Apps Maker Portal",
@@ -154,7 +154,13 @@
       },
       {
         "portalName": "Power Automate Maker Portal",
-        "primaryURL": "https://flow.microsoft.com",
+        "primaryURL": "https://make.powerautomate.com",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://flow.microsoft.com"
+          }
+        ],
         "note": "Microsoft Flow"
       },
       {
@@ -164,12 +170,12 @@
       {
         "portalName": "Power Platform admin center",
         "primaryURL": "https://admin.powerplatform.microsoft.com",
-	"secondaryURLs": [
+        "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/ppacd"
           }
-	]
+        ]
       },
       {
         "portalName": "Power Virtual Agents Portal",
@@ -178,7 +184,7 @@
       {
         "portalName": "Phone Number Service Center",
         "primaryURL": "https://pstnsd.powerappsportals.com/"
-      }, 
+      },
       {
         "portalName": "SharePoint Admin Center",
         "primaryURL": "https://admin.microsoft.com/sharepoint"
@@ -284,15 +290,15 @@
         "portalName": "Azure Backup Center",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview"
       },
-	{
+      {
         "portalName": "Privileged Identity Management",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart",
-	"secondaryURLs": [
+        "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/myroles"
           }
-	]
+        ]
       },
       {
         "portalName": "Desktop Analytics Portal",
@@ -302,11 +308,11 @@
         "portalName": "Azure Sentinel",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade"
       },
-	{
+      {
         "portalName": "Azure Universal Print",
         "primaryURL": "https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview",
         "note": "Raw"
-      }    
+      }
     ]
   },
   {
@@ -336,7 +342,7 @@
       {
         "portalName": "Speech Studio",
         "primaryURL": "https://speech.microsoft.com/"
-      },   
+      },
       {
         "portalName": "Language Studio",
         "primaryURL": "https://language.azure.com/"
@@ -356,7 +362,7 @@
       {
         "portalName": "Azure Graph Explorer",
         "primaryURL": "https://graphexplorer.azurewebsites.net/#",
-	 "note": "Deprecated"
+        "note": "Deprecated"
       }
     ]
   },
@@ -375,7 +381,7 @@
         "portalName": "Microsoft Azure Enterprise Portal",
         "primaryURL": "https://ea.azure.com"
       },
-       {
+      {
         "portalName": "Microsoft FastTrack",
         "primaryURL": "https://fasttrack.microsoft.com"
       },
@@ -391,7 +397,7 @@
         "portalName": "Microsoft Services Hub",
         "primaryURL": "https://serviceshub.microsoft.com"
       },
-	{
+      {
         "portalName": "Microsoft Volume Licensing eAgreements",
         "primaryURL": "https://eagreements.microsoft.com/"
       },
@@ -407,11 +413,11 @@
   },
   {
     "groupName": "Microsoft Defender / Security IT Admin Portals",
-    "portals": [	
-	{
+    "portals": [
+      {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
-	"note": "Previously Microsoft 365 security"	
+        "note": "Previously Microsoft 365 security"
       },
       {
         "portalName": "Microsoft Defender for Cloud Apps (MDCA)",
@@ -422,7 +428,7 @@
             "url": "https://aka.ms/MCASPortal"
           }
         ],
-	"note": "Previously Microsoft Cloud App Security (MCAS)"
+        "note": "Previously Microsoft Cloud App Security (MCAS)"
       },
       {
         "portalName": "Microsoft Defender for Endpoints (MDE)",
@@ -446,11 +452,11 @@
         ],
         "note": "Deprecated: Previously Azure ATP"
       },
-	{
+      {
         "portalName": "Microsoft Defender ATP Testground",
         "primaryURL": "https://demo.wd.microsoft.com/"
       },
-	    {
+      {
         "portalName": "Attack simulation training",
         "primaryURL": "https://security.microsoft.com/attacksimulator",
         "secondaryURLs": [
@@ -464,17 +470,18 @@
       {
         "portalName": "Microsoft Defender for Cloud (MDC)",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0",
-	"note": "Azure Security Center (ASC)"
+        "note": "Azure Security Center (ASC)"
       },
       {
         "portalName": "Microsoft Entra admin center",
-        "primaryURL": "https://entra.microsoft.com"
+        "primaryURL": "https://entra.microsoft.com",
+      "note": "Identity Management"
       },
       {
         "portalName": "Microsoft Secure Score",
         "primaryURL": "https://security.microsoft.com/securescore"
       },
-	{
+      {
         "portalName": "Microsoft Security Intelligence",
         "primaryURL": "https://microsoft.com/wdsi"
       },
@@ -482,28 +489,27 @@
         "portalName": "Multi-factor authentication (MFA)",
         "primaryURL": "https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx"
       },
-            {
+      {
         "portalName": "CloudKnox Permissions Management",
         "primaryURL": "https://c1.app.mciem.cloudknox.io"
       },
-	
-	{
+      {
         "portalName": "Office 365 Security & Compliance",
         "primaryURL": "https://protection.office.com",
-	      "note": "Deprecated"
+        "note": "Deprecated"
       },
-	{
+      {
         "portalName": "Report an unsafe site (login)",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site"
       },
-	{
+      {
         "portalName": "Report an unsafe site (guest)",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest"
-      },  
-	    	{
+      },
+      {
         "portalName": "Submit a file for malware analysis",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/filesubmission"
-      },  
+      },
       {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse"
@@ -531,14 +537,14 @@
         "portalName": "Adaptive Cards Designer",
         "primaryURL": "https://adaptivecards.io/designer/"
       },
-	          {
+      {
         "portalName": "Applied AI Form Recognizer Studio - Preview",
         "primaryURL": "https://formrecognizer.appliedai.azure.com"
       },
-	{
+      {
         "portalName": "Azure Data Explorer",
         "primaryURL": "https://dataexplorer.azure.com/",
-		"secondaryURLs": [
+        "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/kustofree"
@@ -582,7 +588,8 @@
       {
         "portalName": "Microsoft Online Error Code Lookup",
         "primaryURL": "https://login.microsoftonline.com/error"
-      },      {
+      },
+      {
         "portalName": "Visual Studio Subscriptions",
         "primaryURL": "https://my.visualstudio.com"
       },
@@ -607,7 +614,7 @@
   {
     "groupName": "Health / Status Portals",
     "portals": [
-       {
+      {
         "portalName": "Microsoft 365 Service health status",
         "primaryURL": "https://status.office.com/"
       },
@@ -627,13 +634,13 @@
             "icon": "aka.ms",
             "url": "https://aka.ms/azureservicehealth"
           }
-				]
+        ]
       },
       {
         "portalName": "Azure - Status",
         "primaryURL": "https://status.azure.com/status/"
       },
-	      {
+      {
         "portalName": "Windows release health",
         "primaryURL": "https://docs.microsoft.com/en-us/windows/release-health/"
       },
@@ -643,7 +650,7 @@
       }
     ]
   },
-   {
+  {
     "groupName": "Other Useful Microsoft Portals",
     "portals": [
       {
@@ -665,9 +672,9 @@
         "primaryURL": "https://cdx.transform.microsoft.com",
         "note": "Previously Demos.Microsoft.com"
       },
-     {
+      {
         "portalName": "Deployment Guides for Microsoft 365 ",
-        "primaryURL": "https://assistants.microsoft.com/" 
+        "primaryURL": "https://assistants.microsoft.com/"
       },
       {
         "portalName": "Feedback",
@@ -677,23 +684,23 @@
         "portalName": "Group Policy Search",
         "primaryURL": "https://gpsearch.azurewebsites.net/"
       },
-	           {
+      {
         "portalName": "Infringement Report",
         "primaryURL": "https://msrc.microsoft.com/report/infringement"
       },
-	{
+      {
         "portalName": "Fast Cloud File Migrations",
         "primaryURL": "https://mover.io/"
       },
-       {
+      {
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
       },
-	{
+      {
         "portalName": "Microsoft Azure Sponsorships",
         "primaryURL": "https://www.microsoftazuresponsorships.com"
       },
-	{
+      {
         "portalName": "Microsoft Community",
         "primaryURL": "https://answers.microsoft.com"
       },
@@ -701,11 +708,11 @@
         "portalName": "Microsoft Dynamics Lifecycle Services",
         "primaryURL": "https://lcs.dynamics.com"
       },
-       {
+      {
         "portalName": "Microsoft Dynamics Trials",
         "primaryURL": "https://trials.dynamics.com/"
       },
-	           {
+      {
         "portalName": "Microsoft Exam Sandbox",
         "primaryURL": "https://mscertdemo.starttest.com/"
       },
@@ -720,14 +727,14 @@
       {
         "portalName": "Microsoft Remote Connectivity Analyzer",
         "primaryURL": "https://testconnectivity.microsoft.com",
-	"secondaryURLs": [
+        "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/rca"
           }
         ]
       },
-	 {
+      {
         "portalName": "Microsoft Reseller Profile Registration Portal",
         "primaryURL": "https://reselleruat.microsoftcrmportals.com/"
       },
@@ -798,31 +805,31 @@
         "portalName": "Microsoft Documentation",
         "primaryURL": "https://docs.microsoft.com"
       },
-	          {
+      {
         "portalName": "Outlook.com Smart Network Data Service",
         "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
       },
-	          {
+      {
         "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
         "primaryURL": "https://www.microsoftazurepass.com/"
       },
-	    {
+      {
         "portalName": "Azure Updates",
         "primaryURL": "https://azure.microsoft.com/en-us/updates/"
-      }
-    ]
-  },
-  {
-    "groupName": "Other Useful Microsoft URLs",
-    "portals": [
-		          {
+      },
+        {
         "portalName": "Microsoft Unlocked",
         "primaryURL": "https://unlocked.microsoft.com/"
       },
-	    {
+      {
+        "portalName": "ExpertZone",
+        "primaryURL": "https://expertzone.microsoft.com/",
+        "note": "Training"
+      },
+      {
         "portalName": "Windows 365 Subscription URL",
         "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
       }
     ]
- }
+  }
 ]
