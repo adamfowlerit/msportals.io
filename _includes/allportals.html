@@ -33,7 +33,9 @@
 
 <script type="text/javascript">
 
-const data = {{ site.data.portals.[include.portal] | jsonify}}
+    const alldata = {{ site.data.portals | jsonify}}
+    var keys = Object.keys(alldata).filter(key => key != "PortalGroupschema")
+    var data = [].concat(...[...keys.map(key => alldata[key])])
     const portals = [].concat(...[...data.map(i => { return i.portals })])
 
     Array.from(document.getElementsByClassName("portal-add")).forEach((e) =>
