@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Administrator Portals
+title: All Portals
 ---
 
 Welcome to this community driven project to list all of Microsoft's portals in one place.
 
-{% include portal.html portal="admin" %}
+{% include allportals.html %}
 
 The ![aka.ms button](.\images\akamsicon.png) icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
