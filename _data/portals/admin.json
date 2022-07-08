@@ -168,6 +168,10 @@
         "primaryURL": "https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1"
       },
       {
+        "portalName": "Power Pages Preview",
+        "primaryURL": "https://make.powerpages.microsoft.com/"
+      },
+      {
         "portalName": "Power Platform admin center",
         "primaryURL": "https://admin.powerplatform.microsoft.com",
         "secondaryURLs": [
