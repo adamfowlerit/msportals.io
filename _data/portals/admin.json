@@ -424,7 +424,7 @@
         "note": "Previously Microsoft 365 security"
       },
       {
-        "portalName": "Microsoft Defender for Cloud Apps (MDCA)",
+        "portalName": "Microsoft Defender for Cloud Apps (MDA)",
         "primaryURL": "https://portal.cloudappsecurity.com",
         "secondaryURLs": [
           {
