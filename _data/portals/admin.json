@@ -569,7 +569,13 @@
       },
       {
         "portalName": "Microsoft Graph Explorer",
-        "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer"
+        "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/GE"
+          }
+        ]
       },
       {
         "portalName": "JWT/MS Token Decoder",
