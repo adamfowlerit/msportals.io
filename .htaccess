@@ -1,5 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} !^msportals.io$ [NC]
-RewriteRule ^(.*)$ https://msportals.io/$1 [L,R=301]
-RewriteCond %{SERVER_PORT} !=443
-RewriteRule ^(.*)$ https://msportals.io/$1 [R=301,L]
+RewriteCond %{HTTPS} on
+RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
