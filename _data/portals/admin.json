@@ -730,6 +730,10 @@
         "portalName": "Microsoft Exam Sandbox",
         "primaryURL": "https://mscertdemo.starttest.com/"
       },
+       {
+        "portalName": "Microsoft Events",
+        "primaryURL": "https://events.microsoft.com"
+      },
       {
         "portalName": "Microsoft Home Use Program",
         "primaryURL": "https://www.microsoft.com/home-use-program"
