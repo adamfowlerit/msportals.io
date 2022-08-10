@@ -462,12 +462,12 @@
       },
       {
         "portalName": "Microsoft Defender Threat Intelligence",
-        "primaryURL": "https://ti.defender.microsoft.com/",
-        "note": "Being deprecated 09/30/2022"
+        "primaryURL": "https://ti.defender.microsoft.com/"
       },
       {
         "portalName": "Microsoft Defender ATP Testground",
-        "primaryURL": "https://demo.wd.microsoft.com/"
+        "primaryURL": "https://demo.wd.microsoft.com/",
+        "note": "Being deprecated 09/30/2022"
       },
       {
         "portalName": "Attack simulation training",
