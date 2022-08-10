@@ -461,6 +461,11 @@
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_IoT_Defender/IoTDefenderDashboard"
       },
       {
+        "portalName": "Microsoft Defender Threat Intelligence",
+        "primaryURL": "https://ti.defender.microsoft.com/",
+        "note": "Being deprecated 09/30/2022"
+      },
+      {
         "portalName": "Microsoft Defender ATP Testground",
         "primaryURL": "https://demo.wd.microsoft.com/"
       },
