@@ -213,10 +213,6 @@
         "primaryURL": "https://myaccess.microsoft.com"
       },
       {
-        "portalName": "My Access",
-        "primaryURL": "https://myaccess.microsoft.com/"
-      },
-      {
         "portalName": "My Account",
         "primaryURL": "https://account.microsoft.com",
         "note": "Consumer"
