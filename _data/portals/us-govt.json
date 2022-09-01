@@ -31,6 +31,11 @@
     "groupName": "GCC",
     "portals": [
       {
+        "portalName": "Azure Portal",
+        "primaryURL": "https://portal.azure.us",
+        "note": "GCC"
+      },
+      {
         "portalName": "Microsoft 365 Compliance",
         "primaryURL": "https://compliance.microsoft.us/homepage",
         "note": "GCC"
