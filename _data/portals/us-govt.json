@@ -31,11 +31,6 @@
     "groupName": "GCC",
     "portals": [
       {
-        "portalName": "Azure Portal",
-        "primaryURL": "https://portal.azure.us",
-        "note": "GCC"
-      },
-      {
         "portalName": "Microsoft 365 Compliance",
         "primaryURL": "https://compliance.microsoft.us/homepage",
         "note": "GCC"
@@ -70,6 +65,11 @@
   {
     "groupName": "GCC High",
     "portals": [
+       {
+        "portalName": "Azure Portal",
+        "primaryURL": "https://portal.azure.us",
+        "note": "GCC High"
+      },
       {
         "portalName": "Microsoft 365 Admin Portal",
         "primaryURL": "https://portal.office365.us",
