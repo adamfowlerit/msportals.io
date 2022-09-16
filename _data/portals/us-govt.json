@@ -59,6 +59,11 @@
         "portalName": "Microsoft Defender for Identity",
         "primaryURL": "https://portal.atp.azure.us/",
         "note": "GCC"
+      },
+      {
+        "portalName": "Microsoft Defender for Cloud Apps (MCAS) (MDCA)",
+        "primaryURL": "https://portal.cloudappsecuritygov.com",
+        "note": "GCC"
       }
     ]
   },
