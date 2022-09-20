@@ -64,6 +64,11 @@
         "portalName": "Microsoft Defender for Cloud Apps (MCAS) (MDCA)",
         "primaryURL": "https://portal.cloudappsecuritygov.com",
         "note": "GCC"
+      },
+      {
+        "portalName": "Microsoft Entra admin center",
+        "primaryURL": "https://entra.microsoft.us",
+      "note": "GCC"
       }
     ]
   },
@@ -114,6 +119,11 @@
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "https://securitycenter.microsoft.us",
         "note": "GCC High"
+      },
+      {
+        "portalName": "Microsoft Entra admin center",
+        "primaryURL": "https://entra.microsoft.us",
+      "note": "GCC High"
       },
       {
         "portalName": "Microsoft 365 Apps admin center",
