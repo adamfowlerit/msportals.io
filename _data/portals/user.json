@@ -205,6 +205,10 @@
         "primaryURL": "https://store.office.com/redirect.aspx"
       },
       {
+        "portalName": "Microsoft Designer",
+        "primaryURL": "https://designer.microsoft.com/"
+      },
+      {
         "portalName": "Microsoft Intune Web Company Portal",
         "primaryURL": "https://portal.manage.microsoft.com/"
       },
