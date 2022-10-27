@@ -22,6 +22,10 @@
         "primaryURL": "https://changewindows.org/"
       },
       {
+        "portalName": "[cmd.ms]",
+        "primaryURL": "https://cmd.ms"
+      },
+      {
         "portalName": "Microsoft Token Analysis Tool",
         "primaryURL": "https://jwt.ms/"
       },
