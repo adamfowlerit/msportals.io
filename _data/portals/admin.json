@@ -319,6 +319,15 @@
       }
     ]
   },
+  
+    "groupName": "Microsoft 365 admin center - Sub Portal Links",
+    "portals": [
+        {
+        "portalName": "Search & intelligence,
+        "primaryURL": "https://admin.microsoft.com/Adminportal/Home#/MicrosoftSearch"
+      },
+  ]
+},
   {
     "groupName": "Azure AI / ML Portals",
     "portals": [
