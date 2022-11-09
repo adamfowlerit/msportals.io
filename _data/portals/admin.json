@@ -323,7 +323,7 @@
     "groupName": "Microsoft 365 admin center - Sub Portal Links",
     "portals": [
         {
-        "portalName": "Search & intelligence,
+        "portalName": "Search & intelligence",
         "primaryURL": "https://admin.microsoft.com/Adminportal/Home#/MicrosoftSearch"
       },
   ]
