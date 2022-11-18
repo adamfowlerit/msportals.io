@@ -38,4 +38,4 @@ Big thanks to those who have contributed:
 
 - All the contributors to this project on GitHub with corrections and updates!
 
-- You if you bookmarked or shared this site. :)
+- You if you bookmarked or shared this site. :) [π](https://bfy.tw/Tlqq)
