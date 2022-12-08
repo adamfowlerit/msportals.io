@@ -644,6 +644,10 @@
         "primaryURL": "https://c1.app.mciem.cloudknox.io"
       },
       {
+        "portalName": "Microsoft AccountGuard",
+        "primaryURL": "https://accountguard.microsoft.com"
+      },
+      {
         "portalName": "Office 365 Security & Compliance",
         "primaryURL": "https://protection.office.com",
         "note": "Deprecated"
