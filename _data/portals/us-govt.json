@@ -180,17 +180,128 @@
         "primaryURL": "https://portal.apps.mil",
         "note": "DoD"
       },
-            {
-        "portalName": "Microsoft 365 Admin Center",
-        "primaryURL": "https://www.ohome.apps.mil",
+      {
+        "portalName": "SharePoint Online Admin Center",
+        "primaryURL": "https://portal.apps.mil/SharePointDoD",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/DoD365"
+            "url": "https://aka.ms/DoDSPO"
           }
         ],
         "note": "DoD"
       },      
+      {
+        "portalName": "Azure AD Admin Center",
+        "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDAAD"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Teams Admin Center",
+        "primaryURL": "https://admin.dod.teams.microsoft.us/",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDTA"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Microsoft 365 Admin Center",
+        "primaryURL": "https://portal.apps.mil/adminportal/home#/homepage",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDAdmin"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Security & Compliance Center",
+        "primaryURL": "https://scc.protection.apps.mil/#/homepage",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDSCC"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Power Platform Admin Center",
+        "primaryURL": "https://admin.appsplatform.us",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDPower"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Defender Admin Center",
+        "primaryURL": "https://securitycenter.windows.us",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDDef"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Security Admin Center",
+        "primaryURL": "",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDSC"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Microsoft 365 Defender Reports",
+        "primaryURL": "https://security.microsoft.us/reports",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDSecRep"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Endpoint Manager",
+        "primaryURL": "https://endpoint.microsoft.us",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDEP"
+          }
+        ],
+        "note": "DoD"
+      },      
+      {
+        "portalName": "Azure Admin Portal",
+        "primaryURL": "https://portal.azure.us/#home",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoDAz"
+          }
+        ],
+        "note": "DoD"
+      },      
+            
       {
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "TBA - Rolling Out",
