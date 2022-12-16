@@ -300,12 +300,6 @@
           }
         ],
         "note": "DoD"
-      },      
-            
-      {
-        "portalName": "Microsoft Defender for Endpoint",
-        "primaryURL": "TBA - Rolling Out",
-        "note": "DoD (PREVIEW)"
       }
     ]
   }
