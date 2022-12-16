@@ -259,7 +259,7 @@
       },      
       {
         "portalName": "Security Admin Center",
-        "primaryURL": "",
+        "primaryURL": "https://security.apps.mil/?rfr=AdminCenter",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
