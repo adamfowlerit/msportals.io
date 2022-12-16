@@ -180,6 +180,17 @@
         "primaryURL": "https://portal.apps.mil",
         "note": "DoD"
       },
+            {
+        "portalName": "Microsoft 365 Admin Center",
+        "primaryURL": "https://www.ohome.apps.mil",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/DoD365"
+          }
+        ],
+        "note": "DoD"
+      },      
       {
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "TBA - Rolling Out",
