@@ -249,14 +249,6 @@
         "primaryURL": "https://account.azure.com/organization"
       },
       {
-        "portalName": "Sign-up for Office 365 E3, 25 licenses, 30-day free trial",
-        "primaryURL": "https://signup.microsoft.com/get-started/signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4&dl=ENTERPRISEPACK&ali=1&products=cfq7ttc0k59j%3a0009&bac=1"
-      },
-      {
-        "portalName": "Sign-up for Intune, 1-month trial",
-        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2019088"
-      },
-      {
         "portalName": "Azure Cloud Shell",
         "primaryURL": "https://shell.azure.com"
       },
@@ -814,6 +806,19 @@
       }
     ]
   },
+   {
+    "groupName": "Microsoft Trials",
+    "portals": [ 
+        {
+        "portalName": "Sign-up for Office 365 E3, 25 licenses, 30-day free trial",
+        "primaryURL": "https://signup.microsoft.com/get-started/signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4&dl=ENTERPRISEPACK&ali=1&products=cfq7ttc0k59j%3a0009&bac=1"
+      },
+      {
+        "portalName": "Sign-up for Intune, 1-month trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2019088"
+      }
+      ]
+      },
   {
     "groupName": "Other Useful Microsoft Portals",
     "portals": [
