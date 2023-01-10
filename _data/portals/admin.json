@@ -817,9 +817,13 @@
         "portalName": "Sign-up for Azure $200 US Credits in 3 months, 12 months free services",
         "primaryURL": "https://azure.microsoft.com/en-us/offers/ms-azr-0044p/"
       },
-                    {
+       {
         "portalName": "Sign-up for Dynamics 365 for 30 days",
         "primaryURL": "https://trials.dynamics.com"
+      },
+       {
+        "portalName": "Sign-up for Microsoft 365 Developer Program",
+        "primaryURL": "https://developer.microsoft.com/en-us/microsoft-365/dev-program"
       },
       {
         "portalName": "Sign-up for Intune, 1-month trial",
