@@ -155,6 +155,10 @@
         ]
       },
       {
+        "portalName": "Bing Image Creator",
+        "primaryURL": "https://www.bing.com/create"
+      },     
+      {
         "portalName": "Change Password",
         "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
       },
