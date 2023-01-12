@@ -810,7 +810,7 @@
     "groupName": "Microsoft Trials",
     "portals": [ 
        {
-        "portalName": "Microsoft Defender for Identity Trial - Start your free 3-month trial today",
+        "portalName": "Microsoft Defender for Identity Trial -3-month",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=a0db242a-96d7-4f99-bd52-05c0d5556257&ali=1"
       },  
       {
@@ -818,19 +818,19 @@
         "primaryURL": "https://signup.microsoft.com/signup/logout?OfferId=20298c4d-d500-47fa-b3cd-a3f7d75d9253"
       }, 
       {
-        "portalName": "Microsoft Defender for Endpoint P2 Trial - Start your free 3-month trial today",
+        "portalName": "Microsoft Defender for Endpoint P2 Trial - 3-month",
         "primaryURL": "https://signup.microsoft.com/create-account/signup?products=7f379fee-c4f9-4278-b0a1-e4c8c2fcdf7e&ru=https://aka.ms/MDEp2OpenTrial"
       },
       {
-        "portalName": "Microsoft 365 E5 Security Trial - Start your free 1-month trial today",
+        "portalName": "Microsoft 365 E5 Security Trial - 1-month",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=b73fce33-ac89-4175-b199-0173b4c74b1f&ali=1"
       },
       {
-        "portalName": "Microsoft Defender for Identity Trial - Start your free 3-month trial today",
+        "portalName": "Microsoft Defender for Identity Trial - 3-month",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=a0db242a-96d7-4f99-bd52-05c0d5556257&ali=1"
       },
       {
-        "portalName": "App governance add-on to Microsoft Defender for Cloud Apps Trial - Start your free 90-day trial today",
+        "portalName": "App governance add-on to Microsoft Defender for Cloud Apps Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=a52e9277-0d85-4480-8cae-a84bc2ab32ae&culture=en-us&country=US&ali=1"
       },
       {
@@ -854,7 +854,7 @@
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=d53d8416-fd1f-4552-831c-b5828ef2cbde&ali=1"
       },
       {
-        "portalName": "Compliance Manager Premium Assessment Add-On Trial - Start your free 90-day trial today",
+        "portalName": "Compliance Manager Premium Assessment Add-On Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e320704d-b7c9-4012-b6a6-0a2679790360&culture=en-us&country=US&ali=1"
       },
        {
@@ -862,15 +862,15 @@
         "primaryURL": "https://signup.microsoft.com/signup?OfferId=c6ca396f-4467-4761-95f6-b6d9a5386716"
       },
        {
-        "portalName": "Privacy Management - subject rights request (50) Trial - Start your free 90-day trial today",
+        "portalName": "Privacy Management - subject rights request (50) Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=1c6c565d-cae2-4648-aa92-bf52b523fdbd&ali=1"
       },
        {
-        "portalName": "Priva Privacy Risk Management Trial - Start your free 90-day trial today",
+        "portalName": "Priva Privacy Risk Management Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e6b633e0-1b1e-4d95-b414-3ce9e8023c39"
       },
       {
-        "portalName": "Sign-up for Office 365 E3, 25 licenses, 30-day free trial",
+        "portalName": "Sign-up for Office 365 E3, 25 licenses trial, 30-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4&dl=ENTERPRISEPACK&ali=1&products=cfq7ttc0k59j%3a0009&bac=1"
       },
        {
