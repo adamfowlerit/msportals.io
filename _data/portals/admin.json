@@ -815,7 +815,7 @@
       },  
       {
         "portalName": "Microsoft Defender for Office 365 (Plan 2) 90 Day, Full Tenant Trial",
-        "https://signup.microsoft.com/signup/logout?OfferId=20298c4d-d500-47fa-b3cd-a3f7d75d9253"
+        "primaryURL": "https://signup.microsoft.com/signup/logout?OfferId=20298c4d-d500-47fa-b3cd-a3f7d75d9253"
       }, 
       {
         "portalName": "Microsoft Defender for Endpoint P2 Trial - Start your free 3-month trial today",
