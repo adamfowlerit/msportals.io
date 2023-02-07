@@ -129,11 +129,6 @@
         "portalName": "Microsoft 365 Apps admin center",
         "primaryURL": "https://config.office365.us",
         "note": "GCC High"
-      },
-      {
-        "portalName": "Power Apps",
-        "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
-        "note": "GCC High"
       }
     ]
   },
