@@ -18,8 +18,8 @@
             </span>
             {% if portal.secondaryURLs %}
             <span class="portal-secondary-urls">
-                &ensp;• {% for secondary in portal.secondaryURLs %}<a class="btn-aka-ms btn" href="{{secondary.url}}"
-                    target="_blank">{{secondary.icon}}</a>&thinsp;{% endfor %}
+                &ensp;• {% for secondary in portal.secondaryURLs %}<a class="btn-{{secondary.icon}} btn-secondary btn"
+                    href="{{secondary.url}}" target="_blank">{{secondary.icon}}</a>&thinsp;{% endfor %}
             </span>
             {% endif %}
         </div>
