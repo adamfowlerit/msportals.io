@@ -1,0 +1,53 @@
+<!-- <form style="margin: 0; padding: 0; display: inline">
+    <label for="tenant_id" style="display: none">B2B Tenant ID:</label>
+    <input id="tenant_id" name="tenant_id" class="quickfilter" type="text" placeholder="B2B Tenant ID" />
+</form> -->
+
+<script type="text/javascript">
+    function getHashParams() {
+        /**
+         * Get the page hash parameters
+         * @return {Object} a dict of key=value pairs from location.hash
+         */
+        let params = {};
+
+        let vars = location.hash.substring(1).split('&');
+        for (let i = 0; i < vars.length; i++) {
+            let kv = vars[i].split('=');
+            params[kv[0]] = kv[1];
+        }
+
+        return params;
+    }
+
+    function replaceTenantId(tenant_id) {
+        const links = document.getElementsByClassName("btn-B2B");
+        for (let i = 0; i < links.length; i++) {
+            // Replace twice, because URL components are escaped, whereas query components aren't
+            links[i].href = links[i].href.replace("{tenant_id}", tenant_id).replace("%7Btenant_id%7D", tenant_id);
+        }
+    }
+
+    window.addEventListener("DOMContentLoaded", function () {
+
+        // const params = getHashParams();
+        // if ("tenant_id" in params) {
+        //     const tenant_id = params["tenant_id"];
+        // }
+
+        let theURL = new URL("https://dummy.com");
+        theURL.search = window.location.search.substring(1);
+        const tenant_id = theURL.searchParams.get("tenant_id");
+
+        replaceTenantId(tenant_id);
+
+        // const tenantInput = document.querySelector("#tenant_id");
+        // tenantInput.value = tenant_id;
+        // // Add Event Listeners for changes (After we set the initial value)
+        // tenantInput.addEventListener("change", showOnlyMatchedPortals);
+        // tenantInput.addEventListener("keyup", showOnlyMatchedPortals);
+        // tenantInput.focus({
+        //     preventScroll: true,
+        // });
+    }, false);
+</script>
