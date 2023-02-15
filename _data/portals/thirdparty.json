@@ -105,6 +105,10 @@
         "portalName": "Azure Charts",
         "primaryURL": "https://azurecharts.com/"
           },
+            {
+        "portalName": "Online link generator for Microsoft Store",
+        "primaryURL": "https://store.rg-adguard.net/"
+          },
       {
         "portalName": "Valimail DMARC Monitor",
         "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
