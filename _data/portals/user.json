@@ -191,6 +191,10 @@
           ]
         },
       {
+        "portalName": "Exchange Control Panel (Personal)",
+        "primaryURL": "https://outlook.office.com/ecp/"
+      },
+      {
         "portalName": "Microsoft Family Safety",
         "primaryURL": "https://account.microsoft.com/family/"
       },
