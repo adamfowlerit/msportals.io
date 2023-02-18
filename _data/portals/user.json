@@ -18,7 +18,7 @@
         "portalName": "Cortana",
         "primaryURL": "https://cortana.office.com"
       },
-            {
+      {
         "portalName": "Customer Voice",
         "primaryURL": "https://customervoice.microsoft.com/"
       },
@@ -105,7 +105,13 @@
       },
       {
         "portalName": "Teams",
-        "primaryURL": "https://teams.microsoft.com"
+        "primaryURL": "https://teams.microsoft.com",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://teams.microsoft.com/_?tenantId={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "To-Do",
@@ -153,7 +159,7 @@
       {
         "portalName": "Bing Image Creator",
         "primaryURL": "https://www.bing.com/create"
-      },     
+      },
       {
         "portalName": "Change Password",
         "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
@@ -166,26 +172,26 @@
         "portalName": "Cloud Voicemail",
         "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
       },
-        {
-          "portalName": "Device Login - Work or School Account",
-          "primaryURL": "https://microsoft.com/devicelogin",
-          "secondaryURLs": [
-            {
-              "icon": "aka.ms",
-              "url": "https://aka.ms/devicelogin"
-            }
-          ]
-        },
-        {
-          "portalName": "Device Login - Microsoft account or MSA (Personal Account)",
-          "primaryURL": "https://microsoft.com/link",
-          "secondaryURLs": [
-            {
-              "icon": "aka.ms",
-              "url": "https://aka.ms/remoteconnect"
-            }
-          ]
-        },
+      {
+        "portalName": "Device Login - Work or School Account",
+        "primaryURL": "https://microsoft.com/devicelogin",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/devicelogin"
+          }
+        ]
+      },
+      {
+        "portalName": "Device Login - Microsoft account or MSA (Personal Account)",
+        "primaryURL": "https://microsoft.com/link",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/remoteconnect"
+          }
+        ]
+      },
       {
         "portalName": "Exchange Control Panel (Personal)",
         "primaryURL": "https://outlook.office.com/ecp/"
@@ -265,7 +271,13 @@
       },
       {
         "portalName": "My Sign-Ins",
-        "primaryURL": "https://mysignins.microsoft.com"
+        "primaryURL": "https://mysignins.microsoft.com",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://mysignins.microsoft.com/security-info?tenant={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "My Staff",
@@ -293,7 +305,7 @@
         "portalName": "Self Service Password Reset Setup",
         "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
       },
-            {
+      {
         "portalName": "Windows Virtual Desktop Web Client (ARM)",
         "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient"
       },
