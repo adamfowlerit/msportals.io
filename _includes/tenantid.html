@@ -3,6 +3,12 @@
     <input id="tenant_id" name="tenant_id" class="quickfilter" type="text" placeholder="B2B Tenant ID" />
 </form>
 
+<div id="tenant_id_privacy_warning" style="display:none">
+    <strong>Privacy Note:</strong> You can save the current page as
+    a bookmark to store
+    the tenant ID, but the tenant ID will show up in logs.
+</div>
+
 <script type="text/javascript">
 
     function replaceTenantId() {
@@ -13,9 +19,11 @@
             tenant_id = "00000000-0000-0000-0000-000000000000";
             theURL.search = window.location.search.substring(1);
             theURL.searchParams.delete("tenant_id");
+            document.querySelector("#tenant_id_privacy_warning").style = "display:none";
         } else {
             theURL.search = window.location.search.substring(1);
             theURL.searchParams.set("tenant_id", this.value);
+            document.querySelector("#tenant_id_privacy_warning").style = "";
         }
 
         const links = document.getElementsByClassName("btn-B2B");
