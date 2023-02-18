@@ -43,10 +43,6 @@
         "primaryURL": "https://dashboard.mileiq.com"
       },
       {
-        "portalName": "MyAnalytics",
-        "primaryURL": "https://myanalytics.microsoft.com"
-      },
-      {
         "portalName": "OneDrive",
         "primaryURL": "https://portal.office.com/onedrive"
       },
@@ -190,6 +186,10 @@
             }
           ]
         },
+      {
+        "portalName": "Exchange Control Panel (Personal)",
+        "primaryURL": "https://outlook.office.com/ecp/"
+      },
       {
         "portalName": "Microsoft Family Safety",
         "primaryURL": "https://account.microsoft.com/family/"
