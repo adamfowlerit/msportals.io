@@ -242,6 +242,10 @@
           {
             "url": "https://myprofile.microsoft.com",
             "icon": "Alt 🔗 2"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://myaccount.microsoft.com/?tenantId={tenant_id}"
           }
         ]
       },
