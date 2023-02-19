@@ -1,0 +1,70 @@
+<form style="margin: 0; padding: 0; display: inline">
+    <label for="tenant_id" style="display: none">B2B Tenant ID:</label>
+    <input id="tenant_id" name="tenant_id" class="quickfilter" type="text" placeholder="B2B Tenant ID" />
+</form>
+
+<div id="tenant_id_privacy_warning" style="display:none">
+    <strong>Privacy Note:</strong> You can save the current page as
+    a bookmark to store
+    the tenant ID, but the tenant ID will show up in logs.
+</div>
+
+<script type="text/javascript">
+
+    function replaceTenantId() {
+        let tenant_id = document.querySelector("#tenant_id").value;
+        let theURL = new URL(window.location.toString());
+
+        if (tenant_id == "") {
+            tenant_id = "00000000-0000-0000-0000-000000000000";
+            theURL.search = window.location.search.substring(1);
+            theURL.searchParams.delete("tenant_id");
+            document.querySelector("#tenant_id_privacy_warning").style = "display:none";
+        } else {
+            theURL.search = window.location.search.substring(1);
+            theURL.searchParams.set("tenant_id", this.value);
+            document.querySelector("#tenant_id_privacy_warning").style = "";
+        }
+
+        const links = document.getElementsByClassName("btn-B2B");
+        for (let i = 0; i < links.length; i++) {
+            // Replace twice, because URL components are escaped, whereas query components aren't
+            let template = links[i].getAttribute('data-tenant_id-template');
+            links[i].href = template.replace("{tenant_id}", tenant_id).replace("%7Btenant_id%7D", tenant_id);
+        }
+
+
+
+        if (window.location.toString() !== theURL.href) {
+            window.history.replaceState({}, "", theURL.href);
+        }
+    }
+
+    window.addEventListener("DOMContentLoaded", function () {
+
+        // Start by setting the data- attribute
+        const links = document.getElementsByClassName("btn-B2B");
+        for (let i = 0; i < links.length; i++) {
+            links[i].setAttribute('data-tenant_id-template', links[i].href);
+        }
+
+        let theURL = new URL("https://dummy.com");
+        theURL.search = window.location.search.substring(1);
+        let tenant_id = theURL.searchParams.get("tenant_id");
+
+        const tenantInput = document.querySelector("#tenant_id");
+
+        if (tenant_id != null) {
+            tenantInput.value = tenant_id;
+        }
+
+        replaceTenantId();
+
+        // Add Event Listeners for changes (After we set the initial value)
+        tenantInput.addEventListener("change", replaceTenantId);
+        tenantInput.addEventListener("keyup", replaceTenantId);
+        tenantInput.focus({
+            preventScroll: true,
+        });
+    }, false);
+</script>
