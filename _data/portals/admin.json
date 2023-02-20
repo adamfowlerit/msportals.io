@@ -723,7 +723,13 @@
       },
       {
         "portalName": "Azure DevOps",
-        "primaryURL": "https://dev.azure.com"
+        "primaryURL": "https://aex.dev.azure.com/me",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://aex.dev.azure.com/me?tenant={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Bing Maps Portal",
