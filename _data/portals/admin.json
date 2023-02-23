@@ -794,6 +794,10 @@
       {
         "portalName": "Developer Portal for Teams",
         "primaryURL": "https://dev.teams.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft 365 Developer Program Dashboard",
+        "primaryURL": "https://developer.microsoft.com/microsoft-365/profile"
       }
     ]
   },
