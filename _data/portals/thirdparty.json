@@ -113,6 +113,10 @@
         "portalName": "AADInternals Tenant information OSINT",
         "primaryURL": "https://aadinternals.com/osint/"
           },
+             {
+        "portalName": "Conditional Access Documenter - idPowerToys",
+        "primaryURL": "https://idpowertoys.com/ca"
+          },
       {
         "portalName": "Valimail DMARC Monitor",
         "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
