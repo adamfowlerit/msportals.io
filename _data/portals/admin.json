@@ -933,6 +933,16 @@
     "groupName": "Other Useful Microsoft Portals",
     "portals": [
       {
+        "portalName": "Legacy Applications (B2B Redeem Invite)",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://account.activedirectory.windowsazure.com/?tenantid={tenant_id}"
+          }
+        ]
+      },
+      {
         "portalName": "Azure Lighthouse Blade",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
       },
