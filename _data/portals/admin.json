@@ -61,19 +61,23 @@
         "primaryURL": "https://cqd.lync.com"
       },
       {
-        "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://endpoint.microsoft.com",
+        "portalName": "Microsoft Intune Admin Center",
+        "primaryURL": "https://intune.microsoft.com",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/memac"
           },
           {
+            "icon": "Old 🔗",
+            "url": "https://endpoint.microsoft.com/"
+          },
+          {
             "icon": "B2B",
-            "url": "https://endpoint.microsoft.com/{tenant_id}"
+            "url": "https://intune.microsoft.com/{tenant_id}"
           }
         ],
-        "note": "Intune"
+        "note": "Endpoint Manager"
       },
       {
         "portalName": "Microsoft Endpoint Manager Admin Console",
