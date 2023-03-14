@@ -113,7 +113,11 @@
         "portalName": "AADInternals Tenant information OSINT",
         "primaryURL": "https://aadinternals.com/osint/"
           },
-             {
+       {
+        "portalName": "Where's My Tenant?",
+        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+          },
+       {
         "portalName": "Conditional Access Documenter - idPowerToys",
         "primaryURL": "https://idpowertoys.com/ca"
           },
