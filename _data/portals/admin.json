@@ -727,7 +727,13 @@
       },
       {
         "portalName": "Azure DevOps",
-        "primaryURL": "https://dev.azure.com"
+        "primaryURL": "https://aex.dev.azure.com/me",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://aex.dev.azure.com/me?tenant={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Bing Maps Portal",
@@ -792,6 +798,10 @@
       {
         "portalName": "Developer Portal for Teams",
         "primaryURL": "https://dev.teams.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft 365 Developer Program Dashboard",
+        "primaryURL": "https://developer.microsoft.com/microsoft-365/profile"
       }
     ]
   },
@@ -922,6 +932,16 @@
   {
     "groupName": "Other Useful Microsoft Portals",
     "portals": [
+      {
+        "portalName": "Legacy Applications (B2B Redeem Invite)",
+        "primaryURL": "https://account.activedirectory.windowsazure.com/",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://account.activedirectory.windowsazure.com/?tenantid={tenant_id}"
+          }
+        ]
+      },
       {
         "portalName": "Azure Lighthouse Blade",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
