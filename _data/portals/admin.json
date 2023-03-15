@@ -998,6 +998,10 @@
         "primaryURL": "https://lcs.dynamics.com"
       },
       {
+        "portalName": "Microsoft Dynamics 365 and Power Platform Roadmap",
+        "primaryURL": "https://experience.dynamics.com/releaseplans/"
+      },
+      {
         "portalName": "Microsoft Exam Sandbox",
         "primaryURL": "https://mscertdemo.starttest.com/"
       },
