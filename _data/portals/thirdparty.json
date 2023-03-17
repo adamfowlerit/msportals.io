@@ -125,6 +125,10 @@
         "portalName": "Valimail DMARC Monitor",
         "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
       }
+      {
+        "portalName": "Samsung Knox Admin Portal",
+        "primaryURL": "https://central.samsungknox.com/"
+      }
     ]
   }
 ]
