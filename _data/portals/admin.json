@@ -809,8 +809,13 @@
     "groupName": "Health / Status Portals",
     "portals": [
       {
+        "portalName": "Microsoft Service health status",
+        "primaryURL": "https://status.office.com/",
+        "note": "Microsoft 365, Azure, Power Platform"
+      },
+      {
         "portalName": "Microsoft 365 Service health status",
-        "primaryURL": "https://status.office.com/"
+        "primaryURL": "https://portal.office.com/ServiceStatus"
       },
       {
         "portalName": "Microsoft 365 Service health status (Admin portal)",
