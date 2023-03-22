@@ -3,8 +3,40 @@
     "groupName": "Non-Microsoft Owned 3rd Party Portals",
     "portals": [
       {
-        "portalName": "Microsoft Portals",
+        "portalName": "📌 Microsoft Portals",
         "primaryURL": "https://msportals.io/"
+      },
+      {
+        "portalName": "[cmd.ms]",
+        "primaryURL": "https://cmd.ms"
+      },
+      {
+        "portalName": "AADInternals Tenant information OSINT",
+        "primaryURL": "https://aadinternals.com/osint/"
+      },
+      {
+        "portalName": "Apple Business Manager",
+        "primaryURL": "https://business.apple.com"
+      },
+      {
+        "portalName": "Apple School Manager",
+        "primaryURL": "https://school.apple.com"
+      },
+      {
+        "portalName": "Azure Charts",
+        "primaryURL": "https://azurecharts.com/"
+      },
+      {
+        "portalName": "Azure Governance change tracker",
+        "primaryURL": "https://www.azadvertizer.net"
+      },
+      {
+        "portalName": "ChangeWindows",
+        "primaryURL": "https://changewindows.org/"
+      },
+      {
+        "portalName": "Conditional Access Documenter - idPowerToys",
+        "primaryURL": "https://idpowertoys.com/ca"
       },
       {
         "portalName": "CyberDrain Improved Partner Portal",
@@ -18,28 +50,20 @@
         "note": "CIPP"
       },
       {
-        "portalName": "ChangeWindows",
-        "primaryURL": "https://changewindows.org/"
+        "portalName": "Defender for Endpoint Blog and KQL-Tools",
+        "primaryURL": "https://m365internals.com"
       },
       {
-        "portalName": "[cmd.ms]",
-        "primaryURL": "https://cmd.ms"
+        "portalName": "KQL Search",
+        "primaryURL": "https://www.kqlsearch.com/"
       },
       {
-        "portalName": "Microsoft Token Analysis Tool",
-        "primaryURL": "https://jwt.ms/"
+        "portalName": "Managed Google Play store",
+        "primaryURL": "https://play.google.com/work"
       },
       {
         "portalName": "Message Header Analyzer",
         "primaryURL": "https://mha.azurewebsites.net"
-      },
-      {
-        "portalName": "Microsoft Mac Downloads",
-        "primaryURL": "https://macadmins.software/"
-      },
-      {
-        "portalName": "MileIQ Admin Center",
-        "primaryURL": "https://admin.mileiq.com"
       },
       {
         "portalName": "Microsoft 365 Licensing Diagrams",
@@ -52,14 +76,22 @@
         ]
       },
       {
-        "portalName": "Defender for Endpoint Blog and KQL-Tools",
-        "primaryURL": "https://m365internals.com"
+        "portalName": "Microsoft Mac Downloads",
+        "primaryURL": "https://macadmins.software/"
       },
       {
-        "portalName": "Office 365 ATP Safe Links Decoder",
-        "primaryURL": "https://o365atp.com"
+        "portalName": "Microsoft Token Analysis Tool",
+        "primaryURL": "https://jwt.ms/"
       },
-     {
+      {
+        "portalName": "Microsoft365DSC",
+        "primaryURL": "https://microsoft365dsc.com/"
+      },
+      {
+        "portalName": "MileIQ Admin Center",
+        "primaryURL": "https://admin.mileiq.com"
+      },
+      {
         "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
         "primaryURL": "https://msshells.net/",
         "secondaryURLs": [
@@ -70,60 +102,32 @@
         ]
       },
       {
+        "portalName": "Office 365 ATP Safe Links Decoder",
+        "primaryURL": "https://o365atp.com"
+      },
+      {
+        "portalName": "Online link generator for Microsoft Store",
+        "primaryURL": "https://store.rg-adguard.net/"
+      },
+      {
         "portalName": "Tenant Availability Check",
         "primaryURL": "https://o365.rocks"
       },
       {
-        "portalName": "What is my Microsoft Azure and Office 365 tenant ID?",
-        "primaryURL": "https://www.whatismytenantid.com"
+        "portalName": "Twitter - Microsoft 365 Status Page",
+        "primaryURL": "https://twitter.com/MSFT365Status"
       },
-      {
-        "portalName": "Azure Governance change tracker",
-        "primaryURL": "https://www.azadvertizer.net"
-      },
-      {
-        "portalName": "Apple Business Manager",
-        "primaryURL": "https://business.apple.com"
-      },
-      {
-        "portalName": "Apple School Manager",
-        "primaryURL": "https://school.apple.com"
-      },
-      {
-        "portalName": "Managed Google Play store",
-        "primaryURL": "https://play.google.com/work"
-      },
-      {
-        "portalName": "Microsoft365DSC",
-        "primaryURL": "https://microsoft365dsc.com/"
-      },
-      {
-        "portalName": "Azure Charts",
-        "primaryURL": "https://azurecharts.com/"
-          },
-       {
-        "portalName": "Online link generator for Microsoft Store",
-        "primaryURL": "https://store.rg-adguard.net/"
-          },
-       {
-        "portalName": "AADInternals Tenant information OSINT",
-        "primaryURL": "https://aadinternals.com/osint/"
-          },
-       {
-        "portalName": "Where's My Tenant?",
-        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
-          },
-       {
-        "portalName": "Conditional Access Documenter - idPowerToys",
-        "primaryURL": "https://idpowertoys.com/ca"
-          },
-          {
-        "portalName": "KQL Search",
-        "primaryURL": "https://www.kqlsearch.com/"
-          },
       {
         "portalName": "Valimail DMARC Monitor",
         "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
+      },
+      {
+        "portalName": "What is my Microsoft Azure and Office 365 tenant ID ?",
+        "primaryURL": "https://www.whatismytenantid.com"
+      },
+      {
+        "portalName": "Where's My Tenant ?",
+        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
       }
     ]
   }
