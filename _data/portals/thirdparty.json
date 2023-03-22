@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "3rd Party Portals",
+    "groupName": "Non-Microsoft Owned 3rd Party Portals",
     "portals": [
       {
         "portalName": "[cmd.ms]",
@@ -48,6 +48,10 @@
       {
         "portalName": "Defender for Endpoint Blog and KQL-Tools",
         "primaryURL": "https://m365internals.com"
+      },
+      {
+        "portalName": "KQL Search",
+        "primaryURL": "https://www.kqlsearch.com/"
       },
       {
         "portalName": "Managed Google Play store",

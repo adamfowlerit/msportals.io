@@ -809,8 +809,13 @@
     "groupName": "Health / Status Portals",
     "portals": [
       {
+        "portalName": "Microsoft Service health status",
+        "primaryURL": "https://status.office.com/",
+        "note": "Microsoft 365, Azure, Power Platform"
+      },
+      {
         "portalName": "Microsoft 365 Service health status",
-        "primaryURL": "https://status.office.com/"
+        "primaryURL": "https://portal.office.com/ServiceStatus"
       },
       {
         "portalName": "Microsoft 365 Service health status (Admin portal)",
@@ -839,7 +844,7 @@
         "primaryURL": "https://docs.microsoft.com/en-us/windows/release-health/"
       },
       {
-        "portalName": "M365 Status - Twitter",
+        "portalName": "Twitter - Microsoft 365 Status Page",
         "primaryURL": "https://twitter.com/MSFT365Status"
       }
     ]
