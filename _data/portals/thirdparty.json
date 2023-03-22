@@ -117,6 +117,10 @@
         "portalName": "Conditional Access Documenter - idPowerToys",
         "primaryURL": "https://idpowertoys.com/ca"
           },
+          {
+        "portalName": "KQL Search",
+        "primaryURL": "https://www.kqlsearch.com/"
+          },
       {
         "portalName": "Valimail DMARC Monitor",
         "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
