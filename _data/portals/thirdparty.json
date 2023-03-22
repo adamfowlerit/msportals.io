@@ -3,6 +3,10 @@
     "groupName": "Non-Microsoft Owned 3rd Party Portals",
     "portals": [
       {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      },
+      {
         "portalName": "[cmd.ms]",
         "primaryURL": "https://cmd.ms"
       },
