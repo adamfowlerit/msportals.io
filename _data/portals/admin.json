@@ -841,7 +841,7 @@
       },
       {
         "portalName": "Windows release health",
-        "primaryURL": "https://docs.microsoft.com/en-us/windows/release-health/"
+        "primaryURL": "https://learn.microsoft.com/windows/release-health/"
       },
       {
         "portalName": "Twitter - Microsoft 365 Status Page",
@@ -1101,7 +1101,7 @@
       },
       {
         "portalName": "Microsoft Documentation",
-        "primaryURL": "https://docs.microsoft.com"
+        "primaryURL": "https://learn.microsoft.com/docs/"
       },
       {
         "portalName": "Outlook.com Smart Network Data Service",
