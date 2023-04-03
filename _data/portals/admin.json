@@ -685,6 +685,18 @@
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/filesubmission"
       },
       {
+        "portalName": "Submit Vulnerability",
+        "primaryURL": "https://msrc.microsoft.com/report/vulnerability"
+      },
+      {
+        "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
+        "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
+      },
+       {
+        "portalName": "Reporting Issue with Bingbot",
+        "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
+      },
+      {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse"
       }
