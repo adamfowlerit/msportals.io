@@ -165,6 +165,10 @@
         "primaryURL": "https://www.bing.com/create"
       },
       {
+        "portalName": "Microsoft Azure Information Protection - Track Documents",
+        "primaryURL": "https://track.azurerms.com/"
+      },
+      {
         "portalName": "Change Password",
         "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
       },
