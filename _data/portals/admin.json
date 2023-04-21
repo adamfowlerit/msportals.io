@@ -66,7 +66,7 @@
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/memac"
+            "url": "https://aka.ms/in"
           },
           {
             "icon": "Old 🔗",
@@ -185,7 +185,7 @@
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/ppacd"
+            "url": "https://aka.ms/ppac"
           }
         ]
       },
@@ -260,7 +260,13 @@
       },
       {
         "portalName": "Azure Active Directory admin center (Azure AD)",
-        "primaryURL": "https://aad.portal.azure.com"
+        "primaryURL": "https://aad.portal.azure.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/azad"
+          }
+        ] 
       },
       {
         "portalName": "Create New Tenant / Azure Active Directory",
@@ -576,6 +582,10 @@
           {
             "icon": "B2B",
             "url": "https://security.microsoft.com/homepage?tid={tenant_id}"
+          },
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/de"
           }
         ],
         "note": "Previously Microsoft 365 security"
