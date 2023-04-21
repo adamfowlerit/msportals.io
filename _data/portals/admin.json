@@ -260,7 +260,13 @@
       },
       {
         "portalName": "Azure Active Directory admin center (Azure AD)",
-        "primaryURL": "https://aad.portal.azure.com"
+        "primaryURL": "https://aad.portal.azure.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/azad"
+          }
+        ] 
       },
       {
         "portalName": "Create New Tenant / Azure Active Directory",
