@@ -22,7 +22,7 @@
             document.querySelector("#tenant_id_privacy_warning").style = "display:none";
         } else {
             theURL.search = window.location.search.substring(1);
-            theURL.searchParams.set("tenant_id", this.value);
+            theURL.searchParams.set("tenant_id", tenant_id);
             document.querySelector("#tenant_id_privacy_warning").style = "";
         }
 
