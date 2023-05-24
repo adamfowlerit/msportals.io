@@ -31,6 +31,10 @@
         "primaryURL": "https://www.office.com/launch/excel"
       },
       {
+        "portalName": "Fabric",
+        "primaryURL": "https://fabric.microsoft.com"
+      },
+      {
         "portalName": "Forms",
         "primaryURL": "https://www.office.com/launch/forms"
       },
