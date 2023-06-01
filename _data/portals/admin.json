@@ -802,6 +802,10 @@
         "primaryURL": "https://login.microsoftonline.com/error"
       },
       {
+        "portalName": "Microsoft AppSource",
+        "primaryURL": "https://appsource.microsoft.com/"
+      },
+      {
         "portalName": "Visual Studio Subscriptions",
         "primaryURL": "https://my.visualstudio.com"
       },
