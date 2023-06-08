@@ -912,6 +912,10 @@
         "primaryURL": "https://mvp.microsoft.com"
       },
       {
+        "portalName": "Microsoft Open Source",
+        "primaryURL": "https://opensource.microsoft.com"
+      },
+      {
         "portalName": "Microsoft Remote Connectivity Analyzer",
         "primaryURL": "https://testconnectivity.microsoft.com",
         "secondaryURLs": [
