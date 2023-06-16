@@ -134,6 +134,10 @@
         "primaryURL": "https://insights.viva.office.com"
       },
       {
+        "portalName": "Viva Pulse",
+        "primaryURL": "https://pulse.viva.cloud.microsoft/"
+      },
+      {
         "portalName": "Whiteboard",
         "primaryURL": "https://whiteboard.microsoft.com"
       },
