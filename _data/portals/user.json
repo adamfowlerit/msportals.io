@@ -134,6 +134,16 @@
         "primaryURL": "https://insights.viva.office.com"
       },
       {
+        "portalName": "Viva Learning",
+        "primaryURL": "https://vivalearning.microsoft.com/",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/VivaLearningWeb"
+          }
+        ]
+      },
+      {
         "portalName": "Whiteboard",
         "primaryURL": "https://whiteboard.microsoft.com"
       },
