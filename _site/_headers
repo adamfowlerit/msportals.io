@@ -1,0 +1,8 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Access-Control-Allow-Origin: msportals.offsec.nl cloudflareinsights.com
+  Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+  Access-Control-Allow-Headers: *
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: frame-ancestors 'self' https://msportals.offsec.nl; script-src 'self' https://msportals.offsec.nl https://static.cloudflareinsights.com 'unsafe-inline'; connect-src https://msportals.offsec.nl https://cloudflareinsights.com; worker-src 'self' blob:; block-all-mixed-content; upgrade-insecure-requests;
