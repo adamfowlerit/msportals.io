@@ -967,8 +967,8 @@
         ]
       },
       {
-        "portalName": "PowerBI Embedded Playground",
-        "primaryURL": "https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html"
+        "portalName": "Power BI Playground",
+        "primaryURL": "https://playground.powerbi.com/"
       },
       {
         "portalName": "Azure Cosmos DB Query Playground",
