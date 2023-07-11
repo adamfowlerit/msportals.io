@@ -66,6 +66,10 @@
         "primaryURL": "https://mha.azurewebsites.net"
       },
       {
+        "portalName": "Microsoft Acronyms Glossary",
+        "primaryURL": "https://tpm.ms/TLA"
+      },
+      {
         "portalName": "Microsoft 365 Licensing Diagrams",
         "primaryURL": "https://m365maps.com/",
         "secondaryURLs": [
