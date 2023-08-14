@@ -96,10 +96,6 @@
         "primaryURL": "https://microsoft365dsc.com/"
       },
       {
-        "portalName": "MileIQ Admin Center",
-        "primaryURL": "https://admin.mileiq.com"
-      },
-      {
         "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
         "primaryURL": "https://msshells.net/",
         "secondaryURLs": [
