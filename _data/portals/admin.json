@@ -261,6 +261,7 @@
       {
         "portalName": "Microsoft Entra Admin Center (Formerly Azure AD Admin Center)",
         "primaryURL": "https://entra.microsoft.com",
+        "note": "Identity Management"
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -514,11 +515,6 @@
         "portalName": "Microsoft Defender for Cloud (MDC)",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security/SecurityMenuBlade/0",
         "note": "Azure Security Center (ASC)"
-      },
-      {
-        "portalName": "Microsoft Entra admin center",
-        "primaryURL": "https://entra.microsoft.com",
-        "note": "Identity Management"
       },
       {
         "portalName": "Microsoft Secure Score",
