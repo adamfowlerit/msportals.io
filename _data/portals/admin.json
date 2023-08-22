@@ -259,12 +259,12 @@
         "note": "Preview"
       },
       {
-        "portalName": "Azure Active Directory admin center (Azure AD)",
-        "primaryURL": "https://aad.portal.azure.com",
+        "portalName": "Microsoft Entra Admin Center (Formerly Azure AD Admin Center)",
+        "primaryURL": "https://entra.microsoft.com",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/azad"
+            "url": "https://aka.ms/MSEntraPortal"
           }
         ] 
       },
