@@ -261,7 +261,7 @@
       {
         "portalName": "Microsoft Entra Admin Center (Formerly Azure AD Admin Center)",
         "primaryURL": "https://entra.microsoft.com",
-        "note": "Identity Management"
+        "note": "Identity Management",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
