@@ -41,7 +41,13 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
-        "note": "compliance portal"
+        "note": "compliance portal",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://compliance.microsoft.com/homepage?tid={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
@@ -266,8 +272,12 @@
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/MSEntraPortal"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://entra.microsoft.com/{tenant_id}/#home"
           }
-        ] 
+        ]
       },
       {
         "portalName": "Create New Tenant / Azure Active Directory",
@@ -340,7 +350,7 @@
       }
     ]
   },
-   {
+  {
     "groupName": "Azure AI / ML Portals",
     "portals": [
       {
@@ -561,7 +571,7 @@
         "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
       },
-       {
+      {
         "portalName": "Reporting Issue with Bingbot",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
       },
