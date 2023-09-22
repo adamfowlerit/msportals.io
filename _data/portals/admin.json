@@ -388,6 +388,10 @@
         "portalName": "Azure Graph Explorer",
         "primaryURL": "https://graphexplorer.azurewebsites.net/#",
         "note": "Deprecated"
+      },
+      {
+        "portalName": "Azure OpenAI service",
+        "primaryURL": "https://oai.azure.com/portal"
       }
     ]
   },
