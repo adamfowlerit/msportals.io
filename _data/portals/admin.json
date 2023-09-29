@@ -945,8 +945,7 @@
       },
       {
         "portalName": "Microsoft 365 Lighthouse",
-        "primaryURL": "https://lighthouse.microsoft.com/",
-        "note": "Public Preview"
+        "primaryURL": "https://lighthouse.microsoft.com/"
       },
       {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
