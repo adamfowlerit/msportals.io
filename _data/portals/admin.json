@@ -444,7 +444,7 @@
     "groupName": "Microsoft Defender / Security IT Admin Portals",
     "portals": [
       {
-        "portalName": "Security Copilot",
+        "portalName": "Microsoft Security Copilot",
         "primaryURL": "https://securitycopilot.microsoft.com/"
       },
       {
