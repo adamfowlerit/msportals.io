@@ -448,6 +448,10 @@
         "primaryURL": "https://securitycopilot.microsoft.com/"
       },
       {
+        "portalName": "Microsoft Defender Threat Intelligence Portal",
+        "primaryURL": "https://ti.defender.microsoft.com/"
+      },      
+      {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
         "secondaryURLs": [
