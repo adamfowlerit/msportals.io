@@ -183,6 +183,10 @@
         ]
       },
       {
+        "portalName": "Bing Chat Enterprise",
+        "primaryURL": "https://www.bing.com/chat"
+      },
+      {
         "portalName": "Bing Image Creator",
         "primaryURL": "https://www.bing.com/create"
       },
