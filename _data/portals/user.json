@@ -184,7 +184,8 @@
       },
       {
         "portalName": "Bing Chat Enterprise",
-        "primaryURL": "https://www.bing.com/chat"
+        "primaryURL": "https://www.bing.com/chat",
+        "note": "Consumer URL is the same, look for Protected logo"
       },
       {
         "portalName": "Bing Image Creator",
