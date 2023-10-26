@@ -41,7 +41,7 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
-        "note": "Microsoft 365"
+        "note": "Microsoft 365 Compliance"
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
@@ -112,12 +112,12 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://web.purview.azure.com/",
-        "note": "Azure"
+        "note": "Azure and Fabric Governance"
       },
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://purview.microsoft.com/",
-        "note": "Preview Azure"
+        "note": "Preview Azure and Fabric Governance"
       },
       {
         "portalName": "Microsoft Teams Admin Center",
