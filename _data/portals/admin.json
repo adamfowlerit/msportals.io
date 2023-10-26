@@ -115,6 +115,11 @@
         "note": "Governance portal"
       },
       {
+        "portalName": "Microsoft Purview New Portal",
+        "primaryURL": "https://purview.microsoft.com/",
+        "note": "New Governance portal"
+      },
+      {
         "portalName": "Microsoft Teams Admin Center",
         "primaryURL": "https://admin.teams.microsoft.com",
         "secondaryURLs": [
