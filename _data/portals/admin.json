@@ -1005,6 +1005,10 @@
         "primaryURL": "https://learn.microsoft.com/docs/"
       },
       {
+        "portalName": "Microsoft Training",
+        "primaryURL": "https://learn.microsoft.com/training/"
+      },
+      {
         "portalName": "Outlook.com Smart Network Data Service",
         "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
       },
