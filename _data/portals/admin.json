@@ -588,6 +588,10 @@
     "groupName": "Developer Portals",
     "portals": [
       {
+        "portalName": "Microsoft Fabric",
+        "primaryURL": "https://fabric.microsoft.com/"
+      },
+      {
         "portalName": "Actionable Messages Developer Dashboard",
         "primaryURL": "https://outlook.office.com/connectors/oam/publish",
         "secondaryURLs": [
