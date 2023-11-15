@@ -588,6 +588,10 @@
     "groupName": "Developer Portals",
     "portals": [
       {
+        "portalName": "Copilot Studio",
+        "primaryURL": "https://copilotstudio.microsoft.com/"
+      },
+      {
         "portalName": "Microsoft Fabric",
         "primaryURL": "https://fabric.microsoft.com/"
       },
