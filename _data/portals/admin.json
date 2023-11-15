@@ -349,6 +349,11 @@
     "groupName": "Azure AI / ML Portals",
     "portals": [
       {
+        "portalName": "Azure AI Studio",
+        "primaryURL": "https://ai.azure.com",
+        "note": "Preview"
+      },
+      {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com"
       },
