@@ -188,6 +188,10 @@
         "primaryURL": "https://www.bing.com/create"
       },
       {
+        "portalName": "Microsoft Copilot",
+        "primaryURL": "https://copilot.microsoft.com/"
+      },
+      {
         "portalName": "Microsoft Azure Information Protection - Track Documents",
         "primaryURL": "https://track.azurerms.com/"
       },
