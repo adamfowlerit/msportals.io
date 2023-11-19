@@ -1,1 +1,27 @@
-
+[
+  {
+    "groupName": "Azure Training",
+    "portals": [
+      {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      },
+      {
+        "portalName": "Where's My Tenant ?",
+        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+      }
+    ]
+    {
+    "groupName": "Microsoft 365 Training",
+    "portals": [
+      {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      },
+      {
+        "portalName": "Where's My Tenant ?",
+        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+      }
+    ]
+  }
+]
