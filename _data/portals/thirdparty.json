@@ -43,17 +43,6 @@
         "primaryURL": "https://idpowertoys.com/ca"
       },
       {
-        "portalName": "CyberDrain Improved Partner Portal",
-        "primaryURL": "https://cipp.app/",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/KelvinTegelaar/CIPP"
-          }
-        ],
-        "note": "CIPP"
-      },
-      {
         "portalName": "Defender for Endpoint Blog and KQL-Tools",
         "primaryURL": "https://m365internals.com"
       },
