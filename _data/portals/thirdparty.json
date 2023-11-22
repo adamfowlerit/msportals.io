@@ -118,6 +118,10 @@
         "primaryURL": "https://store.rg-adguard.net/"
       },
       {
+        "portalName": "Regular Expressions 101",
+        "primaryURL": "https://regex101.com"
+      },
+      {
         "portalName": "Tenant Availability Check",
         "primaryURL": "https://o365.rocks"
       },
