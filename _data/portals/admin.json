@@ -422,7 +422,8 @@
       },
       {
         "portalName": "Microsoft FastTrack",
-        "primaryURL": "https://fasttrack.microsoft.com"
+        "primaryURL": "https://fasttrack.microsoft.com",
+        "note": "Includes App Assurance"
       },
       {
         "portalName": "Microsoft License Advisor",
