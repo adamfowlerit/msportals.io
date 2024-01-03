@@ -6,12 +6,14 @@ We are currently making our web-pages from JSON files, our current JSON Portal s
 
 ## Website Page to JSON Mapping ##
 
-| Website Page                                              | JSON Source                                            |
-|---------------------------------------------------------- |------------------------------------------------------- |
+| Website Page                                              | JSON Source                             |
+|---------------------------------------------------------- |---------------------------------------- |
 | [Home page / Admin Links](https://msportals.io/)         | [Home page / Admin JSON](./admin.json)   |
 | [3rd Party Links](https://msportals.io/3rdparty)         | [3rd Party JSON](./thirdparty.json)      |
 | [US Government Links](https://msportals.io/usgovt)       | [US Government JSON](./us-govt.json)     |
 | [End User Links/Apps](https://msportals.io/userportals)  | [End User JSON](./user.json)             |
+| [Training](https://msportals.io/training)                | [Training JSON](./training.json)         |
+
 
 ## Fields ##
 
