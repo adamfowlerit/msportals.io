@@ -12,8 +12,18 @@
     "groupName": "Main Certification Links",
     "portals": [
       {
-        "portalName": "Microsoft Credentials",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/"
+        "portalName": "Microsoft Certifications",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification"
+      },
+      {
+        "portalName": "Certification Poster - Become Microsoft Certified",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI"
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/CertificationsPoster"
+          }
+        ]
       }
     ]
     },
