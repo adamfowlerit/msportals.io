@@ -1,5 +1,23 @@
 [
   {
+    "groupName": "Main Training Links",
+    "portals": [
+      {
+        "portalName": "Microsoft Applied Skills",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills"
+      }
+    ]
+    },
+    {
+    "groupName": "Main Certification Links",
+    "portals": [
+      {
+        "portalName": "Microsoft Credentials",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/"
+      }
+    ]
+    },
+  {
     "groupName": "Azure Training",
     "portals": [
       {
