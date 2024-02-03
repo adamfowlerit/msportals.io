@@ -29,8 +29,8 @@
         "primaryURL": "https://msportals.io/"
       },
       {
-        "portalName": "Where's My Tenant ?",
-        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
       }
     ]
     },
@@ -41,9 +41,9 @@
         "portalName": "📌 Microsoft Portals",
         "primaryURL": "https://msportals.io/"
       },
-      {
-        "portalName": "Where's My Tenant ?",
-        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+            {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
       }
     ]
   }
