@@ -17,7 +17,13 @@
       },
       {
         "portalName": "Certification Poster - Become Microsoft Certified",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI"
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/CertificationsPoster"
+          }
+        ]
       }
     ]
    }, 
