@@ -9,6 +9,10 @@
       {
         "portalName": "Microsoft Learn Blog",
         "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"
+      },
+      {
+        "portalName": "Microsoft Virtual Training Days",
+        "primaryURL": "https://www.microsoft.com/en-ca/sites/microsoft-training-days"
       }
     ]
     },
