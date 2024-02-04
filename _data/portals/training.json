@@ -32,6 +32,10 @@
             "url": "https://aka.ms/CertificationsPoster"
           }
         ]
+      },
+      {
+        "portalName": "Exam Readiness Zone",
+        "primaryURL": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/"
       }
     ]
    }, 
