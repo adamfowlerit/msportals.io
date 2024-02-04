@@ -46,5 +46,18 @@
         "primaryURL": "https://msportals.io/"
       }
     ]
+    },
+    {
+    "groupName": "Microsoft Security Training",
+    "portals": [
+      {
+        "portalName": "Microsoft Security, Compliance, and Identity training and certifications",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm"
+      },
+            {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      }
+    ]
   }
 ]
