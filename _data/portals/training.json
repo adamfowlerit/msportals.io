@@ -76,15 +76,10 @@
     "groupName": "Third Party Training Resources",
     "portals": [
       {
-        "portalName": "Microsoft Security, Compliance, and Identity training and certifications PowerPoint Deck",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/SecurityTrainCertDeck"
-          }
-        ]
-      },
+        "portalName": "Microsoft Exam Updates",
+        "primaryURL": "https://intunedin.net/",
+         "note": "Mark O'Shea Microsoft MVP"
+         },
             {
         "portalName": "📌 Microsoft Portals",
         "primaryURL": "https://msportals.io/"
