@@ -5,6 +5,10 @@
       {
         "portalName": "Microsoft Applied Skills",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills"
+      },
+      {
+        "portalName": "Microsoft Learn Blog",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"
       }
     ]
     },
