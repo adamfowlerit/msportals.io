@@ -110,6 +110,87 @@
     ]
   },
   {
+    "groupName": "Microsoft Ninja Training",
+    "portals": [
+      {
+        "portalName": "Microsoft Purview Communication Compliance Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-communication-compliance-ninja/ba-p/3283283"
+      },
+      {
+        "portalName": "Microsoft Purview Compliance Manager (MSPCM) Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-compliance-manager-mspcm-ninja-training-q1/ba-p/3181322"
+      },
+      {
+        "portalName": "Microsoft Purview eDiscovery Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-purview-ediscovery-ninja/ba-p/2793108"
+      },
+      {
+        "portalName": "Microsoft Purview Information Protection Ninja",
+        "primaryURL": "https://aka.ms/MIPNinja"
+      },
+      {
+        "portalName": "Microsoft Purview Data Loss Prevention Ninja",
+        "primaryURL": "https://aka.ms/DLPNinja"
+      },
+      {
+        "portalName": "Microsoft Purview Insider Risk Management Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-an-insider-risk-management-ninja/ba-p/3282306"
+      },
+      {
+        "portalName": "Microsoft Defender for Cloud Apps Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/3050791"
+      },
+      {
+        "portalName": "Microsoft Defender for Endpoint Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647"
+      },
+      {
+        "portalName": "Microsoft Defender for Identity Ninja",
+        "primaryURL": "https://aka.ms/MDINinja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376"
+      },
+      {
+        "portalName": "Microsoft Defender for Office Ninja",
+        "primaryURL": "https://aka.ms/MDONinja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender for Cloud Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761"
+      },
+      {
+        "portalName": "Microsoft Defender Threat Intelligence Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965"
+      },
+      {
+        "portalName": "Microsoft 365 Defender for IoT Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899"
+      },
+      {
+        "portalName": "Microsoft Sentinel Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310"
+      },
+            {
+        "portalName": "Microsoft Sentinel Notebooks Ninja",
+        "primaryURL": "https://aka.ms/MDONinja"
+      },
+            {
+        "portalName": "Microsoft Sentinel Automation Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377"
+      },
+            {
+        "portalName": "Microsoft Defender for Office Ninja",
+        "primaryURL": "https://aka.ms/MDONinja"
+      },
+      {
+        "portalName": "Ninja Show",
+        "primaryURL": "https://aka.ms/NinjaShow"
+      }
+    ]
+    },
+  {
     "groupName": "Other Training Resources (including third party)",
     "portals": [
       {
