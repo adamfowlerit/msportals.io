@@ -100,7 +100,7 @@
     ]
   },
   {
-    "groupName": "Third Party Training Resources",
+    "groupName": "Other Training Resources (including third party)",
     "portals": [
       {
         "portalName": "Microsoft Exam Updates",
@@ -111,6 +111,11 @@
         "portalName": "John Savill's Technical Training",
         "primaryURL": "https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ",
          "note": "YouTube Exam Study"
+         },
+        {
+        "portalName": "ITOpsTalk",
+        "primaryURL": "https://www.youtube.com/@ITOpsTalk",
+         "note": "Microsoft Run ITOPSTalk TechCommunity Blog"
          }
     ]
   }
