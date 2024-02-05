@@ -216,7 +216,11 @@
         {
         "portalName": "Intune Training",
         "primaryURL": "https://www.youtube.com/@IntuneTraining",
-        
+        },
+        {
+        "portalName": "Microsoft Security Community",
+        "primaryURL": "https://www.youtube.com/@MicrosoftSecurityCommunity",
+        "note": "Microsoft run security content"
         },
         {
         "portalName": "ITOpsTalk",
