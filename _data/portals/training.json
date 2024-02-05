@@ -45,20 +45,12 @@
       {
         "portalName": "📌 Microsoft Portals",
         "primaryURL": "https://msportals.io/"
-      },
-      {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
       }
     ]
     },
     {
     "groupName": "Microsoft 365 Training",
     "portals": [
-      {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
-      },
             {
         "portalName": "📌 Microsoft Portals",
         "primaryURL": "https://msportals.io/"
@@ -77,10 +69,6 @@
             "url": "https://aka.ms/SecurityTrainCertDeck"
           }
         ]
-      },
-            {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
       }
     ]
   },
@@ -96,11 +84,7 @@
         "portalName": "John Savill's Technical Training",
         "primaryURL": "https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ",
          "note": "YouTube Exam Study"
-         },
-            {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
-      }
+         }
     ]
   }
 ]
