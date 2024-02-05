@@ -141,6 +141,18 @@
         "primaryURL": "https://aka.ms/insiderriskninja"
       },
       {
+        "portalName": "Microsoft 365 Defender Ninja",
+        "primaryURL": "https://aka.ms/m365dninja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender for Cloud Ninja",
+        "primaryURL": "http://aka.ms/ascninja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender for IoT Ninja",
+        "primaryURL": "https://aka.ms/d4iotninja"
+      },
+      {
         "portalName": "Microsoft Defender for Cloud Apps Ninja",
         "primaryURL": "http://aka.ms/mcasninja"
       },
@@ -152,25 +164,14 @@
         "portalName": "Microsoft Defender for Identity Ninja",
         "primaryURL": "https://aka.ms/MDINinja"
       },
-      {
-        "portalName": "Microsoft 365 Defender Ninja",
-        "primaryURL": "https://aka.ms/m365dninja"
-      },
-      {
+            {
         "portalName": "Microsoft Defender for Office 365 Ninja",
         "primaryURL": "https://aka.ms/MDONinja"
       },
-      {
-        "portalName": "Microsoft 365 Defender for Cloud Ninja",
-        "primaryURL": "http://aka.ms/ascninja"
-      },
+
       {
         "portalName": "Microsoft Defender Threat Intelligence Ninja",
         "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965"
-      },
-      {
-        "portalName": "Microsoft 365 Defender for IoT Ninja",
-        "primaryURL": "https://aka.ms/d4iotninja"
       },
       {
         "portalName": "Microsoft Sentinel Ninja",
@@ -180,17 +181,13 @@
         "portalName": "Microsoft Sentinel for MSSP Ninja",
         "primaryURL": "http://aka.ms/azsentinelmssp"
       },
-            {
+      {
         "portalName": "Microsoft Sentinel Notebooks Ninja",
         "primaryURL": "https://aka.ms/MDONinja"
       },
-            {
+      {
         "portalName": "Microsoft Sentinel Automation Ninja",
         "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377"
-      },
-            {
-        "portalName": "Microsoft Defender for Office Ninja",
-        "primaryURL": "https://aka.ms/MDONinja"
       },
       {
         "portalName": "Ninja Show",
