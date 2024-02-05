@@ -41,15 +41,20 @@
    }, 
   {
     "groupName": "Infrastructure Certifications",
-    "groupName": "Infrastructure Certifications",
     "portals": [
       {
         "portalName": "AZ-900 Azure Fundamentals Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/",
+        "note": "Microsoft Certified: Azure Fundamentals"
       },
        {
         "portalName": "AZ-900 Azure Fundamentals Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00"
+      },
+       {
+        "portalName": "AZ-104 Azure Administrator Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00",
+        "note": "Microsoft Certified: Azure Administrator Associate"
       }
     ]
     },
