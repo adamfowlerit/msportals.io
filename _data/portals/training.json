@@ -112,10 +112,15 @@
         "primaryURL": "https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ",
          "note": "YouTube Exam Study"
          },
+         {
+        "portalName": "Microsoft Mechanics",
+        "primaryURL": "https://www.youtube.com/@MSFTMechanics",
+         "note": "Microsoft run engineering updates"
+         },
         {
         "portalName": "ITOpsTalk",
         "primaryURL": "https://www.youtube.com/@ITOpsTalk",
-         "note": "Microsoft Run ITOPSTalk TechCommunity Blog"
+         "note": "Microsoft run ITOPSTalk TechCommunity Blog"
          }
     ]
   }
