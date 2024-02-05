@@ -209,6 +209,11 @@
          "note": "Microsoft run engineering updates"
          },
         {
+        "portalName": "Intune Training",
+        "primaryURL": "https://www.youtube.com/@IntuneTraining",
+        
+        },
+        {
         "portalName": "ITOpsTalk",
         "primaryURL": "https://www.youtube.com/@ITOpsTalk",
          "note": "Microsoft run ITOPSTalk TechCommunity Blog"
