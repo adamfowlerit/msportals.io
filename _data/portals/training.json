@@ -40,7 +40,16 @@
     ]
    }, 
   {
-    "groupName": "Azure Training",
+    "groupName": "Infrastructure Certifications",
+    "portals": [
+      {
+        "portalName": "AZ-900 Azure Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/"
+      }
+    ]
+    },
+    {
+    "groupName": "Data and AI Certifications",
     "portals": [
       {
         "portalName": "📌 Microsoft Portals",
@@ -49,7 +58,25 @@
     ]
     },
     {
-    "groupName": "Microsoft 365 Training",
+    "groupName": "Digital app and innovation Certifcations",
+    "portals": [
+      {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      }
+    ]
+    },
+    {
+    "groupName": "Modern Work Training",
+    "portals": [
+            {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      }
+    ]
+    },
+    {
+    "groupName": "Business Applications Training",
     "portals": [
             {
         "portalName": "📌 Microsoft Portals",
