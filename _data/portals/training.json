@@ -3,6 +3,10 @@
     "groupName": "Main Training Links",
     "portals": [
       {
+        "portalName": "Microsoft Learn Profile",
+        "primaryURL": "https://www.microsoft.com/learning/dashboard.aspx"
+      },
+      {
         "portalName": "Microsoft Applied Skills",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills"
       },
@@ -61,8 +65,7 @@
       },
       {
         "portalName": "AZ-900 Azure Fundamentals Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/",
-        "note": "Microsoft Certified: Azure Fundamentals"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/"
       },
       {
         "portalName": "AZ-900 Azure Fundamentals Course",
@@ -73,11 +76,13 @@
     {
     "groupName": "Infrastructure - Microsoft Certified: Azure Administrator Associate",
     "portals": [
+             {
+        "portalName": "Microsoft Certified: Azure Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"
+      },
        {
-
         "portalName": "AZ-104 Azure Administrator Associate Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/",
-        "note": "Microsoft Certified: Azure Administrator Associate"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/"
       },
        {
         "portalName": "AZ-104 Azure Administrator Associate Course",
@@ -88,6 +93,10 @@
       {
     "groupName": "Infrastructure - Microsoft Certified: Azure Solutions Architect Expert",
     "portals": [
+      {
+        "portalName": "Microsoft Certified: Azure Solutions Architect Expert",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"
+      },
        {
         "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/"
@@ -102,6 +111,10 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure Network Engineer Associate",
     "portals": [
       {
+        "portalName": "Microsoft Certified: Azure Network Engineer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/"
+      },
+      {
         "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/"
       },
@@ -114,6 +127,10 @@
   {
     "groupName": "Infrastructure - Microsoft Certified: Windows Server Hybrid Administrator Associate",
     "portals": [
+      {
+        "portalName": "Microsoft Certified: Windows Server Hybrid Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/"
+      },
       {
         "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/"
@@ -136,6 +153,10 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure for SAP Workloads Specialty",
     "portals": [
       {
+        "portalName": "Microsoft Certified: Azure for SAP Workloads Specialty",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-for-sap-workloads-specialty/"
+      },
+      {
         "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-120/"
       },
@@ -148,6 +169,10 @@
     {
     "groupName": "Infrastructure - Microsoft Certified: Azure Virtual Desktop Specialty",
     "portals": [
+      {
+        "portalName": "Microsoft Certified: Azure Virtual Desktop Specialty",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-virtual-desktop-specialty/"
+      },
       {
         "portalName": "AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-140/"
