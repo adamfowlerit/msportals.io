@@ -15,8 +15,28 @@
         "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"
       },
       {
-        "portalName": "Microsoft Virtual Training Days",
+        "portalName": "Microsoft Virtual Training Days #1",
         "primaryURL": "https://www.microsoft.com/en-ca/sites/microsoft-training-days"
+      },
+      {
+        "portalName": "Microsoft Virtual Training Days #2",
+        "primaryURL": "https://mvtd.events.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Shows",
+        "primaryURL": "https://learn.microsoft.com/en-gb/shows/"
+      },
+      {
+        "portalName": "Microsoft Learn On Demand Instructor-led Training Series",
+        "primaryURL": "https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/"
+      },
+      {
+        "portalName": "Microsoft Learn Cloud Games",
+        "primaryURL": "https://learn.microsoft.com/en-gb/training/cloud-games"
+      },
+      {
+        "portalName": "Microsoft Azure Connected Learning Experience",
+        "primaryURL": "https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa"
       }
     ]
     },
@@ -47,8 +67,12 @@
           }
         ]
       },
+       {
+        "portalName": "Practice Assessments for Microsoft Certifications",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/practice-assessments-for-microsoft-certifications"
+      },
       {
-        "portalName": "Exam Readiness Zone",
+        "portalName": "Microsoft Learn Exam Readiness Zone",
         "primaryURL": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/"
       }
     ]
@@ -690,6 +714,14 @@
          "note": "Microsoft run engineering updates"
          },
         {
+        "portalName": "Kusto Detective Agency",
+        "primaryURL": "https://detective.kusto.io/",
+        },    
+      {
+        "portalName": "Must Learn KQL",
+        "primaryURL": "https://github.com/rod-trent/MustLearnKQL",
+        },  
+      {
         "portalName": "Intune Training",
         "primaryURL": "https://www.youtube.com/@IntuneTraining",
         },
