@@ -340,16 +340,44 @@
       }
     ]
    },
-
-    {  
-    "groupName": "Digital app and innovation Certifcations",
+{
+    "groupName": "Digital app and innovation - Microsoft Certified: Azure Developer Associate",
     "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Developer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-developer"
+      },
       {
-        "portalName": "Exam Links TBD",
-        "primaryURL": "https://msportals.io/"
+        "portalName": "AZ-204: Developing Solutions for Microsoft Azure Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/az-204/"
+      },
+        {
+        "portalName": "AZ-204: Developing Solutions for Microsoft Azure Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-204t00"
       }
     ]
-    },
+   },
+{
+    "groupName": "Digital app and innovation - Microsoft Certified: DevOps Engineer Expert",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: DevOps Engineer Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/devops-engineer",
+         "note": "Pre-reqs - AZ-104 OR AZ-204"
+      },
+      {
+        "portalName": "AZ-400: Designing and Implementing Microsoft DevOps Solutions Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/az-400/"
+      },
+        {
+        "portalName": "AZ-400: Designing and Implementing Microsoft DevOps Solutions Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-400t00"
+      }
+    ]
+   },
+
+
+  
     {
     "groupName": "Modern Work Certifications",
     "portals": [
