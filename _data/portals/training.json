@@ -45,6 +45,10 @@
   {
     "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Fundamentals",
     "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
+      }
       {
         "portalName": "AZ-900 Azure Fundamentals Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/",
