@@ -86,6 +86,33 @@
        {
         "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-800t00"
+      },
+      {
+        "portalName": "AZ-801: Configuring Windows Server Hybrid Advanced Services Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-801/",
+        "note": "Part of Microsoft Certified: Windows Server Hybrid Administrator Associate"
+      },
+       {
+        "portalName": "AZ-801: Configuring Windows Server Hybrid Advanced Services Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-801t00"
+      },
+      {
+        "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-120/",
+        "note": "Microsoft Certified: Azure for SAP Workloads Specialty"
+      },
+       {
+        "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-120t00"
+      },
+      {
+        "portalName": "AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-140/",
+        "note": "Microsoft Certified: Azure Virtual Desktop Specialty"
+      },
+       {
+        "portalName": "AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-140t00"
       }
     ]
     },
