@@ -212,7 +212,7 @@
         "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-900/"
       },
         {
-        "portalName": "AI-900: Microsoft Azure AI Fundamentals Course",
+        "portalName": "DP-900: Microsoft Azure Data Fundamentals Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-900t00"
       }
     ]
@@ -229,7 +229,7 @@
         "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ai-102/"
       },
         {
-        "portalName": "AI-102Designing and Implementing a Microsoft Azure AI Solution Course",
+        "portalName": "AI-102: Designing and Implementing a Microsoft Azure AI Solution Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ai-102t00"
       }
     ]
@@ -251,7 +251,95 @@
       }
     ]
    },
-
+{
+    "groupName": "Microsoft Certified: Azure Data Engineer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Data Engineer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-data-engineer"
+      },
+      {
+        "portalName": "DP-203: Data Engineering on Microsoft Azure Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-203/"
+      },
+        {
+        "portalName": "DP-203: Data Engineering on Microsoft Azure Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-203t00"
+      }
+    ]
+   },
+{
+    "groupName": "Microsoft Certified: Azure Database Administrator Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Database Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-database-administrator-associate"
+      },
+      {
+        "portalName": "DP-300: Administering Microsoft Azure SQL Solutions Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-300/"
+      },
+        {
+        "portalName": "DP-300: Administering Microsoft Azure SQL Solutions Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-300t00"
+      }
+    ]
+   },
+{
+    "groupName": "Microsoft Certified: Azure Enterprise Data Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Enterprise Data Analyst Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-enterprise-data-analyst-associate",
+         "note": "Retiring April 30, 2024"
+      },
+      {
+        "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-500/",
+        "note": "Retiring April 30, 2024"
+      },
+        {
+        "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-500t00",
+        "note": "Retiring April 30, 2024"
+      }
+    ]
+   },
+  {
+    "groupName": "Microsoft Certified: Fabric Analytics Engineer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Fabric Analytics Engineer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/fabric-analytics-engineer-associate"
+      },
+      {
+        "portalName": "DP-600: Implementing Analytics Solutions Using Microsoft Fabric Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-600/",
+        "note": "beta"
+      },
+        {
+        "portalName": "DP-600: Implementing Analytics Solutions Using Microsoft Fabric Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-600t00"
+      }
+    ]
+   },
+{
+    "groupName": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-cosmos-db-developer-specialty"
+      },
+      {
+        "portalName": "DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-420/"
+      },
+        {
+        "portalName": "DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-420t00"
+      }
+    ]
+   },
 
     {  
     "groupName": "Digital app and innovation Certifcations",
