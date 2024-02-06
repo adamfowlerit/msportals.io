@@ -53,8 +53,39 @@
       },
        {
         "portalName": "AZ-104 Azure Administrator Associate Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/",
         "note": "Microsoft Certified: Azure Administrator Associate"
+      },
+       {
+        "portalName": "AZ-104 Azure Administrator Associate Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-104t00"
+      },
+       {
+        "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/",
+        "note": "Part of Microsoft Certified: Azure Solutions Architect Expert"
+      },
+       {
+        "portalName": "AZ-900 Designing Microsoft Azure Infrastructure Solutions Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-305t00"
+      },
+      {
+        "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/",
+        "note": "Part of Microsoft Certified: Azure Network Engineer Associate"
+      },
+       {
+        "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-700t00"
+      },
+      {
+        "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/",
+        "note": "Part of Microsoft Certified: Windows Server Hybrid Administrator Associate"
+      },
+       {
+        "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-800t00"
       }
     ]
     },
