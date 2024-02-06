@@ -53,7 +53,7 @@
     "groupName": "Infrastructure Certifications"
   },
   {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Fundamentals",
+    "groupName": "Infrastructure - Microsoft Certified: Azure Fundamentals",
     "portals": [
        {
         "portalName": "Microsoft Certified: Azure Fundamentals",
@@ -71,7 +71,7 @@
     ]
   },
     {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Administrator Associate",
+    "groupName": "Infrastructure - Microsoft Certified: Azure Administrator Associate",
     "portals": [
        {
 
@@ -86,7 +86,7 @@
     ]
   },
       {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Solutions Architect Expert",
+    "groupName": "Infrastructure - Microsoft Certified: Azure Solutions Architect Expert",
     "portals": [
        {
         "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Network Engineer Associate",
+    "groupName": "Infrastructure - Microsoft Certified: Azure Network Engineer Associate",
     "portals": [
       {
         "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam",
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Windows Server Hybrid Administrator Associate",
+    "groupName": "Infrastructure - Microsoft Certified: Windows Server Hybrid Administrator Associate",
     "portals": [
       {
         "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam",
@@ -133,7 +133,7 @@
     ]
   },
     {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure for SAP Workloads Specialty",
+    "groupName": "Infrastructure - Microsoft Certified: Azure for SAP Workloads Specialty",
     "portals": [
       {
         "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam",
@@ -146,7 +146,7 @@
     ]
    },
     {
-    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Virtual Desktop Specialty",
+    "groupName": "Infrastructure - Microsoft Certified: Azure Virtual Desktop Specialty",
     "portals": [
       {
         "portalName": "AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam",
