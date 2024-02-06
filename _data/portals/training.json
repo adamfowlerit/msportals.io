@@ -34,6 +34,16 @@
         ]
       },
       {
+        "portalName": "Applied Skills Certification Poster",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1bY3w",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/AppliedSkillsPoster"
+          }
+        ]
+      },
+      {
         "portalName": "Exam Readiness Zone",
         "primaryURL": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/"
       }
@@ -54,7 +64,7 @@
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/",
         "note": "Microsoft Certified: Azure Fundamentals"
       },
-       {
+      {
         "portalName": "AZ-900 Azure Fundamentals Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00"
       }
@@ -64,6 +74,7 @@
     "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Administrator Associate",
     "portals": [
        {
+
         "portalName": "AZ-104 Azure Administrator Associate Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/",
         "note": "Microsoft Certified: Azure Administrator Associate"
@@ -236,7 +247,7 @@
         "portalName": "Microsoft Defender for Identity Ninja",
         "primaryURL": "https://aka.ms/MDINinja"
       },
-            {
+      {
         "portalName": "Microsoft Defender for Office 365 Ninja",
         "primaryURL": "https://aka.ms/MDONinja"
       },
