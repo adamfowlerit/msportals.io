@@ -362,8 +362,7 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: DevOps Engineer Expert",
-        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/devops-engineer",
-         "note": "Pre-reqs - AZ-104 OR AZ-204"
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/devops-engineer"
       },
       {
         "portalName": "AZ-400: Designing and Implementing Microsoft DevOps Solutions Exam",
@@ -375,23 +374,96 @@
       }
     ]
    },
-
-
-  
-    {
-    "groupName": "Modern Work Certifications",
+   {
+    "groupName": "Modern Work - Microsoft 365 Certified: Fundamentals",
     "portals": [
-            {
-        "portalName": "Exam Links TBD",
-        "primaryURL": "https://msportals.io/"
+       {
+        "portalName": "Microsoft 365 Certified: Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/microsoft-365-fundamentals"
+      },
+      {
+        "portalName": "MS-900: Microsoft 365 Fundamentals Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ms-900/"
+      },
+        {
+        "portalName": "MS-900: Microsoft 365 Fundamentals Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ms-900t00"
       }
     ]
-    },
+   },
+{
+    "groupName": "Modern Work - Microsoft 365 Certified: Endpoint Administrator Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft 365 Certified: Endpoint Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/m365-endpoint-administrator"
+      },
+      {
+        "portalName": "MD-102: Endpoint Administrator Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/md-102/"
+      },
+        {
+        "portalName": "MD-102: Endpoint Administrators Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/md-102t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Modern Work - Microsoft 365 Certified: Administrator Expert",
+    "portals": [
+       {
+        "portalName": "Microsoft 365 Certified: Administrator Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/m365-administrator-expert"
+      },
+      {
+        "portalName": "MS-102: Microsoft 365 Administrator Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ms-102/"
+      },
+        {
+        "portalName": "MS-102: Microsoft 365 Administrator Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ms-102t00"
+      }
+    ]
+   },
+   {
+    "groupName": "Modern Work - Microsoft 365 Certified: Teams Administrator Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft 365 Certified: Teams Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/m365-teams-administrator-associate/"
+      },
+      {
+        "portalName": "MS-700: Managing Microsoft Teams Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ms-700/"
+      },
+        {
+        "portalName": "MS-700: Managing Microsoft Teams Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ms-700t00"
+      }
+    ]
+   },
+   {
+    "groupName": "Modern Work - Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/m365-collaboration-communications-systems-engineer/"
+      },
+      {
+        "portalName": "MS-721: Collaboration Communications Systems Engineer Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ms-721/"
+      },
+        {
+        "portalName": "MS-721: Collaboration Communications Systems Engineer Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ms-721t00"
+      }
+    ]
+   },
     {
     "groupName": "Business Applications Certifications",
     "portals": [
             {
-        "portalName": "Exam Links TBD",
+        "portalName": "Exam Links TBD - 21 to add!",
         "primaryURL": "https://msportals.io/"
       }
     ]
@@ -411,6 +483,108 @@
       }
     ]
   },
+  {
+    "groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/security-compliance-and-identity-fundamentals/"
+      },
+      {
+        "portalName": "SC-900: Microsoft Security, Compliance, and Identity Fundamentals Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-900/"
+      },
+        {
+        "portalName": "SC-900: Microsoft Security, Compliance, and Identity Fundamentals Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/sc-900t00"
+      }
+    ]
+   },
+{
+    "groupName": "Security - Microsoft Certified: Azure Security Engineer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-security-engineer"
+      },
+      {
+        "portalName": "AZ-500: Microsoft Azure Security Technologies Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/az-500/"
+      },
+        {
+        "portalName": "AZ-500: Microsoft Azure Security Technologies Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-500t00"
+      }
+    ]
+   },
+{
+    "groupName": "Security - Microsoft Certified: Cybersecurity Architect Expert",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Cybersecurity Architect Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/cybersecurity-architect-expert"
+      },
+      {
+        "portalName": "SC-100: Microsoft Cybersecurity Architect Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-100/"
+      },
+        {
+        "portalName": "SC-100: Microsoft Cybersecurity Architect Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/sc-100t00"
+      }
+    ]
+   },
+{
+    "groupName": "Security - Microsoft Certified: Security Operations Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Cybersecurity Architect Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/security-operations-analyst"
+      },
+      {
+        "portalName": "SC-200: Microsoft Security Operations Analyst Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-200/"
+      },
+        {
+        "portalName": "SC-200: Microsoft Security Operations Analyst Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/sc-200t00"
+      }
+    ]
+   },
+{
+    "groupName": "Security - Microsoft Certified: Identity and Access Administrator Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Identity and Access Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/identity-and-access-administrator"
+      },
+      {
+        "portalName": "SC-300: Microsoft Identity and Access Administrator Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-300/"
+      },
+        {
+        "portalName": "SC-300: Microsoft Identity and Access Administrator Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/sc-300t00"
+      }
+    ]
+   },
+ {
+    "groupName": "Security - Microsoft Certified: Information Protection and Compliance Administrator Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Information Protection and Compliance Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/information-protection-and-compliance-administrator/"
+      },
+      {
+        "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-400/"
+      },
+        {
+        "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/sc-400t00"
+      }
+    ]
+   }, 
   {
     "groupName": "Microsoft Ninja Training",
     "portals": [
