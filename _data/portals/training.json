@@ -85,28 +85,38 @@
       }
     ]
   },
+      {
+    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Solutions Architect Expert",
+    "portals": [
        {
         "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/",
-        "note": "Part of Microsoft Certified: Azure Solutions Architect Expert"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/"
       },
        {
         "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-305t00"
-      },
+      }
+    ]
+  },
+  {
+    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Network Engineer Associate",
+    "portals": [
       {
         "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/",
-        "note": "Part of Microsoft Certified: Azure Network Engineer Associate"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/"
       },
        {
         "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-700t00"
-      },
+      }
+    ]
+  },
+  {
+    "groupName": "Infrastructure Certifications - Microsoft Certified: Windows Server Hybrid Administrator Associate",
+    "portals": [
       {
         "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/",
-        "note": "Part of Microsoft Certified: Windows Server Hybrid Administrator Associate"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/"
       },
        {
         "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Course",
@@ -120,20 +130,28 @@
        {
         "portalName": "AZ-801: Configuring Windows Server Hybrid Advanced Services Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-801t00"
-      },
+      }
+    ]
+  },
+    {
+    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure for SAP Workloads Specialty",
+    "portals": [
       {
         "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-120/",
-        "note": "Microsoft Certified: Azure for SAP Workloads Specialty"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-120/"
       },
        {
         "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-120t00"
-      },
+      }
+    ]
+   },
+    {
+    "groupName": "Infrastructure Certifications - Microsoft Certified: Azure Virtual Desktop Specialty",
+    "portals": [
       {
         "portalName": "AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-140/",
-        "note": "Microsoft Certified: Azure Virtual Desktop Specialty"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-140/"
       },
        {
         "portalName": "AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course",
