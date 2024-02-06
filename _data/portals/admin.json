@@ -906,6 +906,10 @@
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
       },
+      {    
+        "portalName": "Microsoft Assessments",
+        "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
+      },
       {
         "portalName": "Microsoft Azure Sponsorships",
         "primaryURL": "https://www.microsoftazuresponsorships.com"
