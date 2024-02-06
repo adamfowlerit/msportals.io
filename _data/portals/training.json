@@ -182,17 +182,78 @@
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-140t00"
       }
     ]
-    },
+   },
     {
-    "groupName": "Data and AI Certifications",
+    "groupName": "Data and AI - Microsoft Certified: Azure AI Fundamentals",
     "portals": [
       {
-        "portalName": "Exam Links TBD",
-        "primaryURL": "https://msportals.io/"
+        "portalName": "Microsoft Certified: Azure AI Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-virtual-desktop-specialty/"
+      },
+      {
+        "portalName": "AI-900: Microsoft Azure AI Fundamentals Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ai-900/"
+      },
+        {
+        "portalName": "AI-900: Microsoft Azure AI Fundamentals Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ai-900t00"
       }
     ]
-    },
+   },
+  {
+    "groupName": "Data and AI - Microsoft Certified: Azure Data Fundamentals",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Data Fundamentals",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-data-fundamentals"
+      },
+      {
+        "portalName": "DP-900: Microsoft Azure Data Fundamentals Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-900/"
+      },
+        {
+        "portalName": "AI-900: Microsoft Azure AI Fundamentals Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-900t00"
+      }
+    ]
+   },
+{
+    "groupName": "Microsoft Certified: Azure AI Engineer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure AI Engineer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-ai-engineer"
+      },
+      {
+        "portalName": "AI-102: Designing and Implementing a Microsoft Azure AI Solution Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/ai-102/"
+      },
+        {
+        "portalName": "AI-102Designing and Implementing a Microsoft Azure AI Solution Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/ai-102t00"
+      }
+    ]
+   },
     {
+    "groupName": "Microsoft Certified: Azure Data Scientist Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Azure Data Scientist Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/azure-data-scientist"
+      },
+      {
+        "portalName": "DP-100: Designing and Implementing a Data Science Solution on Azure Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/dp-100/"
+      },
+        {
+        "portalName": "DP-100: Designing and Implementing a Data Science Solution on Azure Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/dp-100t00"
+      }
+    ]
+   },
+
+
+    {  
     "groupName": "Digital app and innovation Certifcations",
     "portals": [
       {
