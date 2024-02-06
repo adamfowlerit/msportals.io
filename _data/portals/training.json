@@ -34,6 +34,16 @@
         ]
       },
       {
+        "portalName": "Applied Skills Certification Poster",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1bY3w",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/AppliedSkillsPoster"
+          }
+        ]
+      },
+      {
         "portalName": "Exam Readiness Zone",
         "primaryURL": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/"
       }
@@ -47,14 +57,32 @@
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/",
         "note": "Microsoft Certified: Azure Fundamentals"
       },
-       {
+      {
         "portalName": "AZ-900 Azure Fundamentals Course",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00"
       },
-       {
+      {
         "portalName": "AZ-104 Azure Administrator Associate Exam",
         "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00",
         "note": "Microsoft Certified: Azure Administrator Associate"
+      },
+      {
+        "portalName": "AZ-700 Designing and Implementing Microsoft Azure Networking Solutions Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-700/",
+        "note": "Microsoft Certified: Azure Network Engineer Associate"
+      },
+      {
+        "portalName": "AZ-700 Azure Network Engineer Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-700t00"
+      },
+      {
+        "portalName": "AZ-305 Designing Microsoft Azure Infrastructure Solutions Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/",
+        "note": "Microsoft Certified: Azure Solutions Architect Expert"
+      },
+      {
+        "portalName": "AZ-305 Designing Microsoft Azure Infrastructure Solutions Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-305t00"
       }
     ]
     },
@@ -164,7 +192,7 @@
         "portalName": "Microsoft Defender for Identity Ninja",
         "primaryURL": "https://aka.ms/MDINinja"
       },
-            {
+      {
         "portalName": "Microsoft Defender for Office 365 Ninja",
         "primaryURL": "https://aka.ms/MDONinja"
       },
