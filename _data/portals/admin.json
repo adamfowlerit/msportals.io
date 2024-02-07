@@ -1053,7 +1053,7 @@
       },
       {
         "portalName": "Windows 365 Subscription URL",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
+        "primaryURL": "https://rdweb.wvd.microsoft.com"
       }
     ]
   }
