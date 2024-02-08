@@ -735,6 +735,11 @@
         "note": "Microsoft run security content"
         },
         {
+        "portalName": "Entra.News",
+        "primaryURL": "https://entra.news/",
+        "note": "Weekly Entra Newsletter Merill Fernando"
+        },
+        {
         "portalName": "ITOpsTalk",
         "primaryURL": "https://www.youtube.com/@ITOpsTalk",
          "note": "Microsoft run ITOPSTalk TechCommunity Blog"
