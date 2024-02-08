@@ -1009,6 +1009,10 @@
         "primaryURL": "https://servicetrust.microsoft.com"
       },
       {
+        "portalName": "Azure Active Directory - Where is your data located?",
+        "primaryURL": "https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+      },
+      {
         "portalName": "Tech Community Video Hub",
         "primaryURL": "https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub",
         "secondaryURLs": [
