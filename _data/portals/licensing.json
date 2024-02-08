@@ -2,11 +2,35 @@
   {
     "groupName": "Main Licensing Links",
     "portals": [
+      {
+        "portalName": "Microsoft 365 Enterprise Licensing Full Comparison Table PDF",
+        "primaryURL": "https://aka.ms/M365EnterprisePlans"
+         },
   {
         "portalName": "Microsoft 365 Licensing",
         "primaryURL": "https://m365maps.com/",
          "note": "Aaron Dinnage"
          }
     ]
-  }
+  },
+    {
+    "groupName": "Consumer Licensing Links",
+    "portals": [
+        {
+        "portalName": "Microsoft 365 Family",
+        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
+         },
+        {
+        "portalName": "Microsoft 365 Personal",
+        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
+         }
+       ]
+  },
+  {
+    "groupName": "Product Specific Links",
+    "portals": [
+        {
+        "portalName": "Microsoft Entra Plans & Pricing",
+        "primaryURL": "https://www.microsoft.com/en-au/security/business/microsoft-entra-pricing"
+         }
 ]
