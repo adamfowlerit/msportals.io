@@ -39,6 +39,11 @@
         "primaryURL": "https://learn.microsoft.com/en-gb/training/cloud-games"
       },
       {
+        "portalName": "ExpertZone",
+        "primaryURL": "https://expertzone.microsoft.com/",
+        "note": "Requires free registration"
+      },
+      {
         "portalName": "Microsoft Azure Connected Learning Experience",
         "primaryURL": "https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa"
       }
