@@ -15,6 +15,10 @@
         "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/business/compare-all-microsoft-365-business-products"
          },
         {
+        "portalName": "Licensing Resources and Documents - Product Terms",
+        "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
+         },
+        {
         "portalName": "Microsoft 365 Licensing",
         "primaryURL": "https://m365maps.com/",
          "note": "Aaron Dinnage"
