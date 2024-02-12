@@ -93,6 +93,7 @@ function generateSavedLinksHTML() {
 
           portal.secondaryURLs.forEach((url) => {
             secondaryURL = document.createElement("a");
+            secondaryURL.classList.add("btn-secondary", "btn");
             secondaryURL.href = url.url;
             secondaryURL.target = "_blank";
             secondaryURL.innerText = url.icon;

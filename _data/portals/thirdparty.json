@@ -27,6 +27,10 @@
         "primaryURL": "https://azurecharts.com/"
       },
       {
+        "portalName": "Azure Diagrams",
+        "primaryURL": "https://azurediagrams.com/"
+      },
+      {
         "portalName": "Azure Governance change tracker",
         "primaryURL": "https://www.azadvertizer.net"
       },
@@ -37,17 +41,6 @@
       {
         "portalName": "Conditional Access Documenter - idPowerToys",
         "primaryURL": "https://idpowertoys.com/ca"
-      },
-      {
-        "portalName": "CyberDrain Improved Partner Portal",
-        "primaryURL": "https://github.com/KelvinTegelaar/CIPP#what-is-this",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/KelvinTegelaar/CIPP"
-          }
-        ],
-        "note": "CIPP"
       },
       {
         "portalName": "Defender for Endpoint Blog and KQL-Tools",
@@ -112,6 +105,10 @@
       {
         "portalName": "Online link generator for Microsoft Store",
         "primaryURL": "https://store.rg-adguard.net/"
+      },
+      {
+        "portalName": "Regular Expressions 101",
+        "primaryURL": "https://regex101.com"
       },
       {
         "portalName": "Tenant Availability Check",

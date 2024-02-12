@@ -41,7 +41,7 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
-        "note": "compliance portal",
+        "note": "Microsoft 365 Compliance",
         "secondaryURLs": [
           {
             "icon": "B2B",
@@ -118,7 +118,12 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://web.purview.azure.com/",
-        "note": "Governance portal"
+        "note": "Azure and Fabric Governance"
+      },
+      {
+        "portalName": "Microsoft Purview",
+        "primaryURL": "https://purview.microsoft.com/",
+        "note": "Preview Azure and Fabric Governance"
       },
       {
         "portalName": "Microsoft Teams Admin Center",
@@ -354,6 +359,11 @@
     "groupName": "Azure AI / ML Portals",
     "portals": [
       {
+        "portalName": "Azure AI Studio",
+        "primaryURL": "https://ai.azure.com",
+        "note": "Preview"
+      },
+      {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com"
       },
@@ -398,6 +408,10 @@
         "portalName": "Azure Graph Explorer",
         "primaryURL": "https://graphexplorer.azurewebsites.net/#",
         "note": "Deprecated"
+      },
+      {
+        "portalName": "Azure OpenAI service",
+        "primaryURL": "https://oai.azure.com/portal"
       }
     ]
   },
@@ -418,7 +432,8 @@
       },
       {
         "portalName": "Microsoft FastTrack",
-        "primaryURL": "https://fasttrack.microsoft.com"
+        "primaryURL": "https://fasttrack.microsoft.com",
+        "note": "Includes App Assure"
       },
       {
         "portalName": "Microsoft License Advisor",
@@ -449,6 +464,14 @@
   {
     "groupName": "Microsoft Defender / Security IT Admin Portals",
     "portals": [
+      {
+        "portalName": "Microsoft Security Copilot",
+        "primaryURL": "https://securitycopilot.microsoft.com/"
+      },
+      {
+        "portalName": "Microsoft Defender Threat Intelligence",
+        "primaryURL": "https://ti.defender.microsoft.com/"
+      },      
       {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
@@ -500,10 +523,6 @@
       {
         "portalName": "Microsoft Defender for Internet of Things (IoT)",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_IoT_Defender/IoTDefenderDashboard"
-      },
-      {
-        "portalName": "Microsoft Defender Threat Intelligence",
-        "primaryURL": "https://ti.defender.microsoft.com/"
       },
       {
         "portalName": "Microsoft Defender ATP Testground",
@@ -584,6 +603,14 @@
   {
     "groupName": "Developer Portals",
     "portals": [
+      {
+        "portalName": "Copilot Studio",
+        "primaryURL": "https://copilotstudio.microsoft.com/"
+      },
+      {
+        "portalName": "Microsoft Fabric",
+        "primaryURL": "https://fabric.microsoft.com/"
+      },
       {
         "portalName": "Actionable Messages Developer Dashboard",
         "primaryURL": "https://outlook.office.com/connectors/oam/publish",
@@ -812,6 +839,10 @@
         "primaryURL": "https://signup.microsoft.com/get-started/signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4&dl=ENTERPRISEPACK&ali=1&products=cfq7ttc0k59j%3a0009&bac=1"
       },
       {
+        "portalName": "Microsoft 365 Business Premium Trial, 1 Month",
+        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&culture=en-in&country=in&ali=1"
+      },      
+      {
         "portalName": "Sign-up for Azure $200 US Credits in 3 months, 12 months free services trial",
         "primaryURL": "https://azure.microsoft.com/en-us/offers/ms-azr-0044p/"
       },
@@ -885,6 +916,10 @@
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
       },
+      {    
+        "portalName": "Microsoft Assessments",
+        "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
+      },
       {
         "portalName": "Microsoft Azure Sponsorships",
         "primaryURL": "https://www.microsoftazuresponsorships.com"
@@ -916,6 +951,14 @@
       {
         "portalName": "Microsoft MVP",
         "primaryURL": "https://mvp.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Nonprofit Offers",
+        "primaryURL": "https://www.microsoft.com/en-us/nonprofits/offers-for-nonprofits",
+      },
+      {
+        "portalName": "Microsoft Nonprofit Offers Apply",
+        "primaryURL": "https://nonprofit.microsoft.com"
       },
       {
         "portalName": "Microsoft Open Source",
@@ -951,8 +994,7 @@
       },
       {
         "portalName": "Microsoft 365 Lighthouse",
-        "primaryURL": "https://lighthouse.microsoft.com/",
-        "note": "Public Preview"
+        "primaryURL": "https://lighthouse.microsoft.com/"
       },
       {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
@@ -985,6 +1027,10 @@
         "primaryURL": "https://servicetrust.microsoft.com"
       },
       {
+        "portalName": "Azure Active Directory - Where is your data located?",
+        "primaryURL": "https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+      },
+      {
         "portalName": "Tech Community Video Hub",
         "primaryURL": "https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub",
         "secondaryURLs": [
@@ -1003,6 +1049,10 @@
         "primaryURL": "https://learn.microsoft.com/docs/"
       },
       {
+        "portalName": "Microsoft Training",
+        "primaryURL": "https://learn.microsoft.com/training/"
+      },
+      {
         "portalName": "Outlook.com Smart Network Data Service",
         "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
       },
@@ -1019,13 +1069,19 @@
         "primaryURL": "https://unlocked.microsoft.com/"
       },
       {
-        "portalName": "ExpertZone",
-        "primaryURL": "https://expertzone.microsoft.com/",
-        "note": "Training"
+        "portalName": "Get Security Done",
+        "primaryURL": "https://dcaddick.github.io/gsd_public/",
+        "note": "Dave Caddick",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/GSD"
+          }
+        ]
       },
       {
         "portalName": "Windows 365 Subscription URL",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
+        "primaryURL": "https://rdweb.wvd.microsoft.com"
       }
     ]
   }

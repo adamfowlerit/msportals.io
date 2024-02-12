@@ -47,10 +47,6 @@
         "primaryURL": "https://loop.microsoft.com"
       },
       {
-        "portalName": "MileIQ",
-        "primaryURL": "https://dashboard.mileiq.com"
-      },
-      {
         "portalName": "OneDrive",
         "primaryURL": "https://portal.office.com/onedrive"
       },
@@ -183,8 +179,17 @@
         ]
       },
       {
+        "portalName": "Bing Chat Enterprise",
+        "primaryURL": "https://www.bing.com/chat",
+        "note": "Consumer URL is the same, look for Protected logo"
+      },
+      {
         "portalName": "Bing Image Creator",
         "primaryURL": "https://www.bing.com/create"
+      },
+      {
+        "portalName": "Microsoft Copilot",
+        "primaryURL": "https://copilot.microsoft.com/"
       },
       {
         "portalName": "Microsoft Azure Information Protection - Track Documents",
