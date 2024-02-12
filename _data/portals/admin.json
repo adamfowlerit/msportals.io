@@ -288,7 +288,7 @@
       },
       {
         "portalName": "Azure Non-profit Portal",
-        "primaryURL": "https://nonprofit.microsoft.com/#/ngoportal"
+        "primaryURL": "https://nonprofit.microsoft.com"
       },
       {
         "portalName": "Azure Resource Explorer",
@@ -933,14 +933,6 @@
       {
         "portalName": "Microsoft MVP",
         "primaryURL": "https://mvp.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Nonprofit Offers",
-        "primaryURL": "https://www.microsoft.com/en-us/nonprofits/offers-for-nonprofits",
-      },
-      {
-        "portalName": "Microsoft Nonprofit Offers Apply",
-        "primaryURL": "https://nonprofit.microsoft.com"
       },
       {
         "portalName": "Microsoft Open Source",
