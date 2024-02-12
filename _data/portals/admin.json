@@ -144,14 +144,6 @@
         ]
       },
       {
-        "portalName": "Non Profit Admin Center",
-        "primaryURL": "https://nonprofit.microsoft.com/"
-      },
-      {
-        "portalName": "OneDrive Admin Center",
-        "primaryURL": "https://admin.onedrive.com"
-      },
-      {
         "portalName": "Power Apps ISV Studio",
         "primaryURL": "https://isvstudio.powerapps.com/home",
         "secondaryURLs": [
