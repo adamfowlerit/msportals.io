@@ -943,6 +943,14 @@
         "primaryURL": "https://mvp.microsoft.com"
       },
       {
+        "portalName": "Microsoft Nonprofit Offers",
+        "primaryURL": "https://www.microsoft.com/en-us/nonprofits/offers-for-nonprofits",
+      },
+      {
+        "portalName": "Microsoft Nonprofit Offers Apply",
+        "primaryURL": "https://nonprofit.microsoft.com"
+      },
+      {
         "portalName": "Microsoft Open Source",
         "primaryURL": "https://opensource.microsoft.com"
       },
