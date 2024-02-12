@@ -38,6 +38,6 @@ Big thanks to those who have contributed:
 
 - Everyone who shared and commented on [this tweet](https://twitter.com/AdamFowler_IT/status/1321959895839600640) who showed there was value in bothering to do this and again, provided a bunch more links to add.
 
-- All the contributors to this project on GitHub with corrections and updates! Keep them coming.
+- All the [contributors](https://github.com/adamfowlerit/msportals.io/graphs/contributors) to this project on GitHub with corrections and updates! Keep them coming.
 
 - You if you bookmarked or shared this site. :)
