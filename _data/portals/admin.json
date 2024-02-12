@@ -41,7 +41,13 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
-        "note": "Microsoft 365 Compliance"
+        "note": "Microsoft 365 Compliance",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://compliance.microsoft.com/homepage?tid={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
@@ -263,8 +269,12 @@
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/MSEntraPortal"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://entra.microsoft.com/{tenant_id}/#home"
           }
-        ] 
+        ]
       },
       {
         "portalName": "Create New Tenant / Azure Active Directory",
@@ -337,7 +347,7 @@
       }
     ]
   },
-   {
+  {
     "groupName": "Azure AI / ML Portals",
     "portals": [
       {
@@ -453,7 +463,7 @@
       {
         "portalName": "Microsoft Defender Threat Intelligence",
         "primaryURL": "https://ti.defender.microsoft.com/"
-      },      
+      },
       {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
@@ -572,7 +582,7 @@
         "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
       },
-       {
+      {
         "portalName": "Reporting Issue with Bingbot",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
       },
@@ -823,7 +833,7 @@
       {
         "portalName": "Microsoft 365 Business Premium Trial, 1 Month",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&culture=en-in&country=in&ali=1"
-      },      
+      },
       {
         "portalName": "Sign-up for Azure $200 US Credits in 3 months, 12 months free services trial",
         "primaryURL": "https://azure.microsoft.com/en-us/offers/ms-azr-0044p/"
@@ -898,7 +908,7 @@
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
       },
-      {    
+      {
         "portalName": "Microsoft Assessments",
         "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
       },
