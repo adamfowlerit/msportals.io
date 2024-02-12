@@ -19,6 +19,10 @@
         "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
          },
         {
+        "portalName": "Microsoft 365 Admin Center - Licensing",
+        "primaryURL": "https://admin.microsoft.com/?&source=applauncher#/licenses"
+         },
+        {
         "portalName": "Microsoft 365 Licensing",
         "primaryURL": "https://m365maps.com/",
          "note": "Aaron Dinnage"
