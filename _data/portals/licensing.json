@@ -12,7 +12,7 @@
          },
             {
         "portalName": "Compare Microsoft 365 Business Plans",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/business/compare-all-microsoft-365-business-products"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products"
          },
         {
         "portalName": "Licensing Resources and Documents - Product Terms",
@@ -52,11 +52,11 @@
     "portals": [
         {
         "portalName": "Microsoft 365 Family",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
          },
         {
         "portalName": "Microsoft 365 Personal",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
          }
        ]
   },
@@ -65,15 +65,15 @@
     "portals": [
         {
         "portalName": "Microsoft Entra Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/en-au/security/business/microsoft-entra-pricing"
+        "primaryURL": "https://www.microsoft.com/security/business/microsoft-entra-pricing"
          },
         {
         "portalName": "Microsoft Project Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/project/compare-microsoft-project-management-software"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software"
          },
         {
         "portalName": "Microsoft Visio Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options"
          }
     ]
   }
