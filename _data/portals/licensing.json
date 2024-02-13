@@ -24,7 +24,7 @@
          },
         {
         "portalName": "Product names and service plan identifiers for licensing (SKU List)",
-        "primaryURL": "https://learn.microsoft.com/en-us/entra/identity/users/licensing-service-plan-reference"
+        "primaryURL": "https://learn.microsoft.com/entra/identity/users/licensing-service-plan-reference"
         },
         {
         "portalName": "Microsoft 365 Admin Center - Licensing",
@@ -42,15 +42,15 @@
     "portals": [
         {
         "portalName": "Azure Pricing Calculator",
-        "primaryURL": "https://azure.microsoft.com/en-us/pricing/calculator/"
+        "primaryURL": "https://azure.microsoft.com/pricing/calculator/"
          },
         {
         "portalName": "Azure Pricing by Product",
-        "primaryURL": "https://azure.microsoft.com/en-us/pricing/#product-pricing"
+        "primaryURL": "https://azure.microsoft.com/pricing/#product-pricing"
          },
         {
         "portalName": "Azure Hybrid Benefit Savings Calculator",
-        "primaryURL": "https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#calculator"
+        "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator"
          }
        ]
   },
