@@ -19,6 +19,10 @@
         "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
          },
         {
+        "portalName": "Product names and service plan identifiers for licensing (SKU List)",
+        "primaryURL": "https://learn.microsoft.com/en-us/entra/identity/users/licensing-service-plan-reference"
+        },
+        {
         "portalName": "Microsoft 365 Admin Center - Licensing",
         "primaryURL": "https://admin.microsoft.com/?&source=applauncher#/licenses"
          },
