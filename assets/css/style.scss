@@ -138,3 +138,42 @@
     content: none;
   }
 }
+
+@media (prefers-color-scheme: light) {
+  body {
+    color: #111;
+    background: #eee;
+  }
+
+  header h1,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #90a959;
+  }
+
+  header h2 {
+    color: #333;
+  }
+
+  a {
+    color: #006aad;
+    text-shadow: none;
+  }
+
+  a.btn {
+    color: white;
+  }
+
+  .portal:hover {
+    background-color: #ccc;
+  }
+
+  .quickfilter {
+    border-color: black;
+    color: #333;
+  }
+}
