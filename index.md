@@ -1,9 +1,8 @@
-Dark/Light mode for this site is now based on browser preference, which may be using the OS default.
-
 ---
 layout: page
 title: Administrator Portals
 ---
+Dark/Light mode for this site is now based on browser preference, which may be using the OS default.
 
 Welcome to this community driven project to list all of Microsoft's portals in one place.
 
