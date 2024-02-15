@@ -1,3 +1,5 @@
+Dark/Light mode for this site is now based on browser preference, which may be using the OS default.
+
 ---
 layout: page
 title: Administrator Portals
