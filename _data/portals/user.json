@@ -258,6 +258,10 @@
         "primaryURL": "https://portal.manage.microsoft.com/"
       },
       {
+        "portalName": "Microsoft Create - Free Templates",
+        "primaryURL": "https://create.microsoft.com/"
+      },
+      {
         "portalName": "My Access",
         "primaryURL": "https://myaccess.microsoft.com"
       },
