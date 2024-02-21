@@ -492,31 +492,375 @@
       }
     ]
    },
+{
+    "groupName": "Business Applications - Microsoft Certified: Power Platform Fundamentals",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Information Protection and Compliance Administrator Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/"
+      },
+      {
+        "portalName": "PL-900: Microsoft Power Platform Fundamentals Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-900/"
+      },
+        {
+        "portalName": "PL-900: Microsoft Power Platform Fundamentals Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/pl-900t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Power Platform App Maker Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power Platform App Maker Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/power-platform-app-maker/"
+      },
+      {
+        "portalName": "PL-100: Microsoft Power Platform App Make Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-100/"
+      },
+        {
+        "portalName": "PL-100: Microsoft Power Platform App Make Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-100t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Power Platform Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power Platform Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/power-platform-functional-consultant-associate/"
+      },
+      {
+        "portalName": "PL-200: Microsoft Power Platform Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-200/"
+      },
+        {
+        "portalName": "PL-200: Microsoft Power Platform Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-200t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Power BI Data Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power BI Data Analyst Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/power-bi-data-analyst-associate/"
+      },
+      {
+        "portalName": "PL-300: Microsoft Power BI Data Analyst Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-300/"
+      },
+        {
+        "portalName": "PL-300: Microsoft Power BI Data Analyst Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-300t00"
+      }
+    ]
+   },
+{
+    "groupName": "Business Applications - Microsoft Certified: Power Platform Developer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power Platform Developer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/power-platform-developer-associate/"
+      },
+      {
+        "portalName": "PL-400: Microsoft Power Platform Developer Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-400/"
+      },
+        {
+        "portalName": "PL-400: Microsoft Power Platform Developer Associate Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-400t00"
+      }
+    ]
+   },
+    {
+    "groupName": "Business Applications - Microsoft Certified: Power Automate RPA Developer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power Automate RPA Developer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/power-automate-rpa-developer-associate/"
+      },
+      {
+        "portalName": "PL-500: Microsoft Power Automate RPA Developer Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-500/"
+      },
+        {
+        "portalName": "PL-500: Microsoft Power Automate RPA Developer Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-500t00"
+      }
+    ]
+   },
+{
+    "groupName": "Business Applications - Microsoft Certified: Power Platform Solution Architect Expert",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power Platform Solution Architect Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/power-platform-solution-architect-expert/"
+      },
+      {
+        "portalName": "PL-600: Microsoft Power Platform Solution Architect Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-600/"
+      },
+        {
+        "portalName": "PL-600: Microsoft Power Platform Solution Architect Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-600t00"
+      }
+    ]
+   },
+
+  
     {
     "groupName": "Business Applications Certifications",
-    "portals": [
-            {
-        "portalName": "Exam Links TBD - 21 to add!",
-        "primaryURL": "https://msportals.io/"
-      }
-    ]
-    },
     {
-    "groupName": "Microsoft Security Training",
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
     "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/"
+      },
       {
-        "portalName": "Microsoft Security, Compliance, and Identity training and certifications PowerPoint Deck",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/SecurityTrainCertDeck"
-          }
-        ]
+        "portalName": "MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-910/"
+      },
+        {
+        "portalName": "MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-910t00"
       }
     ]
-  },
+   },
   {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Fundamentals (ERP)",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Fundamentals (ERP)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/"
+      },
+      {
+        "portalName": "MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-920/"
+      },
+        {
+        "portalName": "MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/mb-920t00"
+      }
+    ]
+   },
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/"
+      },
+      {
+        "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-210/"
+      },
+        {
+        "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00"
+      }
+    ]
+   },
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-functional-consultant-field-service/"
+      },
+      {
+        "portalName": "MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-240/"
+      },
+        {
+        "portalName": "MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-240t00"
+      }
+    ]
+   },
+
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-functional-consultant-customer-service/"
+      },
+      {
+        "portalName": "MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-230/"
+      },
+        {
+        "portalName": "MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-230t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-functional-consultant-supply-chain-management/"
+      },
+      {
+        "portalName": "MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-330/"
+      },
+        {
+        "portalName": "MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-330t00"
+      }
+    ]
+   },
+
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-functional-consultant-financials/"
+      },
+      {
+        "portalName": "MB-310: Microsoft Dynamics 365 Finance Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-310/"
+      },
+        {
+        "portalName": "MB-310: Microsoft Dynamics 365 Finance Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-310t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-finance-and-operations-apps-developer-associate/"
+      },
+      {
+        "portalName": "MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-500/"
+      },
+        {
+        "portalName": "MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-500t00"
+      }
+    ]
+   },
+
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-supply-chain-management-functional-consultant-expert/"
+      },
+      {
+        "portalName": "MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-335/"
+      },
+        {
+        "portalName": "MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-335t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-business-central-functional-consultant-associate/"
+      },
+      {
+        "portalName": "MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-800/"
+      },
+        {
+        "portalName": "MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-800t00"
+      }
+    ]
+   },
+
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-finance-and-operations-apps-solution-architect-expert/"
+      },
+      {
+        "portalName": "MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-700/"
+      },
+        {
+        "portalName": "MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-700t00"
+      }
+    ]
+   },
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Business Central Developer Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Business Central Developer Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-business-central-developer-associate/"
+      },
+      {
+        "portalName": "MB-820: Microsoft Dynamics 365 Business Central Developer Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-820/",
+        "note": "beta"
+      },
+        {
+        "portalName": "MB-820: Microsoft Dynamics 365 Business Central Developer Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-820t00"
+      }
+    ]
+   },
+
+  {
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-customer-insights-journeys-functional-consultant/"
+      },
+      {
+        "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-220/"
+      },
+        {
+        "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-220t00"
+      }
+    ]
+   },
+
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/d365-customer-insights-data-specialty/"
+      },
+      {
+        "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Exam",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/mb-260/"
+      },
+        {
+        "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-260t00"
+      }
+    ]
+   }, 
+    {
     "groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
     "portals": [
        {
@@ -707,6 +1051,16 @@
   {
     "groupName": "Other Training Resources (including third party)",
     "portals": [
+      {
+        "portalName": "Microsoft Security, Compliance, and Identity training and certifications PowerPoint Deck",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/SecurityTrainCertDeck"
+          }
+        ]
+      },
       {
         "portalName": "Microsoft Exam Updates",
         "primaryURL": "https://intunedin.net/",
