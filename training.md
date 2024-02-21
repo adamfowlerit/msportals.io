@@ -4,7 +4,7 @@ title: Training Links
 ---
 
 
-Microsoft has many certification, exam and training options that we've listed here.
+Microsoft has many certification, exam, and training options that we've listed here.
 Hint: Use the 'Quick Filter' above to enter an exam type e.g. AI-900, or Certification Category e.g. 'Fundamentals'
 
 All Microsoft Certifications require one or more Exams. An Exam will have a code such as AZ-900, but the Certification will not have a code. 
