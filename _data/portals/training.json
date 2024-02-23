@@ -1167,6 +1167,131 @@
       }
     ]
    }, 
+    {
+    "groupName": "Business User - Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-word-associate-m365-apps/"
+      },
+      {
+        "portalName": "MO-110: Microsoft Word (Microsoft 365 Apps) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-110/"
+      },
+      {
+        "portalName": "MO-110 Exam Skills Outline",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5dvir"
+      }
+    ]
+   }, 
+   {
+    "groupName": "Business User - Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-associate-m365-apps/"
+      },
+      {
+        "portalName": "MO-210: Microsoft Excel (Microsoft 365 Apps) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-110/"
+      },
+      {
+        "portalName": "MO-210 Exam Skills Outline",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axcj"
+      }
+    ]
+   },   
+  {
+    "groupName": "Business User - Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/"
+      },
+      {
+        "portalName": "MO-310: Microsoft PowerPoint (Microsoft 365 Apps) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-310/"
+      },
+      {
+        "portalName": "MO-310 Exam Skills Outline",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHBt"
+      }
+    ]
+   }, 
+  {
+    "groupName": "Business User - Microsoft Office Specialist: Outlook Associate (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Outlook Expert (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/",
+        "note": "Coming Soon"
+      },
+      {
+        "portalName": "MO-410: Microsoft Outlook (Microsoft 365 Apps) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/",
+        "note": "Coming Soon"
+      },
+      {
+        "portalName": "MO-410 Exam Skills Outline",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/tbc",
+        "note": "Coming Soon"
+      }
+    ]
+   }, 
+   {
+    "groupName": "Business User - Microsoft Office Specialist: Associate (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
+	"notes": "Prerequisites - Three of the following: MO-110, MO-210, MO-310, MO-410 (or older 2019 equivilants)"
+      },
+     ]
+   }, 
+   {
+    "groupName": "Business User - Microsoft Office Specialist: Word Expert (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-word-expert-m365-apps/"
+      },
+      {
+        "portalName": "MO-111: Microsoft Word Expert (Microsoft 365 Apps) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-111/"
+      },
+      {
+        "portalName": "MO-111 Exam Skills Outline",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW16Vea"
+      }
+    ]
+   }, 
+ {
+    "groupName": "Business User - Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-m365-apps/"
+      },
+      {
+        "portalName": "MO-211: Microsoft Excel Expert (Microsoft 365 Apps) Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-211/"
+      },
+      {
+        "portalName": "MO-211 Exam Skills Outline",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW10j3G"
+      }
+    ]
+   }, 
+   {
+    "groupName": "Business User - Microsoft Office Specialist: Expert (Microsoft 365 Apps)",
+    "portals": [
+       {
+        "portalName": "Microsoft Office Specialist: Expert (Microsoft 365 Apps)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
+      	"notes": "Prerequisites - MO-211, MO-111, and Microsoft Office Specialist: Associate (Microsoft 365 Apps) Cert (or older 2019 equivilants)"
+      },
+     ]
+   }, 
   {
     "groupName": "Microsoft Ninja Training",
     "portals": [
