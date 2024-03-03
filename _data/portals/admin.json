@@ -563,6 +563,10 @@
         "note": "Deprecated"
       },
       {
+        "portalName": "Entra ID Error Code Lookup",
+        "primaryURL": "https://login.microsoftonline.com/error"
+      },
+      {
         "portalName": "Report an unsafe site (login)",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site"
       },
