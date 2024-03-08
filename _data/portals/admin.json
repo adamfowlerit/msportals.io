@@ -724,8 +724,14 @@
     "portals": [
       {
         "portalName": "Microsoft Service health status",
-        "primaryURL": "https://status.office.com/",
+        "primaryURL": "https://status.cloud.microsoft",
         "note": "Microsoft 365, Azure, Power Platform"
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://status.office.com/"
+          }
+        ]
       },
       {
         "portalName": "Microsoft 365 Service health status",
