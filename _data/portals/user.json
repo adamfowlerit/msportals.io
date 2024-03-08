@@ -44,7 +44,13 @@
       },
       {
         "portalName": "Loop",
-        "primaryURL": "https://loop.microsoft.com"
+        "primaryURL": "https://loop.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": "https://loop.microsoft.com""
+          }
+        ]
       },
       {
         "portalName": "OneDrive",
