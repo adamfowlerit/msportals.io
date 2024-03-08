@@ -111,7 +111,13 @@
       },
       {
         "portalName": "Sway",
-        "primaryURL": "https://www.office.com/launch/sway"
+        "primaryURL": "https://sway.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://www.office.com/launch/sway"
+          }
+        ]
       },
       {
         "portalName": "Teams",
@@ -132,27 +138,61 @@
         "primaryURL": "https://www.office.com/launch/visio"
       },
       {
-        "portalName": "Viva Goals",
-        "primaryURL": "https://goals.microsoft.com/"
+        "portalName": "Viva Engage",
+        "primaryURL": "https://engage.cloud.microsoft"
       },
       {
-        "portalName": "Viva Insight",
-        "primaryURL": "https://insights.viva.office.com"
+        "portalName": "Viva Goals",
+        "primaryURL": "https://goals.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://goals.microsoft.com/"
+          }
+        ]
+      },
+      {
+        "portalName": "Viva Home",
+        "primaryURL": "https://viva.cloud.microsoft"
+      },
+      {
+        "portalName": "Viva Insights",
+        "primaryURL": "https://insights.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://insights.viva.office.com/"
+          }
+        ]
       },
       {
         "portalName": "Viva Learning",
-        "primaryURL": "https://vivalearning.microsoft.com/",
+        "primaryURL": "https://learning.cloud.microsoft",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/VivaLearningWeb"
+          }           
+          {
+            "icon": "Old 🔗",
+            "url": " https://vivalearning.microsoft.com/"
           }
         ]
       },
       {
         "portalName": "Viva Pulse",
-        "primaryURL": "https://pulse.viva.cloud.microsoft/"
+        "primaryURL": "https://pulse.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://pulse.viva.cloud.microsoft"
+          }
+        ]
       },
+   {
+        "portalName": "Viva Skills",
+        "primaryURL": "https://skills.cloud.microsoft"
+   },
       {
         "portalName": "Whiteboard",
         "primaryURL": "https://whiteboard.microsoft.com"
@@ -266,6 +306,16 @@
       {
         "portalName": "Microsoft Create - Free Templates",
         "primaryURL": "https://create.microsoft.com/"
+      },
+      {
+        "portalName": "Mesh",
+        "primaryURL": "https://mesh.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://portal.mesh.microsoft.com"
+          }
+        ]
       },
       {
         "portalName": "My Access",
