@@ -308,6 +308,10 @@
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
         "note": "Raw"
+      },
+      {
+        "portalName": "Typespec Azure API playground (Explorer)",
+        "primaryURL": "https://azure.github.io/typespec-azure/playground"
       }
     ]
   },

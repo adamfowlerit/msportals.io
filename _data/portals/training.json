@@ -46,6 +46,10 @@
       {
         "portalName": "Microsoft Azure Connected Learning Experience",
         "primaryURL": "https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa"
+      },
+      {
+        "portalName": "Typespec Azure API",
+        "primaryURL": "https://azure.github.io/typespec-azure/"
       }
     ]
     },
