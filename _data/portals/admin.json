@@ -218,11 +218,15 @@
         "primaryURL": "https://www.yammer.com/office365/admin"
       },
       {
-        "portalName": "My Applications (My Apps)",
-        "primaryURL": "https://myapplications.microsoft.com/"
+        "portalName": "Yammer Admin",
+        "primaryURL": "https://www.yammer.com/office365/admin"
       },
       {
-        "portalName": "My Access (Access Packages)",
+        "portalName": "My Applications (My Apps)",
+        "primaryURL": "https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration"
+      },
+      {
+        "portalName": "Migrate Stream (Classic) to Stream (on SharePoint)",
         "primaryURL": "https://myaccess.microsoft.com/",
         "secondaryURLs": [
           {
