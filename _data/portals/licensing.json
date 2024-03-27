@@ -18,6 +18,10 @@
         "portalName": "Compare Microsoft 365 Business Plans",
         "primaryURL": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products"
          },
+         {
+        "portalName": "Compare Microsoft 365 Enterprise Plans",
+        "primaryURL": "https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing"
+         },
         {
         "portalName": "Licensing Resources and Documents - Product Terms",
         "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
