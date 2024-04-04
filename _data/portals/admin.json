@@ -488,16 +488,15 @@
         "note": "Previously Microsoft 365 security"
       },
       {
-        "portalName": "Microsoft Defender for Cloud Apps (MDA)",
-        "primaryURL": "https://portal.cloudappsecurity.com",
+        "portalName": "Microsoft Defender for Cloud Apps",
+        "primaryURL": "https://security.microsoft.com/cloudapps/policies/management",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/MCASPortal"
           }
-        ],
-        "note": "Previously Microsoft Cloud App Security (MCAS)"
-      },
+        ]
+       },
       {
         "portalName": "Microsoft Defender for Endpoints (MDE)",
         "primaryURL": "https://securitycenter.windows.com",
