@@ -89,7 +89,8 @@
       },
       {
         "portalName": "Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
+        "primaryURL": "https://msportals.io/",
+        "note": "You're already here"
       },
       {
         "portalName": "Microsoft Token Analysis Tool",
