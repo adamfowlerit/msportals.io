@@ -1070,17 +1070,6 @@
         "primaryURL": "https://unlocked.microsoft.com/"
       },
       {
-        "portalName": "Get Security Done",
-        "primaryURL": "https://dcaddick.github.io/gsd_public/",
-        "note": "Dave Caddick",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/GSD"
-          }
-        ]
-      },
-      {
         "portalName": "Windows 365 Subscription URL",
         "primaryURL": "https://rdweb.wvd.microsoft.com"
       }
