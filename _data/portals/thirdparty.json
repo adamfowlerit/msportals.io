@@ -3,10 +3,6 @@
     "groupName": "Non-Microsoft Owned 3rd Party Portals",
     "portals": [
       {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
-      },
-      {
         "portalName": "[cmd.ms]",
         "primaryURL": "https://cmd.ms"
       },
@@ -63,10 +59,6 @@
         "primaryURL": "https://mha.azurewebsites.net"
       },
       {
-        "portalName": "Microsoft Acronyms Glossary",
-        "primaryURL": "https://tpm.ms/TLA"
-      },
-      {
         "portalName": "Microsoft 365 Licensing Diagrams",
         "primaryURL": "https://m365maps.com/",
         "secondaryURLs": [
@@ -77,12 +69,24 @@
         ]
       },
       {
+        "portalName": "Microsoft Acronyms Glossary",
+        "primaryURL": "https://tpm.ms/TLA"
+      },
+      {
         "portalName": "Microsoft Mac Downloads",
         "primaryURL": "https://macadmins.software/"
       },
       {
+        "portalName": "Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
+      },
+      {
         "portalName": "Microsoft Token Analysis Tool",
         "primaryURL": "https://jwt.ms/"
+      },
+      {
+        "portalName": "Microsoft WDAC Wizard",
+        "primaryURL": "https://webapp-wdac-wizard.azurewebsites.net/"
       },
       {
         "portalName": "Microsoft365DSC",
