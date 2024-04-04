@@ -43,6 +43,17 @@
         "primaryURL": "https://m365internals.com"
       },
       {
+        "portalName": "Get Security Done",
+        "primaryURL": "https://dcaddick.github.io/gsd_public/",
+        "note": "Dave Caddick",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/GSD"
+          }
+        ]
+      },
+      {
         "portalName": "IntuneMaps",
         "primaryURL": "https://intunemaps.com/"
       },
