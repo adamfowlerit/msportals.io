@@ -214,226 +214,228 @@
     ]
   },
   {
-    "groupName": "End User Portals - General",
-    "portals": [
-      {
-        "portalName": "Additional Security Information",
-        "primaryURL": "https://account.activedirectory.windowsazure.com"
-      },
-      {
-        "portalName": "App Passwords",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/AppPasswords.aspx",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/createAppPassword"
-          }
+        "groupName": "End User Portals - General",
+        "portals": [
+            {
+                "portalName": "Additional Security Information",
+                "primaryURL": "https://account.activedirectory.windowsazure.com"
+            },
+            {
+                "portalName": "App Passwords",
+                "primaryURL": "https://account.activedirectory.windowsazure.com/AppPasswords.aspx",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/createAppPassword"
+                    }
+                ]
+            },
+            {
+                "portalName": "Bing Chat Enterprise",
+                "primaryURL": "https://www.bing.com/chat",
+                "note": "Consumer URL is the same, look for Protected logo"
+            },
+            {
+                "portalName": "Bing Image Creator",
+                "primaryURL": "https://www.bing.com/create"
+            },
+            {
+                "portalName": "Change Password",
+                "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
+            },
+            {
+                "portalName": "Cloud Voicemail",
+                "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
+            },
+            {
+                "portalName": "Converged MFA & SSPR Portal",
+                "primaryURL": "https://aka.ms/mysecurityinfo/"
+            },
+            {
+                "portalName": "Device Login - Microsoft account or MSA (Personal Account)",
+                "primaryURL": "https://microsoft.com/link",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/remoteconnect"
+                    }
+                ]
+            },
+            {
+                "portalName": "Device Login - Work or School Account",
+                "primaryURL": "https://microsoft.com/devicelogin",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/devicelogin"
+                    }
+                ]
+            },
+            {
+                "portalName": "Exchange Control Panel (Personal)",
+                "primaryURL": "https://outlook.office.com/ecp/"
+            },
+            {
+                "portalName": "Mesh",
+                "primaryURL": "https://mesh.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": " https://portal.mesh.microsoft.com"
+                    }
+                ]
+            },
+            {
+                "portalName": "Microsoft AppSource",
+                "primaryURL": "https://store.office.com/redirect.aspx"
+            },
+            {
+                "portalName": "Microsoft Azure Information Protection - Track Documents",
+                "primaryURL": "https://track.azurerms.com/"
+            },
+            {
+                "portalName": "Microsoft Copilot",
+                "primaryURL": "https://copilot.microsoft.com/"
+            },
+            {
+                "portalName": "Microsoft Create - Free Templates",
+                "primaryURL": "https://create.microsoft.com/"
+            },
+            {
+                "portalName": "Microsoft Designer",
+                "primaryURL": "https://designer.microsoft.com/"
+            },
+            {
+                "portalName": "Microsoft Family Safety",
+                "primaryURL": "https://account.microsoft.com/family/"
+            },
+            {
+                "portalName": "Microsoft Intune Web Company Portal",
+                "primaryURL": "https://portal.manage.microsoft.com/"
+            },
+            {
+                "portalName": "MFA Setup",
+                "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/mfasetup"
+                    }
+                ]
+            },
+            {
+                "portalName": "My Access",
+                "primaryURL": "https://myaccess.microsoft.com"
+            },
+            {
+                "portalName": "My Account",
+                "primaryURL": "https://account.microsoft.com",
+                "note": "Consumer"
+            },
+            {
+                "portalName": "My Account",
+                "primaryURL": "https://myaccount.microsoft.com",
+                "secondaryURLs": [
+                    {
+                        "url": "https://myworkaccount.microsoft.com",
+                        "icon": "Alt 🔗 1"
+                    },
+                    {
+                        "url": "https://myprofile.microsoft.com",
+                        "icon": "Alt 🔗 2"
+                    },
+                    {
+                        "icon": "B2B",
+                        "url": "https://myaccount.microsoft.com/?tenantId={tenant_id}"
+                    }
+                ]
+            },
+            {
+                "portalName": "My Apps",
+                "primaryURL": "https://account.activedirectory.windowsazure.com",
+                "secondaryURLs": [
+                    {
+                        "url": "https://myapplications.microsoft.com",
+                        "icon": "Alt 🔗 1"
+                    },
+                    {
+                        "url": "https://myapps.microsoft.com",
+                        "icon": "Alt 🔗 2"
+                    }
+                ]
+            },
+            {
+                "portalName": "My Groups",
+                "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups",
+                "secondaryURLs": [
+                    {
+                        "url": "https://mygroups.microsoft.com",
+                        "icon": "Alt 🔗"
+                    }
+                ]
+            },
+            {
+                "portalName": "My Sign-Ins",
+                "primaryURL": "https://mysignins.microsoft.com",
+                "secondaryURLs": [
+                    {
+                        "icon": "B2B",
+                        "url": "https://mysignins.microsoft.com/security-info?tenant={tenant_id}"
+                    }
+                ]
+            },
+            {
+                "portalName": "My Staff",
+                "primaryURL": "https://mystaff.microsoft.com/"
+            },
+            {
+                "portalName": "Office 365 Apps",
+                "primaryURL": "https://www.office.com/apps"
+            },
+            {
+                "portalName": "Office 365 Security & Compliance - Quarantined",
+                "primaryURL": "https://security.microsoft.com/quarantine"
+            },
+            {
+                "portalName": "Self Service Password Reset / Forgot Password",
+                "primaryURL": "https://passwordreset.microsoftonline.com",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/sspr"
+                    }
+                ]
+            },
+            {
+                "portalName": "Self Service Password Reset Setup",
+                "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
+            },
+            {
+                "portalName": "Windows 365",
+                "primaryURL": "https://windows365.microsoft.com",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/w365login"
+                    }
+                ]
+            },
+            {
+                "portalName": "Windows Virtual Desktop Web Client (ARM)",
+                "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient"
+            },
+            {
+                "portalName": "Windows Virtual Desktop Web Client (Old) ",
+
+
+                "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/wvdweb"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "portalName": "Bing Chat Enterprise",
-        "primaryURL": "https://www.bing.com/chat",
-        "note": "Consumer URL is the same, look for Protected logo"
-      },
-      {
-        "portalName": "Bing Image Creator",
-        "primaryURL": "https://www.bing.com/create"
-      },
-      {
-        "portalName": "Microsoft Copilot",
-        "primaryURL": "https://copilot.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft Azure Information Protection - Track Documents",
-        "primaryURL": "https://track.azurerms.com/"
-      },
-      {
-        "portalName": "Change Password",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx"
-      },
-      {
-        "portalName": "Converged MFA & SSPR Portal",
-        "primaryURL": "https://aka.ms/mysecurityinfo/"
-      },
-      {
-        "portalName": "Cloud Voicemail",
-        "primaryURL": "https://admin1a.online.lync.com/lscp/usp/voicemail/"
-      },
-      {
-        "portalName": "Device Login - Work or School Account",
-        "primaryURL": "https://microsoft.com/devicelogin",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/devicelogin"
-          }
-        ]
-      },
-      {
-        "portalName": "Device Login - Microsoft account or MSA (Personal Account)",
-        "primaryURL": "https://microsoft.com/link",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/remoteconnect"
-          }
-        ]
-      },
-      {
-        "portalName": "Exchange Control Panel (Personal)",
-        "primaryURL": "https://outlook.office.com/ecp/"
-      },
-      {
-        "portalName": "Microsoft Family Safety",
-        "primaryURL": "https://account.microsoft.com/family/"
-      },
-      {
-        "portalName": "MFA Setup",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/mfasetup"
-          }
-        ]
-      },
-      {
-        "portalName": "Microsoft AppSource",
-        "primaryURL": "https://store.office.com/redirect.aspx"
-      },
-      {
-        "portalName": "Microsoft Designer",
-        "primaryURL": "https://designer.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft Intune Web Company Portal",
-        "primaryURL": "https://portal.manage.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft Create - Free Templates",
-        "primaryURL": "https://create.microsoft.com/"
-      },
-      {
-        "portalName": "Mesh",
-        "primaryURL": "https://mesh.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": " https://portal.mesh.microsoft.com"
-          }
-        ]
-      },
-      {
-        "portalName": "My Access",
-        "primaryURL": "https://myaccess.microsoft.com"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://account.microsoft.com",
-        "note": "Consumer"
-      },
-      {
-        "portalName": "My Account",
-        "primaryURL": "https://myaccount.microsoft.com",
-        "secondaryURLs": [
-          {
-            "url": "https://myworkaccount.microsoft.com",
-            "icon": "Alt 🔗 1"
-          },
-          {
-            "url": "https://myprofile.microsoft.com",
-            "icon": "Alt 🔗 2"
-          },
-          {
-            "icon": "B2B",
-            "url": "https://myaccount.microsoft.com/?tenantId={tenant_id}"
-          }
-        ]
-      },
-      {
-        "portalName": "My Apps",
-        "primaryURL": "https://account.activedirectory.windowsazure.com",
-        "secondaryURLs": [
-          {
-            "url": "https://myapplications.microsoft.com",
-            "icon": "Alt 🔗 1"
-          },
-          {
-            "url": "https://myapps.microsoft.com",
-            "icon": "Alt 🔗 2"
-          }
-        ]
-      },
-      {
-        "portalName": "My Groups",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups",
-        "secondaryURLs": [
-          {
-            "url": "https://mygroups.microsoft.com",
-            "icon": "Alt 🔗"
-          }
-        ]
-      },
-      {
-        "portalName": "My Sign-Ins",
-        "primaryURL": "https://mysignins.microsoft.com",
-        "secondaryURLs": [
-          {
-            "icon": "B2B",
-            "url": "https://mysignins.microsoft.com/security-info?tenant={tenant_id}"
-          }
-        ]
-      },
-      {
-        "portalName": "My Staff",
-        "primaryURL": "https://mystaff.microsoft.com/"
-      },
-      {
-        "portalName": "Office 365 Apps",
-        "primaryURL": "https://www.office.com/apps"
-      },
-      {
-        "portalName": "Office 365 Security & Compliance - Quarantined",
-        "primaryURL": "https://security.microsoft.com/quarantine"
-      },
-      {
-        "portalName": "Self Service Password Reset / Forgot Password",
-        "primaryURL": "https://passwordreset.microsoftonline.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/sspr"
-          }
-        ]
-      },
-      {
-        "portalName": "Self Service Password Reset Setup",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
-      },
-      {
-        "portalName": "Windows Virtual Desktop Web Client (ARM)",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient"
-      },
-      {
-        "portalName": "Windows 365",
-        "primaryURL": "https://windows365.microsoft.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/w365login"
-          }
-        ]
-      },
-      {
-        "portalName": "Windows Virtual Desktop Web Client (Old) ",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/wvdweb"
-          }
-        ]
-      }
-    ]
-  }
+    }
 ]
