@@ -778,6 +778,14 @@
           {
         "portalName": "Microsoft Partner Center",
         "primaryURL": "https://partner.microsoft.com"
+      },
+       {         
+        "portalName": "Einvoice",
+        "primaryURL": "https://einvoice.microsoft.com"
+      },
+      {         
+        "portalName": "SupplierWeb",
+        "primaryURL": "https://supplier.microsoft.com/"
       }
     ]
   },
