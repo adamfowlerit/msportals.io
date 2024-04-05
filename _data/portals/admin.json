@@ -440,10 +440,6 @@
         "primaryURL": "https://mla.microsoft.com"
       },
       {
-        "portalName": "Microsoft Partner Center",
-        "primaryURL": "https://partner.microsoft.com"
-      },
-      {
         "portalName": "Microsoft Services Hub",
         "primaryURL": "https://serviceshub.microsoft.com"
       },
@@ -776,6 +772,17 @@
       }
     ]
   },
+  [
+  {
+    "groupName": "Microsoft Partner / MSP Portals",
+    "portals": [
+          {
+        "portalName": "Microsoft Partner Center",
+        "primaryURL": "https://partner.microsoft.com"
+      }
+    ]
+  },
+      {
   {
     "groupName": "Microsoft Trials",
     "portals": [
