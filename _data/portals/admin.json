@@ -772,7 +772,6 @@
       }
     ]
   },
-  [
   {
     "groupName": "Microsoft Partner / MSP Portals",
     "portals": [
@@ -782,8 +781,7 @@
       }
     ]
   },
-      {
-  {
+     {
     "groupName": "Microsoft Trials",
     "portals": [
       {
