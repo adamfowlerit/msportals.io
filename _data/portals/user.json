@@ -127,11 +127,11 @@
       },
       {
         "portalName": "Teams",
-        "primaryURL": "https://teams.microsoft.com",
+        "primaryURL": "https://teams.microsoft.com/v2/",
         "secondaryURLs": [
           {
             "icon": "B2B",
-            "url": "https://teams.microsoft.com/_?tenantId={tenant_id}"
+            "url": "https://teams.microsoft.com/v2/?tenantId={tenant_id}"
           }
         ]
       },
