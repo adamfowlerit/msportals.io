@@ -4,7 +4,13 @@
     "portals": [
       {
         "portalName": "Microsoft Learn Profile",
-        "primaryURL": "https://www.microsoft.com/learning/dashboard.aspx"
+        "primaryURL": "https://www.microsoft.com/learning/dashboard.aspx",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/LearnProfile"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Applied Skills",
@@ -106,11 +112,23 @@
       },
       {
         "portalName": "AZ-900 Azure Fundamentals Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-900/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-900/",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az900"
+          }
+        ]
       },
       {
         "portalName": "AZ-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az900-StudyGuide"
+          }
+        ]
       },
       {
         "portalName": "AZ-900 Azure Fundamentals Course",
@@ -127,11 +145,23 @@
       },
        {
         "portalName": "AZ-104 Azure Administrator Associate Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-104/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-104/",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az104"
+          }
+        ]
       },
       {
         "portalName": "AZ-104 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az104-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-104 Azure Administrator Associate Course",
@@ -148,11 +178,23 @@
       },
        {
         "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-305/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-305/",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az305"
+          }
+        ]
       },
       {
         "portalName": "AZ-305 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az305-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-305: Designing Microsoft Azure Infrastructure Solutions Course",
@@ -165,7 +207,13 @@
     "portals": [
       {
         "portalName": "Microsoft Certified: Azure Network Engineer Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az700"
+          }
+        ]
       },
       {
         "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam",
@@ -173,7 +221,13 @@
       },
             {
         "portalName": "AZ-700 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-700"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-700",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az700-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course",
@@ -194,7 +248,13 @@
       },
       {
         "portalName": "AZ-800 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-800"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-800",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az800-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-800: Administering Windows Server Hybrid Core Infrastructure Course",
@@ -206,7 +266,13 @@
       },
       {
         "portalName": "AZ-801 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-801"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-801",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az801-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-801: Configuring Windows Server Hybrid Advanced Services Course",
@@ -227,7 +293,13 @@
       },
       {
         "portalName": "AZ-120 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-120"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-120",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az120-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course",
@@ -248,7 +320,13 @@
       },
       {
         "portalName": "AZ-140 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-140"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-140",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az140-StudyGuide"
+          }
+        ]
       },
        {
         "portalName": "AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course",
@@ -269,7 +347,13 @@
       },
             {
         "portalName": "AI-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-900"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-900",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ai900-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "AI-900: Microsoft Azure AI Fundamentals Course",
@@ -290,7 +374,13 @@
       },
       {
         "portalName": "AI-102 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-102"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-102",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ai102-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "AI-102: Designing and Implementing a Microsoft Azure AI Solution Course",
@@ -311,7 +401,13 @@
       },
       {
         "portalName": "DP-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-900"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-900",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp900-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-900: Microsoft Azure Data Fundamentals Course",
@@ -333,7 +429,13 @@
       },
       {
         "portalName": "DP-100 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-100"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-100",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp100-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-100: Designing and Implementing a Data Science Solution on Azure Course",
@@ -354,7 +456,13 @@
       },
       {
         "portalName": "DP-203 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-203"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-203",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp203-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-203: Data Engineering on Microsoft Azure Course",
@@ -375,7 +483,13 @@
       },
       {
         "portalName": "DP-300 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-300"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-300",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp300-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-300: Administering Microsoft Azure SQL Solutions Course",
@@ -398,7 +512,13 @@
       },
       {
         "portalName": "DP-500 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp500-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course",
@@ -421,7 +541,13 @@
       },
        {
         "portalName": "DP-600 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp600-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-600: Implementing Analytics Solutions Using Microsoft Fabric Course",
@@ -442,7 +568,13 @@
       },
       {
         "portalName": "DP-420 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-420"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-420",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp420-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Course",
@@ -463,7 +595,13 @@
       },
       {
         "portalName": "AZ-204 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-204"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-204",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az204-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "AZ-204: Developing Solutions for Microsoft Azure Course",
@@ -484,7 +622,13 @@
       },
       {
         "portalName": "AZ-400 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az400-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "AZ-400: Designing and Implementing Microsoft DevOps Solutions Course",
@@ -505,7 +649,13 @@
       },
       {
         "portalName": "MS-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-900"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-900",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ms900-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MS-900: Microsoft 365 Fundamentals Course",
@@ -526,7 +676,13 @@
       },
       {
         "portalName": "MD-102 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/md-102"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/md-102",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/md102-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MD-102: Endpoint Administrators Course",
@@ -547,7 +703,13 @@
       },
       {
         "portalName": "MS-102 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-102"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-102",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ms102-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MS-102: Microsoft 365 Administrator Course",
@@ -568,7 +730,13 @@
       },
       {
         "portalName": "MS-700 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-700"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-700",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ms700-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MS-700: Managing Microsoft Teams Course",
@@ -589,7 +757,13 @@
       },
       {
         "portalName": "MS-721 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-721"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-721",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ms721-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MS-721: Collaboration Communications Systems Engineer Course",
@@ -610,7 +784,13 @@
       },
       {
         "portalName": "PL-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-900"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-900",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl900-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-900: Microsoft Power Platform Fundamentals Course",
@@ -631,7 +811,13 @@
       },
       {
         "portalName": "PL-100 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl100-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-100: Microsoft Power Platform App Make Course",
@@ -652,7 +838,13 @@
       },
       {
         "portalName": "PL-200 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-200"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-200",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl200-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-200: Microsoft Power Platform Functional Consultant Course",
@@ -673,7 +865,13 @@
       },
       {
         "portalName": "PL-300 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl300-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-300: Microsoft Power BI Data Analyst Course",
@@ -694,7 +892,13 @@
       },
       {
         "portalName": "PL-400 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-400"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-400",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl400-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-400: Microsoft Power Platform Developer Associate Course",
@@ -715,7 +919,13 @@
       },
       {
         "portalName": "PL-500 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-500"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-500",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl500-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-500: Microsoft Power Automate RPA Developer Course",
@@ -736,7 +946,13 @@
       },
       {
         "portalName": "PL-600 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-600"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-600",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl600-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "PL-600: Microsoft Power Platform Solution Architect Course",
@@ -757,7 +973,13 @@
       },
       {
         "portalName": "MB-910 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-910"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-910",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb910-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Course",
@@ -778,7 +1000,13 @@
       },
       {
         "portalName": "MB-920 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-920"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-920",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb920-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Course",
@@ -799,7 +1027,13 @@
       },
       {
         "portalName": "MB-210 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb210-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course",
@@ -820,7 +1054,13 @@
       },
       {
         "portalName": "MB-240 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-240"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-240",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb240-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Course",
@@ -842,7 +1082,13 @@
       },
       {
         "portalName": "MB-230 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-230"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-230",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb230-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Course",
@@ -863,7 +1109,13 @@
       },
       {
         "portalName": "MB-330 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb330-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Course",
@@ -885,7 +1137,13 @@
       },
       {
         "portalName": "MB-310 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-310"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-310",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb310-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-310: Microsoft Dynamics 365 Finance Functional Consultant Course",
@@ -906,7 +1164,13 @@
       },
        {
         "portalName": "MB-500 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-500"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-500",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb500-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Course",
@@ -928,7 +1192,13 @@
       },
       {
         "portalName": "MB-335 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-335"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-335",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb335-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Course",
@@ -949,7 +1219,13 @@
       },
       {
         "portalName": "MB-800 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-800"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-800",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb800-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Course",
@@ -971,7 +1247,13 @@
       },
       {
         "portalName": "MB-700 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-700"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-700",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb700-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Course",
@@ -993,7 +1275,13 @@
       },
       {
         "portalName": "MB-820 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb820-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-820: Microsoft Dynamics 365 Business Central Developer Course",
@@ -1015,7 +1303,13 @@
       },
       {
         "portalName": "MB-220 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-220"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-220",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb220-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course",
@@ -1037,7 +1331,13 @@
       },
       {
         "portalName": "MB-260 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-260"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-260",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb260-StudyGuide"
+          } 
+        ]
       },
         {
         "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course",
@@ -1058,7 +1358,13 @@
       },
       {
         "portalName": "SC-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-900"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-900",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc900-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "SC-900: Microsoft Security, Compliance, and Identity Fundamentals Course",
@@ -1079,7 +1385,13 @@
       },
       {
         "portalName": "AZ-500 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-500"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-500",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/az500-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "AZ-500: Microsoft Azure Security Technologies Course",
@@ -1100,7 +1412,13 @@
       },
       {
         "portalName": "SC-100 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-100"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-100",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc100-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "SC-100: Microsoft Cybersecurity Architect Course",
@@ -1121,7 +1439,13 @@
       },
       {
         "portalName": "SC-200 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-200"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-200",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc200-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "SC-200: Microsoft Security Operations Analyst Course",
@@ -1142,7 +1466,13 @@
       },
       {
         "portalName": "SC-300 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-300"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-300",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc300-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "SC-300: Microsoft Identity and Access Administrator Course",
@@ -1163,7 +1493,13 @@
       },
       {
         "portalName": "SC-400 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-400"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-400",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc400-StudyGuide"
+          }
+        ]
       },
         {
         "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Course",
@@ -1249,7 +1585,7 @@
         "portalName": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/)",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
 	"notes": "Prerequisites - Three of the following: MO-110, MO-210, MO-310, MO-410 (or older 2019 equivilants)"
-      },
+      }
      ]
    }, 
    {
@@ -1293,7 +1629,7 @@
         "portalName": "Microsoft Office Specialist: Expert (Microsoft 365 Apps)",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
       	"notes": "Prerequisites - MO-211, MO-111, and Microsoft Office Specialist: Associate (Microsoft 365 Apps) Cert (or older 2019 equivilants)"
-      },
+      }
      ]
    }, 
   {
@@ -1416,15 +1752,15 @@
          },
         {
         "portalName": "Kusto Detective Agency",
-        "primaryURL": "https://detective.kusto.io/",
+        "primaryURL": "https://detective.kusto.io/"
         },    
       {
         "portalName": "Must Learn KQL",
-        "primaryURL": "https://github.com/rod-trent/MustLearnKQL",
+        "primaryURL": "https://github.com/rod-trent/MustLearnKQL"
         },  
       {
         "portalName": "Intune Training",
-        "primaryURL": "https://www.youtube.com/@IntuneTraining",
+        "primaryURL": "https://www.youtube.com/@IntuneTraining"
         },
         {
         "portalName": "Microsoft Security Community",
