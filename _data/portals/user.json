@@ -218,6 +218,24 @@
     ]
   },
   {
+        "groupName": "Microsoft Copilot",
+        "portals": [
+      {
+                "portalName": "Microsoft Copilot",
+                "primaryURL": "https://www.bing.com/chat",
+                "note": "Was Bing Chat Enterprise"
+       },
+       {
+        "portalName": "Copilot Lab",
+        "primaryURL": "https://copilot.cloud.microsoft/"
+      },
+       {          {
+        "portalName": "Copilot For Microsoft 365",
+        "primaryURL": "https://www.microsoft365.com/chat/"
+      }
+    ]
+  },  
+  {
         "groupName": "End User Portals - General",
         "portals": [
             {
@@ -233,11 +251,6 @@
                         "url": "https://aka.ms/createAppPassword"
                     }
                 ]
-            },
-            {
-                "portalName": "Microsoft Copilot",
-                "primaryURL": "https://www.bing.com/chat",
-                "note": "Bing Chat Enterprise"
             },
             {
                 "portalName": "Bing Image Creator",
