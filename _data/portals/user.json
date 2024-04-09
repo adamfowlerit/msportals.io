@@ -132,6 +132,10 @@
           {
             "icon": "B2B",
             "url": "https://teams.microsoft.com/v2/?tenantId={tenant_id}"
+          },
+          {
+            "icon": "Old 🔗",
+            "url": "https://teams.microsoft.com/"
           }
         ]
       },
