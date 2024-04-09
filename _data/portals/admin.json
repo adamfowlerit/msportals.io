@@ -1004,7 +1004,11 @@
       },
       {
         "portalName": "Microsoft Startups",
-        "primaryURL": "https://portal.startups.microsoft.com"
+        "primaryURL": "https://www.microsoft.com/startups"
+      },
+      {
+        "portalName": "Microsoft for Startups Founders Hub",
+        "primaryURL": "https://foundershub.startups.microsoft.com/"
       },
       {
         "portalName": "Microsoft 365 Lighthouse",
