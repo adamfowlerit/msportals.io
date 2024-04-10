@@ -784,6 +784,10 @@
         "primaryURL": "https://einvoice.microsoft.com"
       },
       {         
+        "portalName": "Partner Cybersecurity Investment Program",
+        "primaryURL": "https://cloudaccelerator.microsoft.com/csi-partner-investment"
+      },
+      {         
         "portalName": "SupplierWeb",
         "primaryURL": "https://supplier.microsoft.com/"
       }
@@ -1085,6 +1089,10 @@
       {
         "portalName": "Microsoft Unlocked",
         "primaryURL": "https://unlocked.microsoft.com/"
+      },
+      {
+        "portalName": "Enterprise Skills Initiative",
+        "primaryURL": "https://esi.microsoft.com/"
       },
       {
         "portalName": "Windows 365 Subscription URL",
