@@ -358,65 +358,60 @@
   {
     "groupName": "Azure AI / ML Portals",
     "portals": [
-      {
-        "portalName": "Azure AI Studio",
-        "primaryURL": "https://ai.azure.com",
-        "note": "Preview"
-      },
-      {
+    {
         "portalName": "Azure AI Content Safety Studio",
         "primaryURL": "https://contentsafety.cognitive.azure.com/"
-      },
-            {
+    },
+    {
+        "portalName": "Azure AI Studio",
+        "primaryURL": "https://ai.azure.com",
+    },
+    {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com"
-      },
-      {
+    },
+    {
+        "portalName": "Azure OpenAI Studio",
+        "primaryURL": "https://oai.azure.com/portal"
+    },
+    {
         "portalName": "Bot Framework Dev Portal",
         "primaryURL": "https://dev.botframework.com"
-      },
-      {
+    },
+    {
         "portalName": "Custom Translator",
         "primaryURL": "https://portal.customtranslator.azure.ai/"
-      },
-      {
+    },
+    {
         "portalName": "Custom Vision",
         "primaryURL": "https://www.customvision.ai/"
-      },
-      {
+    },
+    {
+        "portalName": "Language Studio",
+        "primaryURL": "https://language.azure.com/"
+    },
+    {
+        "portalName": "LUIS Portal",
+        "primaryURL": "https://www.luis.ai/"
+    },
+    {
+        "portalName": "QnA Maker Portal",
+        "primaryURL": "https://www.qnamaker.ai/"
+    },
+    {
+        "portalName": "Speech Studio",
+        "primaryURL": "https://speech.microsoft.com/"
+    },
+    {
         "portalName": "Vision Studio",
         "primaryURL": "https://preview.vision.azure.com/",
         "note": "Preview"
-      },
-      {
-        "portalName": "Speech Studio",
-        "primaryURL": "https://speech.microsoft.com/"
-      },
-      {
-        "portalName": "Language Studio",
-        "primaryURL": "https://language.azure.com/"
-      },
-      {
-        "portalName": "LUIS Portal",
-        "primaryURL": "https://www.luis.ai/"
-      },
-      {
-        "portalName": "QnA Maker Portal",
-        "primaryURL": "https://www.qnamaker.ai/"
-      },
-      {
+    },
+    {
         "portalName": "Video Indexer",
         "primaryURL": "https://www.videoindexer.ai/"
-      },
-      {
-        "portalName": "Azure Graph Explorer",
-        "primaryURL": "https://graphexplorer.azurewebsites.net/#",
-        "note": "Deprecated"
-      },
-      {
-        "portalName": "Azure OpenAI Studio",
-        "primaryURL": "https://oai.azure.com/portal"
-      }
+    }
+]
     ]
   },
   {
