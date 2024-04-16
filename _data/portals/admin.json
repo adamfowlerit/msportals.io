@@ -364,6 +364,10 @@
         "note": "Preview"
       },
       {
+        "portalName": "Azure AI Content Safety Studio",
+        "primaryURL": "https://contentsafety.cognitive.azure.com/"
+      },
+            {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com"
       },
