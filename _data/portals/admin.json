@@ -364,7 +364,7 @@
     },
     {
         "portalName": "Azure AI Studio",
-        "primaryURL": "https://ai.azure.com",
+        "primaryURL": "https://ai.azure.com"
     },
     {
         "portalName": "Azure Machine Learning Studio",
