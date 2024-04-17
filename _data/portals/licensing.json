@@ -37,7 +37,12 @@
         {
         "portalName": "Microsoft 365 Licensing",
         "primaryURL": "https://m365maps.com/",
-         "note": "Aaron Dinnage"
+         "note": "Aaron Dinnage - Thrid Party"
+         },
+         {
+        "portalName": "FinOps Foundation Microsoft Licensing Management Guide",
+        "primaryURL": "https://www.finops.org/wg/microsoft-licensing-management-guide/"
+        "note": "Third Party"
          }
     ]
   },
