@@ -293,6 +293,10 @@
         "primaryURL": "https://cosmos.azure.com"
       },
       {
+        "portalName": "Azure Cosmos DB - Connection string authentication",
+        "primaryURL": "https://cosmos.azure.com/sunset/"
+      },
+      {
         "portalName": "Azure Data Factory",
         "primaryURL": "https://adf.azure.com"
       },
