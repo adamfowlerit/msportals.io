@@ -147,5 +147,15 @@
         "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
       }
     ]
-  }
+  },
+    {
+    "groupName": "Non-Microsoft Owned 3rd Party Scripts",
+    "portals": [
+            {
+        "portalName": "M365PSProfile",
+        "primaryURL": "https://www.powershellgallery.com/packages/M365PSProfile/0.5.0",
+        "note": "Updates all M365 PowerShell Modues"
+      }
+     ]
+    }
 ]
