@@ -885,221 +885,215 @@
     ]
   },
   {
-    "groupName": "Other Useful Microsoft Portals",
-    "portals": [
-      {
-        "portalName": "Legacy Applications (B2B Redeem Invite)",
-        "primaryURL": "https://account.activedirectory.windowsazure.com/",
-        "secondaryURLs": [
-          {
-            "icon": "B2B",
-            "url": "https://account.activedirectory.windowsazure.com/?tenantid={tenant_id}"
-          }
-        ]
-      },
-      {
-        "portalName": "Azure Lighthouse Blade",
-        "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
-      },
-      {
-        "portalName": "Become Microsoft Certified",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/traincertposter"
-          }
-        ]
-      },
-      {
-        "portalName": "Customer Digital Experiences",
-        "primaryURL": "https://cdx.transform.microsoft.com",
-        "note": "Previously Demos.Microsoft.com"
-      },
-      {
-        "portalName": "Deployment Guides for Microsoft 365 ",
-        "primaryURL": "https://assistants.microsoft.com/"
-      },
-      {
-        "portalName": "Feedback",
-        "primaryURL": "https://feedbackportal.microsoft.com/"
-      },
-      {
-        "portalName": "Group Policy Search",
-        "primaryURL": "https://gpsearch.azurewebsites.net/"
-      },
-      {
-        "portalName": "Infringement Report",
-        "primaryURL": "https://msrc.microsoft.com/report/infringement"
-      },
-      {
-        "portalName": "Fast Cloud File Migrations",
-        "primaryURL": "https://mover.io/"
-      },
-      {
-        "portalName": "Microsoft 365 Message Center Archive",
-        "primaryURL": "https://mc.merill.net/"
-      },
-      {
-        "portalName": "Microsoft Adoption",
-        "primaryURL": "https://adoption.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft Assessments",
-        "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
-      },
-      {
-        "portalName": "Microsoft Azure Sponsorships",
-        "primaryURL": "https://www.microsoftazuresponsorships.com"
-      },
-      {
-        "portalName": "Microsoft Community",
-        "primaryURL": "https://answers.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Dynamics Lifecycle Services",
-        "primaryURL": "https://lcs.dynamics.com"
-      },
-      {
-        "portalName": "Microsoft Dynamics 365 and Power Platform Roadmap",
-        "primaryURL": "https://experience.dynamics.com/releaseplans/"
-      },
-      {
-        "portalName": "Microsoft Exam Sandbox",
-        "primaryURL": "https://mscertdemo.starttest.com/"
-      },
-      {
-        "portalName": "Microsoft Events",
-        "primaryURL": "https://events.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Home Use Program",
-        "primaryURL": "https://www.microsoft.com/home-use-program"
-      },
-      {
-        "portalName": "Microsoft MVP",
-        "primaryURL": "https://mvp.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Open Source",
-        "primaryURL": "https://opensource.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Remote Connectivity Analyzer",
-        "primaryURL": "https://testconnectivity.microsoft.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/rca"
-          }
-        ]
-      },
-      {
-        "portalName": "Microsoft Reseller Profile Registration Portal",
-        "primaryURL": "https://reselleruat.microsoftcrmportals.com/"
-      },
-      {
-        "portalName": "Microsoft Security Response Center",
-        "primaryURL": "https://msrc-blog.microsoft.com/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/solorigate"
-          }
-        ]
-      },
-      {
-        "portalName": "Microsoft Startups",
-        "primaryURL": "https://www.microsoft.com/startups"
-      },
-      {
-        "portalName": "Microsoft for Startups Founders Hub",
-        "primaryURL": "https://foundershub.startups.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft 365 Lighthouse",
-        "primaryURL": "https://lighthouse.microsoft.com/"
-      },
-      {
-        "portalName": "Office 365 Anti-Spam IP Delist Portal",
-        "primaryURL": "https://sender.office.com"
-      },
-      {
-        "portalName": "Outlook Oauth Sandbox",
-        "primaryURL": "https://myadevcenter.outlook.office365.com/"
-      },
-      {
-        "portalName": "Office UI Fabric Icons",
-        "primaryURL": "https://uifabricicons.azurewebsites.net/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/fluentui-icons"
-          }
-        ]
-      },
-      {
-        "portalName": "Power BI Playground",
-        "primaryURL": "https://playground.powerbi.com/"
-      },
-      {
-        "portalName": "Azure Cosmos DB Query Playground",
-        "primaryURL": "https://www.documentdb.com/sql/demo"
-      },
-      {
-        "portalName": "Service Trust Portal",
-        "primaryURL": "https://servicetrust.microsoft.com"
-      },
-      {
-        "portalName": "Azure Active Directory - Where is your data located?",
-        "primaryURL": "https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
-      },
-      {
-        "portalName": "Tech Community Video Hub",
-        "primaryURL": "https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/VideoHub"
-          }
-        ]
-      },
-      {
-        "portalName": "Windows Virtual Desktop Consent Page",
-        "primaryURL": "https://rdweb.wvd.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Documentation",
-        "primaryURL": "https://learn.microsoft.com/docs/"
-      },
-      {
-        "portalName": "Microsoft Training",
-        "primaryURL": "https://learn.microsoft.com/training/"
-      },
-      {
-        "portalName": "Outlook.com Smart Network Data Service",
-        "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
-      },
-      {
-        "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
-        "primaryURL": "https://www.microsoftazurepass.com/"
-      },
-      {
-        "portalName": "Azure Updates",
-        "primaryURL": "https://azure.microsoft.com/en-us/updates/"
-      },
-      {
-        "portalName": "Microsoft Unlocked",
-        "primaryURL": "https://unlocked.microsoft.com/"
-      },
-      {
-        "portalName": "Enterprise Skills Initiative",
-        "primaryURL": "https://esi.microsoft.com/"
-      },
-      {
-        "portalName": "Windows 365 Subscription URL",
-        "primaryURL": "https://rdweb.wvd.microsoft.com"
-      }
-    ]
-  }
+  "groupName": "Other Useful Microsoft Portals",
+  "portals": [
+    {
+      "portalName": "Azure Active Directory - Where is your data located?",
+      "primaryURL": "https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+    },
+    {
+      "portalName": "Azure Cosmos DB Query Playground",
+      "primaryURL": "https://www.documentdb.com/sql/demo"
+    },
+    {
+      "portalName": "Azure Lighthouse Blade",
+      "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade"
+    },
+    {
+      "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
+      "primaryURL": "https://www.microsoftazurepass.com/"
+    },
+     {
+      "portalName": "Customer Digital Experiences",
+      "primaryURL": "https://cdx.transform.microsoft.com",
+      "note": "Previously Demos.Microsoft.com"
+    },
+    {
+      "portalName": "Deployment Guides for Microsoft 365 ",
+      "primaryURL": "https://assistants.microsoft.com/"
+    },
+    {
+      "portalName": "Enterprise Skills Initiative",
+      "primaryURL": "https://esi.microsoft.com/"
+    },
+    {
+      "portalName": "Fast Cloud File Migrations",
+      "primaryURL": "https://mover.io/"
+    },
+    {
+      "portalName": "Feedback",
+      "primaryURL": "https://feedbackportal.microsoft.com/"
+    },
+    {
+      "portalName": "Group Policy Search",
+      "primaryURL": "https://gpsearch.azurewebsites.net/"
+    },
+    {
+      "portalName": "Infringement Report",
+      "primaryURL": "https://msrc.microsoft.com/report/infringement"
+    },
+    {
+      "portalName": "Legacy Applications (B2B Redeem Invite)",
+      "primaryURL": "https://account.activedirectory.windowsazure.com/",
+      "secondaryURLs": [
+        {
+          "icon": "B2B",
+          "url": "https://account.activedirectory.windowsazure.com/?tenantid={tenant_id}"
+        }
+      ]
+    },
+    {
+      "portalName": "Microsoft 365 Lighthouse",
+      "primaryURL": "https://lighthouse.microsoft.com/"
+    },
+    {
+      "portalName": "Microsoft 365 Message Center Archive",
+      "primaryURL": "https://mc.merill.net/"
+    },
+    {
+      "portalName": "Microsoft Adoption",
+      "primaryURL": "https://adoption.microsoft.com/"
+    },
+    {
+      "portalName": "Microsoft Assessments",
+      "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
+    },
+    {
+      "portalName": "Microsoft Community",
+      "primaryURL": "https://answers.microsoft.com"
+    },
+    {
+      "portalName": "Microsoft Documentation",
+      "primaryURL": "https://learn.microsoft.com/docs/"
+    },
+    {
+      "portalName": "Microsoft Dynamics 365 and Power Platform Roadmap",
+      "primaryURL": "https://experience.dynamics.com/releaseplans/"
+    },
+    {
+      "portalName": "Microsoft Dynamics Lifecycle Services",
+      "primaryURL": "https://lcs.dynamics.com"
+    },
+    {
+      "portalName": "Microsoft Events",
+      "primaryURL": "https://events.microsoft.com"
+    },
+    {
+      "portalName": "Microsoft Exam Sandbox",
+      "primaryURL": "https://mscertdemo.starttest.com/"
+    },
+    {
+      "portalName": "Microsoft Home Use Program",
+      "primaryURL": "https://www.microsoft.com/home-use-program"
+    },
+    {
+      "portalName": "Microsoft MVP",
+      "primaryURL": "https://mvp.microsoft.com"
+    },
+    {
+      "portalName": "Microsoft Open Source",
+      "primaryURL": "https://opensource.microsoft.com"
+    },
+    {
+      "portalName": "Microsoft Remote Connectivity Analyzer",
+      "primaryURL": "https://testconnectivity.microsoft.com",
+      "secondaryURLs": [
+        {
+          "icon": "aka.ms",
+          "url": "https://aka.ms/rca"
+        }
+      ]
+    },
+    {
+      "portalName": "Microsoft Reseller Profile Registration Portal",
+      "primaryURL": "https://reselleruat.microsoftcrmportals.com/"
+    },
+    {
+      "portalName": "Microsoft Security Response Center",
+      "primaryURL": "https://msrc-blog.microsoft.com/",
+      "secondaryURLs": [
+        {
+          "icon": "aka.ms",
+          "url": "https://aka.ms/solorigate"
+        }
+      ]
+    },
+    {
+      "portalName": "Microsoft Startups",
+      "primaryURL": "https://www.microsoft.com/startups"
+    },
+    {
+      "portalName": "Microsoft Training",
+      "primaryURL": "https://learn.microsoft.com/training/"
+    },
+    {
+      "portalName": "Microsoft Unlocked",
+      "primaryURL": "https://unlocked.microsoft.com/"
+    },
+    {
+      "portalName": "Office 365 Anti-Spam IP Delist Portal",
+      "primaryURL": "https://sender.office.com"
+    },
+    {
+      "portalName": "Office UI Fabric Icons",
+      "primaryURL": "https://uifabricicons.azurewebsites.net/",
+      "secondaryURLs": [
+        {
+          "icon": "aka.ms",
+          "url": "https://aka.ms/fluentui-icons"
+        }
+      ]
+    },
+    {
+      "portalName": "Outlook Oauth Sandbox",
+      "primaryURL": "https://myadevcenter.outlook.office365.com/"
+    },
+    {
+      "portalName": "Outlook.com Smart Network Data Service",
+      "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
+    },
+    {
+      "portalName": "Power BI Playground",
+      "primaryURL": "https://playground.powerbi.com/"
+    },
+    {
+      "portalName": "PowerShell Gallery",
+      "primaryURL": "https://www.powershellgallery.com/"
+    },
+    {
+      "portalName": "Service Trust Portal",
+      "primaryURL": "https://servicetrust.microsoft.com"
+    },
+    {
+      "portalName": "Tech Community Video Hub",
+      "primaryURL": "https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub",
+      "secondaryURLs": [
+        {
+          "icon": "aka.ms",
+          "url": "https://aka.ms/VideoHub"
+        }
+      ]
+    },
+    {
+      "portalName": "Windows 365 Subscription URL",
+      "primaryURL": "https://rdweb.wvd.microsoft.com"
+    },
+    {
+      "portalName": "Windows Virtual Desktop Consent Page",
+      "primaryURL": "https://rdweb.wvd.microsoft.com"
+    },
+    {
+      "portalName": "Microsoft for Startups Founders Hub",
+      "primaryURL": "https://foundershub.startups.microsoft.com/"
+    },
+    {
+      "portalName": "Windows 365 Subscription URL",
+      "primaryURL": "https://rdweb.wvd.microsoft.com"
+    },
+    {
+      "portalName": "Windows Virtual Desktop Consent Page",
+      "primaryURL": "https://rdweb.wvd.microsoft.com"
+    }
+  ]
+}
 ]
