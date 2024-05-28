@@ -16,11 +16,14 @@
           },
           {
             "icon": "Alt",
+            "url": "https://portal.office365.com"
+          },
+          {
+            "icon": "Alt",
             "url": "https://portal.microsoft.com"
           }
         ]
-      },
-        ]
+        
       },
       {
         "portalName": "Microsoft 365 Apps Admin Center",
