@@ -2,9 +2,9 @@
   {
     "groupName": "Microsoft 365 Admin Portals",
     "portals": [
-      {
+     {
         "portalName": "Microsoft 365 Admin Center",
-        "primaryURL": "https://admin.microsoft.com",
+        "primaryURL": "https://admin.cloud.microsoft",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -12,12 +12,18 @@
           },
           {
             "icon": "Old 🔗",
-            "url": "https://portal.office365.com"
+            "url": "https://admin.microsoft.com"
           },
+          {
+            "icon": "Alt",
+            "url": "https://portal.office365.com"
+          }
           {
             "icon": "Alt",
             "url": "https://portal.microsoft.com"
           }
+        ]
+      },
         ]
       },
       {
