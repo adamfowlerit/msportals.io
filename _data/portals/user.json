@@ -383,13 +383,11 @@
             },
             {
                 "portalName": "My Groups",
-                "primaryURL": "https://account.activedirectory.windowsazure.com/r#/groups",
-                "secondaryURLs": [
-                    {
-                        "url": "https://mygroups.microsoft.com",
-                        "icon": "Alt 🔗"
-                    }
-                ]
+                "primaryURL": "https://mygroups.microsoft.com"
+            },
+             {
+                "portalName": "My Groups (Distribution Groups via Exchange Admin Center)",
+                "primaryURL": "https://admin.exchange.microsoft.com/?page=groups#/"
             },
             {
                 "portalName": "My Sign-Ins",
