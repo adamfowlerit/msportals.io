@@ -1028,6 +1028,10 @@
       "primaryURL": "https://www.microsoft.com/startups"
     },
     {
+      "portalName": "Microsoft for Startups Founders Hub",
+      "primaryURL": "https://foundershub.startups.microsoft.com/"
+    },
+    {
       "portalName": "Microsoft Training",
       "primaryURL": "https://learn.microsoft.com/training/"
     },
@@ -1078,18 +1082,6 @@
           "url": "https://aka.ms/VideoHub"
         }
       ]
-    },
-    {
-      "portalName": "Windows 365 Subscription URL",
-      "primaryURL": "https://rdweb.wvd.microsoft.com"
-    },
-    {
-      "portalName": "Windows Virtual Desktop Consent Page",
-      "primaryURL": "https://rdweb.wvd.microsoft.com"
-    },
-    {
-      "portalName": "Microsoft for Startups Founders Hub",
-      "primaryURL": "https://foundershub.startups.microsoft.com/"
     },
     {
       "portalName": "Windows 365 Subscription URL",
