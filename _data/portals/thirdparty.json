@@ -123,6 +123,10 @@
         "primaryURL": "https://store.rg-adguard.net/"
       },
       {
+        "portalName": "Search aka.ms",
+        "primaryURL": "https://akasearch.net/"
+      },
+      {
         "portalName": "Regular Expressions 101",
         "primaryURL": "https://regex101.com"
       },
