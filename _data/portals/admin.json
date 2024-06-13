@@ -782,9 +782,21 @@
   {
     "groupName": "Microsoft Partner / MSP Portals",
     "portals": [
-          {
+      {
         "portalName": "Microsoft Partner Center",
         "primaryURL": "https://partner.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Partner Resources",
+        "primaryURL": "https://microsoft.github.io/PartnerResources/"
+      },
+      {
+        "portalName": "Power Platform for Partners",
+        "primaryURL": "https://powerplatformpartners.transform.microsoft.com/"
+      },
+      {
+        "portalName": "Dynamics 365 for Partners",
+        "primaryURL": "https://dynamicspartners.transform.microsoft.com/"
       },
        {         
         "portalName": "Einvoice",
