@@ -787,16 +787,28 @@
         "primaryURL": "https://partner.microsoft.com"
       },
       {
-        "portalName": "Microsoft Partner Resources",
+        "portalName": "Azure for Partners",
         "primaryURL": "https://microsoft.github.io/PartnerResources/"
+      },
+      {
+        "portalName": "Microsoft Partner Resources",
+        "primaryURL": "https://partner.microsoft.com/en-US/partnership/azure-for-partners"
+      },
+      {
+        "portalName": "Dynamics 365 for Partners",
+        "primaryURL": "https://dynamicspartners.transform.microsoft.com/"
+      },
+      {
+        "portalName": "Modern Work for Partners",
+        "primaryURL": "https://cloudpartners.transform.microsoft.com/"
       },
       {
         "portalName": "Power Platform for Partners",
         "primaryURL": "https://powerplatformpartners.transform.microsoft.com/"
       },
       {
-        "portalName": "Dynamics 365 for Partners",
-        "primaryURL": "https://dynamicspartners.transform.microsoft.com/"
+        "portalName": "Microsoft Security Partners",
+        "primaryURL": "https://securitypartners.transform.microsoft.com/"
       },
        {         
         "portalName": "Einvoice",
