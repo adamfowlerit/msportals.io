@@ -810,6 +810,10 @@
         "portalName": "Microsoft Security Partners",
         "primaryURL": "https://securitypartners.transform.microsoft.com/"
       },
+      {
+        "portalName": "Partner Led Customer Trials",
+        "primaryURL": "https://trials.transform.microsoft.com/"
+      },
        {         
         "portalName": "Einvoice",
         "primaryURL": "https://einvoice.microsoft.com"
