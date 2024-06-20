@@ -289,6 +289,16 @@
                 ]
             },
             {
+                "portalName": "Device Login - SIP Login",
+                "primaryURL": "https://portal.sdg.teams.microsoft.com",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/siplogin"
+                    }
+                ]
+            },
+            {
                 "portalName": "Exchange Control Panel (Personal)",
                 "primaryURL": "https://outlook.office.com/ecp/"
             },
