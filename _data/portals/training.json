@@ -799,33 +799,6 @@
     ]
    },
   {
-    "groupName": "Business Applications - Microsoft Certified: Power Platform App Maker Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Power Platform App Maker Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-app-maker/"
-      },
-      {
-        "portalName": "PL-100: Microsoft Power Platform App Make Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/pl-100/"
-      },
-      {
-        "portalName": "PL-100 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/pl100-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "PL-100: Microsoft Power Platform App Make Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/pl-100t00"
-      }
-    ]
-   },
-  {
     "groupName": "Business Applications - Microsoft Certified: Power Platform Functional Consultant Associate",
     "portals": [
        {
@@ -1108,7 +1081,7 @@
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-330/"
       },
       {
-        "portalName": "MB-330 Study Guide",
+        "portalName": "MB-330 Microsoft Dynamics 365 Supply Chain Management Functional Consultant Study Guide",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330",
       	"secondaryURLs": [
           {
@@ -1123,7 +1096,35 @@
       }
     ]
    },
-
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/",
+	"note": "Coming September 2024"
+      },
+      {
+        "portalName": "MB-???: Microsoft Dynamics 365 Customer Experience Analyst Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/",
+	"note": "Coming September 2024"
+      },
+      {
+        "portalName": "MB-??? Microsoft Dynamics 365 Customer Experience Analyst Associate Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb???-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "MB-???: Microsoft Dynamics 365 Customer Experience Analyst Associate Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/"
+      }
+    ]
+   },
 {
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate",
     "portals": [
