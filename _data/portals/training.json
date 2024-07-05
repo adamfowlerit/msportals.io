@@ -501,36 +501,6 @@
       }
     ]
    },
-{
-    "groupName": "Data and AI - Microsoft Certified: Azure Enterprise Data Analyst Associate (RETIRING)",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Azure Enterprise Data Analyst Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-enterprise-data-analyst-associate",
-         "note": "Retiring April 30, 2024"
-      },
-      {
-        "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/dp-500/",
-        "note": "Retiring April 30, 2024"
-      },
-      {
-        "portalName": "DP-500 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/dp500-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/dp-500t00",
-        "note": "Retiring April 30, 2024"
-      }
-    ]
-   },
   {
     "groupName": "Data and AI - Microsoft Certified: Fabric Analytics Engineer Associate",
     "portals": [
