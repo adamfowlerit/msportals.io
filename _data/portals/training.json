@@ -992,11 +992,13 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/".
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-210/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-210/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-210 Study Guide",
@@ -1010,7 +1012,8 @@
       },
         {
         "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00"
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00",
+	"note": "Retiring November 30, 2024"
       }
     ]
    },
@@ -1296,11 +1299,13 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-220/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-220/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-220 Study Guide",
@@ -1314,7 +1319,8 @@
       },
         {
         "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-220t00"
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-220t00",
+	"note": "Retiring November 30, 2024"
       }
     ]
    },
@@ -1324,11 +1330,13 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-260/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-260/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-260 Study Guide",
@@ -1342,7 +1350,8 @@
       },
         {
         "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-260t00"
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-260t00",
+	"note": "Retiring November 30, 2024"
       }
     ]
    }, 
