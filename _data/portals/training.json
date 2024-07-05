@@ -393,6 +393,33 @@
     ]
    },
   {
+    "groupName": "Data and AI - Microsoft Certified: Power BI Data Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power BI Data Analyst Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/"
+      },
+      {
+        "portalName": "PL-300: Microsoft Power BI Data Analyst Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/pl-300/"
+      },
+      {
+        "portalName": "PL-300 Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl300-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "PL-300: Microsoft Power BI Data Analyst Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-300t00"
+      }
+    ]
+   },
+  {
     "groupName": "Data and AI - Microsoft Certified: Azure Data Fundamentals",
     "portals": [
        {
@@ -796,33 +823,6 @@
         {
         "portalName": "PL-200: Microsoft Power Platform Functional Consultant Course",
         "primaryURL": "https://learn.microsoft.com/training/courses/pl-200t00"
-      }
-    ]
-   },
-  {
-    "groupName": "Business Applications - Microsoft Certified: Power BI Data Analyst Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Power BI Data Analyst Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/"
-      },
-      {
-        "portalName": "PL-300: Microsoft Power BI Data Analyst Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/pl-300/"
-      },
-      {
-        "portalName": "PL-300 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300",
-	      "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/pl300-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "PL-300: Microsoft Power BI Data Analyst Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/pl-300t00"
       }
     ]
    },
