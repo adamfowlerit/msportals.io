@@ -1346,7 +1346,7 @@
     ]
    }, 
     {
-    "groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+"groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
     "portals": [
        {
         "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
@@ -1376,7 +1376,7 @@
     "groupName": "Security - Microsoft Certified: Azure Security Engineer Associate",
     "portals": [
        {
-        "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "portalName": "Microsoft Certified: Azure Security Engineer Associate",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer"
       },
       {
@@ -1430,7 +1430,7 @@
     "groupName": "Security - Microsoft Certified: Security Operations Analyst Associate",
     "portals": [
        {
-        "portalName": "Microsoft Certified: Cybersecurity Architect Expert",
+        "portalName": "Microsoft Certified: Security Operations Analyst Associate",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/security-operations-analyst"
       },
       {
