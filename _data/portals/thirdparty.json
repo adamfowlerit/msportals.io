@@ -54,6 +54,10 @@
         ]
       },
       {
+        "portalName": "Group Policy Administrative Templates Catalog",
+        "primaryURL": "https://admx.help/"
+      },
+      {
         "portalName": "IntuneMaps",
         "primaryURL": "https://intunemaps.com/"
       },
