@@ -57,6 +57,10 @@
         "portalName": "Group Policy Administrative Templates Catalog",
         "primaryURL": "https://admx.help/"
       },
+       {
+        "portalName": "Group Policy Search",
+        "primaryURL": "https://gpsearch.azurewebsites.net/"
+      },
       {
         "portalName": "IntuneMaps",
         "primaryURL": "https://intunemaps.com/"
