@@ -1738,6 +1738,10 @@
         "portalName": "Must Learn KQL",
         "primaryURL": "https://github.com/rod-trent/MustLearnKQL"
         },  
+	{
+        "portalName": "AKS Learning Path",
+        "primaryURL": "https://aks-learning.github.io/learningpath/"
+        },  
       {
         "portalName": "Intune Training",
         "primaryURL": "https://www.youtube.com/@IntuneTraining"
