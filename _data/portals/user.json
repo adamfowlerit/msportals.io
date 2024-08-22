@@ -68,9 +68,15 @@
         "portalName": "People",
         "primaryURL": "https://outlook.office.com/people"
       },
-      {
+       {
         "portalName": "Planner",
-        "primaryURL": "https://tasks.office.com"
+        "primaryURL": "https://planner.cloud.microsoft/",
+         "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": "https://tasks.office.com""
+          }
+        ]
       },
       {
         "portalName": "Power Apps",
