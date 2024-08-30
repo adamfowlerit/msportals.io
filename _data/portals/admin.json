@@ -610,10 +610,6 @@
     "groupName": "Developer Portals",
     "portals": [
       {
-        "portalName": "Azure IoT Central",
-        "primaryURL": "https://apps.azureiotcentral.com/"
-      },
-      {
         "portalName": "Copilot Studio",
         "primaryURL": "https://copilotstudio.microsoft.com/"
       },
