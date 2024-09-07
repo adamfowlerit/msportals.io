@@ -459,8 +459,8 @@
         "primaryURL": "https://businessaccount.microsoft.com"
       },
       {
-        "portalName": "Volume Licensing Service Center",
-        "primaryURL": "https://www.microsoft.com/Licensing/servicecenter/"
+        "portalName": "Volume Licensing Service Center (VLSC)",
+        "primaryURL": "https://admin.microsoft.com/adminportal/home#/subscriptions/vlnew"
       }
     ]
   },
