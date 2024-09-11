@@ -468,14 +468,6 @@
     "groupName": "Microsoft Defender / Security IT Admin Portals",
     "portals": [
       {
-        "portalName": "Microsoft Security Copilot",
-        "primaryURL": "https://securitycopilot.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft Defender Threat Intelligence",
-        "primaryURL": "https://ti.defender.microsoft.com/"
-      },
-      {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
         "secondaryURLs": [
@@ -489,6 +481,18 @@
           }
         ],
         "note": "Previously Microsoft 365 security"
+      },
+      {
+        "portalName": "Microsoft Defender Multi-tenant",
+        "primaryURL": "https://mto.security.microsoft.com/"
+      },
+      {
+        "portalName": "Microsoft Security Copilot",
+        "primaryURL": "https://securitycopilot.microsoft.com/"
+      },
+      {
+        "portalName": "Microsoft Defender Threat Intelligence",
+        "primaryURL": "https://ti.defender.microsoft.com/"
       },
       {
         "portalName": "Microsoft Defender for Cloud Apps",
