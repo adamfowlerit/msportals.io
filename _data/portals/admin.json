@@ -1051,6 +1051,10 @@
         }
       ]
     },
+        {
+      "portalName": "Microsoft Setup",
+      "primaryURL": "https://setup.cloud.microsoft/"
+    },
     {
       "portalName": "Microsoft Startups",
       "primaryURL": "https://www.microsoft.com/startups"
