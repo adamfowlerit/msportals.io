@@ -28,7 +28,13 @@
       },
       {
         "portalName": "Excel",
-        "primaryURL": "https://www.office.com/launch/excel"
+        "primaryURL": "https://excel.cloud.microsoft",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": "https://www.office.com/launch/excel"
+          }
+        ]
       },
       {
         "portalName": "Fabric",
@@ -103,7 +109,13 @@
       },
       {
         "portalName": "PowerPoint",
-        "primaryURL": "https://www.office.com/launch/powerpoint"
+        "primaryURL": "https://powerpoint.cloud.microsoft",
+       "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": "https://www.office.com/launch/powerpoint"
+          }
+        ]
       },
       {
         "portalName": "Project",
@@ -220,7 +232,13 @@
       },
       {
         "portalName": "Word",
-        "primaryURL": "https://www.office.com/launch/word"
+        "primaryURL": "word.cloud.microsoft",
+               "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": "https://www.office.com/launch/word"
+          }
+        ]
       },
       {
         "portalName": "Yammer",
