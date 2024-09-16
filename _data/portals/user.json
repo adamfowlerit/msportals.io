@@ -259,8 +259,13 @@
         "primaryURL": "https://copilot.cloud.microsoft/"
       },
        {
-        "portalName": "Copilot For Microsoft 365",
-        "primaryURL": "https://www.microsoft365.com/chat/"
+        "portalName": "Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "secondaryURLs": [
+                    {
+                        "url": "https://www.microsoft365.com/chat/",
+                        "icon": "Alt 🔗 1"
+                    },
       }
     ]
   },  
