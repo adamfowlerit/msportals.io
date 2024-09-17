@@ -799,6 +799,10 @@
         "primaryURL": "https://partner.microsoft.com/en-US/partnership/azure-for-partners"
       },
       {
+        "portalName": "FastTrack Partner Community Portal",
+        "primaryURL": "https://fpc.microsoft.com/"
+      },
+      {
         "portalName": "Dynamics 365 for Partners",
         "primaryURL": "https://dynamicspartners.transform.microsoft.com/"
       },
