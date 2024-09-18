@@ -992,6 +992,16 @@
       "primaryURL": "https://mc.merill.net/"
     },
     {
+      "portalName": "Microsoft 365 URLs and IP address ranges",
+      "primaryURL": "https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges",
+      "secondaryURLs": [
+        {
+          "icon": "aka.ms",
+          "url": "https://aka.ms/o365ip"
+        }
+      ]
+    },
+    {
       "portalName": "Microsoft Adoption",
       "primaryURL": "https://adoption.microsoft.com/"
     },
