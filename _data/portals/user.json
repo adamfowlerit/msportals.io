@@ -470,6 +470,17 @@
                 "portalName": "Self Service Password Reset Setup",
                 "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
             },
+           {
+                "portalName": "Windows App",
+                "primaryURL": "https://windows.cloud.microsoft/".
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://windows365.microsoft.com/ent#/"
+                    }
+                ]
+            },
+            },
             {
                 "portalName": "Windows 365",
                 "primaryURL": "https://windows365.microsoft.com",
