@@ -472,7 +472,7 @@
             },
            {
                 "portalName": "Windows App",
-                "primaryURL": "https://windows.cloud.microsoft/".
+                "primaryURL": "https://windows.cloud.microsoft/",
                 "secondaryURLs": [
                     {
                         "icon": "Old 🔗",
