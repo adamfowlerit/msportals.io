@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Government Portals
+search: true
 ---
 
 GCC, GCC High and DoD links to Microsoft Portals

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Licensing Portals and Links
+title: Licensing Links
+search: true
 ---
 
 This area is a work in progress! Please provide feeback through GitHub. 

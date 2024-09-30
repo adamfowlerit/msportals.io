@@ -127,15 +127,17 @@
     };
     var scriptLoaded = loadScriptAsync();
     scriptLoaded.then(function () {
-      document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
-        if (anchorLink.parentNode.hidden === false) {
-          anchorLink.scrollIntoView({
-            preventScroll: true,
-            behavior: "smooth",
-            block: "start",
-          });
-        }
-      });
+      if (window.location.hash != "") {
+        document.querySelectorAll(window.location.hash).forEach(function (anchorLink) {
+          if (anchorLink.parentNode.hidden === false) {
+            anchorLink.scrollIntoView({
+              preventScroll: true,
+              behavior: "smooth",
+              block: "start",
+            });
+          }
+        });
+      }
     });
   };
 </script>
