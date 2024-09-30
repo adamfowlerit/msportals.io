@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+search: false
 ---
 
 This site is not owned or endorsed by Microsoft in any way. If you have feedback or found a site we don't have listed, visit our [GitHub page](https://github.com/adamfowlerit/msportals.io) and let us know there.
