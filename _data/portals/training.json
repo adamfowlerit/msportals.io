@@ -552,6 +552,34 @@
       }
     ]
    },
+  {
+    "groupName": "Data and AI - Microsoft Certified: Microsoft Fabric Data Engineering Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Microsoft Fabric Data Engineering Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/fabric-data-engineering-associate"
+      },
+      {
+        "portalName": "DP-700: Microsoft Fabric Data Engineering Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/dp-700/",
+        "note": "beta"
+      },
+       {
+        "portalName": "DP-700 Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-700",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/dp700-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "DP-700: Implementing Analytics Solutions Using Microsoft Fabric Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/dp-700t00"
+      }
+    ]
+   },
 {
     "groupName": "Data and AI - Microsoft Certified: Azure Cosmos DB Developer Specialty",
     "portals": [
