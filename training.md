@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training Links
+title: Training Portals and Links
 ---
 
 
