@@ -40,10 +40,6 @@
         "note": "Old"
       },
       {
-        "portalName": "Kaizala Management Portal",
-        "primaryURL": "https://manage.kaiza.la/"
-      },
-      {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
         "note": "Microsoft 365 Compliance",
@@ -223,8 +219,8 @@
         "primaryURL": "https://www.yammer.com/office365/admin"
       },
       {
-        "portalName": "Migrate Stream (Classic) to Stream (on SharePoint)",
-        "primaryURL": "https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration"
+        "portalName": "Kaizala Management Portal",
+        "primaryURL": "https://manage.kaiza.la/"
       },
       {
         "portalName": "My Applications (My Apps)",
@@ -987,6 +983,10 @@
       "portalName": "Microsoft 365 Lighthouse",
       "primaryURL": "https://lighthouse.microsoft.com/"
     },
+    {
+        "portalName": "Migrate Stream (Classic) to Stream (on SharePoint)",
+        "primaryURL": "https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration"
+      },
     {
       "portalName": "Microsoft 365 Message Center Archive",
       "primaryURL": "https://mc.merill.net/"
