@@ -1102,27 +1102,27 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-experience-analyst-associate/",
 	"note": "Coming September 2024"
       },
       {
-        "portalName": "MB-???: Microsoft Dynamics 365 Customer Experience Analyst Associate Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/",
+        "portalName": "MB-280: Microsoft Dynamics 365 Customer Experience Analyst Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-280/",
 	"note": "Coming September 2024"
       },
       {
-        "portalName": "MB-??? Microsoft Dynamics 365 Customer Experience Analyst Associate Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/",
+        "portalName": "MB-280 Microsoft Dynamics 365 Customer Experience Analyst Associate Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-280/",
       	"secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/mb???-StudyGuide"
+            "url": "https://aka.ms/mb280-StudyGuide"
           }
         ]
       },
         {
-        "portalName": "MB-???: Microsoft Dynamics 365 Customer Experience Analyst Associate Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/"
+        "portalName": "MB-280: Microsoft Dynamics 365 Customer Experience Analyst Associate Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-280t00"
       }
     ]
    },
