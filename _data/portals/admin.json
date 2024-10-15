@@ -239,7 +239,7 @@
     ]
   },
   {
-    "groupName": "Azure IT Admin Portals",
+    "groupName": "Azure Admin Portals",
     "portals": [
       {
         "portalName": "Microsoft Azure Portal",
@@ -312,6 +312,10 @@
       {
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com"
+      },
+      {
+        "portalName": "Azure Virtual Desktop",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview"
       },
       {
         "portalName": "Azure Resource Explorer",
