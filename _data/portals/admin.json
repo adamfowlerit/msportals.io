@@ -315,7 +315,8 @@
       },
       {
         "portalName": "Azure Virtual Desktop",
-        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview"
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview",
+        "note": "AVD"
       },
       {
         "portalName": "Azure Resource Explorer",
