@@ -271,9 +271,9 @@
         "primaryURL": "https://portal.azure.com/#allservices"
       },
       {
-        "portalName": "Microsoft Entra Admin Center (Formerly Azure AD Admin Center)",
+        "portalName": "Microsoft Entra Admin Center",
         "primaryURL": "https://entra.microsoft.com",
-        "note": "Identity Management",
+        "note": "Identity Management - Formerly Azure AD Admin Center",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -332,10 +332,6 @@
   {
     "groupName": "Azure IT Admin Portals - Sub Portal Links",
     "portals": [
-      {
-        "portalName": "Microsoft Entra Authentication methods",
-        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods/"
-      },
       {
         "portalName": "Azure Backup Center",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview"
