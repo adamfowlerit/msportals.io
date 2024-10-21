@@ -351,10 +351,6 @@
         ]
       },
       {
-        "portalName": "Desktop Analytics Portal",
-        "primaryURL": "https://devicemanagement.portal.azure.com/#blade/Microsoft_M365_ManageClient/ManageClientFrameBlade"
-      },
-      {
         "portalName": "Azure Sentinel",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade"
       },
