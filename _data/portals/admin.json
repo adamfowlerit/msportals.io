@@ -267,6 +267,10 @@
         "note": "Preview"
       },
       {
+        "portalName": "Azure All Services",
+        "primaryURL": "https://portal.azure.com/#allservices"
+      },
+      {
         "portalName": "Microsoft Entra Admin Center (Formerly Azure AD Admin Center)",
         "primaryURL": "https://entra.microsoft.com",
         "note": "Identity Management",
@@ -313,11 +317,7 @@
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com"
       },
-      {
-        "portalName": "Azure Virtual Desktop",
-        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview",
-        "note": "AVD"
-      },
+
       {
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
@@ -341,6 +341,10 @@
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview"
       },
       {
+        "portalName": "Azure Monitor",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview"
+      },
+      {
         "portalName": "Privileged Identity Management",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart",
         "secondaryURLs": [
@@ -357,6 +361,11 @@
       {
         "portalName": "Azure Sentinel",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade"
+      },
+      {
+        "portalName": "Azure Virtual Desktop",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview",
+        "note": "AVD"
       },
       {
         "portalName": "Azure Universal Print",
