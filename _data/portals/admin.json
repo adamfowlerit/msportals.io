@@ -360,6 +360,10 @@
         "note": "AVD"
       },
       {
+        "portalName": "Azure Update Manager",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Automation/UpdateCenterMenuBlade/~/gettingstarted"
+      },
+      {
         "portalName": "Azure Universal Print",
         "primaryURL": "https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview",
         "note": "Raw"
@@ -534,8 +538,7 @@
       },
       {
         "portalName": "Microsoft Defender ATP Testground",
-        "primaryURL": "https://demo.wd.microsoft.com/",
-        "note": "Being deprecated 09/30/2022"
+        "primaryURL": "https://demo.wd.microsoft.com/"
       },
       {
         "portalName": "Attack simulation training",
@@ -545,8 +548,7 @@
             "icon": "aka.ms",
             "url": "https://aka.ms/AttackSim"
           }
-        ],
-        "note": "sub-portal"
+        ]
       },
       {
         "portalName": "Microsoft Defender for Cloud (MDC)",
