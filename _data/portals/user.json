@@ -301,7 +301,13 @@
             },
             {
                 "portalName": "Converged MFA & SSPR Portal",
-                "primaryURL": "https://aka.ms/mysecurityinfo/"
+                "primaryURL": "https://mysignins.microsoft.com/security-info",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/mysecurityinfo/"
+                    }
+                ]
             },
             {
                 "portalName": "Device Login - Microsoft account or MSA (Personal Account)",
@@ -457,18 +463,18 @@
                 "primaryURL": "https://security.microsoft.com/quarantine"
             },
             {
-                "portalName": "Self Service Password Reset / Forgot Password",
+                "portalName": "Self Service Password Reset (SSPR) / Forgot Password",
                 "primaryURL": "https://passwordreset.microsoftonline.com",
                 "secondaryURLs": [
                     {
                         "icon": "aka.ms",
                         "url": "https://aka.ms/sspr"
+                    },
+                    {
+                      "icon": "Old 🔗",
+                      "url": " https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
                     }
                 ]
-            },
-            {
-                "portalName": "Self Service Password Reset Setup",
-                "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
             },
            {
                 "portalName": "Windows App",
