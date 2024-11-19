@@ -74,6 +74,10 @@
         "portalName": "People",
         "primaryURL": "https://outlook.office.com/people"
       },
+      {
+        "portalName": "Places",
+        "primaryURL": "https://places.cloud.microsoft"
+      },
        {
         "portalName": "Planner",
         "primaryURL": "https://planner.cloud.microsoft/",
