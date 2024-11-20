@@ -76,7 +76,12 @@
       },
       {
         "portalName": "Places",
-        "primaryURL": "https://places.cloud.microsoft"
+        "primaryURL": "https://places.cloud.microsoft",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/places"
+          },
       },
        {
         "portalName": "Planner",
