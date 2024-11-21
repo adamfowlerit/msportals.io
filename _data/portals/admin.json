@@ -40,17 +40,6 @@
         ]
       },
       {
-        "portalName": "Microsoft Purview",
-        "primaryURL": "https://compliance.microsoft.com",
-        "note": "Microsoft 365 Compliance",
-        "secondaryURLs": [
-          {
-            "icon": "B2B",
-            "url": "https://compliance.microsoft.com/homepage?tid={tenant_id}"
-          }
-        ]
-      },
-      {
         "portalName": "Microsoft 365 network connectivity test",
         "primaryURL": "https://connectivity.office.com"
       },
@@ -124,7 +113,12 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://purview.microsoft.com/",
-        "note": "Preview Azure and Fabric Governance"
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://purview.microsoft.com/homepage?tid={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Teams Admin Center",
