@@ -107,11 +107,6 @@
       },
       {
         "portalName": "Microsoft Purview",
-        "primaryURL": "https://web.purview.azure.com/",
-        "note": "Azure and Fabric Governance"
-      },
-      {
-        "portalName": "Microsoft Purview",
         "primaryURL": "https://purview.microsoft.com/",
         "secondaryURLs": [
           {
@@ -306,6 +301,11 @@
       {
         "portalName": "Azure Non-profit Portal",
         "primaryURL": "https://nonprofit.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Purview",
+        "primaryURL": "https://web.purview.azure.com/",
+        "note": "Azure and Fabric Governance"
       },
       {
         "portalName": "Azure Resource Explorer",
