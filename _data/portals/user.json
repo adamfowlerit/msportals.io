@@ -392,6 +392,10 @@
                 "primaryURL": "https://portal.manage.microsoft.com/"
             },
             {
+                "portalName": "Microsoft PSTN user settings",
+                "primaryURL": "https://dialin.teams.microsoft.com/usp/pstnconferencing"
+            },
+            {
                 "portalName": "MFA Setup",
                 "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
                 "secondaryURLs": [
