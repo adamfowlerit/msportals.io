@@ -1,28 +1,99 @@
 [
   {
-    "groupName": "Microsoft 365 Education Links",
+    "groupName": "Microsoft 365 EDU Links",
     "portals": [
+      {
+        "portalName": "Microsoft 365 Enterprise Licensing Full Comparison Table",
+        "primaryURL": "https://aka.ms/M365EnterprisePlans",
+        "note":"PDF"
+         },
+        {
+        "portalName": "Microsoft 365 Business Licensing Full Comparison Table",
+        "primaryURL": "https://aka.ms/M365BusinessPlans",
+        "note":"PDF"
+         },
+        {
+        "portalName": "Microsoft 365 Compliance Licensing Comparison Table",
+        "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf",
+        "note":"PDF"
+         },
          {
-        "portalName": "Reading Coach",
-        "primaryURL": "https://coach.microsoft.com/"
+        "portalName": "Compare Microsoft 365 Business Plans",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products"
+         },
+         {
+        "portalName": "Compare Microsoft 365 Enterprise Plans",
+        "primaryURL": "https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing"
+         },
+        {
+        "portalName": "Licensing Resources and Documents - Product Terms",
+        "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
+         },
+        {
+        "portalName": "Product names and service plan identifiers for licensing (SKU List)",
+        "primaryURL": "https://learn.microsoft.com/entra/identity/users/licensing-service-plan-reference"
+        },
+        {
+        "portalName": "Microsoft 365 Admin Center - Licensing",
+        "primaryURL": "https://admin.microsoft.com/?&source=applauncher#/licenses"
+         },
+        {
+        "portalName": "Microsoft 365 Licensing",
+        "primaryURL": "https://m365maps.com/",
+         "note": "Aaron Dinnage - Thrid Party"
+         },
+         {
+        "portalName": "FinOps Foundation Microsoft Licensing Management Guide",
+        "primaryURL": "https://www.finops.org/wg/microsoft-licensing-management-guide/",
+        "note": "Third Party"
          }
     ]
   },
     {
-    "groupName": "Azure Education Links",
+    "groupName": "Azure Licensing Links",
     "portals": [
         {
-        "portalName": "TBC",
-        "primaryURL": "https://microsoft.com"
+        "portalName": "Azure Pricing Calculator",
+        "primaryURL": "https://azure.microsoft.com/pricing/calculator/"
+         },
+        {
+        "portalName": "Azure Pricing by Product",
+        "primaryURL": "https://azure.microsoft.com/pricing/#product-pricing"
+         },
+        {
+        "portalName": "Azure Hybrid Benefit Savings Calculator",
+        "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator"
          }
        ]
   },
-      {
-    "groupName": "Consumer Education Links",
+  
+    {
+    "groupName": "Consumer Licensing Links",
     "portals": [
         {
-        "portalName": "TBC ",
-        "primaryURL": "https://microsoft.com"
+        "portalName": "Microsoft 365 Family",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
+         },
+        {
+        "portalName": "Microsoft 365 Personal",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
+         }
+       ]
+  },
+  {
+    "groupName": "Product Specific Links",
+    "portals": [
+        {
+        "portalName": "Microsoft Entra Plans & Pricing",
+        "primaryURL": "https://www.microsoft.com/security/business/microsoft-entra-pricing"
+         },
+        {
+        "portalName": "Microsoft Project Plans & Pricing",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software"
+         },
+        {
+        "portalName": "Microsoft Visio Plans & Pricing",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options"
          }
     ]
   }
