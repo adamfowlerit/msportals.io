@@ -17,8 +17,7 @@
          }
        ]
   },
-  
-    {
+      {
     "groupName": "Consumer Education Links",
     "portals": [
         {
@@ -26,5 +25,5 @@
         "primaryURL": "https://microsoft.com"
          }
        ]
-  },
+  }
 ]
