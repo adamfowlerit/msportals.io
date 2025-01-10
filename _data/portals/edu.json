@@ -1,1 +1,43 @@
-
+[
+  {
+    "groupName": "Microsoft 365 Education Links",
+    "portals": [
+         {
+        "portalName": "FinOps Foundation Microsoft Licensing Management Guide",
+        "primaryURL": "https://www.finops.org/wg/microsoft-licensing-management-guide/",
+        "note": "Third Party"
+         }
+    ]
+  },
+    {
+    "groupName": "Azure Education Links",
+    "portals": [
+        {
+        "portalName": "Azure Pricing Calculator",
+        "primaryURL": "https://azure.microsoft.com/pricing/calculator/"
+         },
+        {
+        "portalName": "Azure Pricing by Product",
+        "primaryURL": "https://azure.microsoft.com/pricing/#product-pricing"
+         },
+        {
+        "portalName": "Azure Hybrid Benefit Savings Calculator",
+        "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator"
+         }
+       ]
+  },
+  
+    {
+    "groupName": "Consumer Education Links",
+    "portals": [
+        {
+        "portalName": "Microsoft 365 Family",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
+         },
+        {
+        "portalName": "Microsoft 365 Personal",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
+         }
+       ]
+  },
+]
