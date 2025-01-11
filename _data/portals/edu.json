@@ -1,8 +1,37 @@
 [
   {
-    "groupName": "Microsoft 365 Education Links",
+    "groupName": "Main Microsoft Education Links",
     "portals": [
          {
+        "portalName": "Microsoft Education",
+        "primaryURL": "https://www.microsoft.com/education"
+         },
+        {
+        "portalName": "Microsoft Learn Educator Center",
+        "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec"
+         },
+        {
+        "portalName": "Microsoft Education Blog",
+        "primaryURL": "https://techcommunity.microsoft.com/category/educationsector/blog/educationblog"
+         },
+        {
+        "portalName": "Microsoft Education on X",
+        "primaryURL": "https://x.com/MicrosoftEDU"
+         },
+              {
+        "portalName": "Microsoft Education on YouTube",
+        "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q"
+         }
+    ]
+  },
+  {
+    "groupName": "Microsoft 365 Education Links",
+    "portals": [
+        {
+        "portalName": "Microsoft 365 Education",
+        "primaryURL": "https://www.microsoft.com/education/products/microsoft-365"
+         }, 
+        {
         "portalName": "Reading Coach",
         "primaryURL": "https://coach.microsoft.com/"
          }
