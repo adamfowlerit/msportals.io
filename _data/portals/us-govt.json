@@ -20,6 +20,11 @@
         "primaryURL": "https://account.activedirectory.windowsazure.us",
         "note": ""
       },
+       {
+        "portalName": "Microsoft Purview Admin Center",
+        "primaryURL": "https://purview.microsoft.us",
+        "note": ""
+      },
       {
         "portalName": "Azure Virtual Desktop",
         "primaryURL": "https://rdweb.wvd.azure.us/",
