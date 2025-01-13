@@ -51,8 +51,8 @@
         "note": "GCC"
       },
       {
-        "portalName": "Microsoft Endpoint Manager Government admin center",
-        "primaryURL": "https://endpoint.microsoft.us/#home",
+        "portalName": "Microsoft Intune Government admin center",
+        "primaryURL": "https://intune.microsoft.us/#home",
         "note": "GCC"
       },
       {
