@@ -117,7 +117,7 @@
       },
       {
         "portalName": "Exchange Admin Center",
-        "primaryURL": "https://outlook.office365.us/ecp",
+        "primaryURL": "https://admin.exchange.office365.us",
         "note": "GCC High"
       },
       {
