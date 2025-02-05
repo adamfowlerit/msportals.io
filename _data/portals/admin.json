@@ -15,13 +15,11 @@
             "url": "https://admin.microsoft.com"
           },
           {
-            "icon": "Alt",
-            "url": "https://portal.office365.com"
-          },
-          {
-            "icon": "Alt",
-            "url": "https://portal.microsoft.com"
+            "icon": "B2B",
+            "url": "https://admin.microsoft.com/Partner/BeginClientSession.aspx?CTID={tenant_id}&CSDEST=o365admincenter"
           }
+        ]
+      },
         ]
         
       },
