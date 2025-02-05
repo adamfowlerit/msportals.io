@@ -16,7 +16,6 @@
           },
           {
             "icon": "B2B",
-            "url": "https://admin.microsoft.com/Partner/BeginClientSession.aspx?CTID={tenant_id}&CSDEST=o365admincenter"
           }
         ]
       },
