@@ -1493,7 +1493,8 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Information Protection and Compliance Administrator Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/",
+	"note": "Retiring May 31st 2025"
       },
       {
         "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Exam",
@@ -1515,6 +1516,33 @@
       }
     ]
    }, 
+	 {
+    "groupName": "Security - Microsoft Certified: Information Security Administrator",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Information Security Administrator",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/"
+      },
+      {
+        "portalName": "SC-401: Administering Information Security in Microsoft 365 (beta)",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-401//"
+      },
+      {
+        "portalName": "SC-401 Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-401",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc401-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "SC-401: Administering Information Security in Microsoft 365 Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/sc-401t00"
+      }
+    ]
+   },
     {
     "groupName": "Business User - Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)",
     "portals": [
