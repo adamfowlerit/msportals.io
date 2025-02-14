@@ -66,6 +66,16 @@
         "primaryURL": "https://www.microsoft.com/en-us/corporate-responsibility/digital-skills/ai-skills-for-educators"
          },
         {
+        "portalName": "MakeCode Arcade",
+        "primaryURL": "https://arcade.makecode.com/",
+                "secondaryURLs": [
+          {
+            "icon": "Start Page",
+            "url": "https://www.microsoft.com/en-au/makecode"
+          }
+        ]
+         },
+        {
         "portalName": "Microsoft Imagine Cup Junior In-a-Box",
         "primaryURL": "https://imaginecup.microsoft.com/junior"
          }
