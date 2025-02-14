@@ -31,9 +31,9 @@
         "portalName": "Microsoft Education on YouTube",
         "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q"
          }
-    ]
   },
-  {
+  [
+   {
     "groupName": "Microsoft 365 Education Links",
     "portals": [
         {
@@ -45,6 +45,8 @@
         "primaryURL": "https://coach.microsoft.com/"
          }
     ]
+     },
+  ]
       {
     "groupName": "General Education Learning / Training Links",
     "portals": [
