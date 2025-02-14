@@ -31,8 +31,8 @@
         "portalName": "Microsoft Education on YouTube",
         "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q"
          }
+    ]
   },
-  [
    {
     "groupName": "Microsoft 365 Education Links",
     "portals": [
@@ -46,7 +46,6 @@
          }
     ]
      },
-  ]
       {
     "groupName": "General Education Learning / Training Links",
     "portals": [
