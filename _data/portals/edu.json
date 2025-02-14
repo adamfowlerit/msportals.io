@@ -6,13 +6,22 @@
         "portalName": "Microsoft Education",
         "primaryURL": "https://www.microsoft.com/education"
          },
+          {
+        "portalName": "Microsoft 365 Education Licensing Full Comparison Table",
+        "primaryURL": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/microsoft-education/downloadables/Modern_Work_Plan_Comparison-Education.pdf",
+        "note":"PDF"
+         },
         {
         "portalName": "Microsoft Learn Educator Center",
         "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec"
          },
+          {
+        "portalName": "Microsoft Learn Educator Center",
+        "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec"
+         },
         {
-        "portalName": "Microsoft Education Blog",
-        "primaryURL": "https://techcommunity.microsoft.com/category/educationsector/blog/educationblog"
+        "portalName": "Microsoft Education Support",
+        "primaryURL": "https://support.microsoft.com/home/contact/education"
          },
         {
         "portalName": "Microsoft Education on X",
@@ -36,23 +45,39 @@
         "primaryURL": "https://coach.microsoft.com/"
          }
     ]
-  },
-    {
-    "groupName": "Azure Education Links",
-    "portals": [
-        {
-        "portalName": "TBC",
-        "primaryURL": "https://microsoft.com"
-         }
-       ]
-  },
       {
-    "groupName": "Consumer Education Links",
+    "groupName": "General Education Learning / Training Links",
     "portals": [
         {
-        "portalName": "TBC",
-        "primaryURL": "https://microsoft.com"
+        "portalName": "Hacking STEM",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem"
+         },
+        {
+        "portalName": "Minecraft Education",
+        "primaryURL": "https://education.minecraft.net/"
+         },
+        {
+        "portalName": "Minecraft Education Australia",
+        "primaryURL": "https://education.minecraft.net/en-us/australia"
+         },
+              {
+        "portalName": "AI Skills for Educators",
+        "primaryURL": "https://www.microsoft.com/en-us/corporate-responsibility/digital-skills/ai-skills-for-educators"
+         },
+                    {
+        "portalName": "Microsoft Imagine Cup Junior In-a-Box",
+        "primaryURL": "https://imaginecup.microsoft.com/junior"
+         },
+              {
+        "portalName": "MakeCode Arcade",
+        "primaryURL": "https://arcade.makecode.com/"
+                "secondaryURLs": [
+          {
+            "icon": "Start Page",
+            "url": "https://www.microsoft.com/en-au/makecode"
+          }
+        ]
          }
        ]
-  }
+  },
 ]
