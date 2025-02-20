@@ -166,6 +166,11 @@
         "note": "GCC Moderate"
       },
       {
+        "portalName": "Power BI Admin Portal",
+        "primaryURL": "https://app.powerbigov.us/admin-portal",
+        "note": "GCC Moderate"
+      },
+      {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
         "note": "GCC Moderate"
