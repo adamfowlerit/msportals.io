@@ -937,7 +937,11 @@
       "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
       "primaryURL": "https://www.microsoftazurepass.com/"
     },
-     {
+    {
+      "portalName": "Azure Sponsorships - Billing and Usage Info",
+      "primaryURL": "https://www.microsoftazuresponsorships.com/"
+    },
+    {
       "portalName": "Customer Digital Experiences",
       "primaryURL": "https://cdx.transform.microsoft.com",
       "note": "Previously Demos.Microsoft.com"
