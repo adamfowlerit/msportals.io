@@ -360,15 +360,23 @@
     ]
   },
   {
-    "groupName": "Azure AI / ML Portals",
+    "groupName": "AI Portals",
     "portals": [
+    {
+        "portalName": "Microsoft AI",
+        "primaryURL": "https://microsoft.ai/"
+    }, 
+    {
+        "portalName": "Microsoft Copilot",
+        "primaryURL": "https://copilot.microsoft.com/"
+    },
+    {
+        "portalName": "Azure AI Foundry",
+        "primaryURL": "https://ai.azure.com/"
+    },
     {
         "portalName": "Azure AI Content Safety Studio",
         "primaryURL": "https://contentsafety.cognitive.azure.com/"
-    },
-    {
-        "portalName": "Azure AI Studio",
-        "primaryURL": "https://ai.azure.com"
     },
     {
         "portalName": "Azure Machine Learning Studio",
