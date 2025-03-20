@@ -46,6 +46,15 @@
          }
     ]
      },
+     {
+    "groupName": "Azure Education Links",
+    "portals": [
+        {
+        "portalName": "Microsoft Azure for Education - Students Sign Up",
+        "primaryURL": "https://azureforeducation.microsoft.com/"
+         }
+    ]
+     },
       {
     "groupName": "General Education Learning / Training Links",
     "portals": [
