@@ -53,9 +53,25 @@
      {
     "groupName": "Azure Education Links",
     "portals": [
-        {
-        "portalName": "Microsoft Azure for Education - Students Sign Up",
+      {
+        "portalName": "Azure Education Hub",
         "primaryURL": "https://azureforeducation.microsoft.com/"
+         },  
+      {
+        "portalName": "Azure Dev Tools for Teaching Signup",
+        "primaryURL": "https://signup.azure.com/studentverification?offerType=4"
+         },
+      {
+        "portalName": "Azure Dev Tools for Students Signup",
+        "primaryURL": "https://azureforeducation.microsoft.com/devtools"
+         },
+        {
+        "portalName": " Azure Dev Tools for Teaching Management Portal",
+        "primaryURL": "https://azureforeducation.microsoft.com/account/Subscriptions"
+         },
+        {
+        "portalName": " Azure Dev Tools for Teaching Support",
+        "primaryURL": "https://azureforeducation.microsoft.com/institutions/Contact"
          }
     ]
      },
