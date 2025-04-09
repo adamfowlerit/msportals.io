@@ -70,16 +70,20 @@
         "primaryURL": "https://azureforeducation.microsoft.com/devtools"
          },
         {
-        "portalName": " Azure Dev Tools for Teaching Management Portal",
+        "portalName": "Azure Dev Tools for Teaching Management Portal",
         "primaryURL": "https://azureforeducation.microsoft.com/account/Subscriptions"
          },
         {
-        "portalName": " Azure Dev Tools for Teaching Support",
+        "portalName": "Azure Dev Tools for Teaching Support",
         "primaryURL": "https://azureforeducation.microsoft.com/institutions/Contact"
          },
         {
-        "portalName": " Azure Students Sign Up",
+        "portalName": "Azure Students Sign Up",
         "primaryURL": "https://azure.microsoft.com/free/students/"
+         },
+        {
+        "portalName": "Azure Sponsorships",
+        "primaryURL": "https://www.microsoftazuresponsorships.com/"
          }
     ]
      },
