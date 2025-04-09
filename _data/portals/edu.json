@@ -41,6 +41,10 @@
         "primaryURL": "https://www.microsoft.com/education/products/microsoft-365"
          }, 
         {
+        "portalName": "School Data Sync",
+        "primaryURL": "https://sds.edu.cloud.microsoft/"
+         }, 
+        {
         "portalName": "Reading Coach",
         "primaryURL": "https://coach.microsoft.com/"
          }
