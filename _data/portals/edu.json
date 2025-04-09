@@ -72,6 +72,10 @@
         {
         "portalName": " Azure Dev Tools for Teaching Support",
         "primaryURL": "https://azureforeducation.microsoft.com/institutions/Contact"
+         },
+        {
+        "portalName": " Azure Students Sign Up",
+        "primaryURL": "https://azure.microsoft.com/free/students/"
          }
     ]
      },
