@@ -56,7 +56,11 @@
       {
         "portalName": "Azure Education Hub",
         "primaryURL": "https://azureforeducation.microsoft.com/"
-         },  
+         }, 
+            {
+        "portalName": "Azure Education Hub Software/Keys",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/software"
+         },
       {
         "portalName": "Azure Dev Tools for Teaching Signup",
         "primaryURL": "https://signup.azure.com/studentverification?offerType=4"
