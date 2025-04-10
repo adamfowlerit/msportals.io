@@ -99,6 +99,10 @@
         "primaryURL": "https://education.minecraft.net/"
          },
         {
+        "portalName": "Minecraft Education Download",
+        "primaryURL": "https://education.minecraft.net/en-us/get-started/download#"
+         },
+        {
         "portalName": "Minecraft Education Australia",
         "primaryURL": "https://education.minecraft.net/en-us/australia"
          },
