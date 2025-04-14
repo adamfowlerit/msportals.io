@@ -1,28 +1,40 @@
 [
-  {
-    "groupName": "Main Microsoft China Links",
-    "portals": [
-         {
-        "portalName": "Microsoft Education on YouTube",
-        "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q"
-         }
-    ]
-  },
    {
     "groupName": "Microsoft 365 China Links",
     "portals": [
         {
-        "portalName": "Reading Coach",
-        "primaryURL": "https://coach.microsoft.com/"
+        "portalName": "Microsoft 365 Admin",
+        "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal"
+         },
+        {
+        "portalName": "Microsoft 365 End User",
+        "primaryURL": "https://microsoft365.microsoftonline.cn"
+         },
+        {
+        "portalName": "Entra",
+        "primaryURL": "https://entra.microsoftonline.cn"
+         },
+        {
+        "portalName": "Intune",
+        "primaryURL": "https://intune.microsoftonline.cn"
+         },
+        {
+        "portalName": "Purview",
+        "primaryURL": "https://purview.microsoftonline.cn"
+         },
+        {
+        "portalName": "Security",
+        "primaryURL": " https://security.microsoftonline.cn"
          }
+      
     ]
      },
      {
     "groupName": "Azure China Links",
     "portals": [
         {
-        "portalName": "Azure Sponsorships",
-        "primaryURL": "https://www.microsoftazuresponsorships.com/"
+        "portalName": "Azure",
+        "primaryURL": "https://portal.azure.cn"
          }
     ]
    }
