@@ -1,0 +1,29 @@
+[
+  {
+    "groupName": "Main Microsoft China Links",
+    "portals": [
+         {
+        "portalName": "Microsoft Education on YouTube",
+        "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q"
+         }
+    ]
+  },
+   {
+    "groupName": "Microsoft 365 China Links",
+    "portals": [
+        {
+        "portalName": "Reading Coach",
+        "primaryURL": "https://coach.microsoft.com/"
+         }
+    ]
+     },
+     {
+    "groupName": "Azure China Links",
+    "portals": [
+        {
+        "portalName": "Azure Sponsorships",
+        "primaryURL": "https://www.microsoftazuresponsorships.com/"
+         }
+    ]
+   }
+  ]
