@@ -453,7 +453,7 @@
       },
       {
         "portalName": "Microsoft Defender for Identity (MDI)",
-        "primaryURL": "https://portal.atp.azure.com",
+        "primaryURL": "https://security.microsoft.com/",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
