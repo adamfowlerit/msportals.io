@@ -986,36 +986,6 @@
     ]
    },
 {
-    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-210/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-210 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/mb210-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00",
-	"note": "Retiring November 30, 2024"
-      }
-    ]
-   },
-{
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate",
     "portals": [
        {
