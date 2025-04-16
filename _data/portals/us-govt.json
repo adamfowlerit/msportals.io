@@ -187,7 +187,7 @@
       },
       {
         "portalName": "SharePoint Online Admin Center",
-        "primaryURL": "https://portal.apps.mil/SharePointDoD",
+        "primaryURL": "https://portal.apps.mil/SharePoint",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
