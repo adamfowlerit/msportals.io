@@ -35,23 +35,6 @@
         ]
       },
       {
-        "portalName": "Microsoft 365 network connectivity test",
-        "primaryURL": "https://connectivity.office.com"
-      },
-      {
-        "portalName": "Microsoft 365 Network Insights",
-        "primaryURL": "https://portal.office.com/adminportal/home#/networkperformance",
-        "note": "Preview"
-      },
-      {
-        "portalName": "Microsoft Call Quality Dashboard (Teams)",
-        "primaryURL": "https://cqd.teams.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Call Quality Dashboard (Lync)",
-        "primaryURL": "https://cqd.lync.com"
-      },
-      {
         "portalName": "Microsoft Intune Admin Center",
         "primaryURL": "https://intune.microsoft.com",
         "secondaryURLs": [
@@ -64,21 +47,19 @@
             "url": "https://endpoint.microsoft.com/"
           },
           {
+            "icon": "Alt 🔗",
+            "url": "https://devicemanagement.portal.azure.com"
+          },
+          {
+            "icon": "RC 🔗",
+            "url": "https://rc-devicemanagement.portal.azure.com",
+          },
+          {
             "icon": "B2B",
             "url": "https://intune.microsoft.com/{tenant_id}"
           }
         ],
         "note": "Endpoint Manager"
-      },
-      {
-        "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://rc-devicemanagement.portal.azure.com",
-        "note": "Release Candidate"
-      },
-      {
-        "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://devicemanagement.portal.azure.com",
-        "note": "Old"
       },
       {
         "portalName": "Microsoft Online",
@@ -198,6 +179,7 @@
         "portalName": "Kaizala Management Portal",
         "primaryURL": "https://manage.kaiza.la/"
       },
+      
       {
         "portalName": "My Applications (My Apps)",
         "primaryURL": "https://myapps.microsoft.com/"
@@ -773,7 +755,24 @@
       {
         "portalName": "Twitter - Microsoft 365 Status Page",
         "primaryURL": "https://twitter.com/MSFT365Status"
-      }
+      },
+      {
+        "portalName": "Microsoft 365 network connectivity test",
+        "primaryURL": "https://connectivity.office.com"
+      },
+      {
+        "portalName": "Microsoft 365 Network Insights",
+        "primaryURL": "https://portal.office.com/adminportal/home#/networkperformance",
+        "note": "Preview"
+      },
+      {
+        "portalName": "Microsoft Call Quality Dashboard (Teams)",
+        "primaryURL": "https://cqd.teams.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Call Quality Dashboard (Lync)",
+        "primaryURL": "https://cqd.lync.com"
+      },
     ]
   },
   {
