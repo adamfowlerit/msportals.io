@@ -1565,13 +1565,11 @@
     "portals": [
        {
         "portalName": "Microsoft Office Specialist: Outlook Expert (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/",
-        "note": "Coming Soon"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-outlook-2019/"
       },
       {
         "portalName": "MO-410: Microsoft Outlook (Microsoft 365 Apps) Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/",
-        "note": "Coming Soon"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/"
       },
       {
         "portalName": "MO-410 Exam Skills Outline",
