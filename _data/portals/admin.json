@@ -100,16 +100,6 @@
         ]
       },
       {
-        "portalName": "Power Apps ISV Studio",
-        "primaryURL": "https://isvstudio.powerapps.com/home",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/ISVStudio"
-          }
-        ]
-      },
-      {
         "portalName": "Power Apps Maker Portal",
         "primaryURL": "https://make.powerapps.com"
       },
