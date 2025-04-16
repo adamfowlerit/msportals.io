@@ -498,10 +498,6 @@
         "primaryURL": "https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx"
       },
       {
-        "portalName": "CloudKnox Permissions Management",
-        "primaryURL": "https://c1.app.mciem.cloudknox.io"
-      },
-      {
         "portalName": "Microsoft AccountGuard",
         "primaryURL": "https://accountguard.microsoft.com"
       },
@@ -622,11 +618,6 @@
       {
         "portalName": "JWT/MS Token Decoder",
         "primaryURL": "https://jwt.ms/"
-      },
-      {
-        "portalName": "Message Card Playground",
-        "primaryURL": "https://messagecardplayground.azurewebsites.net/",
-        "note": "New Tool - Actionable Message Designer"
       },
       {
         "portalName": "Microsoft Graph Toolkit",
