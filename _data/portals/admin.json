@@ -1011,7 +1011,7 @@
     },
     {
       "portalName": "Microsoft Reseller Profile Registration Portal",
-      "primaryURL": "https://reselleruat.microsoftcrmportals.com/"
+      "primaryURL": "https://reseller.microsoftcrmportals.com/"
     },
     {
       "portalName": "Microsoft Security Response Center",
@@ -1056,10 +1056,6 @@
           "url": "https://aka.ms/fluentui-icons"
         }
       ]
-    },
-    {
-      "portalName": "Outlook Oauth Sandbox",
-      "primaryURL": "https://myadevcenter.outlook.office365.com/"
     },
     {
       "portalName": "Outlook.com Smart Network Data Service",
