@@ -39,7 +39,11 @@
         {
         "portalName": "Microsoft 365 Education",
         "primaryURL": "https://www.microsoft.com/education/products/microsoft-365"
-         }, 
+         },
+        {
+        "portalName": "Microsoft Intune for Education",
+        "primaryURL": "https://intuneeducation.portal.azure.com"
+      },
         {
         "portalName": "School Data Sync",
         "primaryURL": "https://sds.edu.cloud.microsoft/"
@@ -106,6 +110,10 @@
         "portalName": "Minecraft Education Australia",
         "primaryURL": "https://education.minecraft.net/en-us/australia"
          },
+        {
+        "portalName": "Microsoft Store for Education",
+        "primaryURL": "https://educationstore.microsoft.com"
+      },
          {
         "portalName": "AI Skills for Educators",
         "primaryURL": "https://www.microsoft.com/en-us/corporate-responsibility/digital-skills/ai-skills-for-educators"
