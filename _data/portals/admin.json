@@ -145,23 +145,9 @@
         "primaryURL": "https://admin.microsoft.com/sharepoint"
       },
       {
-        "portalName": "SharePoint look book",
-        "primaryURL": "https://lookbook.microsoft.com/"
-      },
-      {
-        "portalName": "Skype for Business admin center",
-        "primaryURL": "https://webdir2a.online.lync.com/LSCP",
-        "note": "Deprecated"
-      },
-      {
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin"
       },
-      {
-        "portalName": "Kaizala Management Portal",
-        "primaryURL": "https://manage.kaiza.la/"
-      },
-      
       {
         "portalName": "My Applications (My Apps)",
         "primaryURL": "https://myapps.microsoft.com/"
@@ -363,17 +349,8 @@
         "primaryURL": "https://www.luis.ai/"
     },
     {
-        "portalName": "QnA Maker Portal",
-        "primaryURL": "https://www.qnamaker.ai/"
-    },
-    {
         "portalName": "Speech Studio",
         "primaryURL": "https://speech.microsoft.com/"
-    },
-    {
-        "portalName": "Vision Studio",
-        "primaryURL": "https://preview.vision.azure.com/",
-        "note": "Preview"
     },
     {
         "portalName": "Video Indexer",
