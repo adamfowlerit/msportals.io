@@ -87,13 +87,7 @@
       },
       {
         "portalName": "Microsoft 365 Maps - Licensing Diagrams",
-        "primaryURL": "https://m365maps.com/",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/AaronDinnage/Licensing/"
-          }
-        ]
+        "primaryURL": "https://m365maps.com/"
       },
       {
         "portalName": "Microsoft Acronyms Glossary",
