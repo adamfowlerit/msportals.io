@@ -403,7 +403,7 @@
       },
       {
         "portalName": "Microsoft License Advisor",
-        "primaryURL": "https://mla.microsoft.com"
+        "primaryURL": "https://mla-uat.microsoft.com"
       },
       {
         "portalName": "Microsoft Services Hub",
@@ -1118,6 +1118,10 @@
           "url": "https://aka.ms/VideoHub"
         }
       ]
+    },
+    {
+      "portalName": "Volume Licensing Central",
+      "primaryURL": "https://vlcentral.microsoft.com/"
     },
     {
       "portalName": "Windows 365 Subscription URL",
