@@ -62,8 +62,8 @@
         ]
       },
       {
-        "portalName": "Group Policy Administrative Templates Catalog",
-        "primaryURL": "https://admx.help/"
+        "portalName": "ADMX Viewer",
+        "primaryURL": "https://gpedit.tplant.com.au/"
       },
        {
         "portalName": "Group Policy Search",
