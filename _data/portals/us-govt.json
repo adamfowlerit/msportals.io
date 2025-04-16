@@ -42,7 +42,7 @@
       },
       {
         "portalName": "Microsoft 365 Security",
-        "primaryURL": "https://security.microsoft.us/homepage",
+        "primaryURL": "https://security.microsoft.com/homepage",
         "note": "GCC"
       },
       {
@@ -62,7 +62,7 @@
       },
       {
         "portalName": "Microsoft Defender for Identity",
-        "primaryURL": "https://portal.atp.azure.us/",
+        "primaryURL": "https://security.microsoft.com",
         "note": "GCC"
       },
       {
@@ -103,6 +103,11 @@
       {
         "portalName": "Security & Compliance",
         "primaryURL": "https://scc.office365.us/homepage",
+        "note": "GCC High"
+      },
+      {
+        "portalName": "Security",
+        "primaryURL": "https://security.microsoft.us",
         "note": "GCC High"
       },
       {
