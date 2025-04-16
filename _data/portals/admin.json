@@ -62,14 +62,6 @@
         "note": "Endpoint Manager"
       },
       {
-        "portalName": "Microsoft Online",
-        "primaryURL": "https://portal.microsoftonline.com/IWDefault.aspx"
-      },
-      {
-        "portalName": "Microsoft Store for Business",
-        "primaryURL": "https://businessstore.microsoft.com"
-      },
-      {
         "portalName": "Microsoft Stream Admin Center",
         "primaryURL": "https://web.microsoftstream.com/admin"
       },
