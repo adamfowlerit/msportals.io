@@ -94,6 +94,10 @@
         "primaryURL": "https://tpm.ms/TLA"
       },
       {
+        "portalName": "Microsoft Certification Hub",
+        "primaryURL": "https://certs.msfthub.wiki/"
+      },
+      {
         "portalName": "Microsoft Mac Downloads",
         "primaryURL": "https://macadmins.software/"
       },
@@ -107,7 +111,7 @@
         "primaryURL": "https://jwt.ms/"
       },
       {
-        "portalName": "Microsoft WDAC Wizard",
+        "portalName": "Microsoft App Control Policy Wizard",
         "primaryURL": "https://webapp-wdac-wizard.azurewebsites.net/"
       },
       {
