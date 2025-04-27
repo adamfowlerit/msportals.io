@@ -718,11 +718,7 @@
       {
         "portalName": "Microsoft Call Quality Dashboard (Teams)",
         "primaryURL": "https://cqd.teams.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Call Quality Dashboard (Lync)",
-        "primaryURL": "https://cqd.lync.com"
-      },
+      }
     ]
   },
   {
