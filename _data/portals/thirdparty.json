@@ -23,8 +23,8 @@
         "primaryURL": "https://blueprint.asd.gov.au/"
       },
       {
-        "portalName": "Azure Charts",
-        "primaryURL": "https://azurecharts.com/"
+        "portalName": "Azure Periodic Table",
+        "primaryURL": "https://www.azureperiodictable.com/"
       },
       {
         "portalName": "Azure Diagrams",
@@ -180,7 +180,7 @@
             {
         "portalName": "M365PSProfile",
         "primaryURL": "https://www.powershellgallery.com/packages/M365PSProfile/0.5.0",
-        "note": "Updates all M365 PowerShell Modues"
+        "note": "Updates all M365 PowerShell Modules"
       }
      ]
     }
