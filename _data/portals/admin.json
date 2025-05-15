@@ -26,7 +26,7 @@
       },
       {
         "portalName": "Exchange Admin Center (EAC)",
-        "primaryURL": "https://admin.cloud.microsoft/exchange#/",
+        "primaryURL": "https://admin.cloud.microsoft/exchange#/homepage",
         "secondaryURLs": [
           {
             "icon": "Old 🔗",
