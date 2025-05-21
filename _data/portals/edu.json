@@ -51,13 +51,22 @@
         {
         "portalName": "School Data Sync",
         "primaryURL": "https://sds.edu.cloud.microsoft/"
+         }
+    ]
+     },
+     {
+    "groupName": "Microsoft 365 Student Education Links",
+    "portals": [
+        {
+        "portalName": "Math Solver",
+        "primaryURL": "https://math.microsoft.com/"
          }, 
         {
         "portalName": "Reading Coach",
         "primaryURL": "https://coach.microsoft.com/"
          }
-    ]
-     },
+   ]
+     },  
      {
     "groupName": "Azure Education Links",
     "portals": [
