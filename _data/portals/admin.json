@@ -470,6 +470,10 @@
         "portalName": "Microsoft Defender for Internet of Things (IoT)",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_IoT_Defender/IoTDefenderDashboard"
       },
+     {
+        "portalName": "Microsoft Defender API Explorer",
+        "primaryURL": "https://security.microsoft.com/interoperability/api-explorer"
+      },
       {
         "portalName": "Microsoft Defender ATP Testground",
         "primaryURL": "https://demo.wd.microsoft.com/"
