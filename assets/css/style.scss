@@ -177,10 +177,10 @@
     color: #333;
   }
 .container {
-  width: 100vw;
-  max-width: none;
-  margin: 0;
-  padding-left: 10px;
-  padding-right: 10px;
+  max-width: none !important;
+  width: 100vw !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 }
