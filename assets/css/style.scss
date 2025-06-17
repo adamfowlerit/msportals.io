@@ -176,4 +176,11 @@
     border-color: black;
     color: #333;
   }
+.container {
+  width: 100vw;
+  max-width: none;
+  margin: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 }
