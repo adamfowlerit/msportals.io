@@ -116,18 +116,11 @@
   text-shadow: 1px 1px #000000;
   box-shadow: 0 1px #444444;
 }
-.container {
-    width: 100vw;
-    max-width: none;
-    margin: 0;
-    padding-left: 0;
-    padding-right: 0;
-}
-@media (min-width: 1024px){
-    .container {
-        width: 25%;
-    }
-}
+
+@media (min-width: 1024px) {
+  .quickfilter {
+    width: 25%;
+  }
 
   .portal {
     flex-wrap: nowrap; 
