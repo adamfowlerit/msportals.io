@@ -44,6 +44,10 @@
         "portalName": "Microsoft Learn Cloud Games",
         "primaryURL": "https://learn.microsoft.com/training/cloud-games"
       },
+	{
+        "portalName": "Microsoft Technical Quest",
+        "primaryURL": "https://mtq.microsoft.com/"
+      },
       {
         "portalName": "ExpertZone",
         "primaryURL": "https://expertzone.microsoft.com/",
