@@ -900,6 +900,10 @@
       "note": "Previously Demos.Microsoft.com"
     },
     {
+      "portalName": "Customer Voice",
+      "primaryURL": "https://customervoice.microsoft.com/"
+    },
+    {
       "portalName": "Deployment Guides for Microsoft 365 ",
       "primaryURL": "https://assistants.microsoft.com/"
     },
