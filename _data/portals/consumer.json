@@ -1,0 +1,12 @@
+[
+   {
+    "groupName": "Microsoft 365 China Links",
+    "portals": [
+        {
+        "portalName": "Microsoft 365 Admin",
+        "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal"
+         }
+    
+    ]
+     }
+  ]
