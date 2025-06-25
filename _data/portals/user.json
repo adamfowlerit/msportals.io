@@ -518,13 +518,4 @@
             }
         ]
     }
-       {
-        "groupName": "Consumer Portals",
-        "portals": [
-            {
-                "portalName": "Defender for Web",
-                "primaryURL": "https://mydefender.microsoft.com/"
-            }
-    ]
-  }
-]
+  ]
