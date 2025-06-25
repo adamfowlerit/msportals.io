@@ -1,10 +1,10 @@
 [
    {
-    "groupName": "Microsoft 365 China Links",
+    "groupName": "Microsoft 365 Consumer",
     "portals": [
         {
-        "portalName": "Microsoft 365 Admin",
-        "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal"
+        "portalName": "Defender for Web",
+        "primaryURL": "https://mydefender.microsoft.com"
          }
     
     ]
