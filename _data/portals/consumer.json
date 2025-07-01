@@ -1,11 +1,79 @@
 [
    {
+    "groupName": "Microsoft General",
+    "portals": [
+        {
+        "portalName": "Microsoft",
+        "primaryURL": "https://microsoft.com"
+         },
+        {
+        "portalName": "Microsoft Support",
+        "primaryURL": "https://support.microsoft.com"
+         },
+         {
+        "portalName": "Microsoft Account",
+        "primaryURL": "https://account.microsoft.com/"
+         },
+       {
+        "portalName": "Family Safety",
+        "primaryURL": "https://account.microsoft.com/family/home"
+         },
+         {
+        "portalName": "Microsoft Store",
+        "primaryURL": "https://microsoft.com/store"
+         }
+        ]
+     },
+   {
     "groupName": "Microsoft 365 Consumer",
     "portals": [
+         {
+        "portalName": "Microsoft 365",
+        "primaryURL": "https://microsoft365.com"
+         },
         {
         "portalName": "Defender for Web",
         "primaryURL": "https://mydefender.microsoft.com"
          }
         ]
+     },
+{
+    "groupName": "Microsoft Apps",
+    "portals": [
+         {
+        "portalName": "Copilot",
+        "primaryURL": "https://copilot.microsoft.com"
+         }, 
+       {
+        "portalName": "OneDrive",
+        "primaryURL": "https://onedrive.live.com/"
+         }, 
+       {
+        "portalName": "Teams",
+        "primaryURL": "https://teams.live.com/"
+         }
+       {
+        "portalName": "Outlook",
+        "primaryURL": "https://outlook.com"
+         }
+        ]
+     },
+   {
+    "groupName": "Bing",
+    "portals": [
+       {          
+        "portalName": "Bing",
+        "primaryURL": "https://bing.com"
+        }
+    ]
+   {
+    "groupName": "Xbox",
+    "portals": [
+        {
+        "portalName": "Xbox Official Site",
+        "primaryURL": "https://www.xbox.com/"
+         }
+        ]
      }
+]
   ]
