@@ -64,8 +64,9 @@
        {          
         "portalName": "Bing",
         "primaryURL": "https://bing.com"
-        },
+        }
     ]
+   },
    {
     "groupName": "Xbox",
     "portals": [
