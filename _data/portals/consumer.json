@@ -12,7 +12,8 @@
          },
          {
         "portalName": "Microsoft Account",
-        "primaryURL": "https://account.microsoft.com/"
+        "primaryURL": "https://account.microsoft.com/",
+        "notes": "Includes Your Info, Subscriptions, Devices, Security, Privacy, Order History, Payment options, Address book"
          },
          {
         "portalName": "Microsoft Account Recovery (Password Reset)",
