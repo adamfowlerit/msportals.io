@@ -11,11 +11,6 @@
         "primaryURL": "https://support.microsoft.com"
          },
          {
-        "portalName": "Microsoft Account",
-        "primaryURL": "https://account.microsoft.com/",
-        "note": "Includes Your Info, Subscriptions, Devices, Security, Privacy, Order History, Payment options, Address book"
-         },
-         {
         "portalName": "Microsoft Account Recovery (Password Reset)",
         "primaryURL": "https://account.live.com/password/reset"
          },
@@ -37,6 +32,51 @@
          }
         ]
      },
+ {
+    "groupName": "Microsoft Account",
+    "portals": [
+         {
+        "portalName": "Microsoft Account",
+        "primaryURL": "https://account.microsoft.com/",
+        },
+         {
+        "portalName": "Microsoft Account - Your Info",
+        "primaryURL": "https://account.microsoft.com/profile",
+        },
+       {
+        "portalName": "Microsoft Account - Subscriptions",
+        "primaryURL": "https://account.microsoft.com/services",
+        },
+       {
+        "portalName": "Microsoft Account - Devices",
+        "primaryURL": "https://account.microsoft.com/devices",
+        },
+       {
+        "portalName": "Microsoft Account - Devices - Find my device",
+        "primaryURL": "https://account.microsoft.com/devices/find-my-device",
+        },
+       {
+        "portalName": "Microsoft Account - Security",
+        "primaryURL": "https://account.microsoft.com/security",
+        },
+       {
+        "portalName": "Microsoft Account - Privacy",
+        "primaryURL": "https://account.microsoft.com/privacy",
+        },
+       {
+        "portalName": "Microsoft Account - Order History",
+        "primaryURL": "https://account.microsoft.com/billing",
+        },
+       {
+        "portalName": "Microsoft Account - Payment Options",
+        "primaryURL": "https://account.microsoft.com/payments",
+        },
+       {
+        "portalName": "Microsoft Account - Address Book",
+        "primaryURL": "https://account.microsoft.com/billing/addresses",
+        }
+    ]
+ },
    {
     "groupName": "Microsoft 365 Consumer",
     "portals": [
@@ -65,6 +105,22 @@
         "portalName": "Teams",
         "primaryURL": "https://teams.live.com/"
          },
+      {
+        "portalName": "To-do",
+        "primaryURL": "https://to-do.live.com/"
+         },
+        {
+        "portalName": "Designer",
+        "primaryURL": "https://designer.microsoft.com/"
+         },
+        {
+        "portalName": "OneNote",
+        "primaryURL": "https://www.onenote.com"
+         },
+       {
+        "portalName": "ClipChamp",
+        "primaryURL": "https://clipchamp.com"
+         },
        {
         "portalName": "Outlook",
         "primaryURL": "https://outlook.com"
@@ -79,8 +135,25 @@
         "primaryURL": "https://bing.com"
         },
        {          
+        "portalName": "Bing Account Settings",
+        "primaryURL": "https://www.bing.com/account/"
+        },
+       {          
         "portalName": "Rewards",
         "primaryURL": "https://rewards.bing.com"
+        }
+    ]
+   },
+   {
+    "groupName": "Microsoft Edge",
+    "portals": [
+       {          
+        "portalName": "Edge",
+        "primaryURL": "https://microsoftedge.microsoft.com/"
+        },
+       {          
+        "portalName": "Edge Add-ons",
+        "primaryURL": "https://microsoftedge.microsoft.com/addons/"
         }
     ]
    },
@@ -90,6 +163,10 @@
         {
         "portalName": "Xbox Official Site",
         "primaryURL": "https://www.xbox.com/"
+         },
+         {
+        "portalName": "Xbox Family Settings",
+        "primaryURL": "https://www.xbox.com/family-hub"
          }
         ]
      },
@@ -99,6 +176,26 @@
         {
         "portalName": "Consumer Feedback Australia",
         "primaryURL": "https://www.microsoft.com/en-au/microsoftfeedback/"
+         },
+         {
+        "portalName": "MSN News",
+        "primaryURL": "https://www.msn.com"
+         },
+                {
+        "portalName": "Microsoft Insider",
+        "primaryURL": "http://insider.microsoft.com/"
+         },
+         {
+        "portalName": "Seeing AI",
+        "primaryURL": "https://www.seeingai.com/"
+         },
+         {
+        "portalName": "Microsoft Services Agreement",
+        "primaryURL": "https://www.microsoft.com/servicesagreement"
+         },
+         {
+        "portalName": "Microsoft Garage",
+        "primaryURL": "https://www.microsoft.com/garage/"
          }
         ]
      }
