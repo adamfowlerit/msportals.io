@@ -27,6 +27,10 @@
         "primaryURL": "https://account.microsoft.com/family/home"
          },
          {
+        "portalName": "Microsoft Movies & TV",
+        "primaryURL": "https://www.microsoft.com/movies-and-tv"
+         },
+         {
         "portalName": "Microsoft Store",
         "primaryURL": "https://microsoft.com/store"
          }
@@ -72,6 +76,10 @@
        {          
         "portalName": "Bing",
         "primaryURL": "https://bing.com"
+        },
+       {          
+        "portalName": "Rewards",
+        "primaryURL": "https://rewards.bing.com"
         }
     ]
    },
@@ -81,6 +89,15 @@
         {
         "portalName": "Xbox Official Site",
         "primaryURL": "https://www.xbox.com/"
+         }
+        ]
+     },
+   {
+   "groupName": "Other",
+    "portals": [
+        {
+        "portalName": "Consumer Feedback Australia",
+        "primaryURL": "https://www.microsoft.com/en-au/microsoftfeedback/"
          }
         ]
      }
