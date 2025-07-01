@@ -14,6 +14,14 @@
         "portalName": "Microsoft Account",
         "primaryURL": "https://account.microsoft.com/"
          },
+         {
+        "portalName": "Microsoft Account Recovery (Password Reset)",
+        "primaryURL": "https://account.live.com/password/reset"
+         },
+        {
+        "portalName": "Microsoft Account Recovery (Recover Your Account)",
+        "primaryURL": "https://account.live.com/acsr"
+         },
        {
         "portalName": "Family Safety",
         "primaryURL": "https://account.microsoft.com/family/home"
