@@ -37,7 +37,7 @@
          }
         ]
      },
-{
+    {
     "groupName": "Microsoft Apps",
     "portals": [
          {
@@ -51,7 +51,7 @@
        {
         "portalName": "Teams",
         "primaryURL": "https://teams.live.com/"
-         }
+         },
        {
         "portalName": "Outlook",
         "primaryURL": "https://outlook.com"
@@ -64,7 +64,7 @@
        {          
         "portalName": "Bing",
         "primaryURL": "https://bing.com"
-        }
+        },
     ]
    {
     "groupName": "Xbox",
@@ -76,4 +76,3 @@
         ]
      }
 ]
-  ]
