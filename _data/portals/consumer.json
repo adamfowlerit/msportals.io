@@ -117,6 +117,10 @@
         "portalName": "OneNote",
         "primaryURL": "https://www.onenote.com"
          },
+         {
+        "portalName": "Loop",
+        "primaryURL": "https://loop.cloud.microsom"
+         },
        {
         "portalName": "ClipChamp",
         "primaryURL": "https://clipchamp.com"
@@ -165,6 +169,14 @@
         "primaryURL": "https://www.xbox.com/"
          },
          {
+        "portalName": "Xbox Cloud Gaming",
+        "primaryURL": "https://www.xbox.com/play"
+         },
+         {
+        "portalName": "Xbox Design Lab",
+        "primaryURL": "https://xboxdesignlab.xbox.com/"
+         },
+         {
         "portalName": "Xbox Family Settings",
         "primaryURL": "https://www.xbox.com/family-hub"
          }
@@ -181,9 +193,13 @@
         "portalName": "MSN News",
         "primaryURL": "https://www.msn.com"
          },
-                {
+         {
         "portalName": "Microsoft Insider",
         "primaryURL": "http://insider.microsoft.com/"
+         },
+                {
+        "portalName": "Powertoys",
+        "primaryURL": "https://learn.microsoft.com/windows/powertoys/"
          },
          {
         "portalName": "Seeing AI",
