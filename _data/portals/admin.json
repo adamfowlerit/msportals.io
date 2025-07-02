@@ -133,10 +133,6 @@
         ]
       },
       {
-        "portalName": "Power Virtual Agents Portal",
-        "primaryURL": "https://powerva.microsoft.com"
-      },
-      {
         "portalName": "Phone Number Service Center",
         "primaryURL": "https://pstnsd.powerappsportals.com/"
       },
