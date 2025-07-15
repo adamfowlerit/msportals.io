@@ -353,6 +353,10 @@
         "primaryURL": "https://speech.microsoft.com/"
     },
     {
+        "portalName": "Security Copilot Calculator",
+        "primaryURL": "https://securitycopilot.microsoft.com/calculator"
+    },
+    {
         "portalName": "Video Indexer",
         "primaryURL": "https://www.videoindexer.ai/"
     }
