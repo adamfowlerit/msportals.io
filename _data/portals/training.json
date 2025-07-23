@@ -1261,69 +1261,7 @@
       }
     ]
    },
-
-  {
-    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-220/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-220 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-220",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/mb220-StudyGuide"
-          }
-        ]
-      },
         {
-        "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-220t00",
-	"note": "Retiring November 30, 2024"
-      }
-    ]
-   },
-
-{
-    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-260/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-260 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-260",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/mb260-StudyGuide"
-          } 
-        ]
-      },
-        {
-        "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-260t00",
-	"note": "Retiring November 30, 2024"
-      }
-    ]
-   }, 
-    {
 "groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
     "portals": [
        {
@@ -1458,34 +1396,6 @@
       }
     ]
    },
- {
-    "groupName": "Security - Microsoft Certified: Information Protection and Compliance Administrator Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Information Protection and Compliance Administrator Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/",
-	"note": "Retiring May 31st 2025"
-      },
-      {
-        "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/sc-400/"
-      },
-      {
-        "portalName": "SC-400 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-400",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/sc400-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/sc-400t00"
-      }
-    ]
-   }, 
 	 {
     "groupName": "Security - Microsoft Certified: Information Security Administrator",
     "portals": [
