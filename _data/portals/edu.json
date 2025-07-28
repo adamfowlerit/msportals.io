@@ -156,7 +156,7 @@
        ]
   },
      {
-    "groupName": "Microsoft Learning/Training links for students (3rd Party)",
+    "groupName": "Microsoft Learning/Training links for students/university/college (3rd Party)",
     "portals": [
         {
         "portalName": "Year 13",
@@ -167,6 +167,26 @@
         "portalName": "Australia NSW Gov Institute of Applied Technology",
         "primaryURL": "https://www.iat.nsw.edu.au/iat-digital",
         "note": "Free Microskills Courses"
+      },
+       {
+        "portalName": "Microsoft Early In Profession",
+        "primaryURL": "https://careers.microsoft.com/v2/global/en/students",
+        "note": "Materials/Guidance for Higher Ed Graduates"
+      },
+      {
+        "portalName": "GitHub Global Campus",
+        "primaryURL": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student#applying-to-github-global-campus",
+        "note": "Free GitHub Training Materials"
+      },
+       {
+        "portalName": "Microsoft Azure for Students",
+        "primaryURL": "https://azure.microsoft.com/free/students/",
+        "note": "Free Azure Credit and Free Azure Products"
+      },
+       {
+        "portalName": "Microsoft Learn Student Ambassadors",
+        "primaryURL": "https://mvp.microsoft.com/studentambassadors",
+        "note": "Free Training & Support for Higher Education Students"
       },
         {
         "portalName": "Microsoft Learn Training",
