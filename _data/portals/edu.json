@@ -154,5 +154,25 @@
         "primaryURL": "https://unlocked.microsoft.com"
          }
        ]
+  },
+     {
+    "groupName": "Microsoft Learning/Training links for students (3rd Party)",
+    "portals": [
+        {
+        "portalName": "Year 13",
+        "primaryURL": "https://year13.com.au/academy",
+        "note": "Free Online Learning Tool for School Leavers"
+         },
+        {
+        "portalName": "Australia NSW Gov Institute of Applied Technology",
+        "primaryURL": "https://www.iat.nsw.edu.au/iat-digital",
+        "note": "Free Microskills Courses"
+      },
+        {
+        "portalName": "Microsoft Learn Training",
+        "primaryURL": "https://learn.microsoft.com/training/",
+        "note": "Free Official Microsoft Learning Plans and Training "
+         }
+    ]
   }
 ]
