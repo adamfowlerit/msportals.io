@@ -188,7 +188,12 @@
         "primaryURL": "https://mvp.microsoft.com/studentambassadors",
         "note": "Free Training & Support for Higher Education Students"
       },
-        {
+      {
+        "portalName": "Microsoft Student Accelerator",
+        "primaryURL": "https://www.meetup.com/anz-microsoft-student-accelerator/?msockid=07ed0ed2b244679436111cb8b3be66fe",
+        "note": "Free Meetup for Australia and New Zealand"
+      },
+       {
         "portalName": "Microsoft Learn Training",
         "primaryURL": "https://learn.microsoft.com/training/",
         "note": "Free Official Microsoft Learning Plans and Training "
