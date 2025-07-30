@@ -128,6 +128,10 @@
         "primaryURL": "https://education.minecraft.net/en-us/get-started/download#"
          },
         {
+        "portalName": "Minecraft Education Support",
+        "primaryURL": "https://edusupport.minecraft.net/"
+         },
+        {
         "portalName": "Minecraft Education Australia",
         "primaryURL": "https://education.minecraft.net/en-us/australia"
          },
