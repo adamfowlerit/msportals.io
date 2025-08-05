@@ -1,6 +1,6 @@
 [
    {
-    "groupName": "Microsoft General",
+    "groupName": "Consumer - Microsoft General",
     "portals": [
         {
         "portalName": "Microsoft",
@@ -33,7 +33,7 @@
         ]
      },
  {
-    "groupName": "Microsoft Account",
+    "groupName": "Consumer - Microsoft Account",
     "portals": [
          {
         "portalName": "Microsoft Account",
@@ -78,7 +78,7 @@
     ]
  },
    {
-    "groupName": "Microsoft 365 Consumer",
+    "groupName": "Consumer - Microsoft 365",
     "portals": [
          {
         "portalName": "Microsoft 365",
@@ -91,7 +91,7 @@
         ]
      },
     {
-    "groupName": "Microsoft Apps",
+    "groupName": "Consumer - Microsoft Apps",
     "portals": [
          {
         "portalName": "Copilot",
@@ -132,7 +132,7 @@
         ]
      },
    {
-    "groupName": "Bing",
+    "groupName": "Consumer - Bing",
     "portals": [
        {          
         "portalName": "Bing",
@@ -149,7 +149,7 @@
     ]
    },
    {
-    "groupName": "Microsoft Edge",
+    "groupName": "Consumer - Microsoft Edge",
     "portals": [
        {          
         "portalName": "Edge",
@@ -183,7 +183,7 @@
         ]
      },
    {
-   "groupName": "Other",
+   "groupName": "Consumer - Other",
     "portals": [
         {
         "portalName": "Consumer Feedback Australia",
