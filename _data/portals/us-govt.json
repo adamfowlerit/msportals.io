@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "Shared",
+    "groupName": "US Gov - Shared",
     "portals": [
       {
         "portalName": "Intune Web Company Portal",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "groupName": "GCC",
+    "groupName": "US Gov - GCC",
     "portals": [
       {
         "portalName": "Microsoft 365 Compliance",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "groupName": "GCC High",
+    "groupName": "US Gov - GCC High",
     "portals": [
        {
         "portalName": "Azure Portal",
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "groupName": "GCC Moderate",
+    "groupName": "US Gov - GCC Moderate",
     "portals": [
       {
         "portalName": "Power Apps Maker Portal",
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "groupName": "DoD",
+    "groupName": "US Gov - DoD",
     "portals": [
       {
         "portalName": "Microsoft 365 Admin Portal",
