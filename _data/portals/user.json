@@ -273,6 +273,19 @@
         ]
     },
     {
+        "groupName": "End User - Accessability",
+        "portals": [
+            {
+                "portalName": "Microsoft Accessibility",
+                "primaryURL": "https://www.microsoft.com/accessibility"
+            },
+            {
+                "portalName": "Microsoft Translator",
+                "primaryURL": "https://translator.microsoft.com/"
+            }
+        ]
+    },
+    {
         "groupName": "End User Portals - General",
         "portals": [
             {
