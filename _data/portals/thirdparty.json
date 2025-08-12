@@ -86,6 +86,16 @@
         "primaryURL": "https://mha.azurewebsites.net"
       },
       {
+        "portalName": "Microsoft 365 Custom CSS Designer",
+        "primaryURL": "https://ms365-css-designer.vercel.app",
+        "secondaryURLs": [
+          {
+            "icon": "GitHub",
+            "url": "https://github.com/shadow578/ms365-css-designer"
+          }
+        ]
+      },
+      {
         "portalName": "Microsoft 365 Maps - Licensing Diagrams",
         "primaryURL": "https://m365maps.com/"
       },
