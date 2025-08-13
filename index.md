@@ -3,7 +3,7 @@ layout: page
 title: All MS Portals
 search: true
 ---
-Welcome to this community driven project to list all of Microsoft's portals in one place. [Submit an issue](https://github.com/adamfowlerit/msportals.io/issues) for any amendments to these links.
+Welcome to this community driven project to list all of Microsoft's portals (and some third party portals) in one place. [Submit an issue](https://github.com/adamfowlerit/msportals.io/issues) for any amendments to these links.
 
 {% include portal.html portal="admin" %}
 {% include portal.html portal="user" %}
