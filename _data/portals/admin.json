@@ -99,6 +99,10 @@
           }
         ]
       },
+       {
+        "portalName": "Microsoft Teams Places Space Management",
+        "primaryURL": "https://places.cloud.microsoft/places/admin/space-management"
+      },
       {
         "portalName": "Power Apps Maker Portal",
         "primaryURL": "https://make.powerapps.com"
