@@ -85,7 +85,9 @@ msportalsIO.getJSON = async function() {
 function convertToHTML(object) {
 	console.log(object);
 	
-	if (object.every(value => value === undefined)) { return }
+	if (!object || object.length === 0 || object.every(value => value === undefined)) { 
+		return []; // Return empty array instead of undefined
+	}
 	
 	// Use DocumentFragment for better performance
 	const fragment = document.createDocumentFragment();
@@ -202,8 +204,15 @@ function convertToHTML(object) {
 }
 
 function appendToDocument(html, htmlNode) {
+	if (!html || html.length === 0) {
+		console.log('No HTML elements to append');
+		return;
+	}
+	
 	for (const htmlChunk of html) {
-		htmlNode.append(htmlChunk);
+		if (htmlChunk) {
+			htmlNode.append(htmlChunk);
+		}
 	}
 }
 
@@ -353,25 +362,42 @@ function addFavoriteEventListeners(object) {
 	
 	msportalsIO.getJSON()
 	.then(json => {
-		if (loadingIndicator) {
-			loadingIndicator.textContent = 'Rendering portals...';
-		}
-		
-		// Use requestAnimationFrame for smooth rendering
-		requestAnimationFrame(() => {
-			let html = convertToHTML(json);
-			appendToDocument(html, mainContainer);
-			
-			addFavoriteEventListeners(json);
-			
-			// Initialize search cache after DOM is ready
-			if (typeof initializeSearchCache === 'function') {
-				initializeSearchCache();
+		// If no data was loaded, provide a fallback message
+		if (!json || json.length === 0) {
+			console.warn('No portal data loaded, showing fallback message');
+			const fallbackHTML = document.createElement('div');
+			fallbackHTML.innerHTML = `
+				<h3>Portal data temporarily unavailable</h3>
+				<p>The Microsoft portals data could not be loaded. This may be due to network restrictions or temporary service issues.</p>
+				<p>Please try:</p>
+				<ul>
+					<li>Refreshing the page</li>
+					<li>Checking your internet connection</li>
+					<li>Visiting <a href="https://msportals.io" target="_blank" rel="noopener noreferrer">msportals.io</a> directly</li>
+				</ul>
+			`;
+			mainContainer.appendChild(fallbackHTML);
+		} else {
+			if (loadingIndicator) {
+				loadingIndicator.textContent = 'Rendering portals...';
 			}
 			
-			const loadTime = performance.now() - startTime;
-			console.log(`Portal data loaded and rendered in ${loadTime.toFixed(2)}ms`);
-		});
+			// Use requestAnimationFrame for smooth rendering
+			requestAnimationFrame(() => {
+				let html = convertToHTML(json);
+				appendToDocument(html, mainContainer);
+				
+				addFavoriteEventListeners(json);
+				
+				// Initialize search cache after DOM is ready
+				if (typeof initializeSearchCache === 'function') {
+					initializeSearchCache();
+				}
+				
+				const loadTime = performance.now() - startTime;
+				console.log(`Portal data loaded and rendered in ${loadTime.toFixed(2)}ms`);
+			});
+		}
 	})
 	.catch(err => {
 		console.trace(err);
