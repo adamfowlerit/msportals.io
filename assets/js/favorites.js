@@ -34,9 +34,6 @@ function generateSavedLinksHTML() {
   if (savedLinks != null && savedLinks.length > 0) {
     let groups = new Set(savedLinks.map((i) => i.groupName));
 
-    // Use DocumentFragment for better performance
-    const fragment = document.createDocumentFragment();
-
     groups.forEach((group) => {
       let groupPortals = savedLinks.filter(
         (portal) => portal.groupName === group
@@ -44,13 +41,11 @@ function generateSavedLinksHTML() {
 
       let portalGroup = document.createElement("div");
       portalGroup.classList = "portal-group";
+      document.getElementsByClassName("entry")[0].appendChild(portalGroup);
 
       let heading = document.createElement("h2");
       heading.innerText = groupPortals[0].groupName;
       portalGroup.appendChild(heading);
-
-      // Use fragment for batch portal creation
-      const portalsFragment = document.createDocumentFragment();
 
       groupPortals.forEach((portal) => {
         portalRow = document.createElement("div");
@@ -68,6 +63,7 @@ function generateSavedLinksHTML() {
         portalRowName.innerHTML += portal.portalName;
 
         portalRow.appendChild(portalRowName);
+        portalGroup.appendChild(portalRow);
 
         if (portal.note) {
           portalNote = document.createElement("span");
@@ -85,7 +81,6 @@ function generateSavedLinksHTML() {
         portalURL = document.createElement("a");
         portalURL.href = portal.primaryURL;
         portalURL.target = "_blank";
-        portalURL.rel = "noopener noreferrer";
         portalURL.innerText = portal.primaryURL;
 
         portalURLSpan.appendChild(portalURL);
@@ -101,7 +96,6 @@ function generateSavedLinksHTML() {
             secondaryURL.classList.add("btn-secondary", "btn");
             secondaryURL.href = url.url;
             secondaryURL.target = "_blank";
-            secondaryURL.rel = "noopener noreferrer";
             secondaryURL.innerText = url.icon;
             portalSecondaryURLs.appendChild(secondaryURL);
           });
@@ -110,27 +104,17 @@ function generateSavedLinksHTML() {
         }
 
         portalRow.appendChild(portalDetails);
-        portalsFragment.appendChild(portalRow);
       });
-
-      portalGroup.appendChild(portalsFragment);
-      fragment.appendChild(portalGroup);
     });
 
-    // Single DOM update
-    document.getElementsByClassName("entry")[0].appendChild(fragment);
-
-    // Add event listeners efficiently using requestAnimationFrame
-    requestAnimationFrame(() => {
-      Array.from(document.getElementsByClassName("portal-remove")).forEach((e) =>
-        e.addEventListener("click", (event) => {
-          let removePortalURL = event.target.dataset.href;
-          removeLinkFromLocalStorage(removePortalURL);
-          removeSavedLinksHTML();
-          generateSavedLinksHTML();
-        })
-      );
-    });
+    Array.from(document.getElementsByClassName("portal-remove")).forEach((e) =>
+      e.addEventListener("click", (event) => {
+        let removePortalURL = event.target.dataset.href;
+        removeLinkFromLocalStorage(removePortalURL);
+        removeSavedLinksHTML();
+        generateSavedLinksHTML();
+      })
+    );
   } else {
     document.getElementsByClassName("entry")[0].innerHTML = "You haven't added any links for your favorites page.<br/>"
     document.getElementsByClassName("entry")[0].innerHTML += "Click the <span style='color: red;'>❤</span> when you hover over a portal name to add some, then come back!<br/>";

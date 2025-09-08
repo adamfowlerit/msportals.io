@@ -3,32 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Performance optimizations */
-.portal-group, .portal {
-  will-change: auto; /* Let browser decide when to optimize */
-}
-
-.portal-group {
-  contain: layout style; /* Contain layout and style recalculations */
-}
-
-.portal {
-  contain: layout; /* Contain layout recalculations */
-}
-
-/* Loading indicator styles for better UX */
-.loading {
-  text-align: center;
-  padding: 20px;
-  font-size: 16px;
-  color: #b5e853;
-  animation: pulse 1.5s ease-in-out infinite alternate;
-}
-
-@keyframes pulse {
-  from { opacity: 0.6; }
-  to { opacity: 1; }
-}
 
 .nomatches {
     display:none;
