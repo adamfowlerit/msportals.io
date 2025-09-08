@@ -356,6 +356,158 @@
   .portal-secondary-urls {
     flex-wrap: wrap;
   }
+  
+  /* Mobile-specific improvements */
+  .theme-toggle {
+    top: 10px;
+    right: 10px;
+    width: 44px;
+    height: 44px;
+    font-size: 1.1em;
+  }
+  
+  .quickfilter {
+    width: 95%;
+    font-size: 16px; /* Prevent zoom on iOS */
+  }
+  
+  .portal {
+    padding: 12px 8px;
+  }
+  
+  .portal-add {
+    opacity: 1; /* Always visible on mobile */
+    padding: 8px 12px;
+    font-size: 1.1em;
+    min-width: 44px;
+    min-height: 44px;
+  }
+  
+  #downloads .btn {
+    padding: 8px 12px;
+    margin: 4px 2px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Touch-friendly portal items */
+  .portal-url a {
+    padding: 8px 4px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .btn-secondary {
+    min-width: 44px;
+    min-height: 44px;
+    padding: 8px 12px;
+    font-size: 14px;
+    margin: 4px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  
+  header h1 {
+    font-size: 1.8em;
+  }
+  
+  header h2 {
+    font-size: 1em;
+  }
+  
+  #downloads {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4px;
+  }
+  
+  #downloads .btn {
+    font-size: 0.85em;
+    padding: 6px 8px;
+  }
+  
+  .portal-name {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  
+  .portal-add {
+    align-self: flex-end;
+  }
+}
+
+/* High DPI and Retina display optimizations */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .status-indicator {
+    width: 10px;
+    height: 10px;
+  }
+  
+  .theme-toggle {
+    border-width: 1px;
+  }
+}
+
+/* Print styles */
+@media print {
+  .theme-toggle,
+  .skip-link,
+  .export-tools,
+  .keyboard-shortcuts,
+  .portal-add {
+    display: none !important;
+  }
+  
+  .portal {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  
+  .portal-group {
+    break-after: auto;
+    page-break-after: auto;
+  }
+  
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  
+  a {
+    color: #0066cc !important;
+    text-decoration: underline !important;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  
+  .theme-toggle:hover,
+  .theme-toggle:focus {
+    transform: none;
+  }
+  
+  .portal:hover,
+  .portal:focus-within {
+    transition: none;
+  }
 }
 
 /* Light theme support with improved contrast */
