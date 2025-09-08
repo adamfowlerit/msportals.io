@@ -140,43 +140,103 @@
 }
 
 @media (prefers-color-scheme: light) {
-  body {
+  body:not(.dark-theme) {
     color: #111;
     background: #eee;
   }
 
-  header h1,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  body:not(.dark-theme) header h1,
+  body:not(.dark-theme) h1,
+  body:not(.dark-theme) h2,
+  body:not(.dark-theme) h3,
+  body:not(.dark-theme) h4,
+  body:not(.dark-theme) h5,
+  body:not(.dark-theme) h6 {
     color: #90a959;
   }
 
-  header h2 {
+  body:not(.dark-theme) header h2 {
     color: #333;
   }
 
-  a {
+  body:not(.dark-theme) a {
     color: #006aad;
     text-shadow: none;
   }
 
-  a.btn {
+  body:not(.dark-theme) a.btn {
     color: white;
   }
 
-  .portal:hover {
+  body:not(.dark-theme) .portal:hover {
     background-color: #ccc;
   }
 
-  .quickfilter {
+  body:not(.dark-theme) .quickfilter {
     border-color: black;
     color: #333;
   }
 }
+
+/* Manual light theme */
+body.light-theme {
+  color: #111;
+  background: #eee;
+}
+
+body.light-theme header h1,
+body.light-theme h1,
+body.light-theme h2,
+body.light-theme h3,
+body.light-theme h4,
+body.light-theme h5,
+body.light-theme h6 {
+  color: #90a959;
+}
+
+body.light-theme header h2 {
+  color: #333;
+}
+
+body.light-theme a {
+  color: #006aad;
+  text-shadow: none;
+}
+
+body.light-theme a.btn {
+  color: white;
+}
+
+body.light-theme .portal:hover {
+  background-color: #ccc;
+}
+
+body.light-theme .quickfilter {
+  border-color: black;
+  color: #333;
+}
+
+/* Manual dark theme */
+body.dark-theme {
+  color: #eaeaea;
+  background: #151515;
+}
+
+body.dark-theme .portal:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+body.dark-theme .quickfilter {
+  border-color: #b5e853;
+  color: #eaeaea;
+}
+
+/* Ensure dark theme button styling */
+#theme-toggle {
+  cursor: pointer;
+  border: none;
+}
+
 .container {
   max-width: 1200px;
   width: 100vw;
