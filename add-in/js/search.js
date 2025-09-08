@@ -1,40 +1,70 @@
+// Initialize fuzzy search for add-in
+let fuzzySearchInstance = null;
+let portalElements = [];
+
+function initializeFuzzySearchAddin() {
+	// Build searchable data from DOM elements
+	portalElements = Array.from(document.querySelectorAll("details[class='portal-group'] details[class='portal']"));
+	
+	const searchData = portalElements.map((portalEntry, index) => {
+		// Build searchable string that includes all text and link href data
+		let searchableString = portalEntry.innerText;
+		searchableString += Array.from(portalEntry.getElementsByTagName("a"))
+			.map((e) => e.href)
+			.join(" ");
+		
+		// Clean up, remove http(s) and newlines
+		searchableString = searchableString
+			.replace(/(https|http):\/\//gi, "")
+			.replace(/\n/g, " ")
+			.replace(/\s+/g, " ")
+			.trim();
+
+		return {
+			index: index,
+			content: searchableString,
+			element: portalEntry
+		};
+	});
+
+	// Configure fuzzy search options
+	const fuzzyOptions = {
+		keys: ['content'],
+		threshold: 0.6 // Lower = more strict, Higher = more fuzzy
+	};
+
+	fuzzySearchInstance = new SimpleFuzzySearch(searchData, fuzzyOptions);
+}
+
 function showOnlyMatchedPortals(event) {
 	query = this.value;
 
-	Array.from(document.querySelectorAll("details[class='portal-group'] details[class='portal']")).forEach((portalEntry) => {
-		// Remove individual portal entries
-		if (query.length >= 2) {
-			// build string that includes all text and link href data
-			let searchableString = portalEntry.innerText;
-			searchableString += Array.from(portalEntry.getElementsByTagName("a"))
-				.map((e) => {
-					return e.href;
-				})
-				.join("|");
-			// clean up, remove http(s) and newlines
-			searchableString = searchableString
-				.replace(/(https|http):\/\//gi, "")
-				.replace(/\n/g, "|")
-				.toUpperCase();
-			if (searchableString.indexOf(query.toUpperCase()) === -1) {
-				//Iterate through all children, even nested children
-				Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-					elem.hidden = true;
-				});
-			} else {
-				Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-					elem.hidden = false;
-				});
-			}
-		} else {
-			//Iterate through portal entries un-hiding them in case they were hidden
-			Array.from(document.querySelectorAll("details[class='portal-group'] details[class='portal']")).forEach((portalEntry) => {
-				Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-					elem.hidden = false;
-				});
+	// Initialize fuzzy search if not already done
+	if (!fuzzySearchInstance && window.SimpleFuzzySearch) {
+		initializeFuzzySearchAddin();
+	}
+
+	if (query.length >= 2 && fuzzySearchInstance) {
+		// Use fuzzy search to find matches
+		const searchResults = fuzzySearchInstance.search(query);
+		const matchedIndices = new Set(searchResults.map(result => result.item.index));
+
+		// Hide/show portal entries based on fuzzy search results
+		portalElements.forEach((portalEntry, index) => {
+			const isMatch = matchedIndices.has(index);
+			
+			Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+				elem.hidden = !isMatch;
 			});
-		}
-	});
+		});
+	} else {
+		// Show all portals when query is too short or fuzzy search not available
+		Array.from(document.querySelectorAll("details[class='portal-group'] details[class='portal']")).forEach((portalEntry) => {
+			Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+				elem.hidden = false;
+			});
+		});
+	}
 
 	//Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
 	Array.from(document.querySelectorAll("details[class='portal-group']")).forEach((portalGroup) => {
@@ -100,6 +130,11 @@ window.onload = function() {
 
 	// Add Event Listeners for changes (After we set the search box value)
 	qfInput.addEventListener("keyup", showOnlyMatchedPortals);
+
+	// Initialize fuzzy search when SimpleFuzzySearch is available
+	if (window.SimpleFuzzySearch) {
+		initializeFuzzySearchAddin();
+	}
 
 	qfInput.focus({
 		preventScroll: true,

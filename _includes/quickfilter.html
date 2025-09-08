@@ -4,43 +4,73 @@
 </form>
 
 <script type="text/javascript">
-  function showOnlyMatchedPortals() {
-    query = this.value;
+  // Initialize fuzzy search index
+  let fuzzySearchInstance = null;
+  let portalElements = [];
 
-    Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
-      // Remove individual portal entries
-      if (query.length >= 2) {
-        // build string that includes all text and link href data
-        let searchableString = portalEntry.innerText;
-        searchableString += Array.from(portalEntry.getElementsByTagName("a"))
-          .map((e) => {
-            return e.href;
-          })
-          .join("|");
-        // clean up, remove http(s) and newlines
-        searchableString = searchableString
-          .replace(/(https|http):\/\//gi, "")
-          .replace(/\n/g, "|")
-          .toUpperCase();
-        if (searchableString.indexOf(query.toUpperCase()) === -1) {
-          //Iterate through all children, even nested children
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = true;
-          });
-        } else {
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = false;
-          });
-        }
-      } else {
-        //Iterate through portal entries un-hiding them in case they were hidden
-        Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = false;
-          });
-        });
-      }
+  function initializeFuzzySearch() {
+    // Build searchable data from DOM elements
+    portalElements = Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']"));
+    
+    const searchData = portalElements.map((portalEntry, index) => {
+      // Build searchable string that includes all text and link href data
+      let searchableString = portalEntry.innerText;
+      searchableString += Array.from(portalEntry.getElementsByTagName("a"))
+        .map((e) => e.href)
+        .join(" ");
+      
+      // Clean up, remove http(s) and newlines
+      searchableString = searchableString
+        .replace(/(https|http):\/\//gi, "")
+        .replace(/\n/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+
+      return {
+        index: index,
+        content: searchableString,
+        element: portalEntry
+      };
     });
+
+    // Configure fuzzy search options
+    const fuzzyOptions = {
+      keys: ['content'],
+      threshold: 0.6 // Lower = more strict, Higher = more fuzzy
+    };
+
+    fuzzySearchInstance = new SimpleFuzzySearch(searchData, fuzzyOptions);
+  }
+
+  function showOnlyMatchedPortals() {
+    const query = this.value;
+
+    // Initialize fuzzy search if not already done
+    if (!fuzzySearchInstance && window.SimpleFuzzySearch) {
+      initializeFuzzySearch();
+    }
+
+    if (query.length >= 2 && fuzzySearchInstance) {
+      // Use fuzzy search to find matches
+      const searchResults = fuzzySearchInstance.search(query);
+      const matchedIndices = new Set(searchResults.map(result => result.item.index));
+
+      // Hide/show portal entries based on fuzzy search results
+      portalElements.forEach((portalEntry, index) => {
+        const isMatch = matchedIndices.has(index);
+        
+        Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+          elem.hidden = !isMatch;
+        });
+      });
+    } else {
+      // Show all portals when query is too short or fuzzy search not available
+      Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+        Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+          elem.hidden = false;
+        });
+      });
+    }
 
     //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
     Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
@@ -117,6 +147,11 @@
       preventScroll: true,
     });
     // Place Cursor in the search box, ready to type
+
+    // Initialize fuzzy search when SimpleFuzzySearch is available
+    if (window.SimpleFuzzySearch) {
+      initializeFuzzySearch();
+    }
 
     // Create Promise to resolve after initial filtering is done
     var loadScriptAsync = function () {
