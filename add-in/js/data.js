@@ -4,6 +4,27 @@ const msportalsIO = {};
 
 msportalsIO.getJSON = async function() {
 	let json = null;
+	const CACHE_KEY = 'msportals-data-cache';
+	const CACHE_TIMESTAMP_KEY = 'msportals-data-timestamp';
+	const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes in milliseconds
+	
+	// Check cache first
+	try {
+		const cachedData = localStorage.getItem(CACHE_KEY);
+		const cacheTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
+		
+		if (cachedData && cacheTimestamp) {
+			const now = Date.now();
+			const timestamp = parseInt(cacheTimestamp);
+			
+			if (now - timestamp < CACHE_DURATION) {
+				console.log('Loading from cache');
+				return JSON.parse(cachedData);
+			}
+		}
+	} catch (e) {
+		console.warn('Cache read failed:', e);
+	}
 	
 	const urls = [
 		'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/admin.json',
@@ -11,22 +32,47 @@ msportalsIO.getJSON = async function() {
 		'https://raw.githubusercontent.com/adamfowlerit/msportals.io/master/_data/portals/thirdparty.json'
 	];
 	
+	console.log('Loading from network...');
+	
 	const requests = urls.map( 
-		url => fetch(url)
+		url => fetch(url, {
+			cache: 'force-cache', // Use browser cache when available
+			headers: {
+				'Cache-Control': 'max-age=300' // 5 minutes
+			}
+		})
 		.then( 
-			response => response.json() 
+			response => {
+				if (!response.ok) {
+					throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+				}
+				return response.json();
+			}
 		)
 		.catch( 
-			err => console.trace(err) 
+			err => {
+				console.trace(err);
+				return null; // Return null for failed requests
+			} 
 		));
 		
 		try {
 			const results = await Promise.allSettled(requests);
 			
 			json = (results)
-			.filter( r => r.status === 'fulfilled')
+			.filter( r => r.status === 'fulfilled' && r.value !== null)
 			.map(r => r.value)
 			.flat();
+			
+			// Cache the successful result
+			if (json && json.length > 0) {
+				try {
+					localStorage.setItem(CACHE_KEY, JSON.stringify(json));
+					localStorage.setItem(CACHE_TIMESTAMP_KEY, Date.now().toString());
+				} catch (e) {
+					console.warn('Cache write failed:', e);
+				}
+			}
 		}
 		catch (err) {
 			console.error('getJSON(): unknown error occurred.')
@@ -40,6 +86,9 @@ function convertToHTML(object) {
 	console.log(object);
 	
 	if (object.every(value => value === undefined)) { return }
+	
+	// Use DocumentFragment for better performance
+	const fragment = document.createDocumentFragment();
 	
 	function createLink(href, innerText) {
 		let link = document.createElement('a');        
@@ -97,6 +146,7 @@ function convertToHTML(object) {
 	let groupidx = 0;	
 	let html = [];
 	
+	// Batch DOM operations for better performance
 	// if object length is 0, then this loop does not process
 	// uncommend line below to observe
 	// object = [];	
@@ -104,10 +154,12 @@ function convertToHTML(object) {
 		//console.log(msportals);
 		groupidx += 1;
 		let portalGroup = createDetails('portal-group');
-		//mainContainer.append(portalGroup);
 		
 		let groupName = createSummary(msportals.groupName);
 		portalGroup.appendChild(groupName);
+		
+		// Create a document fragment for portals to batch DOM operations
+		const portalFragment = document.createDocumentFragment();
 		
 		let portalsidx = 0;
 		for (const portals of msportals.portals) {
@@ -115,31 +167,34 @@ function convertToHTML(object) {
 			portalsidx += 1;
 			let id = groupidx + '.' + portalsidx;
 			let portal = createDetails('portal');
-			portalGroup.appendChild(portal);
+			
 			let portalName = createSummary(portals.portalName, portals.note, id, true);
 			portal.appendChild(portalName);
 			
 			let linkcontainer = document.createElement("ul");
 			portal.appendChild(linkcontainer);
 			
+			// Create primary link
 			let listItem = document.createElement('li');
-			linkcontainer.appendChild(listItem);
-			
 			let link = createLink(portals.primaryURL, portals.primaryURL);
 			listItem.appendChild(link);
+			linkcontainer.appendChild(listItem);
 			
-			// print portal secondaryURLs if any
+			// Create secondary links if any
 			if (portals.secondaryURLs) {
 				for (const secondaryURL of portals.secondaryURLs) {
 					let listItem = document.createElement('li');
-					linkcontainer.appendChild(listItem);
-					
 					let link = createLink(secondaryURL.url, secondaryURL.url);
 					listItem.appendChild(link);
+					linkcontainer.appendChild(listItem);
 				}
 			}
 			
+			portalFragment.appendChild(portal);
 		}
+		
+		// Append all portals at once
+		portalGroup.appendChild(portalFragment);
 		html.push(portalGroup);
 	}
 	
@@ -286,24 +341,55 @@ function addFavoriteEventListeners(object) {
 	console.log('starting.');
 	const mainContainer = document.getElementById('msportalsIO links');
 	
+	// Show loading indicator
+	const loadingIndicator = document.querySelector('.loading');
+	if (loadingIndicator) {
+		loadingIndicator.style.display = 'block';
+		loadingIndicator.textContent = 'Loading portal data...';
+	}
+	
+	// Add performance timing
+	const startTime = performance.now();
+	
 	msportalsIO.getJSON()
 	.then(json => {
-		let html = convertToHTML(json);
-		appendToDocument(html,mainContainer);
+		if (loadingIndicator) {
+			loadingIndicator.textContent = 'Rendering portals...';
+		}
 		
-		addFavoriteEventListeners(json);
+		// Use requestAnimationFrame for smooth rendering
+		requestAnimationFrame(() => {
+			let html = convertToHTML(json);
+			appendToDocument(html, mainContainer);
+			
+			addFavoriteEventListeners(json);
+			
+			// Initialize search cache after DOM is ready
+			if (typeof initializeSearchCache === 'function') {
+				initializeSearchCache();
+			}
+			
+			const loadTime = performance.now() - startTime;
+			console.log(`Portal data loaded and rendered in ${loadTime.toFixed(2)}ms`);
+		});
 	})
 	.catch(err => {
 		console.trace(err);
+		if (loadingIndicator) {
+			loadingIndicator.textContent = 'Error loading portal data. Please refresh the page.';
+			loadingIndicator.style.color = 'red';
+		}
 	})
 	.finally(() => {
 		// dont allow search form to submit, eg. 'enter' on keyboard after typing query
 		document.forms[0].onsubmit = () => {return false}
 		
 		// hide progress bar
-		document.querySelector('.loading').style.display = 'none';
-		
-		
+		setTimeout(() => {
+			if (loadingIndicator) {
+				loadingIndicator.style.display = 'none';
+			}
+		}, 100); // Small delay to ensure smooth transition
 		
 		// show loaded data
 		document.getElementById('Home').style.display = "block";
@@ -312,7 +398,6 @@ function addFavoriteEventListeners(object) {
 		document.getElementById('linkHome').addEventListener("click", show)
 		document.getElementById('linkFav').addEventListener("click", show)
 		document.getElementById('linkAbout').addEventListener("click", show)
-		
 		
 		console.log('done.')
 	});
