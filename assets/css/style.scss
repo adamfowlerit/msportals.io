@@ -3,126 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Enhanced accessibility and usability styles */
-
-/* Skip link for accessibility */
-.skip-link {
-  position: absolute;
-  top: -40px;
-  left: 6px;
-  background: #000;
-  color: #fff;
-  padding: 8px 12px;
-  text-decoration: none;
-  border-radius: 4px;
-  z-index: 1000;
-  font-weight: bold;
-}
-
-.skip-link:focus {
-  top: 6px;
-}
-
-/* Theme toggle button */
-.theme-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  background: rgba(0, 0, 0, 0.7);
-  border: 2px solid #b5e853;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  cursor: pointer;
-  color: #b5e853;
-  font-size: 1.2em;
-  z-index: 999;
-  transition: all 0.3s ease;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.theme-toggle:hover, .theme-toggle:focus {
-  background: rgba(0, 255, 0, 0.2);
-  transform: scale(1.1);
-  outline: 2px solid #00ff00;
-}
-
-/* Theme support */
-[data-theme="light"] {
-  --bg-color: #fafafa;
-  --text-color: #222;
-  --header-bg: #2d5016;
-  --border-color: #2d5016;
-  --link-color: #0066cc;
-  --accent-color: #2d5016;
-}
-
-[data-theme="dark"] {
-  --bg-color: #1c1c1c;
-  --text-color: #eaeaea;
-  --header-bg: #2d2d2d;
-  --border-color: #b5e853;
-  --link-color: #b5e853;
-  --accent-color: #b5e853;
-}
-
-[data-theme="light"] body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-}
-
-[data-theme="light"] header {
-  background: linear-gradient(135deg, var(--header-bg), rgba(45, 80, 22, 0.8));
-}
-
-[data-theme="light"] .theme-toggle {
-  background: rgba(255, 255, 255, 0.9);
-  border-color: var(--accent-color);
-  color: var(--accent-color);
-}
-
-[data-theme="light"] .theme-toggle:hover,
-[data-theme="light"] .theme-toggle:focus {
-  background: rgba(45, 80, 22, 0.1);
-}
-
-[data-theme="light"] .quickfilter {
-  border-color: var(--accent-color);
-  color: var(--text-color);
-  background-color: rgba(255, 255, 255, 0.9);
-}
-
-[data-theme="light"] .quickfilter:focus {
-  border-color: var(--accent-color);
-  box-shadow: 0 0 5px rgba(45, 80, 22, 0.5);
-}
-
-[data-theme="light"] .portal:hover, 
-[data-theme="light"] .portal:focus-within {
-  background-color: rgba(45, 80, 22, 0.1);
-  outline: 1px solid rgba(45, 80, 22, 0.3);
-}
-
-[data-theme="light"] .export-tools {
-  background: rgba(45, 80, 22, 0.05);
-  border-color: var(--accent-color);
-}
-
-[data-theme="light"] .portal-group h2 {
-  border-bottom-color: var(--accent-color);
-  color: var(--accent-color);
-}
-
-[data-theme="light"] a {
-  color: var(--link-color);
-  text-shadow: none;
-}
-
-[data-theme="light"] .btn {
-  color: white !important;
-}
 
 .nomatches {
     display:none;
@@ -131,37 +11,20 @@
 
 .quickfilter {
   outline: none;
-  padding: 10px 15px;
+  padding: 10px;
   margin: 10px 0;
-  border: 2px solid #b5e853;
-  border-radius: 4px;
+  border-width: 0 0 1px;
   width: 70%;
-  background-color: rgba(0, 0, 0, 0.8);
+  border-color: #b5e853;
+  border-style: solid;
+  background-color: transparent;
   color: #eaeaea;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 16px; /* Prevent zoom on mobile */
-  transition: border-color 0.2s ease;
-}
-
-.quickfilter:focus {
-  border-color: #00ff00;
-  box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
-}
-
-.quickfilter::placeholder {
-  color: #999;
-  opacity: 1;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal,
+    monospace;
 }
 
 .portal-group {
   padding: 0 0 20px 0;
-  margin-bottom: 20px;
-}
-
-.portal-group h2 {
-  border-bottom: 2px solid #b5e853;
-  padding-bottom: 8px;
-  margin-bottom: 15px;
 }
 
 .portal {
@@ -169,15 +32,10 @@
   flex-wrap: wrap;
   justify-content: space-between; 
   line-height: 2em;
-  padding: 8px;
-  margin: 4px 0;
-  border-radius: 4px;
-  transition: background-color 0.2s ease;
 }
 
-.portal:hover, .portal:focus-within {
-  background-color: rgba(0, 255, 0, 0.1);
-  outline: 1px solid rgba(0, 255, 0, 0.3);
+.portal:hover {
+  background-color: rgba($color: #000000, $alpha: 0.5);
 }
 
 .portal-name {
@@ -186,21 +44,14 @@
   overflow: hidden;
   padding-right: 5px;
   flex: 0 0 100%;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.portal-title {
-  margin: 0;
-  font-size: 1em;
-  font-weight: bold;
-  color: inherit;
 }
 
 .portal-name:hover > .portal-add {
-  opacity: 1;
-  transform: scale(1);
+  display: unset;
+}
+
+.portal-name:hover > .portal-remove {
+  display: unset;
 }
 
 .portal-details {
@@ -209,34 +60,16 @@
   text-overflow: ellipsis;
   overflow: hidden; 
   white-space: nowrap;
-  align-items: center;
-  gap: 8px;
 }
 
-/* Enhanced favorites button */
 .portal-add {
-  opacity: 0.6;
-  transform: scale(0.9);
+  display: none;
   cursor: pointer;
-  background: none;
-  border: none;
-  font-size: 1.2em;
-  padding: 4px 8px;
-  border-radius: 4px;
-  transition: all 0.2s ease;
-  color: #ff6b6b;
-}
-
-.portal-add:hover, .portal-add:focus {
-  opacity: 1;
-  transform: scale(1.1);
-  background-color: rgba(255, 107, 107, 0.2);
-  outline: 2px solid #ff6b6b;
+  color: red;
 }
 
 .portal-add:active {
-  color: #00ff00;
-  transform: scale(1.2);
+  color: #b5e853;
 }
 
 .portal-remove {
@@ -256,9 +89,6 @@
 
 .portal-secondary-urls {
   white-space: nowrap;
-  display: flex;
-  align-items: center;
-  gap: 4px;
 }
 
 .portal-url::before {
@@ -266,66 +96,30 @@
 }
 
 .portal-note {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: #bcc7a7; 
   font-style: italic;
-  margin-left: 8px;
 }
 
-/* Enhanced secondary buttons */
 .btn-secondary {
-  display: inline-block;
-  padding: 4px 8px;
-  margin: 2px;
+  display: inline;
+  padding: 2px 6px;
+  margin: 4px 0px;
   background: rgba(0,120,212,0.9);
-  border-radius: 6px;
-  border: 1px solid rgba(0,0,0,0.3);
-  color: rgba(255,255,255,0.95);
+  border-radius: 50px;
+  border: 2px solid rgba(0,0,0,0.7);
+  color: rgba(255,255,255,0.8);
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 13px;
   text-decoration: none;
-  text-shadow: 1px 1px rgba(0,0,0,0.5);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-  transition: all 0.2s ease;
+  text-shadow: 1px 1px #000000;
+  box-shadow: 0 1px #444444;
 }
 
-.btn-secondary:hover, .btn-secondary:focus {
-  background: rgba(0,120,212,1);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
-  outline: 2px solid rgba(0,120,212,0.5);
-}
-
-/* Export tools styling */
-.export-tools {
-  border: 1px solid #b5e853;
-  background: rgba(0, 255, 0, 0.05);
-  margin: 15px 0;
-}
-
-.export-tools .btn {
-  background: #b5e853;
-  color: #000;
-  border: none;
-  padding: 8px 12px;
-  border-radius: 4px;
-  cursor: pointer;
-  font-weight: bold;
-  transition: all 0.2s ease;
-}
-
-.export-tools .btn:hover, .export-tools .btn:focus {
-  background: #00ff00;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0, 255, 0, 0.3);
-}
-
-/* Responsive design improvements */
 @media (min-width: 1024px) {
   .quickfilter {
-    width: 35%;
-    max-width: 400px;
+    width: 25%;
   }
 
   .portal {
@@ -334,11 +128,10 @@
 
   .portal-name {
     flex: initial;
-    max-width: 60%;
   }
   
   .portal-details {
-    max-width: 40%;
+    max-width:50%
   }
 
   .portal-url::before {
@@ -346,187 +139,28 @@
   }
 }
 
-@media (max-width: 768px) {
-  .export-tools .btn {
-    display: block;
-    width: 100%;
-    margin: 5px 0;
-  }
-  
-  .portal-secondary-urls {
-    flex-wrap: wrap;
-  }
-  
-  /* Mobile-specific improvements */
-  .theme-toggle {
-    top: 10px;
-    right: 10px;
-    width: 44px;
-    height: 44px;
-    font-size: 1.1em;
-  }
-  
-  .quickfilter {
-    width: 95%;
-    font-size: 16px; /* Prevent zoom on iOS */
-  }
-  
-  .portal {
-    padding: 12px 8px;
-  }
-  
-  .portal-add {
-    opacity: 1; /* Always visible on mobile */
-    padding: 8px 12px;
-    font-size: 1.1em;
-    min-width: 44px;
-    min-height: 44px;
-  }
-  
-  #downloads .btn {
-    padding: 8px 12px;
-    margin: 4px 2px;
-    min-height: 44px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  /* Touch-friendly portal items */
-  .portal-url a {
-    padding: 8px 4px;
-    min-height: 44px;
-    display: inline-flex;
-    align-items: center;
-  }
-  
-  .btn-secondary {
-    min-width: 44px;
-    min-height: 44px;
-    padding: 8px 12px;
-    font-size: 14px;
-    margin: 4px;
-  }
-}
-
-@media (max-width: 480px) {
-  .container {
-    padding-left: 8px;
-    padding-right: 8px;
-  }
-  
-  header h1 {
-    font-size: 1.8em;
-  }
-  
-  header h2 {
-    font-size: 1em;
-  }
-  
-  #downloads {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 4px;
-  }
-  
-  #downloads .btn {
-    font-size: 0.85em;
-    padding: 6px 8px;
-  }
-  
-  .portal-name {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-  }
-  
-  .portal-add {
-    align-self: flex-end;
-  }
-}
-
-/* High DPI and Retina display optimizations */
-@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-  .status-indicator {
-    width: 10px;
-    height: 10px;
-  }
-  
-  .theme-toggle {
-    border-width: 1px;
-  }
-}
-
-/* Print styles */
-@media print {
-  .theme-toggle,
-  .skip-link,
-  .export-tools,
-  .keyboard-shortcuts,
-  .portal-add {
-    display: none !important;
-  }
-  
-  .portal {
-    break-inside: avoid;
-    page-break-inside: avoid;
-  }
-  
-  .portal-group {
-    break-after: auto;
-    page-break-after: auto;
-  }
-  
-  body {
-    background: white !important;
-    color: black !important;
-  }
-  
-  a {
-    color: #0066cc !important;
-    text-decoration: underline !important;
-  }
-}
-
-/* Reduced motion support */
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
-  
-  .theme-toggle:hover,
-  .theme-toggle:focus {
-    transform: none;
-  }
-  
-  .portal:hover,
-  .portal:focus-within {
-    transition: none;
-  }
-}
-
-/* Light theme support with improved contrast */
 @media (prefers-color-scheme: light) {
   body {
-    color: #222;
-    background: #fafafa;
+    color: #111;
+    background: #eee;
   }
 
-  header h1, h1, h2, h3, h4, h5, h6 {
-    color: #2d5016;
+  header h1,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #90a959;
   }
 
   header h2 {
-    color: #555;
+    color: #333;
   }
 
   a {
-    color: #0066cc;
+    color: #006aad;
     text-shadow: none;
   }
 
@@ -534,111 +168,17 @@
     color: white;
   }
 
-  .portal:hover, .portal:focus-within {
-    background-color: rgba(45, 80, 22, 0.1);
-    outline: 1px solid rgba(45, 80, 22, 0.3);
+  .portal:hover {
+    background-color: #ccc;
   }
 
   .quickfilter {
-    border-color: #2d5016;
-    color: #222;
-    background-color: rgba(255, 255, 255, 0.9);
-  }
-
-  .quickfilter:focus {
-    border-color: #2d5016;
-    box-shadow: 0 0 5px rgba(45, 80, 22, 0.5);
-  }
-  
-  .export-tools {
-    background: rgba(45, 80, 22, 0.05);
-    border-color: #2d5016;
-  }
-  
-  .portal-group h2 {
-    border-bottom-color: #2d5016;
+    border-color: black;
+    color: #333;
   }
 }
-
-/* Focus management and skip links */
-.skip-link {
-  position: absolute;
-  top: -40px;
-  left: 6px;
-  background: #000;
-  color: #fff;
-  padding: 8px;
-  text-decoration: none;
-  border-radius: 4px;
-}
-
-.skip-link:focus {
-  top: 6px;
-}
-
-/* Loading and status indicators */
-.loading {
-  opacity: 0.6;
-  pointer-events: none;
-}
-
-.status-indicator {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  margin-left: 8px;
-}
-
-.status-online {
-  background-color: #4caf50;
-}
-
-.status-offline {
-  background-color: #f44336;
-}
-
-.status-unknown {
-  background-color: #ff9800;
-}
-
-/* Keyboard shortcuts styling */
-kbd {
-  background: #333;
-  border: 1px solid #555;
-  border-radius: 3px;
-  padding: 2px 6px;
-  font-family: monospace;
-  font-size: 0.85em;
-  color: #fff;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.3);
-  margin: 0 2px;
-}
-
-.keyboard-shortcuts details[open] > div {
-  animation: slideDown 0.2s ease;
-}
-
-@keyframes slideDown {
-  from {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.keyboard-shortcuts details > div > div {
-  padding: 2px 0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .container {
-  max-width: 1400px;
+  max-width: 1200px;
   width: 100vw;
   margin: 0 auto;
   padding-left: 16px;

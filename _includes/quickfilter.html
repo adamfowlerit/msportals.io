@@ -1,147 +1,72 @@
 <form style="margin: 0; padding: 0; display: inline">
   <label for="search" style="display: none">Quick Filter:</label>
-  <input id="search" name="search" class="quickfilter" type="search" 
-         placeholder="Quick Filter (Press / to focus, Esc to clear)" 
-         autocomplete="off" aria-describedby="search-help" />
-  <div id="search-help" style="display: none;">Search portals by name, URL, or category. Use / to focus search, Esc to clear, Ctrl+K for advanced search.</div>
-  
-  <div class="keyboard-shortcuts" style="margin-top: 8px; font-size: 0.8em; color: #999;">
-    <details style="display: inline-block;">
-      <summary style="cursor: pointer; color: #b5e853;">⌨️ Shortcuts</summary>
-      <div style="margin-top: 5px; padding: 8px; background: rgba(0,0,0,0.5); border-radius: 4px; position: absolute; z-index: 1000; min-width: 200px;">
-        <div><kbd>/</kbd> Focus search</div>
-        <div><kbd>Ctrl+K</kbd> Focus search</div>
-        <div><kbd>Esc</kbd> Clear search</div>
-        <div><kbd>Tab</kbd> Navigate portals</div>
-        <div><kbd>Enter</kbd> Add to favorites</div>
-        <div><kbd>↑↓</kbd> Navigate favorites</div>
-      </div>
-    </details>
-  </div>
+  <input id="search" name="search" class="quickfilter" type="search" placeholder="Quick Filter" />
 </form>
 
 <script type="text/javascript">
-  // Enhanced search with fuzzy matching
-  function fuzzyMatch(text, query) {
-    const textLower = text.toLowerCase();
-    const queryLower = query.toLowerCase();
-    
-    // Exact match gets highest priority
-    if (textLower.includes(queryLower)) return 3;
-    
-    // Fuzzy match - check if all query characters appear in order
-    let textIndex = 0;
-    let queryIndex = 0;
-    let matches = 0;
-    
-    while (textIndex < textLower.length && queryIndex < queryLower.length) {
-      if (textLower[textIndex] === queryLower[queryIndex]) {
-        matches++;
-        queryIndex++;
-      }
-      textIndex++;
-    }
-    
-    if (queryIndex === queryLower.length) {
-      // All query characters found in order
-      const ratio = matches / queryLower.length;
-      return ratio > 0.8 ? 2 : (ratio > 0.6 ? 1 : 0);
-    }
-    
-    return 0;
-  }
-
   function showOnlyMatchedPortals() {
-    const query = this.value;
-    const portalEntries = Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']"));
-    
-    if (query.length >= 1) {
-      const results = [];
-      
-      portalEntries.forEach((portalEntry) => {
-        // Build searchable string including text and URLs
+    query = this.value;
+
+    Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+      // Remove individual portal entries
+      if (query.length >= 2) {
+        // build string that includes all text and link href data
         let searchableString = portalEntry.innerText;
         searchableString += Array.from(portalEntry.getElementsByTagName("a"))
-          .map((e) => e.href)
+          .map((e) => {
+            return e.href;
+          })
           .join("|");
-        
-        // Clean up searchable string
+        // clean up, remove http(s) and newlines
         searchableString = searchableString
           .replace(/(https|http):\/\//gi, "")
-          .replace(/\n/g, "|");
-        
-        const matchScore = fuzzyMatch(searchableString, query);
-        
-        if (matchScore > 0) {
-          results.push({ element: portalEntry, score: matchScore });
-          // Show matching portal
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = false;
-          });
-        } else {
-          // Hide non-matching portal
+          .replace(/\n/g, "|")
+          .toUpperCase();
+        if (searchableString.indexOf(query.toUpperCase()) === -1) {
+          //Iterate through all children, even nested children
           Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
             elem.hidden = true;
           });
+        } else {
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = false;
+          });
         }
-      });
-      
-      // Sort results by match score (higher scores first)
-      results.sort((a, b) => b.score - a.score);
-      
-    } else {
-      // Show all portals when query is empty
-      portalEntries.forEach((portalEntry) => {
-        Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-          elem.hidden = false;
+      } else {
+        //Iterate through portal entries un-hiding them in case they were hidden
+        Array.from(document.querySelectorAll("div[class='portal-group'] div[class='portal']")).forEach((portalEntry) => {
+          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
+            elem.hidden = false;
+          });
         });
-      });
-    }
-
-    // Handle portal groups visibility
-    Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
-      const visiblePortals = Array.from(portalGroup.querySelectorAll(".portal *")).filter(
-        elem => !elem.hidden
-      ).length;
-      
-      portalGroup.hidden = visiblePortals === 0;
+      }
     });
 
-    // Display "no matches" message
-    const totalVisibleGroups = Array.from(document.querySelectorAll("div[class='portal-group']"))
-      .filter(group => !group.hidden).length;
-    
-    const noMatchesElement = document.getElementsByClassName("nomatches")[0];
-    if (noMatchesElement) {
-      noMatchesElement.style.display = totalVisibleGroups === 0 ? "block" : "none";
+    //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
+    Array.from(document.querySelectorAll("div[class='portal-group']")).forEach((portalGroup) => {
+      let num = Array.from(portalGroup.querySelectorAll(".portal *")).reduce(
+        //Count how many elements are not-hidden (shown)
+        (total, elem) => total + (elem.hidden === false ? 1 : 0),
+        0
+      );
+      //If all elements are hidden, hide the entire portal-group
+      if (num === 0) {
+        portalGroup.hidden = true;
+      } else {
+        //If some portal elements are shown, be certain to show the parent portal-group
+        portalGroup.hidden = false;
+      }
+    });
+
+    // Display message if no portals are found
+    totalNum = Array.from(document.querySelectorAll("div[class='portal-group']")).reduce((total, portalGroup) => total + (portalGroup.hidden === false ? 1 : 0), 0);
+
+    if (totalNum === 0) {
+      document.getElementsByClassName("nomatches")[0].style = "display: block;";
+    } else {
+      document.getElementsByClassName("nomatches")[0].style = "display: none;";
     }
   }
-
-  // Keyboard shortcuts
-  document.addEventListener('keydown', function(e) {
-    const searchInput = document.getElementById('search');
-    
-    // Press "/" to focus search (like GitHub)
-    if (e.key === '/' && document.activeElement !== searchInput) {
-      e.preventDefault();
-      searchInput.focus();
-      searchInput.select();
-    }
-    
-    // Escape to clear search and blur
-    if (e.key === 'Escape' && document.activeElement === searchInput) {
-      searchInput.value = '';
-      searchInput.blur();
-      showOnlyMatchedPortals.call(searchInput);
-    }
-    
-    // Ctrl+K or Cmd+K to focus search (like VS Code)
-    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-      e.preventDefault();
-      searchInput.focus();
-      searchInput.select();
-    }
-  });
 
   function idleSave() {
     var t;

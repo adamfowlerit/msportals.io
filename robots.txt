@@ -2,23 +2,4 @@
 layout: none
 ---
 User-agent: *
-Allow: /
-Disallow: /_site/
-Disallow: /.git/
-Disallow: /404.html
-
-# Enhanced crawling directives
-Crawl-delay: 1
-
-# Sitemap location
 Sitemap: {{ site.url }}/sitemap.xml
-
-# Popular search engines
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
-Allow: /
