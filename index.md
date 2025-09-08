@@ -7,8 +7,6 @@ Welcome to this community driven project to list all of Microsoft's portals (and
 
 {% include health-dashboard.html %}
 
-{% include export-tools.html %}
-
 {% include portal.html portal="admin" %}
 {% include portal.html portal="user" %}
 {% include portal.html portal="thirdparty" %}

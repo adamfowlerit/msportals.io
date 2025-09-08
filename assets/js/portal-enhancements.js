@@ -239,21 +239,6 @@ class PortalEnhancements {
                 }, 300);
             });
         }
-
-        // Add loading states to export buttons
-        document.querySelectorAll('.export-tools button').forEach(button => {
-            button.addEventListener('click', () => {
-                button.classList.add('loading');
-                button.style.opacity = '0.6';
-                button.style.pointerEvents = 'none';
-                
-                setTimeout(() => {
-                    button.classList.remove('loading');
-                    button.style.opacity = '';
-                    button.style.pointerEvents = '';
-                }, 1000);
-            });
-        });
     }
 
     // Skip Links for Better Accessibility

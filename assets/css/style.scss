@@ -105,11 +105,6 @@
   outline: 1px solid rgba(45, 80, 22, 0.3);
 }
 
-[data-theme="light"] .export-tools {
-  background: rgba(45, 80, 22, 0.05);
-  border-color: var(--accent-color);
-}
-
 [data-theme="light"] .portal-group h2 {
   border-bottom-color: var(--accent-color);
   color: var(--accent-color);
@@ -297,30 +292,6 @@
   outline: 2px solid rgba(0,120,212,0.5);
 }
 
-/* Export tools styling */
-.export-tools {
-  border: 1px solid #b5e853;
-  background: rgba(0, 255, 0, 0.05);
-  margin: 15px 0;
-}
-
-.export-tools .btn {
-  background: #b5e853;
-  color: #000;
-  border: none;
-  padding: 8px 12px;
-  border-radius: 4px;
-  cursor: pointer;
-  font-weight: bold;
-  transition: all 0.2s ease;
-}
-
-.export-tools .btn:hover, .export-tools .btn:focus {
-  background: #00ff00;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(0, 255, 0, 0.3);
-}
-
 /* Responsive design improvements */
 @media (min-width: 1024px) {
   .quickfilter {
@@ -347,12 +318,6 @@
 }
 
 @media (max-width: 768px) {
-  .export-tools .btn {
-    display: block;
-    width: 100%;
-    margin: 5px 0;
-  }
-  
   .portal-secondary-urls {
     flex-wrap: wrap;
   }
@@ -461,7 +426,6 @@
 @media print {
   .theme-toggle,
   .skip-link,
-  .export-tools,
   .keyboard-shortcuts,
   .portal-add {
     display: none !important;
@@ -548,11 +512,6 @@
   .quickfilter:focus {
     border-color: #2d5016;
     box-shadow: 0 0 5px rgba(45, 80, 22, 0.5);
-  }
-  
-  .export-tools {
-    background: rgba(45, 80, 22, 0.05);
-    border-color: #2d5016;
   }
   
   .portal-group h2 {
