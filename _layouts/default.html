@@ -30,9 +30,9 @@
     <header>
         <div class="container">
             <a id="a-title" href="{{ '/' | relative_url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <h1>{{ site.title | default: "MSPortals.io - Microsoft Portals" }}</h1>
             </a>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+            <h2>{{ site.description | default: "A comprehensive directory of all Microsoft portals in one place" }}</h2>
 
             <section id="downloads">
                 {% if site.show_downloads %}
@@ -50,7 +50,7 @@
                 <a href="{{ site.baseurl }}/licensing" class="btn"></span>Licensing</a>
                 <a href="{{ site.baseurl }}/consumer" class="btn"></span>Consumer</a>
                 <a href="{{ site.baseurl }}/favorites" class="btn"></span>❤</a>
-                <a href="{{ site.github.repository_url }}" class="btn" target="_blank"></span>GitHub</a>
+                <a href="https://github.com/adamfowlerit/msportals.io" class="btn" target="_blank"></span>GitHub</a>
                 <a href="{{ site.baseurl }}/about" class="btn"></span>?</a>
             </section>
             {% if page.search %}
