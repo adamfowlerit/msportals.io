@@ -1,5 +1,32 @@
 title: MSPortals.io - Microsoft Portals
+description: A comprehensive directory of all Microsoft portals in one place
+tagline: Community-driven catalog of Microsoft admin centers and portals
 theme: jekyll-theme-hacker
+url: "https://msportals.io"
+baseurl: ""
+
+# Author/Organization
+author:
+  name: "Adam Fowler"
+  email: "msportals@adamfowler.org"
+
+# Repository information (avoid API calls)
+repository: "adamfowlerit/msportals.io"
+repository_url: "https://github.com/adamfowlerit/msportals.io"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO optimization
+lang: en-US
+twitter:
+  username: adamfowlerit
+  card: summary
 
 # Google Analytics
 google_analytics: G-N9G6QSTG3P
+
+# Disable GitHub metadata to avoid API issues
+github: [metadata]
