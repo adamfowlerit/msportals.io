@@ -8,7 +8,7 @@ baseurl: ""
 # Author/Organization
 author:
   name: "Adam Fowler"
-  email: "msportals@ggpnet.net"
+  email: "msportals@adamfowler.org"
 
 # Repository information (avoid API calls)
 repository: "adamfowlerit/msportals.io"
