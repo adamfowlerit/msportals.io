@@ -1,5 +1,9 @@
 title: MSPortals.io - Microsoft Portals
+description: A comprehensive directory of all Microsoft portals in one place
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 
 # Google Analytics
 google_analytics: G-N9G6QSTG3P
