@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Test files
+test-*.html
