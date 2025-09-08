@@ -2,30 +2,39 @@
 
 {% assign groupidx = forloop.index %}
 
-<div class="portal-group" hidden>
-    <h2>{{ group.groupName }}</h2>
+<section class="portal-group" hidden aria-labelledby="group-{{groupidx}}-heading">
+    <h2 id="group-{{groupidx}}-heading">{{ group.groupName }}</h2>
     {% for portal in group.portals %}
-    <div class="portal">
-        <span class="portal-name">
-            <span class="portal-add" id="{{groupidx}}.{{forloop.index}}">❤ </span>
-            {{portal.portalName}} {% if portal.note %}
-            <span class="portal-note">{{ portal.note }}</span>
-            {% endif %}
-        </span>
-        <div class="portal-details">
-            <span class="portal-url">
-                <a href="{{portal.primaryURL}}" target="_blank">{{portal.primaryURL}}</a>
-            </span>
-            {% if portal.secondaryURLs %}
-            <span class="portal-secondary-urls">
-                &ensp;• {% for secondary in portal.secondaryURLs %}<a class="btn-{{secondary.icon}} btn-secondary btn"
-                    href="{{secondary.url}}" target="_blank">{{secondary.icon}}</a>&thinsp;{% endfor %}
-            </span>
+    <article class="portal" role="listitem">
+        <div class="portal-name">
+            <button class="portal-add" id="{{groupidx}}.{{forloop.index}}" 
+                    aria-label="Add {{portal.portalName}} to favorites"
+                    title="Add to favorites">❤</button>
+            <h3 class="portal-title">{{portal.portalName}}</h3>{% if portal.note %}
+            <span class="portal-note" aria-label="Note: {{ portal.note }}">{{ portal.note }}</span>
             {% endif %}
         </div>
-    </div>
+        <div class="portal-details">
+            <div class="portal-url">
+                <a href="{{portal.primaryURL}}" target="_blank" rel="noopener noreferrer"
+                   aria-label="Open {{portal.portalName}} - {{portal.primaryURL}}">{{portal.primaryURL}}</a>
+            </div>
+            {% if portal.secondaryURLs %}
+            <div class="portal-secondary-urls" role="list" aria-label="Alternative links">
+                <span aria-hidden="true">&ensp;•</span>
+                {% for secondary in portal.secondaryURLs %}
+                <a class="btn-{{secondary.icon}} btn-secondary btn"
+                   href="{{secondary.url}}" target="_blank" rel="noopener noreferrer"
+                   role="listitem"
+                   aria-label="{{secondary.icon}} link for {{portal.portalName}}"
+                   title="{{secondary.icon}} - {{secondary.url}}">{{secondary.icon}}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+    </article>
     {% endfor %}
-</div>
+</section>
 
 {% endfor %}
 
@@ -34,12 +43,51 @@
     const data = {{ site.data.portals.[include.portal] | jsonify}}
     const portals = [].concat(...[...data.map(i => { return i.portals })])
 
+    // Enhanced favorites functionality with better feedback
     Array.from(document.getElementsByClassName("portal-add")).forEach((e) =>
         e.addEventListener("click", (event) => {
-            let arrayLocation = event.target.id.split(".").map(i => i - 1)
-            let newLink = data[arrayLocation[0]].portals[arrayLocation[1]]
-            newLink.groupName = data[arrayLocation[0]].groupName
-            addLinkToLocalStorage(newLink)
+            const button = event.target;
+            let arrayLocation = button.id.split(".").map(i => i - 1);
+            let newLink = data[arrayLocation[0]].portals[arrayLocation[1]];
+            newLink.groupName = data[arrayLocation[0]].groupName;
+            
+            // Visual feedback
+            button.style.color = '#ff6b6b';
+            button.setAttribute('aria-label', `Added ${newLink.portalName} to favorites`);
+            
+            // Reset after animation
+            setTimeout(() => {
+                button.style.color = '';
+                button.setAttribute('aria-label', `Add ${newLink.portalName} to favorites`);
+            }, 1000);
+            
+            addLinkToLocalStorage(newLink);
         })
     );
+
+    // Keyboard navigation for portal groups
+    document.addEventListener('keydown', function(e) {
+        const activeElement = document.activeElement;
+        
+        if (e.key === 'Tab') return; // Let default tab behavior work
+        
+        if (activeElement && activeElement.classList.contains('portal-add')) {
+            let currentGroup = activeElement.closest('.portal-group');
+            let allButtons = Array.from(document.querySelectorAll('.portal-add:not([hidden])'));
+            let currentIndex = allButtons.indexOf(activeElement);
+            
+            if (e.key === 'ArrowDown' || e.key === 'j') {
+                e.preventDefault();
+                let nextIndex = (currentIndex + 1) % allButtons.length;
+                allButtons[nextIndex].focus();
+            } else if (e.key === 'ArrowUp' || e.key === 'k') {
+                e.preventDefault();
+                let prevIndex = (currentIndex - 1 + allButtons.length) % allButtons.length;
+                allButtons[prevIndex].focus();
+            } else if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                activeElement.click();
+            }
+        }
+    });
 </script>

@@ -6,53 +6,96 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Enhanced SEO Meta Tags -->
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Comprehensive directory of Microsoft portals, admin centers, and cloud services. Find all Microsoft 365, Azure, and Office 365 portals in one place.{% endif %}">
+    <meta name="keywords" content="Microsoft portals, Office 365, Microsoft 365, Azure, admin center, Microsoft cloud services, portal directory">
+    <meta name="author" content="MSPortals.io Community">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Theme and Color Scheme -->
+    <meta name="theme-color" content="#b5e853">
+    <meta name="color-scheme" content="dark light">
+    
+    <!-- Performance and Resource Hints -->
+    <link rel="preload" href="{{ '/assets/css/style.css' | relative_url }}" as="style">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="icon" type="image/png" href="/images/O365_Admin_Green.png" />
-    <script src="/assets/js/favorites.js"></script>
+    
+    <!-- Enhanced Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/O365_Admin_Green.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- Scripts with Performance Optimization -->
+    <script src="/assets/js/performance.js" defer></script>
+    <script src="/assets/js/favorites.js" defer></script>
+    <script src="/assets/js/portal-enhancements.js" defer></script>
+    
+    <!-- Enhanced Open Graph Meta Tags -->
     <meta property="og:image:url" content="https://msportals.io/images/O365_Admin_Green.png" />
-    <meta property="og:image:width" content="300px" />
-    <meta property="og:image:height" content="300px" />
-
-    <meta property="og:title" content="Microsoft Portals Site" />
-    <meta property="og:description" content="An aggregation of all of the Microsoft Portals we could find." />
+    <meta property="og:image:width" content="300" />
+    <meta property="og:image:height" content="300" />
+    <meta property="og:image:alt" content="MSPortals.io - Microsoft Portal Directory" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}Comprehensive directory of Microsoft portals, admin centers, and cloud services. Find all Microsoft 365, Azure, and Office 365 portals in one place.{% endif %}" />
 
 
     <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Microsoft Portals Site" />
-    <meta name="twitter:description" content="An aggregation of all of the Microsoft Portals we could find." />
+    
+    <!-- Enhanced Twitter Card Meta Tags -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:site" content="@msportalsio" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Comprehensive directory of Microsoft portals, admin centers, and cloud services.{% endif %}" />
     <meta name="twitter:image" content="https://msportals.io/images/O365_Admin_Green.png" />
+    <meta name="twitter:image:alt" content="MSPortals.io - Microsoft Portal Directory" />
     {% seo %}
 </head>
 
 <body>
+    <!-- Skip to main content for accessibility -->
+    <a href="#main_content" class="skip-link" tabindex="1">Skip to main content</a>
+    
+    <!-- Theme Toggle Button -->
+    <button id="theme-toggle" 
+            class="theme-toggle" 
+            aria-label="Toggle between dark and light themes"
+            title="Toggle theme">
+        <span aria-hidden="true">🌓</span>
+    </button>
 
-    <header>
+    <header role="banner">
         <div class="container">
-            <a id="a-title" href="{{ '/' | relative_url }}">
+            <a id="a-title" href="{{ '/' | relative_url }}" aria-label="Go to MSPortals.io homepage">
                 <h1>{{ site.title }}</h1>
             </a>
             <h2>{{ site.tagline | default: site.description }}</h2>
 
-            <section id="downloads">
-                {% if site.show_downloads %}
-                <a href="{{ site.repository_url }}/archive/main.zip" class="btn">Download as .zip</a>
-                <a href="{{ site.repository_url }}/archive/main.tar.gz" class="btn">Download as .tar.gz</a>
-                {% endif %}
-                <a href="{{ site.baseurl }}/" class="btn"></span>Home</a>
-                <a href="{{ site.baseurl }}/admin" class="btn"></span>Admin</a>
-                <a href="{{ site.baseurl }}/userportals" class="btn"></span>End User</a>
-                <a href="{{ site.baseurl }}/3rdparty" class="btn"></span>3rd Party</a>
-                <a href="{{ site.baseurl }}/edu" class="btn"></span>Edu</a>
-                <a href="{{ site.baseurl }}/usgovt" class="btn"></span>US Gov</a>
-                <a href="{{ site.baseurl }}/china" class="btn"></span>China</a>
-                <a href="{{ site.baseurl }}/training" class="btn"></span>Training</a>
-                <a href="{{ site.baseurl }}/licensing" class="btn"></span>Licensing</a>
-                <a href="{{ site.baseurl }}/consumer" class="btn"></span>Consumer</a>
-                <a href="{{ site.baseurl }}/favorites" class="btn"></span>❤</a>
-                <a href="{{ site.repository_url }}" class="btn" target="_blank"></span>GitHub</a>
-                <a href="{{ site.baseurl }}/about" class="btn"></span>?</a>
-            </section>
+            <nav role="navigation" aria-label="Main navigation">
+                <section id="downloads">
+                    {% if site.show_downloads %}
+                    <a href="{{ site.repository_url }}/archive/main.zip" class="btn" aria-label="Download site as ZIP file">Download as .zip</a>
+                    <a href="{{ site.repository_url }}/archive/main.tar.gz" class="btn" aria-label="Download site as TAR.GZ file">Download as .tar.gz</a>
+                    {% endif %}
+                    <a href="{{ site.baseurl }}/" class="btn" aria-label="View all portals">Home</a>
+                    <a href="{{ site.baseurl }}/admin" class="btn" aria-label="View admin portals">Admin</a>
+                    <a href="{{ site.baseurl }}/userportals" class="btn" aria-label="View end user portals">End User</a>
+                    <a href="{{ site.baseurl }}/3rdparty" class="btn" aria-label="View third party portals">3rd Party</a>
+                    <a href="{{ site.baseurl }}/edu" class="btn" aria-label="View education portals">Edu</a>
+                    <a href="{{ site.baseurl }}/usgovt" class="btn" aria-label="View US government portals">US Gov</a>
+                    <a href="{{ site.baseurl }}/china" class="btn" aria-label="View China-specific portals">China</a>
+                    <a href="{{ site.baseurl }}/training" class="btn" aria-label="View training portals">Training</a>
+                    <a href="{{ site.baseurl }}/licensing" class="btn" aria-label="View licensing portals">Licensing</a>
+                    <a href="{{ site.baseurl }}/consumer" class="btn" aria-label="View consumer portals">Consumer</a>
+                    <a href="{{ site.baseurl }}/favorites" class="btn" aria-label="View your favorite portals">❤</a>
+                    <a href="{{ site.repository_url }}" class="btn" target="_blank" rel="noopener noreferrer" aria-label="View source code on GitHub">GitHub</a>
+                    <a href="{{ site.baseurl }}/about" class="btn" aria-label="About this site">?</a>
+                </section>
+            </nav>
             {% if page.search %}
             {% include quickfilter.html %}
             {% endif %}
@@ -63,17 +106,65 @@
 
     
     <div class="container">
-        <section id="main_content">
-            {{ content }}
-            {% if page.search %}
-            {% include nomatches.html %}
-            {% endif %}
-        </section>
+        <main role="main">
+            <section id="main_content" tabindex="-1">
+                {{ content }}
+                {% if page.search %}
+                {% include nomatches.html %}
+                {% endif %}
+            </section>
+        </main>
     </div>
 
+    <!-- Enhanced Scripts with Better Performance -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
-        integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+        integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous" defer></script>
+    <script>
+        // Initialize anchors when scripts load
+        document.addEventListener('DOMContentLoaded', function() {
+            if (typeof anchors !== 'undefined') {
+                anchors.add();
+            }
+        });
+
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+        
+        // Load saved theme or system preference
+        const savedTheme = localStorage.getItem('theme');
+        const theme = savedTheme || (prefersDark.matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+        
+        if (themeToggle) {
+            themeToggle.addEventListener('click', function() {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('theme', newTheme);
+                
+                // Update button text
+                this.querySelector('span').textContent = newTheme === 'dark' ? '🌓' : '☀️';
+                this.setAttribute('aria-label', `Switch to ${currentTheme} theme`);
+            });
+            
+            // Set initial button state
+            themeToggle.querySelector('span').textContent = theme === 'dark' ? '🌓' : '☀️';
+            themeToggle.setAttribute('aria-label', `Switch to ${theme === 'dark' ? 'light' : 'dark'} theme`);
+        }
+        
+        // Listen for system theme changes
+        prefersDark.addEventListener('change', function(e) {
+            if (!localStorage.getItem('theme')) {
+                const newTheme = e.matches ? 'dark' : 'light';
+                document.documentElement.setAttribute('data-theme', newTheme);
+                if (themeToggle) {
+                    themeToggle.querySelector('span').textContent = newTheme === 'dark' ? '🌓' : '☀️';
+                }
+            }
+        });
+    </script>
 
 </body>
 

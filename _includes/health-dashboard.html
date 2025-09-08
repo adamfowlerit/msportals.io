@@ -1,0 +1,61 @@
+<div class="portal-health-dashboard" style="margin: 15px 0; padding: 15px; background: rgba(0,50,0,0.3); border-radius: 8px; border: 1px solid rgba(0,255,0,0.3);">
+  <details style="color: #b5e853;">
+    <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px; font-size: 1.1em;">
+      🔍 Portal Health Dashboard
+    </summary>
+    <div class="health-stats" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 10px;">
+      <div class="stat-card" style="background: rgba(0,0,0,0.3); padding: 10px; border-radius: 6px; text-align: center;">
+        <div class="stat-value" id="total-portals" style="font-size: 1.5em; font-weight: bold; color: #00ff00;">-</div>
+        <div class="stat-label" style="font-size: 0.9em; color: #ccc;">Total Portals</div>
+      </div>
+      <div class="stat-card" style="background: rgba(0,0,0,0.3); padding: 10px; border-radius: 6px; text-align: center;">
+        <div class="stat-value" id="online-portals" style="font-size: 1.5em; font-weight: bold; color: #4caf50;">-</div>
+        <div class="stat-label" style="font-size: 0.9em; color: #ccc;">Online</div>
+      </div>
+      <div class="stat-card" style="background: rgba(0,0,0,0.3); padding: 10px; border-radius: 6px; text-align: center;">
+        <div class="stat-value" id="checking-portals" style="font-size: 1.5em; font-weight: bold; color: #ff9800;">-</div>
+        <div class="stat-label" style="font-size: 0.9em; color: #ccc;">Checking</div>
+      </div>
+      <div class="stat-card" style="background: rgba(0,0,0,0.3); padding: 10px; border-radius: 6px; text-align: center;">
+        <div class="stat-value" id="visible-portals" style="font-size: 1.5em; font-weight: bold; color: #2196F3;">-</div>
+        <div class="stat-label" style="font-size: 0.9em; color: #ccc;">Visible</div>
+      </div>
+    </div>
+    <div style="margin-top: 15px; font-size: 0.85em; color: #999; text-align: center;">
+      Health checks run automatically. Status indicators appear next to portal names.
+    </div>
+  </details>
+</div>
+
+<script>
+// Update health dashboard stats
+function updateHealthDashboard() {
+  const totalPortals = document.querySelectorAll('.portal').length;
+  const visiblePortals = document.querySelectorAll('.portal:not([hidden])').length;
+  const onlinePortals = document.querySelectorAll('.status-online').length;
+  const checkingPortals = document.querySelectorAll('.status-unknown').length;
+
+  document.getElementById('total-portals').textContent = totalPortals;
+  document.getElementById('visible-portals').textContent = visiblePortals;
+  document.getElementById('online-portals').textContent = onlinePortals;
+  document.getElementById('checking-portals').textContent = checkingPortals;
+}
+
+// Update stats periodically
+setInterval(updateHealthDashboard, 2000);
+
+// Update immediately when page loads
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', updateHealthDashboard);
+} else {
+  updateHealthDashboard();
+}
+
+// Update when search changes visibility
+const searchInput = document.getElementById('search');
+if (searchInput) {
+  searchInput.addEventListener('input', () => {
+    setTimeout(updateHealthDashboard, 100);
+  });
+}
+</script>

@@ -1,0 +1,75 @@
+{
+  "name": "MSPortals.io - Microsoft Portal Directory",
+  "short_name": "MSPortals.io",
+  "description": "Comprehensive directory of Microsoft portals, admin centers, and cloud services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1c1c",
+  "theme_color": "#b5e853",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["productivity", "utilities", "reference"],
+  "screenshots": [
+    {
+      "src": "/images/screenshot-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "MSPortals.io desktop view"
+    },
+    {
+      "src": "/images/screenshot-mobile.png", 
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "MSPortals.io mobile view"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/images/O365_Admin_Green.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/O365_Admin_Green.png",
+      "sizes": "512x512", 
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Admin Portals",
+      "short_name": "Admin",
+      "description": "View administrative portals",
+      "url": "/admin",
+      "icons": [{"src": "/images/O365_Admin_Green.png", "sizes": "96x96"}]
+    },
+    {
+      "name": "End User Portals", 
+      "short_name": "User",
+      "description": "View end user portals",
+      "url": "/userportals",
+      "icons": [{"src": "/images/O365_Admin_Green.png", "sizes": "96x96"}]
+    },
+    {
+      "name": "Favorites",
+      "short_name": "♥",
+      "description": "View your favorite portals",
+      "url": "/favorites", 
+      "icons": [{"src": "/images/O365_Admin_Green.png", "sizes": "96x96"}]
+    }
+  ],
+  "share_target": {
+    "action": "/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
+}
