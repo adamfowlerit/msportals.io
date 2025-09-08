@@ -1,5 +1,13 @@
 title: MSPortals.io - Microsoft Portals
+<<<<<<< HEAD
 theme: jekyll-theme-hacker
+=======
+description: A comprehensive directory of all Microsoft portals in one place
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+>>>>>>> parent of 5153c12 (Fix Jekyll build and add improved site configuration)
 
 # Google Analytics
 google_analytics: G-N9G6QSTG3P
