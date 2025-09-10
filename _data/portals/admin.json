@@ -564,6 +564,10 @@
         "primaryURL": "https://copilotstudio.microsoft.com/"
       },
       {
+        "portalName": "Copilot Studio agent usage estimator",
+        "primaryURL": "https://microsoft.github.io/copilot-studio-estimator/"
+      },
+      {
         "portalName": "Microsoft Fabric",
         "primaryURL": "https://fabric.microsoft.com/"
       },
