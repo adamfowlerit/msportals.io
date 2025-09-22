@@ -6,11 +6,6 @@
         "portalName": "Microsoft Education",
         "primaryURL": "https://www.microsoft.com/education"
          },
-          {
-        "portalName": "Microsoft 365 Education Licensing Comparison Table",
-        "primaryURL": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/microsoft-education/downloadables/Modern_Work_Plan_Comparison-Education.pdf",
-        "note":"PDF"
-         },
         {
         "portalName": "Microsoft Learn Educator Center",
         "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec"
@@ -46,21 +41,39 @@
     ]
   },
    {
-    "groupName": "Microsoft 365 Education Links",
+    "groupName": "Microsoft 365 Education",
     "portals": [
         {
         "portalName": "Microsoft 365 Education",
         "primaryURL": "https://www.microsoft.com/education/products/microsoft-365"
          },
+         {
+        "portalName": "Microsoft 365 Education",
+        "primaryURL": "https://www.microsoft.com/education/products/microsoft-365"
+         },
         {
-        "portalName": "Microsoft Intune for Education",
-        "primaryURL": "https://intuneeducation.portal.azure.com"
+        "portalName": "Microsoft Education Solution Guide",
+        "primaryURL": "https://learn.microsoft.com/en-us/microsoft-365/education/guide/0-start/a-start"
       },
         {
         "portalName": "School Data Sync",
         "primaryURL": "https://sds.edu.cloud.microsoft/"
          }
     ]
+     },
+    {
+    "groupName": "Microsoft Education Licensing",
+    "portals": [
+          {
+        "portalName": "Microsoft 365 Education Licensing Comparison Table",
+        "primaryURL": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/microsoft-education/downloadables/Modern_Work_Plan_Comparison-Education.pdf",
+        "note":"PDF"
+         },
+         {
+        "portalName": "Microsoft 365 Education licenses - Learn",
+        "primaryURL": "https://learn.microsoft.com/en-us/microsoft-365/education/guide/0-start/all-license"
+      }
+   ]
      },
      {
     "groupName": "Microsoft 365 Student Education Links",
@@ -76,7 +89,7 @@
    ]
      },  
      {
-    "groupName": "Azure Education Links",
+    "groupName": "Azure Education",
     "portals": [
       {
         "portalName": "Azure Education Hub",
@@ -113,7 +126,7 @@
     ]
      },
       {
-    "groupName": "General Microsoft Education Links",
+    "groupName": "General Microsoft Education",
     "portals": [
         {
         "portalName": "Hacking STEM",
