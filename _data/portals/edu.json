@@ -70,9 +70,27 @@
         "note":"PDF"
          },
          {
+        "portalName": "Student Use Benefits and Academic Programs",
+        "primaryURL": "https://www.microsoft.com/licensing/terms/product/StudentUseBenefitsandAcademicPrograms/all"
+         }, 
+         {
         "portalName": "Microsoft 365 Education licenses - Learn",
         "primaryURL": "https://learn.microsoft.com/en-us/microsoft-365/education/guide/0-start/all-license"
-      }
+         },
+        {
+        "portalName": "Microsoft 365 Education licenses  - M365Maps.com",
+        "primaryURL": "https://m365maps.com/files/Microsoft-365-Education-All.htm"
+         },
+        {
+        "portalName": "Microsoft 365 Education Student Use Benefits - M365Maps.com",
+        "primaryURL": "https://www.microsoft.com/licensing/terms/product/StudentUseBenefitsandAcademicPrograms/all",
+        "secondaryURLs": [
+          {
+            "icon": "Simple Version",
+            "url": "https://m365maps.com/files/Microsoft-365-Education-Student-Use-Benefits-Simple.htm"
+          }
+        ]
+      } 
    ]
      },
      {
