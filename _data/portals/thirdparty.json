@@ -1,197 +1,201 @@
 [
-  {
-    "groupName": "Non-Microsoft Owned 3rd Party Portals",
-    "portals": [
-      {
-        "portalName": "[cmd.ms]",
-        "primaryURL": "https://cmd.ms"
-      },
-      {
-        "portalName": "AADInternals Tenant information OSINT",
-        "primaryURL": "https://aadinternals.com/osint/"
-      },
-      {
-        "portalName": "Apple Business Manager",
-        "primaryURL": "https://business.apple.com"
-      },
-      {
-        "portalName": "Apple School Manager",
-        "primaryURL": "https://school.apple.com"
-      },
-      {
-        "portalName": "ASD's Blueprint for Secure Cloud",
-        "primaryURL": "https://blueprint.asd.gov.au/"
-      },
-      {
-        "portalName": "Azure Periodic Table",
-        "primaryURL": "https://www.azureperiodictable.com/"
-      },
-      {
-        "portalName": "Azure Diagrams",
-        "primaryURL": "https://azurediagrams.com/"
-      },
-      {
-        "portalName": "Azure Governance change tracker",
-        "primaryURL": "https://www.azadvertizer.net"
-      },
-      {
-        "portalName": "ChangeWindows",
-        "primaryURL": "https://changewindows.org/"
-      },
-      {
-        "portalName": "Conditional Access Documenter - idPowerToys",
-        "primaryURL": "https://idpowertoys.merill.net/ca"
-      },
-      {
-        "portalName": "Defender for Endpoint Blog and KQL-Tools",
-        "primaryURL": "https://m365internals.com"
-      },
-      {
-        "portalName": "Entra Mind Maps",
-        "primaryURL": "https://entra.news/p/entra-mind-maps"
-      },
-      {
-        "portalName": "Get Security Done",
-        "primaryURL": "https://dcaddick.github.io/gsd_public/",
-        "note": "Dave Caddick",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/GSD"
-          }
-        ]
-      },
-      {
-        "portalName": "ADMX Viewer",
-        "primaryURL": "https://gpedit.tplant.com.au/"
-      },
-       {
-        "portalName": "Group Policy Search",
-        "primaryURL": "https://gpsearch.azurewebsites.net/"
-      },
-      {
-        "portalName": "IntuneMaps",
-        "primaryURL": "https://intunemaps.com/"
-      },
-      {
-        "portalName": "KQL Search",
-        "primaryURL": "https://www.kqlsearch.com/"
-      },
-      {
-        "portalName": "Managed Google Play store",
-        "primaryURL": "https://play.google.com/work"
-      },
-      {
-        "portalName": "Message Header Analyzer",
-        "primaryURL": "https://mha.azurewebsites.net"
-      },
-      {
-        "portalName": "Microsoft 365 Custom CSS Designer",
-        "primaryURL": "https://ms365-css-designer.vercel.app",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/shadow578/ms365-css-designer"
-          }
-        ]
-      },
-      {
-        "portalName": "Microsoft 365 Maps - Licensing Diagrams",
-        "primaryURL": "https://m365maps.com/"
-      },
-      {
-        "portalName": "Microsoft Acronyms Glossary",
-        "primaryURL": "https://tpm.ms/TLA"
-      },
-      {
-        "portalName": "Microsoft Certification Hub",
-        "primaryURL": "https://certs.msfthub.wiki/"
-      },
-      {
-        "portalName": "Microsoft Mac Downloads",
-        "primaryURL": "https://macadmins.software/"
-      },
-      {
-        "portalName": "Microsoft Portals",
-        "primaryURL": "https://msportals.io/",
-        "note": "You're already here"
-      },
-      {
-        "portalName": "Microsoft Token Analysis Tool",
-        "primaryURL": "https://jwt.ms/"
-      },
-      {
-        "portalName": "Microsoft App Control Policy Wizard",
-        "primaryURL": "https://webapp-wdac-wizard.azurewebsites.net/"
-      },
-      {
-        "portalName": "Microsoft365DSC",
-        "primaryURL": "https://microsoft365dsc.com/"
-      },
-      {
-        "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
-        "primaryURL": "https://msshells.net/",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/get-itips/msshells/"
-          }
-        ]
-      },
-      {
-        "portalName": "Office 365 ATP Safe Links Decoder",
-        "primaryURL": "https://o365atp.com"
-      },
-      {
-        "portalName": "Online link generator for Microsoft Store",
-        "primaryURL": "https://store.rg-adguard.net/"
-      },
-      {
-        "portalName": "Samsung Knox",
-        "primaryURL": "https://www.samsungknox.com/"
-      },
-      {
-        "portalName": "Search aka.ms",
-        "primaryURL": "https://akasearch.net/"
-      },
-      {
-        "portalName": "Regular Expressions 101",
-        "primaryURL": "https://regex101.com"
-      },
-      {
-        "portalName": "Tenant Availability Check",
-        "primaryURL": "https://o365.rocks"
-      },
-      {
-        "portalName": "Twitter - Microsoft 365 Status Page",
-        "primaryURL": "https://twitter.com/MSFT365Status"
-      },
-      {
-        "portalName": "URL Defanger",
-        "primaryURL": "https://trustifi.com/url-defang-tool/"
-      },
-      {
-        "portalName": "Valimail DMARC Monitor",
-        "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
-      },
-      {
-        "portalName": "What is my Microsoft Azure and Office 365 tenant ID ?",
-        "primaryURL": "https://www.whatismytenantid.com"
-      },
-      {
-        "portalName": "Where's My Tenant ?",
-        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
-      }
-    ]
-  },
     {
-    "groupName": "Non-Microsoft Owned 3rd Party Scripts",
-    "portals": [
+        "groupName": "Non-Microsoft Owned 3rd Party Portals",
+        "portals": [
             {
-        "portalName": "M365PSProfile",
-        "primaryURL": "https://www.powershellgallery.com/packages/M365PSProfile/0.5.0",
-        "note": "Updates all M365 PowerShell Modules"
-      }
-     ]
+                "portalName": "[cmd.ms]",
+                "primaryURL": "https://cmd.ms"
+            },
+            {
+                "portalName": "AADInternals Tenant information OSINT",
+                "primaryURL": "https://aadinternals.com/osint/"
+            },
+            {
+                "portalName": "ADMX Viewer",
+                "primaryURL": "https://gpedit.tplant.com.au/"
+            },
+            {
+                "portalName": "Apple Business Manager",
+                "primaryURL": "https://business.apple.com"
+            },
+            {
+                "portalName": "Apple School Manager",
+                "primaryURL": "https://school.apple.com"
+            },
+            {
+                "portalName": "ASD's Blueprint for Secure Cloud",
+                "primaryURL": "https://blueprint.asd.gov.au/"
+            },
+            {
+                "portalName": "Azure Charts",
+                "primaryURL": "https://azurecharts.com/"
+            },
+            {
+                "portalName": "Azure Diagrams",
+                "primaryURL": "https://azurediagrams.com/"
+            },
+            {
+                "portalName": "Azure Governance change tracker",
+                "primaryURL": "https://www.azadvertizer.net"
+            },
+            {
+                "portalName": "Azure Periodic Table",
+                "primaryURL": "https://www.azureperiodictable.com/"
+            },
+            {
+                "portalName": "ChangeWindows",
+                "primaryURL": "https://changewindows.org/"
+            },
+            {
+                "portalName": "Conditional Access Documenter - idPowerToys",
+                "primaryURL": "https://idpowertoys.merill.net/ca"
+            },
+            {
+                "portalName": "Defender for Endpoint Blog and KQL-Tools",
+                "primaryURL": "https://m365internals.com"
+            },
+            {
+                "portalName": "Entra Mind Maps",
+                "primaryURL": "https://entra.news/p/entra-mind-maps"
+            },
+            {
+                "portalName": "Get Security Done",
+                "primaryURL": "https://dcaddick.github.io/gsd_public/",
+                "note": "Dave Caddick",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/GSD"
+                    }
+                ]
+            },
+            {
+                "portalName": "Group Policy Search",
+                "primaryURL": "https://gpsearch.azurewebsites.net/"
+            },
+            {
+                "portalName": "IntuneMaps",
+                "primaryURL": "https://intunemaps.com/"
+            },
+            {
+                "portalName": "KQL Search",
+                "primaryURL": "https://www.kqlsearch.com/"
+            },
+            {
+                "portalName": "Managed Google Play store",
+                "primaryURL": "https://play.google.com/work"
+            },
+            {
+                "portalName": "Message Header Analyzer",
+                "primaryURL": "https://mha.azurewebsites.net"
+            },
+            {
+                "portalName": "Microsoft 365 Custom CSS Designer",
+                "primaryURL": "https://ms365-css-designer.vercel.app",
+                "secondaryURLs": [
+                    {
+                        "icon": "GitHub",
+                        "url": "https://github.com/shadow578/ms365-css-designer"
+                    }
+                ]
+            },
+            {
+                "portalName": "Microsoft 365 Maps - Licensing Diagrams",
+                "primaryURL": "https://m365maps.com/"
+            },
+            {
+                "portalName": "Microsoft Acronyms Glossary",
+                "primaryURL": "https://tpm.ms/TLA"
+            },
+            {
+                "portalName": "Microsoft App Control Policy Wizard",
+                "primaryURL": "https://webapp-wdac-wizard.azurewebsites.net/"
+            },
+            {
+                "portalName": "Microsoft Certification Hub",
+                "primaryURL": "https://certs.msfthub.wiki/"
+            },
+            {
+                "portalName": "Microsoft Mac Downloads",
+                "primaryURL": "https://macadmins.software/"
+            },
+            {
+                "portalName": "Microsoft Portals",
+                "primaryURL": "https://msportals.io/",
+                "note": "You're already here"
+            },
+            {
+                "portalName": "Microsoft Token Analysis Tool",
+                "primaryURL": "https://jwt.ms/"
+            },
+            {
+                "portalName": "Microsoft365DSC",
+                "primaryURL": "https://microsoft365dsc.com/"
+            },
+            {
+                "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
+                "primaryURL": "https://msshells.net/",
+                "secondaryURLs": [
+                    {
+                        "icon": "GitHub",
+                        "url": "https://github.com/get-itips/msshells/"
+                    }
+                ]
+            },
+            {
+                "portalName": "Office 365 ATP Safe Links Decoder",
+                "primaryURL": "https://o365atp.com"
+            },
+            {
+                "portalName": "Online link generator for Microsoft Store",
+                "primaryURL": "https://store.rg-adguard.net/"
+            },
+            {
+                "portalName": "Regular Expressions 101",
+                "primaryURL": "https://regex101.com"
+            },
+            {
+                "portalName": "Samsung Knox",
+                "primaryURL": "https://www.samsungknox.com/"
+            },
+            {
+                "portalName": "Search aka.ms",
+                "primaryURL": "https://akasearch.net/"
+            },
+            {
+                "portalName": "Tenant Availability Check",
+                "primaryURL": "https://o365.rocks"
+            },
+            {
+                "portalName": "Twitter - Microsoft 365 Status Page",
+                "primaryURL": "https://twitter.com/MSFT365Status"
+            },
+            {
+                "portalName": "URL Defanger",
+                "primaryURL": "https://trustifi.com/url-defang-tool/"
+            },
+            {
+                "portalName": "Valimail DMARC Monitor",
+                "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html"
+            },
+            {
+                "portalName": "What is my Microsoft Azure and Office 365 tenant ID ?",
+                "primaryURL": "https://www.whatismytenantid.com"
+            },
+            {
+                "portalName": "Where's My Tenant ?",
+                "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+            }
+        ]
+    },
+    {
+        "groupName": "Non-Microsoft Owned 3rd Party Scripts",
+        "portals": [
+            {
+                "portalName": "M365PSProfile",
+                "primaryURL": "https://www.powershellgallery.com/packages/M365PSProfile/0.5.0",
+                "note": "Updates all M365 PowerShell Modules"
+            }
+        ]
     }
 ]
