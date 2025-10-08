@@ -16,6 +16,10 @@
         "portalName": "Microsoft Applied Skills",
         "primaryURL": "https://learn.microsoft.com/credentials/browse/?credential_types=applied%20skills"
       },
+	  {
+        "portalName": "Microsoft Certifications - Study Guides",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/ai-102"
+      },
       {
         "portalName": "Microsoft Learn Blog",
         "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"
@@ -104,35 +108,11 @@
     "groupName": "Infrastructure Certifications"
   },
   {
-    "groupName": "Infrastructure - Microsoft Certified: Azure Fundamentals",
+    "groupName": "Infrastructure - Microsoft Certified: Azure Fundamentals AZ-900",
     "portals": [
        {
-        "portalName": "Microsoft Certified: Azure Fundamentals",
+        "portalName": "Microsoft Certified: Azure Fundamentals AZ-900",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-fundamentals/"
-      },
-      {
-        "portalName": "AZ-900 Azure Fundamentals Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/az-900/",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/az900"
-          }
-        ]
-      },
-      {
-        "portalName": "AZ-900 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900",
-	      "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/az900-StudyGuide"
-          }
-        ]
-      },
-      {
-        "portalName": "AZ-900 Azure Fundamentals Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/az-900t00"
       }
     ]
   },
