@@ -76,7 +76,7 @@
           }
         ]
       },
-	 {
+      {
         "portalName": "Microsoft Certifications - Study Guides",
         "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/ai-102"
       },
@@ -90,7 +90,7 @@
           }
         ]
       },
-{
+      {
         "portalName": "Microsoft Applied Skills - Study Guides",
         "primaryURL": "https://learn.microsoft.com/en-gb/credentials/applied-skills/resources/study-guides/apl-0100/"
       },
@@ -115,7 +115,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure Fundamentals (AZ-900)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Fundamentals",
+        "portalName": "Microsoft Certified: Azure Fundamentals (AZ-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-fundamentals/"
       }
     ]
@@ -124,7 +124,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure Administrator Associate (AZ-104)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Administrator Associate",
+        "portalName": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-administrator/"
       }
     ]
@@ -133,7 +133,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Solutions Architect Expert",
+        "portalName": "Microsoft Certified: Azure Solutions Architect Expert (AZ-305)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/"
       }
     ]
@@ -142,7 +142,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure Network Engineer Associate (AZ-700)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Network Engineer Associate",
+        "portalName": "Microsoft Certified: Azure Network Engineer Associate (AZ-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/"
       }
     ]
@@ -151,7 +151,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Windows Server Hybrid Administrator Associate",
+        "portalName": "Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/"
       }
     ]
@@ -160,7 +160,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure for SAP Workloads Specialty (AZ-120)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure for SAP Workloads Specialty",
+        "portalName": "Microsoft Certified: Azure for SAP Workloads Specialty (AZ-120)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/"
       }
     ]
@@ -169,7 +169,7 @@
     "groupName": "Infrastructure - Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Virtual Desktop Specialty",
+        "portalName": "Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/"
       }
     ]
@@ -178,7 +178,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure AI Fundamentals (AI-900)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure AI Fundamentals",
+        "portalName": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/"
       }
     ]
@@ -187,7 +187,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure AI Engineer Associate (AI-102)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure AI Engineer Associate",
+        "portalName": "Microsoft Certified: Azure AI Engineer Associate (AI-102)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-engineer"
       }
     ]
@@ -196,7 +196,7 @@
     "groupName": "Data and AI - Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Power BI Data Analyst Associate",
+        "portalName": "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/"
       }
     ]
@@ -205,7 +205,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure Data Fundamentals (DP-900)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Data Fundamentals",
+        "portalName": "Microsoft Certified: Azure Data Fundamentals (DP-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals"
       }
     ]
@@ -214,7 +214,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure Data Scientist Associate (DP-100)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Data Scientist Associate",
+        "portalName": "Microsoft Certified: Azure Data Scientist Associate (DP-100)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-data-scientist"
       }
     ]
@@ -223,7 +223,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure Data Engineer Associate (DP-203)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Data Engineer Associate",
+        "portalName": "Microsoft Certified: Azure Data Engineer Associate (DP-203)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-data-engineer"
       }
     ]
@@ -232,7 +232,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure Database Administrator Associate (DP-300)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Database Administrator Associate",
+        "portalName": "Microsoft Certified: Azure Database Administrator Associate (DP-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-database-administrator-associate"
       }
     ]
@@ -241,7 +241,7 @@
     "groupName": "Data and AI - Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Fabric Analytics Engineer Associate",
+        "portalName": "Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate"
       }
     ]
@@ -250,7 +250,7 @@
     "groupName": "Data and AI - Microsoft Certified: Microsoft Fabric Data Engineering Associate (DP-700)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Microsoft Fabric Data Engineering Associate",
+        "portalName": "Microsoft Certified: Microsoft Fabric Data Engineering Associate (DP-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/fabric-data-engineering-associate"
       }
     ]
@@ -259,7 +259,7 @@
     "groupName": "Data and AI - Microsoft Certified: Azure Cosmos DB Developer Specialty (DP-420)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "portalName": "Microsoft Certified: Azure Cosmos DB Developer Specialty (DP-420)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty"
       }
     ]
@@ -268,7 +268,7 @@
     "groupName": "Digital app and innovation - Microsoft Certified: Azure Developer Associate (AZ-204)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Developer Associate",
+        "portalName": "Microsoft Certified: Azure Developer Associate (AZ-204)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-developer"
       }
     ]
@@ -277,7 +277,7 @@
     "groupName": "Digital app and innovation - Microsoft Certified: DevOps Engineer Expert (AZ-400)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: DevOps Engineer Expert",
+        "portalName": "Microsoft Certified: DevOps Engineer Expert (AZ-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/devops-engineer"
       }
     ]
@@ -286,7 +286,7 @@
     "groupName": "Modern Work - Microsoft 365 Certified: Fundamentals (MS-900)",
     "portals": [
       {
-        "portalName": "Microsoft 365 Certified: Fundamentals",
+        "portalName": "Microsoft 365 Certified: Fundamentals (MS-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals"
       }
     ]
@@ -295,7 +295,7 @@
     "groupName": "Modern Work - Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)",
     "portals": [
       {
-        "portalName": "Microsoft 365 Certified: Endpoint Administrator Associate",
+        "portalName": "Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator"
       }
     ]
@@ -304,7 +304,7 @@
     "groupName": "Modern Work - Microsoft 365 Certified: Administrator Expert (MS-102)",
     "portals": [
       {
-        "portalName": "Microsoft 365 Certified: Administrator Expert",
+        "portalName": "Microsoft 365 Certified: Administrator Expert (MS-102)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-administrator-expert"
       }
     ]
@@ -313,7 +313,7 @@
     "groupName": "Modern Work - Microsoft 365 Certified: Teams Administrator Associate (MS-700)",
     "portals": [
       {
-        "portalName": "Microsoft 365 Certified: Teams Administrator Associate",
+        "portalName": "Microsoft 365 Certified: Teams Administrator Associate (MS-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-teams-administrator-associate/"
       }
     ]
@@ -322,7 +322,7 @@
     "groupName": "Modern Work - Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate (MS-721)",
     "portals": [
       {
-        "portalName": "Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate",
+        "portalName": "Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate (MS-721)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-collaboration-communications-systems-engineer/"
       }
     ]
@@ -331,7 +331,7 @@
     "groupName": "Business Applications - Microsoft Certified: Power Platform Fundamentals (PL-900)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Power Platform Fundamental",
+        "portalName": "Microsoft Certified: Power Platform Fundamental (PL-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/"
       }
     ]
@@ -340,7 +340,7 @@
     "groupName": "Business Applications - Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Power Platform Functional Consultant Associate",
+        "portalName": "Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-functional-consultant-associate/"
       }
     ]
@@ -349,7 +349,7 @@
     "groupName": "Business Applications - Microsoft Certified: Power Platform Developer Associate (PL-400)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Power Platform Developer Associate",
+        "portalName": "Microsoft Certified: Power Platform Developer Associate (PL-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/"
       }
     ]
@@ -358,7 +358,7 @@
     "groupName": "Business Applications - Microsoft Certified: Power Automate RPA Developer Associate (PL-500)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Power Automate RPA Developer Associate",
+        "portalName": "Microsoft Certified: Power Automate RPA Developer Associate (PL-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-automate-rpa-developer-associate/"
       }
     ]
@@ -367,7 +367,7 @@
     "groupName": "Business Applications - Microsoft Certified: Power Platform Solution Architect Expert (PL-600)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Power Platform Solution Architect Expert",
+        "portalName": "Microsoft Certified: Power Platform Solution Architect Expert (PL-600)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/"
       }
     ]
@@ -376,7 +376,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+        "portalName": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/"
       }
     ]
@@ -385,7 +385,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Fundamentals (ERP) (MB-920)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Fundamentals (ERP)",
+        "portalName": "Microsoft Certified: Dynamics 365 Fundamentals (ERP) (MB-920)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/"
       }
     ]
@@ -394,7 +394,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (MB-240)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate",
+        "portalName": "Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (MB-240)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-field-service/"
       }
     ]
@@ -403,7 +403,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (MB-230)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate",
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (MB-230)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-customer-service/"
       }
     ]
@@ -412,7 +412,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate (MB-330)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate",
+        "portalName": "Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate (MB-330)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-supply-chain-management/"
       }
     ]
@@ -421,8 +421,8 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate (MB-280)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-experience-analyst-associate/"
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate (MB-280)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-experience-analyst-associate/"
       }
     ]
   },
@@ -430,7 +430,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate (MB-310)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate",
+        "portalName": "Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate (MB-310)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-financials/"
       }
     ]
@@ -439,7 +439,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate (MB-500)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate",
+        "portalName": "Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate (MB-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-developer-associate/"
       }
     ]
@@ -448,7 +448,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert (MB-335)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert",
+        "portalName": "Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert (MB-335)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-supply-chain-management-functional-consultant-expert/"
       }
     ]
@@ -457,7 +457,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate (MB-800)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate",
+        "portalName": "Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate (MB-800)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-business-central-functional-consultant-associate/"
       }
     ]
@@ -466,7 +466,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert (MB-700)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert",
+        "portalName": "Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert (MB-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-solution-architect-expert/"
       }
     ]
@@ -475,7 +475,7 @@
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Business Central Developer Associate (MB-820)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Dynamics 365 Business Central Developer Associate",
+        "portalName": "Microsoft Certified: Dynamics 365 Business Central Developer Associate (MB-820)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-business-central-developer-associate/"
       }
     ]
@@ -484,7 +484,7 @@
     "groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/"
       }
     ]
@@ -493,7 +493,7 @@
     "groupName": "Security - Microsoft Certified: Azure Security Engineer Associate (AZ-500)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Azure Security Engineer Associate",
+        "portalName": "Microsoft Certified: Azure Security Engineer Associate (AZ-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer"
       }
     ]
@@ -502,7 +502,7 @@
     "groupName": "Security - Microsoft Certified: Cybersecurity Architect Expert (SC-100)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Cybersecurity Architect Expert",
+        "portalName": "Microsoft Certified: Cybersecurity Architect Expert (SC-100)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/cybersecurity-architect-expert"
       }
     ]
@@ -511,7 +511,7 @@
     "groupName": "Security - Microsoft Certified: Security Operations Analyst Associate (SC-200)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Security Operations Analyst Associate",
+        "portalName": "Microsoft Certified: Security Operations Analyst Associate (SC-200)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/security-operations-analyst"
       }
     ]
@@ -520,7 +520,7 @@
     "groupName": "Security - Microsoft Certified: Identity and Access Administrator Associate (SC-300)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Identity and Access Administrator Associate",
+        "portalName": "Microsoft Certified: Identity and Access Administrator Associate (SC-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/identity-and-access-administrator"
       }
     ]
@@ -529,7 +529,7 @@
     "groupName": "Security - Microsoft Certified: Information Security Administrator (SC-401)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: Information Security Administrator",
+        "portalName": "Microsoft Certified: Information Security Administrator (SC-401)",
         "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/"
       }
     ]
@@ -538,8 +538,8 @@
     "groupName": "Business User - Microsoft Office Specialist: Word Associate (Microsoft 365 Apps) (MO-110)",
     "portals": [
       {
-        "portalName": "Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-word-associate-m365-apps/"
+        "portalName": "Microsoft Office Specialist: Word Associate (Microsoft 365 Apps) (MO-110)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-word-associate-m365-apps/"
       }
     ]
   },
@@ -547,8 +547,8 @@
     "groupName": "Business User - Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps) (MO-210)",
     "portals": [
       {
-        "portalName": "Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-associate-m365-apps/"
+        "portalName": "Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps) (MO-210)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-excel-associate-m365-apps/"
       }
     ]
   },
@@ -556,8 +556,8 @@
     "groupName": "Business User - Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps) (MO-310)",
     "portals": [
       {
-        "portalName": "Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/"
+        "portalName": "Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps) (MO-310)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-powerpoint-associate-m365-apps/"
       }
     ]
   },
@@ -565,9 +565,8 @@
     "groupName": "Business User - Microsoft Office Specialist: Outlook Associate (Microsoft 365 Apps) (MO-410)",
     "portals": [
       {
-        "portalName": "Microsoft Office Specialist: Outlook Associate (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-outlook-2019/",
-        "note": "Please verify if this should point to the M365 Apps page rather than 2019."
+        "portalName": "Microsoft Office Specialist: Outlook Associate (Microsoft 365 Apps) (MO-410)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/"
       }
     ]
   },
@@ -576,7 +575,7 @@
     "portals": [
       {
         "portalName": "Microsoft Office Specialist: Associate (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-office-specialist-associate-m365-apps/",
         "note": "Prerequisites - Three of the following: MO-110, MO-210, MO-310, MO-410 (or older 2019 equivalents)"
       }
     ]
@@ -585,8 +584,8 @@
     "groupName": "Business User - Microsoft Office Specialist: Word Expert (Microsoft 365 Apps) (MO-111)",
     "portals": [
       {
-        "portalName": "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-word-expert-m365-apps/"
+        "portalName": "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps) (MO-111)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-word-expert-m365-apps/"
       }
     ]
   },
@@ -594,8 +593,8 @@
     "groupName": "Business User - Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps) (MO-211)",
     "portals": [
       {
-        "portalName": "Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-m365-apps/"
+        "portalName": "Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps) (MO-211)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-excel-expert-m365-apps/"
       }
     ]
   },
@@ -604,7 +603,7 @@
     "portals": [
       {
         "portalName": "Microsoft Office Specialist: Expert (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
         "note": "Prerequisites - MO-211, MO-111, and Microsoft Office Specialist: Associate (Microsoft 365 Apps) certification (or older 2019 equivalents)"
       }
     ]
@@ -686,8 +685,7 @@
       },
       {
         "portalName": "Microsoft Sentinel Notebooks Ninja",
-        "primaryURL": "https://aka.ms/MDONinja",
-        "note": "Please verify; this currently points to Defender for Office 365 Ninja."
+        "primaryURL": "https://techcommunity.microsoft.com/blog/microsoftsentinelblog/becoming-a-microsoft-sentinel-notebooks-ninja---the-series/"
       },
       {
         "portalName": "Microsoft Sentinel Automation Ninja",
