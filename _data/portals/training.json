@@ -109,7 +109,7 @@
     ]
   },
   {
-    "groupName": "Infrastructure Certifications"
+    "groupName": "Infrastructure Certifications",
     "portals": [
       {
         "portalName": "Microsoft Certified: Azure Fundamentals (AZ-900)",
@@ -541,7 +541,7 @@
     "groupName": "GitHub - GitHub Advanced Security (GH-500)",
     "portals": [
       {
-        "portalName": "Microsoft Certified: GitHub Copilot (GH-300)",
+        "portalName": "Microsoft Certified: GitHub Advanced Security (GH-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-advanced-security/"
       }
     ]
