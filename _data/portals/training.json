@@ -110,65 +110,32 @@
   },
   {
     "groupName": "Infrastructure Certifications"
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Azure Fundamentals (AZ-900)",
     "portals": [
       {
         "portalName": "Microsoft Certified: Azure Fundamentals (AZ-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-fundamentals/"
-      }
-    ]
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Azure Administrator Associate (AZ-104)",
-    "portals": [
+      },
       {
         "portalName": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-administrator/"
-      }
-    ]
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)",
-    "portals": [
+      },
       {
         "portalName": "Microsoft Certified: Azure Solutions Architect Expert (AZ-305)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/"
-      }
-    ]
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Azure Network Engineer Associate (AZ-700)",
-    "portals": [
-      {
+      },
+       {
         "portalName": "Microsoft Certified: Azure Network Engineer Associate (AZ-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/"
-      }
-    ]
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)",
-    "portals": [
-      {
+      },
+        {
         "portalName": "Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/"
-      }
-    ]
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Azure for SAP Workloads Specialty (AZ-120)",
-    "portals": [
+      },
       {
         "portalName": "Microsoft Certified: Azure for SAP Workloads Specialty (AZ-120)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/"
-      }
-    ]
-  },
-  {
-    "groupName": "Infrastructure - Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)",
-    "portals": [
-      {
+      },
+     {
         "portalName": "Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/"
       }
@@ -531,6 +498,51 @@
       {
         "portalName": "Microsoft Certified: Information Security Administrator (SC-401)",
         "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/"
+      }
+    ]
+  },
+        {
+    "groupName": "GitHub - GitHub Foundations (GH-900)",
+    "portals": [
+      {
+        "portalName": "Microsoft Certified: GitHub Foundations (GH-900)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-foundations/"
+      }
+    ]
+  },
+      {
+    "groupName": "GitHub - GitHub Administration (GH-100)",
+    "portals": [
+      {
+        "portalName": "Microsoft Certified: GitHub Administration (GH-100)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-administration/"
+      }
+    ]
+  },
+        {
+    "groupName": "GitHub - GitHub Actions (GH-200)",
+    "portals": [
+      {
+        "portalName": "Microsoft Certified: GitHub Actions (GH-200)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-actions/"
+      }
+    ]
+  },
+    {
+    "groupName": "GitHub - GitHub Copilot (GH-300)",
+    "portals": [
+      {
+        "portalName": "Microsoft Certified: GitHub Copilot (GH-300)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-copilot/"
+      }
+    ]
+  },
+      {
+    "groupName": "GitHub - GitHub Advanced Security (GH-500)",
+    "portals": [
+      {
+        "portalName": "Microsoft Certified: GitHub Copilot (GH-300)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-advanced-security/"
       }
     ]
   },
