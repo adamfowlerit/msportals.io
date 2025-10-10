@@ -133,7 +133,7 @@
             },
             {
                 "portalName": "SharePoint",
-                "primaryURL": "https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1"
+                "primaryURL": "https://www.office.com/launch/sharepoint"
             },
             {
                 "portalName": "Stream (Classic)",
