@@ -1008,6 +1008,10 @@
       "primaryURL": "https://www.microsoft.com/home-use-program"
     },
     {
+      "portalName": "Microsoft Marketplace",
+      "primaryURL": "https://marketplace.microsoft.com"
+    },
+    {
       "portalName": "Microsoft MVP",
       "primaryURL": "https://mvp.microsoft.com"
     },
