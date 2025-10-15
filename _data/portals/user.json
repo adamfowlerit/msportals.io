@@ -45,6 +45,10 @@
                 "primaryURL": "https://web.kaiza.la"
             },
             {
+                "portalName": "Lists",
+                "primaryURL": "https://www.office.com/launch/lists"
+            },
+            {
                 "portalName": "Loop",
                 "primaryURL": "https://loop.cloud.microsoft",
                 "secondaryURLs": [
