@@ -219,6 +219,15 @@
       }
    ]
   },
+    {
+    "groupName": "Microsoft Certified: Agentic AI Business Solutions Architect",
+    "portals": [
+      {
+        "portalName": "Agentic AI Business Solutions Architect (AB-100)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/"
+      }
+   ]
+  },
         {
     "groupName": "Microsoft Certified - Business Applications",
     "portals": [
