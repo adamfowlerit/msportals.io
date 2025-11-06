@@ -387,10 +387,6 @@
         "note": "Includes App Assure"
       },
       {
-        "portalName": "Microsoft License Advisor",
-        "primaryURL": "https://mla-uat.microsoft.com"
-      },
-      {
         "portalName": "Microsoft Services Hub",
         "primaryURL": "https://serviceshub.microsoft.com"
       },
