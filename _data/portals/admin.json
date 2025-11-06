@@ -404,7 +404,7 @@
       },
       {
         "portalName": "Volume Licensing Service Center (VLSC)",
-        "primaryURL": "https://admin.microsoft.com/adminportal/home#/subscriptions/vlnew"
+        "primaryURL": "https://admin.cloud.microsoft/#/subscriptions/vlnew"
       }
     ]
   },
