@@ -143,6 +143,16 @@
                 ]
             },
             {
+                "portalName": "M365 Visual Roadmap, provides a visual representation of the Microsoft 365 Roadmap",
+                "primaryURL": "https://m365visualroadmap.net/",
+                "secondaryURLs": [
+                    {
+                        "icon": "GitHub",
+                        "url": "https://github.com/get-itips/m365visualroadmap"
+                    }
+                ]
+            },
+            {
                 "portalName": "Office 365 ATP Safe Links Decoder",
                 "primaryURL": "https://o365atp.com"
             },
