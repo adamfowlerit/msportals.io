@@ -68,7 +68,13 @@
             },
             {
                 "portalName": "Outlook",
-                "primaryURL": "https://outlook.office.com"
+                "primaryURL": "https://outlook.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://outlook.office.com"
+                    }
+                ]
             },
             {
                 "portalName": "People",
