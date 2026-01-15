@@ -160,15 +160,15 @@
             },
             {
                 "portalName": "Teams",
-                "primaryURL": "https://teams.microsoft.com/v2/",
+                "primaryURL": "https://teams.cloud.microsoft",
                 "secondaryURLs": [
                     {
                         "icon": "B2B",
-                        "url": "https://teams.microsoft.com/v2/?tenantId={tenant_id}"
+                        "url": "https://teams.cloud.microsoft?tenantId={tenant_id}"
                     },
                     {
                         "icon": "Old 🔗",
-                        "url": "https://teams.microsoft.com/"
+                        "url": "https://teams.microsoft.com/v2/"
                     }
                 ]
             },
