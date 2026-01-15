@@ -639,7 +639,8 @@
       },
       {
         "portalName": "Microsoft Graph Toolkit",
-        "primaryURL": "https://mgt.dev/"
+        "primaryURL": "https://mgt.dev/",
+        "note": "Deprecated - https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-toolkit-retirement/"
       },
       {
         "portalName": "Visual Studio (VS) Code in the Web",
