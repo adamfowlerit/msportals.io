@@ -128,10 +128,6 @@
                 ]
             },
             {
-                "portalName": "Project",
-                "primaryURL": "https://project.microsoft.com"
-            },
-            {
                 "portalName": "Security",
                 "primaryURL": "https://security.microsoft.com"
             },
