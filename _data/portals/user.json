@@ -246,7 +246,7 @@
             },
             {
                 "portalName": "Word",
-                "primaryURL": "word.cloud.microsoft",
+                "primaryURL": "https://word.cloud.microsoft",
                 "secondaryURLs": [
                     {
                         "icon": "Old 🔗",
