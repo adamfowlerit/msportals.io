@@ -494,22 +494,20 @@
                 ]
             },
             {
-                "portalName": "Windows App",
+                "portalName": "Windows App (Windows 365)",
                 "primaryURL": "https://windows.cloud.microsoft/",
-                "secondaryURLs": [
-                    {
-                        "icon": "Old 🔗",
-                        "url": "https://windows365.microsoft.com/ent#/"
-                    }
-                ]
-            },
-            {
-                "portalName": "Windows 365",
-                "primaryURL": "https://windows365.microsoft.com",
                 "secondaryURLs": [
                     {
                         "icon": "aka.ms",
                         "url": "https://aka.ms/w365login"
+                    },                    
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://windows365.microsoft.com"
+                    },
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://windows365.microsoft.com/ent#/"
                     }
                 ]
             },
