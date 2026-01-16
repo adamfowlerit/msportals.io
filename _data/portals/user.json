@@ -170,7 +170,13 @@
             },
             {
                 "portalName": "Visio",
-                "primaryURL": "https://www.office.com/launch/visio"
+                "primaryURL": "https://m365.cloud.microsoft/launch/visio",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://www.office.com/launch/visio"
+                    }
+                ]
             },
             {
                 "portalName": "Viva Engage",
