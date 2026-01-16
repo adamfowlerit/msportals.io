@@ -19,10 +19,6 @@
                 "primaryURL": "https://cortana.office.com"
             },
             {
-                "portalName": "Delve",
-                "primaryURL": "https://delve.office.com"
-            },
-            {
                 "portalName": "Excel",
                 "primaryURL": "https://excel.cloud.microsoft",
                 "secondaryURLs": [
