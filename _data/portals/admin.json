@@ -624,6 +624,10 @@
         "primaryURL": "https://copilotstudio.microsoft.com/"
       },
       {
+        "portalName": "Copilot Studio preview",
+        "primaryURL": "https://copilotstudio.preview.microsoft.com/"
+      },
+      {
         "portalName": "Microsoft Fabric",
         "primaryURL": "https://fabric.microsoft.com/"
       },
