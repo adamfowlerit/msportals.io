@@ -35,6 +35,8 @@ Big thanks to those who have contributed:
 
 - [Jed Laundry](https://github.com/jlaundry) for adding the great B2B tenant ID feature amongst other improvements.
 
+- [PowerBugi](https://github.com/PowerBugi) for his ongoing contributions to portal accuracy
+
 - Users at the [WinAdmins Discord](https://winadmins.io/discord) who've provided feedback and a bunch of extra links; special mentions to 0x80070005 (Graeme Bray), krbtgt, and dec.
 
 - Everyone who shared and commented on [this tweet](https://twitter.com/AdamFowler_IT/status/1321959895839600640) who showed there was value in bothering to do this and again, provided a bunch more links to add.

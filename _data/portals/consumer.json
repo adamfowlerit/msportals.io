@@ -1,0 +1,222 @@
+[
+   {
+    "groupName": "Consumer - Microsoft General",
+    "portals": [
+        {
+        "portalName": "Microsoft",
+        "primaryURL": "https://microsoft.com"
+         },
+        {
+        "portalName": "Microsoft Support",
+        "primaryURL": "https://support.microsoft.com"
+         },
+         {
+        "portalName": "Microsoft Account Recovery (Password Reset)",
+        "primaryURL": "https://account.live.com/password/reset"
+         },
+        {
+        "portalName": "Microsoft Account Recovery (Recover Your Account)",
+        "primaryURL": "https://account.live.com/acsr"
+         },
+       {
+        "portalName": "Family Safety",
+        "primaryURL": "https://account.microsoft.com/family/home"
+         },
+         {
+        "portalName": "Microsoft Movies & TV",
+        "primaryURL": "https://www.microsoft.com/movies-and-tv"
+         },
+         {
+        "portalName": "Microsoft Store",
+        "primaryURL": "https://microsoft.com/store"
+         }
+        ]
+     },
+ {
+    "groupName": "Consumer - Microsoft Account",
+    "portals": [
+         {
+        "portalName": "Microsoft Account",
+        "primaryURL": "https://account.microsoft.com/",
+        },
+         {
+        "portalName": "Microsoft Account - Your Info",
+        "primaryURL": "https://account.microsoft.com/profile",
+        },
+       {
+        "portalName": "Microsoft Account - Subscriptions",
+        "primaryURL": "https://account.microsoft.com/services",
+        },
+       {
+        "portalName": "Microsoft Account - Devices",
+        "primaryURL": "https://account.microsoft.com/devices",
+        },
+       {
+        "portalName": "Microsoft Account - Devices - Find my device",
+        "primaryURL": "https://account.microsoft.com/devices/find-my-device",
+        },
+       {
+        "portalName": "Microsoft Account - Security",
+        "primaryURL": "https://account.microsoft.com/security",
+        },
+       {
+        "portalName": "Microsoft Account - Privacy",
+        "primaryURL": "https://account.microsoft.com/privacy",
+        },
+       {
+        "portalName": "Microsoft Account - Order History",
+        "primaryURL": "https://account.microsoft.com/billing",
+        },
+       {
+        "portalName": "Microsoft Account - Payment Options",
+        "primaryURL": "https://account.microsoft.com/payments",
+        },
+       {
+        "portalName": "Microsoft Account - Address Book",
+        "primaryURL": "https://account.microsoft.com/billing/addresses",
+        }
+    ]
+ },
+   {
+    "groupName": "Consumer - Microsoft 365",
+    "portals": [
+         {
+        "portalName": "Microsoft 365",
+        "primaryURL": "https://microsoft365.com"
+         },
+        {
+        "portalName": "Defender for Web",
+        "primaryURL": "https://mydefender.microsoft.com"
+         }
+        ]
+     },
+    {
+    "groupName": "Consumer - Microsoft Apps",
+    "portals": [
+         {
+        "portalName": "Copilot",
+        "primaryURL": "https://copilot.microsoft.com"
+         }, 
+       {
+        "portalName": "OneDrive",
+        "primaryURL": "https://onedrive.live.com/"
+         }, 
+       {
+        "portalName": "Teams",
+        "primaryURL": "https://teams.live.com/"
+         },
+      {
+        "portalName": "To-do",
+        "primaryURL": "https://to-do.live.com/"
+         },
+        {
+        "portalName": "Designer",
+        "primaryURL": "https://designer.microsoft.com/"
+         },
+        {
+        "portalName": "OneNote",
+        "primaryURL": "https://www.onenote.com"
+         },
+         {
+        "portalName": "Loop",
+        "primaryURL": "https://loop.cloud.microsoft"
+         },
+       {
+        "portalName": "ClipChamp",
+        "primaryURL": "https://clipchamp.com"
+         },
+       {
+        "portalName": "Outlook",
+        "primaryURL": "https://outlook.com"
+         }
+        ]
+     },
+   {
+    "groupName": "Consumer - Bing",
+    "portals": [
+       {          
+        "portalName": "Bing",
+        "primaryURL": "https://bing.com"
+        },
+       {          
+        "portalName": "Bing Account Settings",
+        "primaryURL": "https://www.bing.com/account/"
+        },
+       {          
+        "portalName": "Rewards",
+        "primaryURL": "https://rewards.bing.com"
+        }
+    ]
+   },
+   {
+    "groupName": "Consumer - Microsoft Edge",
+    "portals": [
+       {          
+        "portalName": "Edge",
+        "primaryURL": "https://microsoftedge.microsoft.com/"
+        },
+       {          
+        "portalName": "Edge Add-ons",
+        "primaryURL": "https://microsoftedge.microsoft.com/addons/"
+        }
+    ]
+   },
+   {
+    "groupName": "Xbox",
+    "portals": [
+        {
+        "portalName": "Xbox Official Site",
+        "primaryURL": "https://www.xbox.com/"
+         },
+         {
+        "portalName": "Xbox Cloud Gaming",
+        "primaryURL": "https://www.xbox.com/play"
+         },
+         {
+        "portalName": "Xbox Design Lab",
+        "primaryURL": "https://xboxdesignlab.xbox.com/"
+         },
+         {
+        "portalName": "Xbox Family Settings",
+        "primaryURL": "https://www.xbox.com/family-hub"
+         }
+        ]
+     },
+   {
+   "groupName": "Consumer - Other",
+    "portals": [
+        {
+        "portalName": "Consumer Feedback Australia",
+        "primaryURL": "https://www.microsoft.com/en-au/microsoftfeedback/"
+         },
+         {
+        "portalName": "MSN News",
+        "primaryURL": "https://www.msn.com"
+         },
+         {
+        "portalName": "Microsoft Insider",
+        "primaryURL": "http://insider.microsoft.com/"
+         },
+                {
+        "portalName": "Powertoys",
+        "primaryURL": "https://learn.microsoft.com/windows/powertoys/"
+         },
+         {
+        "portalName": "Real Or Not",
+        "primaryURL": "https://www.realornotquiz.com/"
+         },
+         {
+        "portalName": "Seeing AI",
+        "primaryURL": "https://www.seeingai.com/"
+         },
+         {
+        "portalName": "Microsoft Services Agreement",
+        "primaryURL": "https://www.microsoft.com/servicesagreement"
+         },
+         {
+        "portalName": "Microsoft Garage",
+        "primaryURL": "https://www.microsoft.com/garage/"
+         }
+        ]
+     }
+]

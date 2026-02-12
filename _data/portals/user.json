@@ -1,276 +1,299 @@
 [
-  {
-    "groupName": "End User Portals - Microsoft 365 Apps",
-    "portals": [
-      {
-        "portalName": "Bookings",
-        "primaryURL": "https://outlook.office.com/bookings"
-      },
-      {
-        "portalName": "Calendar",
-        "primaryURL": "https://outlook.office.com/calendar"
-      },
-      {
-        "portalName": "Compliance",
-        "primaryURL": "https://compliance.microsoft.com"
-      },
-      {
-        "portalName": "Cortana",
-        "primaryURL": "https://cortana.office.com"
-      },
-      {
-        "portalName": "Customer Voice",
-        "primaryURL": "https://customervoice.microsoft.com/"
-      },
-      {
-        "portalName": "Delve",
-        "primaryURL": "https://delve.office.com"
-      },
-      {
-        "portalName": "Excel",
-        "primaryURL": "https://excel.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://www.office.com/launch/excel"
-          }
-        ]
-      },
-      {
-        "portalName": "Fabric",
-        "primaryURL": "https://fabric.microsoft.com"
-      },
-      {
-        "portalName": "Forms",
-        "primaryURL": "https://www.office.com/launch/forms"
-      },
-      {
-        "portalName": "Kaizala Web",
-        "primaryURL": "https://web.kaiza.la"
-      },
-      {
-        "portalName": "Loop",
-        "primaryURL": "https://loop.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://loop.microsoft.com"
-          }
-        ]
-      },
-      {
-        "portalName": "OneDrive",
-        "primaryURL": "https://portal.office.com/onedrive"
-      },
-      {
-        "portalName": "OneNote",
-        "primaryURL": "https://www.office.com/launch/onenote"
-      },
-      {
-        "portalName": "Outlook",
-        "primaryURL": "https://outlook.office.com"
-      },
-      {
-        "portalName": "People",
-        "primaryURL": "https://outlook.office.com/people"
-      },
-       {
-        "portalName": "Planner",
-        "primaryURL": "https://planner.cloud.microsoft/",
-         "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://tasks.office.com"
-          }
-        ]
-      },
-      {
-        "portalName": "Power Apps",
-        "primaryURL": "https://make.powerapps.com"
-      },
-      {
-        "portalName": "Power Automate",
-        "primaryURL": "https://make.powerautomate.com/",
-         "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://flow.microsoft.com"
-          }
-        ]
-      },
-      {
-        "portalName": "Power BI",
-        "primaryURL": "https://app.powerbi.com"
-      },
-      {
-        "portalName": "Power Pages",
-        "primaryURL": "https://make.powerpages.microsoft.com",
-        "note": "Preview"
-      },
-      {
-        "portalName": "PowerPoint",
-        "primaryURL": "https://powerpoint.cloud.microsoft",
-       "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://www.office.com/launch/powerpoint"
-          }
-        ]
-      },
-      {
-        "portalName": "Project",
-        "primaryURL": "https://project.microsoft.com"
-      },
-      {
-        "portalName": "Security",
-        "primaryURL": "https://security.microsoft.com"
-      },
-      {
-        "portalName": "SharePoint",
-        "primaryURL": "https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1"
-      },
-      {
-        "portalName": "Stream (Classic)",
-        "primaryURL": "https://web.microsoftstream.com",
-        "note": "Deprecated - aka.ms/StreamClassicRetireTimeline"
-      },
-      {
-        "portalName": "Stream (on SharePoint)",
-        "primaryURL": "https://stream.office.com/"
-      },
-      {
-        "portalName": "Sway",
-        "primaryURL": "https://sway.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://www.office.com/launch/sway"
-          }
-        ]
-      },
-      {
-        "portalName": "Teams",
-        "primaryURL": "https://teams.microsoft.com/v2/",
-        "secondaryURLs": [
-          {
-            "icon": "B2B",
-            "url": "https://teams.microsoft.com/v2/?tenantId={tenant_id}"
-          },
-          {
-            "icon": "Old 🔗",
-            "url": "https://teams.microsoft.com/"
-          }
-        ]
-      },
-      {
-        "portalName": "To-Do",
-        "primaryURL": "https://to-do.office.com"
-      },
-      {
-        "portalName": "Visio",
-        "primaryURL": "https://www.office.com/launch/visio"
-      },
-      {
-        "portalName": "Viva Engage",
-        "primaryURL": "https://engage.cloud.microsoft"
-      },
-      {
-        "portalName": "Viva Goals",
-        "primaryURL": "https://goals.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": " https://goals.microsoft.com/"
-          }
-        ]
-      },
-      {
-        "portalName": "Viva Home",
-        "primaryURL": "https://viva.cloud.microsoft"
-      },
-      {
-        "portalName": "Viva Insights",
-        "primaryURL": "https://insights.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": " https://insights.viva.office.com/"
-          }
-        ]
-      },
-      {
-        "portalName": "Viva Learning",
-        "primaryURL": "https://learning.cloud.microsoft",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/VivaLearningWeb"
-          },           
-          {
-            "icon": "Old 🔗",
-            "url": " https://vivalearning.microsoft.com/"
-          }
-        ]
-      },
-      {
-        "portalName": "Viva Pulse",
-        "primaryURL": "https://pulse.cloud.microsoft",
-        "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": " https://pulse.viva.cloud.microsoft"
-          }
-        ]
-      },
-   {
-        "portalName": "Viva Skills",
-        "primaryURL": "https://skills.cloud.microsoft"
-   },
-      {
-        "portalName": "Whiteboard",
-        "primaryURL": "https://whiteboard.microsoft.com"
-      },
-      {
-        "portalName": "Word",
-        "primaryURL": "word.cloud.microsoft",
-               "secondaryURLs": [
-           {
-            "icon": "Old 🔗",
-            "url": "https://www.office.com/launch/word"
-          }
-        ]
-      },
-      {
-        "portalName": "Yammer",
-        "primaryURL": "https://www.yammer.com"
-      }
-    ]
-  },
-  {
-        "groupName": "Microsoft Copilot",
+    {
+        "groupName": "End User Portals - Microsoft 365 Apps",
         "portals": [
-      {
+            {
+                "portalName": "Bookings",
+                "primaryURL": "https://outlook.office.com/bookings"
+            },
+            {
+                "portalName": "Calendar",
+                "primaryURL": "https://outlook.office.com/calendar"
+            },
+            {
+                "portalName": "Compliance",
+                "primaryURL": "https://compliance.microsoft.com"
+            },
+            {
+                "portalName": "Cortana",
+                "primaryURL": "https://cortana.office.com"
+            },
+            {
+                "portalName": "Excel",
+                "primaryURL": "https://excel.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://www.office.com/launch/excel"
+                    }
+                ]
+            },
+            {
+                "portalName": "Fabric",
+                "primaryURL": "https://fabric.microsoft.com"
+            },
+            {
+                "portalName": "Forms",
+                "primaryURL": "https://forms.cloud.microsoft"
+            },
+            {
+                "portalName": "Kaizala Web",
+                "primaryURL": "https://web.kaiza.la"
+            },
+            {
+                "portalName": "Lists",
+                "primaryURL": "https://www.office.com/launch/lists"
+            },
+            {
+                "portalName": "Loop",
+                "primaryURL": "https://loop.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://loop.microsoft.com"
+                    }
+                ]
+            },
+            {
+                "portalName": "OneDrive",
+                "primaryURL": "https://portal.office.com/onedrive"
+            },
+            {
+                "portalName": "OneNote",
+                "primaryURL": "https://www.office.com/launch/onenote"
+            },
+            {
+                "portalName": "Outlook",
+                "primaryURL": "https://outlook.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://outlook.office.com"
+                    }
+                ]
+            },
+            {
+                "portalName": "People",
+                "primaryURL": "https://outlook.office.com/people"
+            },
+            {
+                "portalName": "Places",
+                "primaryURL": "https://places.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/places"
+                    }
+                ]
+            },
+            {
+                "portalName": "Planner",
+                "primaryURL": "https://planner.cloud.microsoft/",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://tasks.office.com"
+                    }
+                ]
+            },
+            {
+                "portalName": "Power Apps",
+                "primaryURL": "https://make.powerapps.com"
+            },
+            {
+                "portalName": "Power Automate",
+                "primaryURL": "https://make.powerautomate.com/",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://flow.microsoft.com"
+                    }
+                ]
+            },
+            {
+                "portalName": "Power BI",
+                "primaryURL": "https://app.powerbi.com"
+            },
+            {
+                "portalName": "Power Pages",
+                "primaryURL": "https://make.powerpages.microsoft.com",
+                "note": "Preview"
+            },
+            {
+                "portalName": "PowerPoint",
+                "primaryURL": "https://powerpoint.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://www.office.com/launch/powerpoint"
+                    }
+                ]
+            },
+            {
+                "portalName": "Security",
+                "primaryURL": "https://security.microsoft.com"
+            },
+            {
+                "portalName": "SharePoint",
+                "primaryURL": "https://www.office.com/launch/sharepoint"
+            },
+            {
+                "portalName": "Stream (Classic)",
+                "primaryURL": "https://web.microsoftstream.com",
+                "note": "Deprecated - aka.ms/StreamClassicRetireTimeline"
+            },
+            {
+                "portalName": "Stream (on SharePoint)",
+                "primaryURL": "https://stream.office.com/"
+            },
+            {
+                "portalName": "Sway",
+                "primaryURL": "https://sway.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://www.office.com/launch/sway"
+                    }
+                ]
+            },
+            {
+                "portalName": "Teams",
+                "primaryURL": "https://teams.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "B2B",
+                        "url": "https://teams.cloud.microsoft?tenantId={tenant_id}"
+                    },
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://teams.microsoft.com/v2/"
+                    }
+                ]
+            },
+            {
+                "portalName": "To-Do",
+                "primaryURL": "https://to-do.office.com"
+            },
+            {
+                "portalName": "Visio",
+                "primaryURL": "https://m365.cloud.microsoft/launch/visio",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://www.office.com/launch/visio"
+                    }
+                ]
+            },
+            {
+                "portalName": "Viva Engage",
+                "primaryURL": "https://engage.cloud.microsoft"
+            },
+            {
+                "portalName": "Viva Goals",
+                "primaryURL": "https://goals.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": " https://goals.microsoft.com/"
+                    }
+                ]
+            },
+            {
+                "portalName": "Viva Home",
+                "primaryURL": "https://viva.cloud.microsoft"
+            },
+            {
+                "portalName": "Viva Insights",
+                "primaryURL": "https://insights.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": " https://insights.viva.office.com/"
+                    }
+                ]
+            },
+            {
+                "portalName": "Viva Learning",
+                "primaryURL": "https://learning.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/VivaLearningWeb"
+                    },
+                    {
+                        "icon": "Old 🔗",
+                        "url": " https://vivalearning.microsoft.com/"
+                    }
+                ]
+            },
+            {
+                "portalName": "Viva Pulse",
+                "primaryURL": "https://pulse.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": " https://pulse.viva.cloud.microsoft"
+                    }
+                ]
+            },
+            {
+                "portalName": "Viva Skills",
+                "primaryURL": "https://skills.cloud.microsoft"
+            },
+            {
+                "portalName": "Whiteboard",
+                "primaryURL": "https://whiteboard.cloud.microsoft"
+            },
+            {
+                "portalName": "Word",
+                "primaryURL": "https://word.cloud.microsoft",
+                "secondaryURLs": [
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://www.office.com/launch/word"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "groupName": "End User - Microsoft Copilot",
+        "portals": [
+            {
                 "portalName": "Microsoft Copilot",
                 "primaryURL": "https://www.bing.com/chat",
                 "note": "Was Bing Chat Enterprise"
-       },
-       {
-        "portalName": "Copilot Lab",
-        "primaryURL": "https://copilot.cloud.microsoft/"
-      },
-       {
-        "portalName": "Microsoft 365 Copilot",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "secondaryURLs": [
+            },
+            {
+                "portalName": "Copilot Labs",
+                "primaryURL": "https://copilotlabs.microsoft.com"
+            },
+            {
+                "portalName": "Microsoft 365 Copilot",
+                "primaryURL": "https://m365.cloud.microsoft/",
+                "secondaryURLs": [
                     {
                         "url": "https://www.microsoft365.com/chat/",
                         "icon": "Alt 🔗 1"
-      }
-    ]
-  }
-  ]
-  },  
-  {
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "groupName": "End User - Accessability",
+        "portals": [
+            {
+                "portalName": "Microsoft Accessibility",
+                "primaryURL": "https://www.microsoft.com/accessibility"
+            },
+            {
+                "portalName": "Microsoft Translator",
+                "primaryURL": "https://translator.microsoft.com/"
+            }
+        ]
+    },
+    {
         "groupName": "End User Portals - General",
         "portals": [
             {
@@ -301,7 +324,17 @@
             },
             {
                 "portalName": "Converged MFA & SSPR Portal",
-                "primaryURL": "https://aka.ms/mysecurityinfo/"
+                "primaryURL": "https://mysignins.microsoft.com/security-info",
+                "secondaryURLs": [
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/mysecurityinfo/"
+                    },
+                    {
+                        "icon": "aka.ms",
+                        "url": "https://aka.ms/mfasetup"
+                    }
+                ]
             },
             {
                 "portalName": "Device Login - Microsoft account or MSA (Personal Account)",
@@ -376,14 +409,8 @@
                 "primaryURL": "https://portal.manage.microsoft.com/"
             },
             {
-                "portalName": "MFA Setup",
-                "primaryURL": "https://account.activedirectory.windowsazure.com/proofup.aspx",
-                "secondaryURLs": [
-                    {
-                        "icon": "aka.ms",
-                        "url": "https://aka.ms/mfasetup"
-                    }
-                ]
+                "portalName": "Microsoft PSTN user settings",
+                "primaryURL": "https://dialin.teams.microsoft.com/usp/pstnconferencing"
             },
             {
                 "portalName": "My Access",
@@ -430,7 +457,7 @@
                 "portalName": "My Groups",
                 "primaryURL": "https://mygroups.microsoft.com"
             },
-             {
+            {
                 "portalName": "My Groups (Distribution Groups via Exchange Admin Center)",
                 "primaryURL": "https://admin.exchange.microsoft.com/?page=groups#/"
             },
@@ -457,36 +484,34 @@
                 "primaryURL": "https://security.microsoft.com/quarantine"
             },
             {
-                "portalName": "Self Service Password Reset / Forgot Password",
+                "portalName": "Self Service Password Reset (SSPR) / Forgot Password",
                 "primaryURL": "https://passwordreset.microsoftonline.com",
                 "secondaryURLs": [
                     {
                         "icon": "aka.ms",
                         "url": "https://aka.ms/sspr"
-                    }
-                ]
-            },
-            {
-                "portalName": "Self Service Password Reset Setup",
-                "primaryURL": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
-            },
-           {
-                "portalName": "Windows App",
-                "primaryURL": "https://windows.cloud.microsoft/",
-                "secondaryURLs": [
+                    },
                     {
                         "icon": "Old 🔗",
-                        "url": "https://windows365.microsoft.com/ent#/"
+                        "url": " https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
                     }
                 ]
             },
             {
-                "portalName": "Windows 365",
-                "primaryURL": "https://windows365.microsoft.com",
+                "portalName": "Windows App (Windows 365)",
+                "primaryURL": "https://windows.cloud.microsoft/",
                 "secondaryURLs": [
                     {
                         "icon": "aka.ms",
                         "url": "https://aka.ms/w365login"
+                    },                    
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://windows365.microsoft.com"
+                    },
+                    {
+                        "icon": "Old 🔗",
+                        "url": "https://windows365.microsoft.com/ent#/"
                     }
                 ]
             },
@@ -496,8 +521,6 @@
             },
             {
                 "portalName": "Windows Virtual Desktop Web Client (Old) ",
-
-
                 "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
                 "secondaryURLs": [
                     {

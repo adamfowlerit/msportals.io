@@ -1,0 +1,41 @@
+[
+   {
+    "groupName": "Microsoft 365 China Links",
+    "portals": [
+        {
+        "portalName": "Microsoft 365 Admin",
+        "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal"
+         },
+        {
+        "portalName": "Microsoft 365 End User",
+        "primaryURL": "https://microsoft365.microsoftonline.cn"
+         },
+        {
+        "portalName": "Entra",
+        "primaryURL": "https://entra.microsoftonline.cn"
+         },
+        {
+        "portalName": "Intune",
+        "primaryURL": "https://intune.microsoftonline.cn"
+         },
+        {
+        "portalName": "Purview",
+        "primaryURL": "https://purview.microsoftonline.cn"
+         },
+        {
+        "portalName": "Security",
+        "primaryURL": " https://security.microsoftonline.cn"
+         }
+      
+    ]
+     },
+     {
+    "groupName": "Azure China Links",
+    "portals": [
+        {
+        "portalName": "Azure",
+        "primaryURL": "https://portal.azure.cn"
+         }
+    ]
+   }
+  ]
