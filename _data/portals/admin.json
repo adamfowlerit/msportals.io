@@ -144,6 +144,10 @@
         "portalName": "SharePoint Admin Center",
         "primaryURL": "https://admin.microsoft.com/sharepoint"
       },
+       {
+        "portalName": "Viva Engage Admin Center",
+        "primaryURL": "https://engage.cloud.microsoft/main/admin"
+      },
       {
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin"
