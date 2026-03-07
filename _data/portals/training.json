@@ -78,7 +78,7 @@
       },
       {
         "portalName": "Microsoft Certifications - Study Guides",
-        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/ai-102"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/"
       },
       {
         "portalName": "Applied Skills Certification Poster",
@@ -92,7 +92,7 @@
       },
       {
         "portalName": "Microsoft Applied Skills - Study Guides",
-        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/applied-skills/resources/study-guides/apl-0100/"
+        "primaryURL": "https://learn.microsoft.com/credentials/applied-skills/resources/study-guides/"
       },
       {
         "portalName": "Practice Assessments for Microsoft Certifications",
@@ -115,9 +115,15 @@
         "portalName": "Azure Fundamentals (AZ-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-fundamentals/"
       },
-       {
+      {
         "portalName": "Azure AI Fundamentals (AI-900)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/",
+        "note": "Retiring. Certification retirement date: June 30, 2026. Training retirement date: April 2026. Replacement: Azure AI Fundamentals (AI-901)."
+      },
+      {
+        "portalName": "Azure AI Fundamentals (AI-901)",
+        "primaryURL": "TODO",
+        "note": "Replacement for Azure AI Fundamentals (AI-900)."
       },
       {
         "portalName": "Azure Data Fundamentals (DP-900)",
@@ -129,7 +135,13 @@
       },
       {
         "portalName": "Azure AI Engineer Associate (AI-102)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-engineer"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-engineer",
+        "note": "Retiring. Certification retirement date: June 30, 2026. Training retirement date: April 2026. Replacement: Azure AI App and Agent Developer Associate (AI-103)."
+      },
+      {
+        "portalName": "Azure AI App and Agent Developer Associate (AI-103)",
+        "primaryURL": "TODO",
+        "note": "Replacement for Azure AI Engineer Associate (AI-102)."
       },
       {
         "portalName": "Power BI Data Analyst Associate (PL-300)",
@@ -141,13 +153,19 @@
       },
       {
         "portalName": "Azure Data Scientist Associate (DP-100)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-data-scientist"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-data-scientist",
+        "note": "Retiring. Certification retirement date: June 1, 2026. Training retirement date: April 2026. Replacement: Machine Learning Operations (MLOps) Engineer Associate (AI-300)."
+      },
+      {
+        "portalName": "Machine Learning Operations (MLOps) Engineer Associate (AI-300)",
+        "primaryURL": "TODO",
+        "note": "Replacement for Azure Data Scientist Associate (DP-100)."
       },
       {
         "portalName": "Fabric Analytics Engineer Associate (DP-600)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate"
       },
-       {
+      {
         "portalName": "Azure Network Engineer Associate (AZ-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/"
       },
@@ -159,13 +177,25 @@
         "portalName": "Microsoft Fabric Data Engineering Associate (DP-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/fabric-data-engineering-associate"
       },
-        {
+      {
         "portalName": "Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/",
+        "note": "Retiring. Certification retirement date: September 2026. Training retirement date: September 2026. Replacement: Windows Server Hybrid Administrator (AZ-802)."
+      },
+      {
+        "portalName": "Windows Server Hybrid Administrator (AZ-802)",
+        "primaryURL": "TODO",
+        "note": "Replacement for Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)."
       },
       {
         "portalName": "Azure Developer Associate (AZ-204)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-developer"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-developer",
+        "note": "Retiring. Certification retirement date: July 31, 2026. Training retirement date: May 2026. Replacement: Azure AI Cloud Developer Associate (AI-200)."
+      },
+      {
+        "portalName": "Azure AI Cloud Developer Associate (AI-200)",
+        "primaryURL": "TODO",
+        "note": "Replacement for Azure Developer Associate (AZ-204)."
       },
       {
         "portalName": "DevOps Engineer Expert (AZ-400)",
@@ -175,7 +205,7 @@
         "portalName": "Azure for SAP Workloads Specialty (AZ-120)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/"
       },
-     {
+      {
         "portalName": "Azure Virtual Desktop Specialty (AZ-140)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/"
       },
@@ -208,7 +238,7 @@
   {
     "groupName": "Microsoft Certified: AI Business Solutions",
     "portals": [
-     {
+      {
         "portalName": "Microsoft 365 Copilot and Agent Administration Fundamentals (AB-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/copilot-and-agent-administration-fundamentals"
       },
@@ -216,7 +246,7 @@
         "portalName": "Microsoft 365 Fundamentals (MS-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals"
       },
-       {
+      {
         "portalName": "Dynamics 365 Fundamentals (CRM) (MB-910)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/"
       },
@@ -228,15 +258,15 @@
         "portalName": "Power Platform Fundamental (PL-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/"
       },
-            {
+      {
         "portalName": "Microsoft 365 Endpoint Administrator Associate (MD-102)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator"
       },
-        {
+      {
         "portalName": "Microsoft 365 Administrator Expert (MS-102)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-administrator-expert"
       },
-        {
+      {
         "portalName": "Microsoft 365 Teams Administrator Associate (MS-700)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-teams-administrator-associate/"
       },
@@ -264,7 +294,7 @@
         "portalName": "Power Platform Solution Architect Expert (PL-600)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/"
       },
-       {
+      {
         "portalName": "Dynamics 365 Field Service Functional Consultant Associate (MB-240)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-field-service/"
       },
@@ -304,11 +334,11 @@
         "portalName": "Dynamics 365 Business Central Developer Associate (MB-820)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-business-central-developer-associate/"
       },
-       {
+      {
         "portalName": "AI Business Professional (AB-730)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-business-professional"
       },
-       {
+      {
         "portalName": "AI Transformation Leader (AB-731)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-transformation-leader"
       }
@@ -323,7 +353,13 @@
       },
       {
         "portalName": "Azure Security Engineer Associate (AZ-500)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer",
+        "note": "Retiring. Certification retirement date: August 31, 2026. Training retirement date: August 2026. Replacement: Cloud and AI Security Engineer Associate (SC-500)."
+      },
+      {
+        "portalName": "Cloud and AI Security Engineer Associate (SC-500)",
+        "primaryURL": "TODO",
+        "note": "Replacement for Azure Security Engineer Associate (AZ-500)."
       },
       {
         "portalName": "Cybersecurity Architect Expert (SC-100)",
@@ -343,7 +379,7 @@
       }
     ]
   },
-   {
+  {
     "groupName": "Microsoft Certified: Business User",
     "portals": [
       {
@@ -371,7 +407,7 @@
         "portalName": "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps) (MO-111)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-word-expert-m365-apps/"
       },
-       {
+      {
         "portalName": "Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps) (MO-211)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-excel-expert-m365-apps/"
       },
@@ -395,7 +431,7 @@
       },
       {
         "portalName": "Microsoft Purview Communication Compliance Ninja",
-        "primaryURL": "https://aka.ms/communicationcomplianceninja"
+        "primaryURL": "https://aka.ms/communicationcompliancena"
       },
       {
         "portalName": "Microsoft Purview eDiscovery Ninja",
