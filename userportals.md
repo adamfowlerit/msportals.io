@@ -2,6 +2,8 @@
 layout: page
 title: User Portals
 search: true
+portal_key: user
+portal_label: End User
 ---
 
 These Microsoft portals are for end users.

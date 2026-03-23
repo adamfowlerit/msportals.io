@@ -139,6 +139,30 @@
   }
 }
 
+.portal-counter-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 8px 0 12px;
+}
+
+.portal-count {
+  display: inline-block;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 0.8em;
+  color: #b5e853;
+  border: 1px solid rgba(181, 232, 83, 0.35);
+  border-radius: 4px;
+  padding: 3px 12px;
+  background: rgba(181, 232, 83, 0.07);
+  letter-spacing: 0.03em;
+}
+
+.portal-count-divider {
+  color: rgba(181, 232, 83, 0.4);
+  font-size: 0.9em;
+}
+
 @media (prefers-color-scheme: light) {
   body {
     color: #111;
@@ -175,6 +199,16 @@
   .quickfilter {
     border-color: black;
     color: #333;
+  }
+
+  .portal-count {
+    color: #5a7a1a;
+    border-color: rgba(90, 122, 26, 0.4);
+    background: rgba(90, 122, 26, 0.07);
+  }
+
+  .portal-count-divider {
+    color: rgba(90, 122, 26, 0.4);
   }
 }
 .container {

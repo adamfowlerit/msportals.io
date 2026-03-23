@@ -34,6 +34,26 @@
             </a>
             <h2>{{ site.description | default: "A comprehensive directory of all Microsoft portals in one place" }}</h2>
 
+            {% assign portal_count = 0 %}
+            {% for file in site.data.portals %}
+              {% unless file[0] == "PortalGroup.schema" or file[0] == "readme" %}
+                {% for group in file[1] %}
+                  {% assign portal_count = portal_count | plus: group.portals.size %}
+                {% endfor %}
+              {% endunless %}
+            {% endfor %}
+            <div class="portal-counter-row">
+              <span class="portal-count">{{ portal_count }} portals listed</span>
+              {% if page.portal_key %}
+                {% assign section_count = 0 %}
+                {% for group in site.data.portals.[page.portal_key] %}
+                  {% assign section_count = section_count | plus: group.portals.size %}
+                {% endfor %}
+                <span class="portal-count-divider">•</span>
+                <span class="portal-count">{{ section_count }} in {{ page.portal_label }}</span>
+              {% endif %}
+            </div>
+
             <section id="downloads">
                 {% if site.show_downloads %}
                 <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
