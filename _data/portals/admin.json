@@ -308,7 +308,7 @@
             "url": "https://entra.microsoft.com/{tenant_id}/#home"
           }
         ]
-      }
+      },
   {
     "groupName": "Admin - AI Portals",
     "portals": [
