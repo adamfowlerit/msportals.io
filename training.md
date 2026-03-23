@@ -2,6 +2,8 @@
 layout: page
 title: Training Links
 search: true
+portal_key: training
+portal_label: Training
 ---
 
 
