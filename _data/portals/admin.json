@@ -1,13 +1,3 @@
-Here is your JSON array properly formatted and fixed:
-
-- Fixed missing closing `}` in the **Entra Admin Center** object
-- Corrected inconsistent nesting (extra `{` before portalName in Entra group)
-- Added missing commas between objects where needed
-- Fixed trailing commas and syntax issues
-- Properly closed all arrays and objects
-- Improved overall indentation and consistency (while keeping the original data intact)
-
-```json
 [
   {
     "groupName": "Microsoft 365 Admin Portals",
