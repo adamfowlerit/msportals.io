@@ -243,6 +243,10 @@
         "note": "Raw"
       },
       {
+        "portalName": "Azure SRE Agent",
+        "primaryURL": "https://sre.azure.com/"
+      },
+      {
         "portalName": "Typespec Azure API playground (Explorer)",
         "primaryURL": "https://azure.github.io/typespec-azure/playground"
       }
