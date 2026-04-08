@@ -11,10 +11,6 @@
             "url": "https://aka.ms/admincenter"
           },
           {
-            "icon": "Old 🔗",
-            "url": "https://admin.microsoft.com"
-          },
-          {
             "icon": "B2B",
             "url": "https://admin.microsoft.com/Partner/BeginClientSession.aspx?CTID={tenant_id}&CSDEST=o365admincenter"
           }
@@ -42,15 +38,7 @@
             "icon": "aka.ms",
             "url": "https://aka.ms/in"
           },
-          {
-            "icon": "Old 🔗",
-            "url": "https://endpoint.microsoft.com/"
-          },
-          {
-            "icon": "Alt 🔗",
-            "url": "https://devicemanagement.portal.azure.com"
-          },
-          {
+            {
             "icon": "RC 🔗",
             "url": "https://rc-devicemanagement.portal.azure.com"
           },
@@ -363,6 +351,10 @@
       {
         "portalName": "LUIS Portal - Language Understanding",
         "primaryURL": "https://www.luis.ai/"
+      },
+      {
+        "portalName": "Opal in Microsoft 365 Copilot",
+        "primaryURL": "https://opal.frontier.microsoft365.com"
       },
       {
         "portalName": "Speech Studio",
