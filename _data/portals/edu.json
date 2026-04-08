@@ -100,6 +100,10 @@
         "portalName": "Math Solver",
         "primaryURL": "https://math.microsoft.com/"
          }, 
+         {
+        "portalName": "Microsoft Reflect",
+        "primaryURL": "https://reflect.microsoft.com/"
+         }, 
         {
         "portalName": "Reading Coach",
         "primaryURL": "https://coach.microsoft.com/"
