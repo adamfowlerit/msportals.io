@@ -5,101 +5,119 @@
       {
         "portalName": "Microsoft 365 Enterprise Licensing Full Comparison Table",
         "primaryURL": "https://aka.ms/M365EnterprisePlans",
-        "note":"PDF"
-         },
-        {
+        "note": "PDF",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Microsoft 365 Business Licensing Full Comparison Table",
         "primaryURL": "https://aka.ms/M365BusinessPlans",
-        "note":"PDF"
-         },
-        {
+        "note": "PDF",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Microsoft 365 Education Licensing Comparison Table",
         "primaryURL": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/microsoft-education/downloadables/Modern_Work_Plan_Comparison-Education.pdf",
-        "note":"PDF"
-         },
-        {
+        "note": "PDF",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Microsoft 365 Compliance Licensing Comparison Table",
         "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf",
-        "note":"PDF"
-         },
-         {
+        "note": "PDF",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Compare Microsoft 365 Business Plans",
-        "primaryURL": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products"
-         },
-         {
+        "primaryURL": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Compare Microsoft 365 Enterprise Plans",
-        "primaryURL": "https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing"
-         },
-        {
+        "primaryURL": "https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Licensing Resources and Documents - Product Terms",
-        "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
-         },
-        {
+        "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Product names and service plan identifiers for licensing (SKU List)",
-        "primaryURL": "https://learn.microsoft.com/entra/identity/users/licensing-service-plan-reference"
-        },
-        {
+        "primaryURL": "https://learn.microsoft.com/entra/identity/users/licensing-service-plan-reference",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft 365 Admin Center - Licensing",
-        "primaryURL": "https://admin.microsoft.com/?&source=applauncher#/licenses"
-         },
-        {
+        "primaryURL": "https://admin.microsoft.com/?&source=applauncher#/licenses",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365-admin-center/microsoft-365-admin.png"
+      },
+      {
         "portalName": "Microsoft 365 Licensing",
         "primaryURL": "https://m365maps.com/",
-         "note": "Aaron Dinnage - Thrid Party"
-         },
-         {
+        "note": "Aaron Dinnage - Thrid Party",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "FinOps Foundation Microsoft Licensing Management Guide",
         "primaryURL": "https://www.finops.org/wg/microsoft-licensing-management-guide/",
-        "note": "Third Party"
-         }
+        "note": "Third Party",
+        "iconUrl": ""
+      }
     ]
   },
-    {
+  {
     "groupName": "Azure Licensing Links",
     "portals": [
-        {
+      {
         "portalName": "Azure Pricing Calculator",
-        "primaryURL": "https://azure.microsoft.com/pricing/calculator/"
-         },
-        {
+        "primaryURL": "https://azure.microsoft.com/pricing/calculator/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
         "portalName": "Azure Pricing by Product",
-        "primaryURL": "https://azure.microsoft.com/pricing/#product-pricing"
-         },
-        {
+        "primaryURL": "https://azure.microsoft.com/pricing/#product-pricing",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
         "portalName": "Azure Hybrid Benefit Savings Calculator",
-        "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator"
-         }
-       ]
+        "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      }
+    ]
   },
-  
-    {
+  {
     "groupName": "Consumer Licensing Links",
     "portals": [
-        {
+      {
         "portalName": "Microsoft 365 Family",
-        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
-         },
-        {
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Microsoft 365 Personal",
-        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
-         }
-       ]
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      }
+    ]
   },
   {
     "groupName": "Product Specific Licensing Links",
     "portals": [
-        {
+      {
         "portalName": "Microsoft Entra Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/security/business/microsoft-entra-pricing"
-         },
-        {
+        "primaryURL": "https://www.microsoft.com/security/business/microsoft-entra-pricing",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
         "portalName": "Microsoft Project Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software"
-         },
-        {
+        "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Visio Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options"
-         }
+        "primaryURL": "https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options",
+        "iconUrl": "https://getyako.com/ms/logos/visio/2013-2019-postive-format/visio-256x256.png"
+      }
     ]
   }
 ]

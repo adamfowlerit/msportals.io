@@ -4,31 +4,37 @@
     "portals": [
       {
         "portalName": "Intune Web Company Portal",
-        "primaryURL": "https://portal.manage.microsoft.us"
+        "primaryURL": "https://portal.manage.microsoft.us",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
         "portalName": "Microsoft Cloud App Security Portal",
-        "primaryURL": "https://portal.cloudappsecurity.us"
+        "primaryURL": "https://portal.cloudappsecurity.us",
+        "iconUrl": ""
       },
       {
         "portalName": "Microsoft Online Self Service Password Reset",
         "primaryURL": "https://passwordreset.activedirectory.windowsazure.us/",
-        "note": ""
+        "note": "",
+        "iconUrl": ""
       },
       {
         "portalName": "My Apps",
         "primaryURL": "https://account.activedirectory.windowsazure.us",
-        "note": ""
+        "note": "",
+        "iconUrl": ""
       },
-       {
+      {
         "portalName": "Microsoft Purview Admin Center",
         "primaryURL": "https://purview.microsoft.us",
-        "note": ""
+        "note": "",
+        "iconUrl": ""
       },
       {
         "portalName": "Azure Virtual Desktop",
         "primaryURL": "https://rdweb.wvd.azure.us/",
-        "note": ""
+        "note": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       }
     ]
   },
@@ -38,102 +44,121 @@
       {
         "portalName": "Microsoft 365 Compliance",
         "primaryURL": "https://compliance.microsoft.us/homepage",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft 365 Security",
         "primaryURL": "https://security.microsoft.com/homepage",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Teams Admin Center",
         "primaryURL": "https://admin.gov.teams.microsoft.us/dashboard",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
       },
       {
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "https://gcc.securitycenter.microsoft.us",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Intune Government admin center",
         "primaryURL": "https://intune.microsoft.us/#home",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
         "portalName": "Microsoft Defender for Identity",
         "primaryURL": "https://security.microsoft.com",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Defender for Cloud Apps (MCAS) (MDCA)",
         "primaryURL": "https://portal.cloudappsecuritygov.com",
-        "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Entra admin center",
         "primaryURL": "https://entra.microsoft.us",
-      "note": "GCC"
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       }
     ]
   },
   {
     "groupName": "US Gov - GCC High",
     "portals": [
-       {
+      {
         "portalName": "Azure Portal",
         "primaryURL": "https://portal.azure.us",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
         "portalName": "Microsoft 365 Admin Portal",
         "primaryURL": "https://portal.office365.us",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm.microsoftdynamics.us/G/Instances/InstancePicker.aspx",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       },
       {
         "portalName": "Microsoft Azure Active Directory Portal",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
         "portalName": "Security",
         "primaryURL": "https://security.microsoft.us",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": ""
       },
       {
         "portalName": "Power Apps",
         "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
       },
       {
         "portalName": "OneDrive admin center",
         "primaryURL": "https://admin.onedrive.us/",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/onedrive/onedrive-512.png"
       },
       {
         "portalName": "Exchange Admin Center",
         "primaryURL": "https://admin.exchange.office365.us",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
       },
       {
         "portalName": "Microsoft Defender for Endpoint",
         "primaryURL": "https://securitycenter.microsoft.us",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Entra admin center",
         "primaryURL": "https://entra.microsoft.us",
-      "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Microsoft 365 Apps admin center",
         "primaryURL": "https://config.office365.us",
-        "note": "GCC High"
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       }
     ]
   },
@@ -143,37 +168,44 @@
       {
         "portalName": "Power Apps Maker Portal",
         "primaryURL": "https://make.gov.powerapps.us/",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
       },
       {
         "portalName": "Power Platform Admin Center",
         "primaryURL": "https://gcc.admin.powerplatform.microsoft.us/environments",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
       },
       {
         "portalName": "Microsoft Power Automate End User",
         "primaryURL": "https://gov.flow.microsoft.us/",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       },
       {
         "portalName": "Power Automate Maker Portal",
         "primaryURL": "https://make.gov.powerautomate.us/",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       },
       {
         "portalName": "Power BI",
         "primaryURL": "https://app.powerbigov.us/",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
       },
       {
         "portalName": "Power BI Admin Portal",
         "primaryURL": "https://app.powerbigov.us/admin-portal",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
       },
       {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
-        "note": "GCC Moderate"
+        "note": "GCC Moderate",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       }
     ]
   },
@@ -183,7 +215,8 @@
       {
         "portalName": "Microsoft 365 Admin Portal",
         "primaryURL": "https://portal.apps.mil",
-        "note": "DoD"
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "SharePoint Online Admin Center",
@@ -194,8 +227,9 @@
             "url": "https://aka.ms/DoDSPO"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/sharepoint/sharepoint-512.png"
+      },
       {
         "portalName": "Azure AD Admin Center",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade",
@@ -205,8 +239,9 @@
             "url": "https://aka.ms/DoDAAD"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
       {
         "portalName": "Teams Admin Center",
         "primaryURL": "https://admin.dod.teams.microsoft.us/",
@@ -216,8 +251,9 @@
             "url": "https://aka.ms/DoDTA"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
       {
         "portalName": "Microsoft 365 Admin Center",
         "primaryURL": "https://portal.apps.mil/adminportal/home#/homepage",
@@ -227,8 +263,9 @@
             "url": "https://aka.ms/DoDAdmin"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
       {
         "portalName": "Security & Compliance Center",
         "primaryURL": "https://scc.protection.apps.mil/#/homepage",
@@ -238,8 +275,9 @@
             "url": "https://aka.ms/DoDSCC"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": ""
+      },
       {
         "portalName": "Power Platform Admin Center",
         "primaryURL": "https://admin.appsplatform.us",
@@ -249,8 +287,9 @@
             "url": "https://aka.ms/DoDPower"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
+      },
       {
         "portalName": "Defender Admin Center",
         "primaryURL": "https://securitycenter.windows.us",
@@ -260,8 +299,9 @@
             "url": "https://aka.ms/DoDDef"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
       {
         "portalName": "Security Admin Center",
         "primaryURL": "https://security.apps.mil/?rfr=AdminCenter",
@@ -271,8 +311,9 @@
             "url": "https://aka.ms/DoDSC"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": ""
+      },
       {
         "portalName": "Microsoft 365 Defender Reports",
         "primaryURL": "https://security.microsoft.us/reports",
@@ -282,8 +323,9 @@
             "url": "https://aka.ms/DoDSecRep"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
       {
         "portalName": "Endpoint Manager",
         "primaryURL": "https://endpoint.microsoft.us",
@@ -293,8 +335,9 @@
             "url": "https://aka.ms/DoDEP"
           }
         ],
-        "note": "DoD"
-      },      
+        "note": "DoD",
+        "iconUrl": ""
+      },
       {
         "portalName": "Azure Admin Portal",
         "primaryURL": "https://portal.azure.us/#home",
@@ -304,7 +347,8 @@
             "url": "https://aka.ms/DoDAz"
           }
         ],
-        "note": "DoD"
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       }
     ]
   }

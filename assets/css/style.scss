@@ -38,6 +38,15 @@
   background-color: rgba($color: #000000, $alpha: 0.5);
 }
 
+.portal-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  border-radius: 3px;
+  margin-right: 8px;
+  vertical-align: -4px;
+}
+
 .portal-name {
   word-wrap: break-word; 
   text-overflow: ellipsis; 

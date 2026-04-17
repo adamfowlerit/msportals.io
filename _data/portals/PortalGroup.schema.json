@@ -163,6 +163,16 @@
                       "title": "The primaryURL schema",
                       "type": "string"
                     },
+                    "iconUrl": {
+                      "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/iconUrl",
+                      "default": "",
+                      "description": "URL to an icon to display next to the portal. Always use icons from https://getyako.com/icons/.",
+                      "examples": [
+                        "https://getyako.com/ms/logos/microsoft-365-admin-center/microsoft-365-admin.png"
+                      ],
+                      "title": "The iconUrl schema",
+                      "type": "string"
+                    },
                     "secondaryURLs": {
                       "$id": "#/items/anyOf/0/properties/portals/items/anyOf/0/properties/secondaryURLs",
                       "default": [],
