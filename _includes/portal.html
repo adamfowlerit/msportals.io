@@ -5,8 +5,21 @@
 <div class="portal-group" hidden>
     <h2>{{ group.groupName }}</h2>
     {% for portal in group.portals %}
+    {% assign icon_src = portal.iconUrl %}
+    {% if icon_src == blank or icon_src == '' or icon_src == nil %}
+      {% if portal.primaryURL contains 'github.com' or portal.primaryURL contains 'github.io' or portal.primaryURL contains 'githubusercontent.com' %}
+        {% assign icon_src = '/images/github-mark.svg' %}
+      {% else %}
+        {% assign icon_src = '/images/portal-placeholder.svg' %}
+      {% endif %}
+    {% endif %}
     <div class="portal">
         <span class="portal-name">
+            <img class="portal-icon"
+                 src="{{ icon_src }}"
+                 alt=""
+                 loading="lazy"
+                 onerror="this.onerror=null;this.src='/images/portal-placeholder.svg';" />
             <span class="portal-add" id="{{groupidx}}.{{forloop.index}}">❤ </span>
             {{portal.portalName}} {% if portal.note %}
             <span class="portal-note">{{ portal.note }}</span>

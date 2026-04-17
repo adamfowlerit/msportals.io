@@ -1,34 +1,38 @@
-# JSON Sources #
+# JSON Sources
 
- ![Validate Portal JSONs](https://github.com/adamfowlerit/msportals.io/workflows/Validate%20Portal%20JSONs/badge.svg)
+![Validate Portal JSONs](https://github.com/adamfowlerit/msportals.io/workflows/Validate%20Portal%20JSONs/badge.svg)
 
 We are currently making our web-pages from JSON files, our current JSON Portal sources are below.
 
-## Website Page to JSON Mapping ##
+## Website Page to JSON Mapping
 
-| Website Page                                              | JSON Source                             |
-|---------------------------------------------------------- |---------------------------------------- |
-| [Home page / Admin Links](https://msportals.io/)         | [Home page / Admin JSON](./admin.json)   |
-| [3rd Party Links](https://msportals.io/3rdparty)         | [3rd Party JSON](./thirdparty.json)      |
-| [US Government Links](https://msportals.io/usgovt)       | [US Government JSON](./us-govt.json)     |
-| [End User Links/Apps](https://msportals.io/userportals)  | [End User JSON](./user.json)             |
-| [Training](https://msportals.io/training)                | [Training JSON](./training.json)         |
+| Website Page                                            | JSON Source                            |
+| ------------------------------------------------------- | -------------------------------------- |
+| [Home page / Admin Links](https://msportals.io/)        | [Home page / Admin JSON](./admin.json) |
+| [3rd Party Links](https://msportals.io/3rdparty)        | [3rd Party JSON](./thirdparty.json)    |
+| [US Government Links](https://msportals.io/usgovt)      | [US Government JSON](./us-govt.json)   |
+| [End User Links/Apps](https://msportals.io/userportals) | [End User JSON](./user.json)           |
+| [Training](https://msportals.io/training)               | [Training JSON](./training.json)       |
 
+## Fields
 
-## Fields ##
+| Field         | Required |
+| ------------- | -------- |
+| portalName    | Yes      |
+| primaryURL    | Yes      |
+| iconUrl       | No       |
+| secondaryURLs | No       |
+| note          | No       |
 
-| Field          | Required  |
-|--------------- |---------- |
-| portalName     | Yes       |
-| primaryURL     | Yes       |
-| secondaryURLs  | No        |
-| note           | No        |
+### iconUrl
 
-### Secondary URLs ###
+URL of the icon shown on the left of the portal entry. Always use icons from [getyako.com/icons](https://getyako.com/icons). If omitted (or if the image fails to load), a generic placeholder is shown.
+
+### Secondary URLs
 
 Secondary URLs is an array of icon/emoji/text and URL pairs. Each separate icon/text will be created as a link with the URL.
 
-### Notes ###
+### Notes
 
 On some of the portals, we have been adding notes. For example:
 
@@ -38,7 +42,7 @@ Example: Using the notes to make old product name searchable for Defender produc
 Example: The new versus old Exchange Portals shown below.  
 ![Website has two Exchange Admin Centers with the New and Old portals noted](https://i.imgur.com/mjX0gS7.png)
 
-## Example Portal Configuration ##
+## Example Portal Configuration
 
 ```json
     {
@@ -54,6 +58,6 @@ Example: The new versus old Exchange Portals shown below.
     },
 ```
 
-## Additional context ##
+## Additional context
 
 Suggestions or context for the portals? If you are not certain about how to configure this, you may wish to create a [New Issue](https://github.com/adamfowlerit/msportals.io/issues/new/choose) instead.

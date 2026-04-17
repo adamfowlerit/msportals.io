@@ -1,222 +1,267 @@
 [
-   {
+  {
     "groupName": "Consumer - Microsoft General",
     "portals": [
-        {
+      {
         "portalName": "Microsoft",
-        "primaryURL": "https://microsoft.com"
-         },
-        {
+        "primaryURL": "https://microsoft.com",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Support",
-        "primaryURL": "https://support.microsoft.com"
-         },
-         {
+        "primaryURL": "https://support.microsoft.com",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account Recovery (Password Reset)",
-        "primaryURL": "https://account.live.com/password/reset"
-         },
-        {
+        "primaryURL": "https://account.live.com/password/reset",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account Recovery (Recover Your Account)",
-        "primaryURL": "https://account.live.com/acsr"
-         },
-       {
+        "primaryURL": "https://account.live.com/acsr",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Family Safety",
-        "primaryURL": "https://account.microsoft.com/family/home"
-         },
-         {
+        "primaryURL": "https://account.microsoft.com/family/home",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-family-safety/microsoft-family-safety-256-256x256.png"
+      },
+      {
         "portalName": "Microsoft Movies & TV",
-        "primaryURL": "https://www.microsoft.com/movies-and-tv"
-         },
-         {
+        "primaryURL": "https://www.microsoft.com/movies-and-tv",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Store",
-        "primaryURL": "https://microsoft.com/store"
-         }
-        ]
-     },
- {
+        "primaryURL": "https://microsoft.com/store",
+        "iconUrl": ""
+      }
+    ]
+  },
+  {
     "groupName": "Consumer - Microsoft Account",
     "portals": [
-         {
+      {
         "portalName": "Microsoft Account",
         "primaryURL": "https://account.microsoft.com/",
-        },
-         {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Your Info",
         "primaryURL": "https://account.microsoft.com/profile",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Subscriptions",
         "primaryURL": "https://account.microsoft.com/services",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Devices",
         "primaryURL": "https://account.microsoft.com/devices",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Devices - Find my device",
         "primaryURL": "https://account.microsoft.com/devices/find-my-device",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Security",
         "primaryURL": "https://account.microsoft.com/security",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Privacy",
         "primaryURL": "https://account.microsoft.com/privacy",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Order History",
         "primaryURL": "https://account.microsoft.com/billing",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Payment Options",
         "primaryURL": "https://account.microsoft.com/payments",
-        },
-       {
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Account - Address Book",
         "primaryURL": "https://account.microsoft.com/billing/addresses",
-        }
+        "iconUrl": ""
+      }
     ]
- },
-   {
+  },
+  {
     "groupName": "Consumer - Microsoft 365",
     "portals": [
-         {
+      {
         "portalName": "Microsoft 365",
-        "primaryURL": "https://microsoft365.com"
-         },
-        {
+        "primaryURL": "https://microsoft365.com",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Defender for Web",
-        "primaryURL": "https://mydefender.microsoft.com"
-         }
-        ]
-     },
-    {
+        "primaryURL": "https://mydefender.microsoft.com",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      }
+    ]
+  },
+  {
     "groupName": "Consumer - Microsoft Apps",
     "portals": [
-         {
+      {
         "portalName": "Copilot",
-        "primaryURL": "https://copilot.microsoft.com"
-         }, 
-       {
+        "primaryURL": "https://copilot.microsoft.com",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
         "portalName": "OneDrive",
-        "primaryURL": "https://onedrive.live.com/"
-         }, 
-       {
+        "primaryURL": "https://onedrive.live.com/",
+        "iconUrl": "https://getyako.com/ms/logos/onedrive/onedrive-512.png"
+      },
+      {
         "portalName": "Teams",
-        "primaryURL": "https://teams.live.com/"
-         },
+        "primaryURL": "https://teams.live.com/",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
       {
         "portalName": "To-do",
-        "primaryURL": "https://to-do.live.com/"
-         },
-        {
+        "primaryURL": "https://to-do.live.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Designer",
-        "primaryURL": "https://designer.microsoft.com/"
-         },
-        {
+        "primaryURL": "https://designer.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
+      },
+      {
         "portalName": "OneNote",
-        "primaryURL": "https://www.onenote.com"
-         },
-         {
+        "primaryURL": "https://www.onenote.com",
+        "iconUrl": "https://getyako.com/ms/logos/onenote/onenote-512.png"
+      },
+      {
         "portalName": "Loop",
-        "primaryURL": "https://loop.cloud.microsoft"
-         },
-       {
+        "primaryURL": "https://loop.cloud.microsoft",
+        "iconUrl": "https://getyako.com/ms/logos/loop/microsoft-loop-logo.png"
+      },
+      {
         "portalName": "ClipChamp",
-        "primaryURL": "https://clipchamp.com"
-         },
-       {
+        "primaryURL": "https://clipchamp.com",
+        "iconUrl": "https://getyako.com/ms/logos/clipchamp/clipchamp-512.png"
+      },
+      {
         "portalName": "Outlook",
-        "primaryURL": "https://outlook.com"
-         }
-        ]
-     },
-   {
+        "primaryURL": "https://outlook.com",
+        "iconUrl": "https://getyako.com/ms/logos/outlook/outlook-512.png"
+      }
+    ]
+  },
+  {
     "groupName": "Consumer - Bing",
     "portals": [
-       {          
+      {
         "portalName": "Bing",
-        "primaryURL": "https://bing.com"
-        },
-       {          
+        "primaryURL": "https://bing.com",
+        "iconUrl": "https://getyako.com/ms/logos/bing/bing-icon.png"
+      },
+      {
         "portalName": "Bing Account Settings",
-        "primaryURL": "https://www.bing.com/account/"
-        },
-       {          
+        "primaryURL": "https://www.bing.com/account/",
+        "iconUrl": "https://getyako.com/ms/logos/bing/bing-icon.png"
+      },
+      {
         "portalName": "Rewards",
-        "primaryURL": "https://rewards.bing.com"
-        }
+        "primaryURL": "https://rewards.bing.com",
+        "iconUrl": "https://getyako.com/ms/logos/bing/bing-icon.png"
+      }
     ]
-   },
-   {
+  },
+  {
     "groupName": "Consumer - Microsoft Edge",
     "portals": [
-       {          
+      {
         "portalName": "Edge",
-        "primaryURL": "https://microsoftedge.microsoft.com/"
-        },
-       {          
+        "primaryURL": "https://microsoftedge.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/edge/microsoft-edge.png"
+      },
+      {
         "portalName": "Edge Add-ons",
-        "primaryURL": "https://microsoftedge.microsoft.com/addons/"
-        }
+        "primaryURL": "https://microsoftedge.microsoft.com/addons/",
+        "iconUrl": "https://getyako.com/ms/logos/edge/microsoft-edge.png"
+      }
     ]
-   },
-   {
+  },
+  {
     "groupName": "Xbox",
     "portals": [
-        {
+      {
         "portalName": "Xbox Official Site",
-        "primaryURL": "https://www.xbox.com/"
-         },
-         {
+        "primaryURL": "https://www.xbox.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Xbox Cloud Gaming",
-        "primaryURL": "https://www.xbox.com/play"
-         },
-         {
+        "primaryURL": "https://www.xbox.com/play",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Xbox Design Lab",
-        "primaryURL": "https://xboxdesignlab.xbox.com/"
-         },
-         {
+        "primaryURL": "https://xboxdesignlab.xbox.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Xbox Family Settings",
-        "primaryURL": "https://www.xbox.com/family-hub"
-         }
-        ]
-     },
-   {
-   "groupName": "Consumer - Other",
+        "primaryURL": "https://www.xbox.com/family-hub",
+        "iconUrl": ""
+      }
+    ]
+  },
+  {
+    "groupName": "Consumer - Other",
     "portals": [
-        {
+      {
         "portalName": "Consumer Feedback Australia",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoftfeedback/"
-         },
-         {
+        "primaryURL": "https://www.microsoft.com/en-au/microsoftfeedback/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "MSN News",
-        "primaryURL": "https://www.msn.com"
-         },
-         {
+        "primaryURL": "https://www.msn.com",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Insider",
-        "primaryURL": "http://insider.microsoft.com/"
-         },
-                {
+        "primaryURL": "http://insider.microsoft.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Powertoys",
-        "primaryURL": "https://learn.microsoft.com/windows/powertoys/"
-         },
-         {
+        "primaryURL": "https://learn.microsoft.com/windows/powertoys/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Real Or Not",
-        "primaryURL": "https://www.realornotquiz.com/"
-         },
-         {
+        "primaryURL": "https://www.realornotquiz.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Seeing AI",
-        "primaryURL": "https://www.seeingai.com/"
-         },
-         {
+        "primaryURL": "https://www.seeingai.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Services Agreement",
-        "primaryURL": "https://www.microsoft.com/servicesagreement"
-         },
-         {
+        "primaryURL": "https://www.microsoft.com/servicesagreement",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Microsoft Garage",
-        "primaryURL": "https://www.microsoft.com/garage/"
-         }
-        ]
-     }
+        "primaryURL": "https://www.microsoft.com/garage/",
+        "iconUrl": ""
+      }
+    ]
+  }
 ]

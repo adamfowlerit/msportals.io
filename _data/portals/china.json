@@ -1,41 +1,47 @@
 [
-   {
+  {
     "groupName": "Microsoft 365 China Links",
     "portals": [
-        {
+      {
         "portalName": "Microsoft 365 Admin",
-        "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal"
-         },
-        {
+        "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Microsoft 365 End User",
-        "primaryURL": "https://microsoft365.microsoftonline.cn"
-         },
-        {
+        "primaryURL": "https://microsoft365.microsoftonline.cn",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Entra",
-        "primaryURL": "https://entra.microsoftonline.cn"
-         },
-        {
+        "primaryURL": "https://entra.microsoftonline.cn",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
         "portalName": "Intune",
-        "primaryURL": "https://intune.microsoftonline.cn"
-         },
-        {
+        "primaryURL": "https://intune.microsoftonline.cn",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
         "portalName": "Purview",
-        "primaryURL": "https://purview.microsoftonline.cn"
-         },
-        {
+        "primaryURL": "https://purview.microsoftonline.cn",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Security",
-        "primaryURL": " https://security.microsoftonline.cn"
-         }
-      
+        "primaryURL": " https://security.microsoftonline.cn",
+        "iconUrl": ""
+      }
     ]
-     },
-     {
+  },
+  {
     "groupName": "Azure China Links",
     "portals": [
-        {
+      {
         "portalName": "Azure",
-        "primaryURL": "https://portal.azure.cn"
-         }
+        "primaryURL": "https://portal.azure.cn",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      }
     ]
-   }
-  ]
+  }
+]
