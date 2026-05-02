@@ -140,6 +140,57 @@
         "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
       },
       {
+        "portalName": "Dynamics 365 Customer Insights Admin Center",
+        "primaryURL": "https://public-usa.mkt.dynamics.com/fre",
+        "secondaryURLs": [
+          {
+            "icon": "crm5",
+            "url": "https://public-apj.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm6",
+            "url": "https://public-oce.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm3",
+            "url": "https://public-can.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm4",
+            "url": "https://public-eur.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm12",
+            "url": "https://public-fra.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm8",
+            "url": "https://public-ind.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm7",
+            "url": "https://public-jpn.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm2",
+            "url": "https://public-sam.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm17",
+            "url": "https://public-che.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm15",
+            "url": "https://public-uae.mkt.dynamics.com/fre"
+          },
+          {
+            "icon": "crm11",
+            "url": "https://public-gbr.mkt.dynamics.com/fre"
+          }
+        ],
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-customer-insights/customerinsights-scalable.svg"
+      },
+      {
         "portalName": "Phone Number Service Center",
         "primaryURL": "https://pstnsd.powerappsportals.com/",
         "iconUrl": ""
