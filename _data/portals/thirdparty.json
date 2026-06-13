@@ -73,6 +73,11 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Generate autounattend.xml files for Windows 10/11",
+        "primaryURL": "https://schneegans.de/windows/unattend-generator/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Get Security Done",
         "primaryURL": "https://dcaddick.github.io/gsd_public/",
         "note": "Dave Caddick",
