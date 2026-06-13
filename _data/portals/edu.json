@@ -58,9 +58,9 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft 365 Education",
-        "primaryURL": "https://www.microsoft.com/education/products/microsoft-365",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+        "portalName": "Intune for Education",
+        "primaryURL": "https://intuneeducation.portal.azure.com/",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
         "portalName": "Microsoft Education Solution Guide",
