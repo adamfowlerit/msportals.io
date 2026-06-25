@@ -604,6 +604,11 @@
           }
         ],
         "iconUrl": ""
+      },
+      {
+        "portalName": "Logic Apps Automation",
+        "primaryURL": "https://auto.azure.com/",
+        "iconUrl": ""
       }
     ]
   }
