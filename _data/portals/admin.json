@@ -107,6 +107,12 @@
         "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
       },
       {
+        "portalName": "Power Apps Vibe",
+        "primaryURL": "https://vibe.powerapps.com",
+        "note": "AI-native app-building experience in Power Apps",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
+      },
+      {
         "portalName": "Power Automate Maker Portal",
         "primaryURL": "https://make.powerautomate.com",
         "secondaryURLs": [
@@ -819,6 +825,12 @@
         "portalName": "Visual Studio (VS) Code in the Web",
         "primaryURL": "https://insiders.vscode.dev/",
         "note": "Insiders Version",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Visual Studio (VS) Code in the Web",
+        "primaryURL": "https://vscode.dev/azure",
+        "note": "Visual Studio (VS) Code in the Web (Azure Cloud Shell Experience)",
         "iconUrl": ""
       },
       {
