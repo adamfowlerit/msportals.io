@@ -301,6 +301,12 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
+        "portalName": "Microsoft Artifact Registry",
+        "primaryURL": "https://mcr.microsoft.com/",
+        "note": "container images",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
         "portalName": "Azure Non-profit Portal",
         "primaryURL": "https://nonprofit.microsoft.com",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
@@ -425,6 +431,11 @@
         "portalName": "Azure AI Foundry",
         "primaryURL": "https://ai.azure.com/",
         "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
+      },
+      {
+        "portalName": "Foundry Local AI",
+        "primaryURL": "https://www.foundrylocal.ai/",
+        "iconUrl": ""
       },
       {
         "portalName": "Azure AI Content Safety Studio",
@@ -784,6 +795,17 @@
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/azure-devops/10261-icon-service-azure-devops.svg"
+      },
+      {
+        "portalName": ".NET Aspire",
+        "primaryURL": "https://aspire.dev/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Windows Subsystem for Linux",
+        "primaryURL": "https://wsl.dev/",
+        "note": "WSL",
+        "iconUrl": ""
       },
       {
         "portalName": "Bing Maps Portal",
