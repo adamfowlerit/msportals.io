@@ -24,23 +24,18 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Virtual Training Days #1",
-        "primaryURL": "https://www.microsoft.com/en-ca/sites/microsoft-training-days",
+        "portalName": "Microsoft Virtual Training Days",
+        "primaryURL": "https://mvtd.events.microsoft.com",
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Virtual Training Days #2",
-        "primaryURL": "https://mvtd.events.microsoft.com",
+        "portalName": "Microsoft Reactor",
+        "primaryURL": "https://developer.microsoft.com/reactor/",
         "iconUrl": ""
       },
       {
         "portalName": "Microsoft Shows",
         "primaryURL": "https://learn.microsoft.com/shows/",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Cloud Skills Challenge - 30 Days to Learn It",
-        "primaryURL": "https://aka.ms/30-days-to-learn-it",
         "iconUrl": ""
       },
       {
@@ -77,6 +72,11 @@
       {
         "portalName": "Microsoft Certifications",
         "primaryURL": "https://learn.microsoft.com/credentials/browse/?credential_types=certification",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Certification Renewal",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/renew-your-microsoft-certification",
         "iconUrl": ""
       },
       {
@@ -125,6 +125,11 @@
         "portalName": "Microsoft Learn Exam Readiness Zone",
         "primaryURL": "https://learn.microsoft.com/shows/exam-readiness-zone/",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Certified Trainer Program",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mct-certification",
+        "iconUrl": ""
       }
     ]
   },
@@ -153,11 +158,6 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure AI App and Agent Developer Associate (AI-103)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Power BI Data Analyst Associate (PL-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/",
         "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
@@ -165,6 +165,16 @@
       {
         "portalName": "Azure Solutions Architect Expert (AZ-305)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure AI App and Agent Developer Associate (AI-103)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+     {
+        "portalName": "Azure AI Cloud Developer Associate (AI-200)",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
@@ -204,11 +214,7 @@
         "note": "Replacement for Windows Server Hybrid Administrator Associate (AZ-800/AZ-801).",
         "iconUrl": ""
       },
-      {
-        "portalName": "Azure AI Cloud Developer Associate (AI-200)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
+
       {
         "portalName": "DevOps Engineer Expert (AZ-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/devops-engineer",
