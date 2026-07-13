@@ -4,7 +4,7 @@
     "portals": [
       {
         "portalName": "Microsoft Learn Profile",
-        "primaryURL": "https://www.microsoft.com/learning/dashboard.aspx",
+        "primaryURL": "https://learn.microsoft.com/users/me/",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -137,14 +137,8 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure AI Fundamentals (AI-900)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/",
-        "note": "Retiring. Certification retirement date: June 30, 2026. Training retirement date: April 2026. Replacement: Azure AI Fundamentals (AI-901).",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Azure AI Fundamentals (AI-901)",
-        "primaryURL": "TODO",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/",
         "note": "Replacement for Azure AI Fundamentals (AI-900).",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -159,15 +153,8 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure AI Engineer Associate (AI-102)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-engineer",
-        "note": "Retiring. Certification retirement date: June 30, 2026. Training retirement date: April 2026. Replacement: Azure AI App and Agent Developer Associate (AI-103).",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Azure AI App and Agent Developer Associate (AI-103)",
-        "primaryURL": "TODO",
-        "note": "Replacement for Azure AI Engineer Associate (AI-102).",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
@@ -181,15 +168,8 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Data Scientist Associate (DP-100)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-data-scientist",
-        "note": "Retiring. Certification retirement date: June 1, 2026. Training retirement date: April 2026. Replacement: Machine Learning Operations (MLOps) Engineer Associate (AI-300).",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Machine Learning Operations (MLOps) Engineer Associate (AI-300)",
-        "primaryURL": "TODO",
-        "note": "Replacement for Azure Data Scientist Associate (DP-100).",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/operationalizing-machine-learning-and-generative-ai-solutions/",
         "iconUrl": ""
       },
       {
@@ -220,20 +200,13 @@
       },
       {
         "portalName": "Windows Server Hybrid Administrator (AZ-802)",
-        "primaryURL": "TODO",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/",
         "note": "Replacement for Windows Server Hybrid Administrator Associate (AZ-800/AZ-801).",
         "iconUrl": ""
       },
       {
-        "portalName": "Azure Developer Associate (AZ-204)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-developer",
-        "note": "Retiring. Certification retirement date: July 31, 2026. Training retirement date: May 2026. Replacement: Azure AI Cloud Developer Associate (AI-200).",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Azure AI Cloud Developer Associate (AI-200)",
-        "primaryURL": "TODO",
-        "note": "Replacement for Azure Developer Associate (AZ-204).",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
@@ -434,7 +407,7 @@
       },
       {
         "portalName": "Cloud and AI Security Engineer Associate (SC-500)",
-        "primaryURL": "TODO",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/cloud-and-ai-security-engineer-associate/",
         "note": "Replacement for Azure Security Engineer Associate (AZ-500).",
         "iconUrl": ""
       },
