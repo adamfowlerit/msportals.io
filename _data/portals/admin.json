@@ -59,6 +59,16 @@
         "iconUrl": "https://getyako.com/ms/logos/stream/2017-2019-postive-format/microsoft-stream-256x256.png"
       },
       {
+        "portalName": "Microsoft Edge for Business",
+        "primaryURL": "https://admin.cloud.microsoft/?#/Edge",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Priva",
+        "primaryURL": "https://purview.microsoft.com/priva",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://purview.microsoft.com/",
         "secondaryURLs": [
@@ -130,7 +140,7 @@
         "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
       },
       {
-        "portalName": "Power Pages Preview",
+        "portalName": "Power Pages",
         "primaryURL": "https://make.powerpages.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/power-pages/powerpages-scalable.svg"
       },
@@ -150,47 +160,47 @@
         "primaryURL": "https://public-usa.mkt.dynamics.com/fre",
         "secondaryURLs": [
           {
-            "icon": "crm5",
+            "icon": "apj",
             "url": "https://public-apj.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm6",
+            "icon": "oce",
             "url": "https://public-oce.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm3",
+            "icon": "can",
             "url": "https://public-can.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm4",
+            "icon": "eur",
             "url": "https://public-eur.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm12",
+            "icon": "fra",
             "url": "https://public-fra.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm8",
+            "icon": "ind",
             "url": "https://public-ind.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm7",
+            "icon": "jpn",
             "url": "https://public-jpn.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm2",
+            "icon": "sam",
             "url": "https://public-sam.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm17",
+            "icon": "che",
             "url": "https://public-che.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm15",
+            "icon": "uae",
             "url": "https://public-uae.mkt.dynamics.com/fre"
           },
           {
-            "icon": "crm11",
+            "icon": "gbr",
             "url": "https://public-gbr.mkt.dynamics.com/fre"
           }
         ],
@@ -215,11 +225,6 @@
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin",
         "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
-      },
-      {
-        "portalName": "My Applications (My Apps)",
-        "primaryURL": "https://myapps.microsoft.com/",
-        "iconUrl": "https://getyako.com/ms/logos/entra-id/microsoft-entra-id-filled-bw-icon.svg"
       },
       {
         "portalName": "My Access",
@@ -425,6 +430,11 @@
       {
         "portalName": "Microsoft Copilot",
         "primaryURL": "https://copilot.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft Dragon Copilot",
+        "primaryURL": "https://admin.healthplatform.microsoft.com",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
