@@ -492,6 +492,11 @@
         "primaryURL": "https://www.luis.ai/",
         "iconUrl": ""
       },
+        {
+        "portalName": "MAI Playground",
+        "primaryURL": "https://playground.microsoft.ai/",
+        "iconUrl": ""
+      },
       {
         "portalName": "Opal in Microsoft 365 Copilot",
         "primaryURL": "https://opal.frontier.microsoft365.com",
