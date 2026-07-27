@@ -492,6 +492,11 @@
         "primaryURL": "https://www.luis.ai/",
         "iconUrl": ""
       },
+      {
+        "portalName": "Microsoft AI",
+        "primaryURL": "https://microsoft.ai/",
+        "iconUrl": ""
+      },
         {
         "portalName": "MAI Playground",
         "primaryURL": "https://playground.microsoft.ai/",
