@@ -1,0 +1,12 @@
+[
+  {
+    "groupName": "Main Microsoft AI Links",
+    "portals": [
+      {
+        "portalName": "Microsoft 365 Copilot",
+        "primaryURL": "https://copilot.microsoft.com",
+        "iconUrl": ""
+      }
+    ]
+  },
+]
