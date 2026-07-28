@@ -228,6 +228,11 @@
         "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
       },
       {
+        "portalName": "Viva Glint",
+        "primaryURL": "https://app.us1.glint.cloud.microsoft/",
+        "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
+      },
+      {
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin",
         "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
