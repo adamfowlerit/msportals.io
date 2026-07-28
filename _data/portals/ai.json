@@ -53,6 +53,17 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Microsoft Security Copilot",
+        "primaryURL": "https://securitycopilot.microsoft.com/",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://securitycopilot.microsoft.com/?tenantId={tenant_id}"
+          }
+        ],
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
         "portalName": "Cowork Credit Planning Model",
         "primaryURL": "https://nptnlopppecostweb.azurewebsites.net/#/cowork",
         "iconUrl": ""
