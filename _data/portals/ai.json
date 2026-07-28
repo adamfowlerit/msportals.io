@@ -1,10 +1,125 @@
 [
   {
-    "groupName": "Main Microsoft AI Links",
+    "groupName": "Admin - AI Portals",
     "portals": [
       {
-        "portalName": "Microsoft 365 Copilot",
-        "primaryURL": "https://copilot.microsoft.com",
+        "portalName": "Microsoft Copilot",
+        "primaryURL": "https://copilot.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft AI",
+        "primaryURL": "https://microsoft.ai/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Security Dashboard for AI",
+        "primaryURL": "https://ai.security.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft Dragon Copilot",
+        "primaryURL": "https://admin.healthplatform.microsoft.com",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Azure AI Foundry",
+        "primaryURL": "https://ai.azure.com/",
+        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
+      },
+      {
+        "portalName": "Foundry Local AI",
+        "primaryURL": "https://www.foundrylocal.ai/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Azure AI Content Safety Studio",
+        "primaryURL": "https://contentsafety.cognitive.azure.com/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure AI Document Intelligence Studio",
+        "primaryURL": "https://documentintelligence.ai.azure.com/",
+        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
+      },
+      {
+        "portalName": "Azure Machine Learning Studio",
+        "primaryURL": "https://ml.azure.com",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure OpenAI Studio",
+        "primaryURL": "https://oai.azure.com/portal",
+        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
+      },
+      {
+        "portalName": "Bot Framework Dev Portal",
+        "primaryURL": "https://dev.botframework.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "AI FInOps Estimator",
+        "primaryURL": "https://nptnlopppecostweb.azurewebsites.net",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Cowork Credit Planning Model",
+        "primaryURL": "https://nptnlopppecostweb.azurewebsites.net/#/cowork",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Custom Translator",
+        "primaryURL": "https://portal.customtranslator.azure.ai/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Custom Vision",
+        "primaryURL": "https://www.customvision.ai/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Language Studio",
+        "primaryURL": "https://language.azure.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "LUIS Portal - Language Understanding",
+        "primaryURL": "https://www.luis.ai/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft AI",
+        "primaryURL": "https://microsoft.ai/",
+        "iconUrl": ""
+      },
+        {
+        "portalName": "MAI Playground",
+        "primaryURL": "https://playground.microsoft.ai/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Opal in Microsoft 365 Copilot",
+        "primaryURL": "https://opal.frontier.microsoft365.com",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Speech Studio",
+        "primaryURL": "https://speech.microsoft.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Security Copilot Calculator",
+        "primaryURL": "https://securitycopilot.microsoft.com/calculator",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Security for AI Assessment",
+        "primaryURL": "https://security-for-ai-assessment.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Video Indexer",
+        "primaryURL": "https://www.videoindexer.ai/",
         "iconUrl": ""
       }
     ]
