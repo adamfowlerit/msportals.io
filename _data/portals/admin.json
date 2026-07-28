@@ -54,15 +54,21 @@
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
-        "portalName": "Microsoft Stream Admin Center",
-        "primaryURL": "https://web.microsoftstream.com/admin",
-        "iconUrl": "https://getyako.com/ms/logos/stream/2017-2019-postive-format/microsoft-stream-256x256.png"
-      },
-      {
-        "portalName": "Microsoft Edge for Business",
-        "primaryURL": "https://admin.cloud.microsoft/?#/Edge",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
+        "portalName": "Microsoft Entra Admin Center",
+        "primaryURL": "https://entra.microsoft.com",
+        "note": "Identity Management - Formerly Azure AD Admin Center",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/MSEntraPortal"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://entra.microsoft.com/{tenant_id}/#home"
+          }
+        ],
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      }
       {
         "portalName": "Microsoft Priva",
         "primaryURL": "https://purview.microsoft.com/priva",
@@ -225,6 +231,16 @@
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin",
         "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
+      },
+      {
+        "portalName": "Microsoft Stream Admin Center",
+        "primaryURL": "https://web.microsoftstream.com/admin",
+        "iconUrl": "https://getyako.com/ms/logos/stream/2017-2019-postive-format/microsoft-stream-256x256.png"
+      },
+      {
+        "portalName": "Microsoft Edge for Business",
+        "primaryURL": "https://admin.cloud.microsoft/?#/Edge",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "My Access",
@@ -393,28 +409,7 @@
       }
     ]
   },
-  {
-    "groupName": "Admin - Entra Portals",
-    "portals": [
-      {
-        "portalName": "Microsoft Entra Admin Center",
-        "primaryURL": "https://entra.microsoft.com",
-        "note": "Identity Management - Formerly Azure AD Admin Center",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/MSEntraPortal"
-          },
-          {
-            "icon": "B2B",
-            "url": "https://entra.microsoft.com/{tenant_id}/#home"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
-      }
-    ]
-  },
-  {
+    {
     "groupName": "Admin - Microsoft Licensing/Support Portals",
     "portals": [
       {
