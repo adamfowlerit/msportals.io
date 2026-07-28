@@ -3,16 +3,6 @@
     "groupName": "Admin - AI Portals",
     "portals": [
       {
-        "portalName": "Microsoft Copilot",
-        "primaryURL": "https://copilot.microsoft.com/",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
-      },
-      {
-        "portalName": "Microsoft AI",
-        "primaryURL": "https://microsoft.ai/",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Security Dashboard for AI",
         "primaryURL": "https://ai.security.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
