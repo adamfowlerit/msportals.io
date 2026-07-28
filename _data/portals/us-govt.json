@@ -131,6 +131,12 @@
         "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
       },
       {
+        "portalName": "Copilot Studio",
+        "primaryURL": "https://high.powerva.microsoft.us/",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
+      },
+      {
         "portalName": "OneDrive admin center",
         "primaryURL": "https://admin.onedrive.us/",
         "note": "GCC High",
