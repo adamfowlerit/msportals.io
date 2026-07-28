@@ -454,12 +454,6 @@
       },
       {
         "portalName": "My Account",
-        "primaryURL": "https://account.microsoft.com",
-        "note": "Consumer",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "My Account",
         "primaryURL": "https://myaccount.microsoft.com",
         "secondaryURLs": [
           {
