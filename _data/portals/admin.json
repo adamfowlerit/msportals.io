@@ -473,6 +473,16 @@
         "iconUrl": ""
       },
       {
+        "portalName": "AI FInOps Estimator",
+        "primaryURL": "https://nptnlopppecostweb.azurewebsites.net",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Cowork Credit Planning Model",
+        "primaryURL": "https://nptnlopppecostweb.azurewebsites.net/#/cowork",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Custom Translator",
         "primaryURL": "https://portal.customtranslator.azure.ai/",
         "iconUrl": ""
