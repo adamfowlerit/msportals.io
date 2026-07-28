@@ -302,6 +302,11 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
+        "portalName": "Azure Container Apps",
+        "primaryURL": "https://containerapps.azure.com/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
         "portalName": "Azure Cosmos DB",
         "primaryURL": "https://cosmos.azure.com",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
