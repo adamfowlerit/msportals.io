@@ -490,17 +490,6 @@
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Security Copilot",
-        "primaryURL": "https://securitycopilot.microsoft.com/",
-        "secondaryURLs": [
-          {
-            "icon": "B2B",
-            "url": "https://securitycopilot.microsoft.com/?tenantId={tenant_id}"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
-      },
-      {
         "portalName": "Microsoft Defender Threat Intelligence",
         "primaryURL": "https://security.microsoft.com/intel-explorer",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
