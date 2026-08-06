@@ -5,7 +5,6 @@ search: true
 ---
 Welcome to this community driven project to list all of Microsoft's portals (and some third party portals) in one place. [Submit an issue](https://github.com/adamfowlerit/msportals.io/issues) for any amendments to these links. The home page (what you're looking at now) contains a list of all URLs from all sections
 
-Admin
 {% include portal.html portal="admin" %}
 {% include portal.html portal="ai" %}
 {% include portal.html portal="user" %}
