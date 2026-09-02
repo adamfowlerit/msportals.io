@@ -309,8 +309,7 @@
       },
       {
         "portalName": "Copilot Cowork",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "note": "Available within Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/cowork"
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
@@ -321,38 +320,28 @@
       },
       {
         "portalName": "Copilot Search",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "note": "Available within Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/search"
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Copilot Pages",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "note": "Available within Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/library/pages"
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Copilot Notebooks",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "note": "Available within Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/projects"
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Copilot Create",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "note": "Available within Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/create?"
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Agent Store",
-        "primaryURL": "https://m365.cloud.microsoft/",
-        "note": "Available within Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/chat/agentstore"
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
-        "portalName": "Microsoft Designer",
-        "primaryURL": "https://designer.microsoft.com/",
-        "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
       }
     ]
   },
