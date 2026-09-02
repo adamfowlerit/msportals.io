@@ -18,17 +18,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft 365 Copilot",
-        "primaryURL": "https://copilot.cloud.microsoft",
-                "secondaryURLs": [
-          {
-            "icon": "Old 🔗",
-            "url": "https://m365.cloud.microsoft/"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
         "portalName": "Cortana",
         "primaryURL": "https://cortana.office.com",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
@@ -306,6 +295,68 @@
     ]
   },
   {
+    "groupName": "End User Portals - AI",
+    "portals": [
+      {
+        "portalName": "Microsoft 365 Copilot",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Chat",
+        "primaryURL": "https://copilot.cloud.microsoft/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Cowork",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "note": "Available within Microsoft 365 Copilot",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Scout",
+        "primaryURL": "https://scout.cloud.microsoft/",
+        "note": "Preview",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Search",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "note": "Available within Microsoft 365 Copilot",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Pages",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "note": "Available within Microsoft 365 Copilot",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Notebooks",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "note": "Available within Microsoft 365 Copilot",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Create",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "note": "Available within Microsoft 365 Copilot",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Agent Store",
+        "primaryURL": "https://m365.cloud.microsoft/",
+        "note": "Available within Microsoft 365 Copilot",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Designer",
+        "primaryURL": "https://designer.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
+      }
+    ]
+  },
+  {
     "groupName": "End User - Accessability",
     "portals": [
       {
@@ -432,11 +483,6 @@
         "portalName": "Microsoft Create - Free Templates",
         "primaryURL": "https://create.microsoft.com/",
         "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Designer",
-        "primaryURL": "https://designer.microsoft.com/",
-        "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
       },
       {
         "portalName": "Microsoft Family Safety",
