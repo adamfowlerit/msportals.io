@@ -18,11 +18,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Cortana",
-        "primaryURL": "https://cortana.office.com",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
         "portalName": "Excel",
         "primaryURL": "https://excel.cloud.microsoft",
         "secondaryURLs": [
@@ -42,11 +37,6 @@
         "portalName": "Forms",
         "primaryURL": "https://forms.cloud.microsoft",
         "iconUrl": "https://getyako.com/ms/logos/forms/forms-512.png"
-      },
-      {
-        "portalName": "Kaizala Web",
-        "primaryURL": "https://web.kaiza.la",
-        "iconUrl": ""
       },
       {
         "portalName": "Lists",
