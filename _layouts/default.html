@@ -46,7 +46,7 @@
               <span class="portal-count">{{ portal_count }} portals listed</span>
               {% if page.portal_key %}
                 {% assign section_count = 0 %}
-                {% for group in site.data.portals.[page.portal_key] %}
+                {% for group in site.data.portals[page.portal_key] %}
                   {% assign section_count = section_count | plus: group.portals.size %}
                 {% endfor %}
                 <span class="portal-count-divider">•</span>
