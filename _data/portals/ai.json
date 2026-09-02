@@ -33,6 +33,11 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Insights",
+        "primaryURL": "https://analysis.insights.cloud.microsoft/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
         "portalName": "Azure AI Content Safety Studio",
         "primaryURL": "https://contentsafety.cognitive.azure.com/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
