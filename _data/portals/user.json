@@ -214,7 +214,7 @@
         "secondaryURLs": [
           {
             "icon": "Old 🔗",
-            "url": " https://goals.microsoft.com/"
+            "url": "https://goals.microsoft.com/"
           }
         ],
         "iconUrl": ""
@@ -230,7 +230,7 @@
         "secondaryURLs": [
           {
             "icon": "Old 🔗",
-            "url": " https://insights.viva.office.com/"
+            "url": "https://insights.viva.office.com/"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/viva-insights/viva-insights.svg"
@@ -245,7 +245,7 @@
           },
           {
             "icon": "Old 🔗",
-            "url": " https://vivalearning.microsoft.com/"
+            "url": "https://vivalearning.microsoft.com/"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/viva-learning/viva-learning.svg"
@@ -256,7 +256,7 @@
         "secondaryURLs": [
           {
             "icon": "Old 🔗",
-            "url": " https://pulse.viva.cloud.microsoft"
+            "url": "https://pulse.viva.cloud.microsoft"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/viva-pulse/viva-pulse.svg"
@@ -443,7 +443,7 @@
         "secondaryURLs": [
           {
             "icon": "Old 🔗",
-            "url": " https://portal.mesh.microsoft.com"
+            "url": "https://portal.mesh.microsoft.com"
           }
         ],
         "iconUrl": ""
@@ -563,7 +563,7 @@
           },
           {
             "icon": "Old 🔗",
-            "url": " https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
+            "url": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
           }
         ],
         "iconUrl": ""
