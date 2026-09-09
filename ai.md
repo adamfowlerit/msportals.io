@@ -6,6 +6,6 @@ portal_key: ai
 portal_label: ai
 ---
 
-Microsoft AI related portals
+Microsoft AI related portals 
 
 {% include portal.html portal="ai" %}
