@@ -4,7 +4,7 @@
 
 We are currently making our web-pages from JSON files, our current JSON Portal sources are below.
 
-## Website Page to JSON Mapping
+## Website Page to JSON Mapping:
 
 | Website Page                                            | JSON Source                            |
 | ------------------------------------------------------- | -------------------------------------- |
