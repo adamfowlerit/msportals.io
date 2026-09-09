@@ -42,7 +42,7 @@
         "$id": "#/items/anyOf/0",
         "type": "object",
         "title": "The first anyOf schema",
-        "description": "An explanation about the purpose of this instance.",
+        "description": "An explanation about the purpose of this instance",
         "default": {},
         "examples": [
           {
