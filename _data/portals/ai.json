@@ -119,6 +119,11 @@
         "iconUrl": ""
       },
       {
+        "portalName": "SharePoint Skills",
+        "primaryURL": "https://pnp.github.io/sharepoint-skills/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Security Copilot Calculator",
         "primaryURL": "https://securitycopilot.microsoft.com/calculator",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
