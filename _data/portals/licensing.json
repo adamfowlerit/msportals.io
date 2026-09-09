@@ -104,17 +104,17 @@
     "groupName": "Product Specific Licensing Links",
     "portals": [
       {
-        "portalName": "Microsoft Entra Plans & Pricing",
+        "portalName": "Microsoft Entra Plans and Pricing",
         "primaryURL": "https://www.microsoft.com/security/business/microsoft-entra-pricing",
         "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
-        "portalName": "Microsoft Project Plans & Pricing",
+        "portalName": "Microsoft Project Plans and Pricing",
         "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software",
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Visio Plans & Pricing",
+        "portalName": "Microsoft Visio Plans and Pricing",
         "primaryURL": "https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options",
         "iconUrl": "https://getyako.com/ms/logos/visio/2013-2019-postive-format/visio-256x256.png"
       }
