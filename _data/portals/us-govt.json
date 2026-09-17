@@ -102,7 +102,7 @@
       },
       {
         "portalName": "Microsoft 365 Admin Portal",
-        "primaryURL": "https://portal.office365.us",
+        "primaryURL": "https://portal.office365.us/adminportal/home",
         "note": "GCC High",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
