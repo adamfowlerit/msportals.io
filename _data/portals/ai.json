@@ -13,6 +13,12 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
+        "portalName": "Copilot Managed Runtime",
+        "primaryURL": "https://managedapps.cloud.microsoft/",
+        "note": "Microsoft 365 line-of-business applications",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
         "portalName": "Copilot Studio",
         "primaryURL": "https://copilotstudio.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"
@@ -103,7 +109,7 @@
         "primaryURL": "https://microsoft.ai/",
         "iconUrl": ""
       },
-        {
+      {
         "portalName": "MAI Playground",
         "primaryURL": "https://playground.microsoft.ai/",
         "iconUrl": ""
@@ -139,5 +145,5 @@
         "iconUrl": ""
       }
     ]
-  },
+  }
 ]
