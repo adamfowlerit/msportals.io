@@ -423,7 +423,7 @@
       }
     ]
   },
-    {
+  {
     "groupName": "Admin - Microsoft Licensing/Support Portals",
     "portals": [
       {
@@ -510,14 +510,8 @@
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Defender for Endpoints (MDE)",
-        "primaryURL": "https://securitycenter.windows.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/MDATPportal"
-          }
-        ],
+        "portalName": "Microsoft Defender for Endpoint (MDE)",
+        "primaryURL": "https://security.windows.com",
         "note": "Deprecated: Previously Defender ATP",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
