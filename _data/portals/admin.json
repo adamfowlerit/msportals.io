@@ -510,20 +510,8 @@
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Defender for Endpoint (MDE)",
-        "primaryURL": "https://security.windows.com",
-        "note": "Deprecated: Previously Defender ATP",
-        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
-      },
-      {
         "portalName": "Microsoft Defender for Identity (MDI)",
         "primaryURL": "https://security.microsoft.com/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/MDIPortal"
-          }
-        ],
         "note": "Deprecated: Previously Azure ATP",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
@@ -658,7 +646,7 @@
       },
       {
         "portalName": "Adaptive Cards Designer",
-        "primaryURL": "https://adaptivecards.io/designer/",
+        "primaryURL": "https://adaptivecards.microsoft.com/designer",
         "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
       },
       {
@@ -862,11 +850,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Azure for Partners",
-        "primaryURL": "https://microsoft.github.io/PartnerResources/",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Microsoft Partner Resources",
         "primaryURL": "https://partner.microsoft.com/en-US/partnership/azure-for-partners",
         "iconUrl": ""
@@ -912,11 +895,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Partner Cybersecurity Investment Program",
-        "primaryURL": "https://cloudaccelerator.microsoft.com/csi-partner-investment",
-        "iconUrl": ""
-      },
-      {
         "portalName": "SupplierWeb",
         "primaryURL": "https://supplier.microsoft.com/",
         "iconUrl": ""
@@ -926,11 +904,6 @@
   {
     "groupName": "Admin - Microsoft Trials",
     "portals": [
-      {
-        "portalName": "Microsoft Defender for Identity Trial -3-month",
-        "primaryURL": "https://signup.microsoft.com/Signup?OfferId=a0db242a-96d7-4f99-bd52-05c0d5556257&ali=1",
-        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
-      },
       {
         "portalName": "Microsoft Defender for Office 365 (Plan 2) 90 Day, Full Tenant Trial",
         "primaryURL": "https://signup.microsoft.com/signup/logout?OfferId=20298c4d-d500-47fa-b3cd-a3f7d75d9253",
@@ -1049,11 +1022,6 @@
       {
         "portalName": "Azure Lighthouse Blade",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
-        "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
-        "primaryURL": "https://www.microsoftazurepass.com/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
@@ -1260,17 +1228,6 @@
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
         "primaryURL": "https://sender.office.com",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
-        "portalName": "Office UI Fabric Icons",
-        "primaryURL": "https://uifabricicons.azurewebsites.net/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/fluentui-icons"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/fabric/fabric-256.svg"
       },
       {
         "portalName": "Outlook.com Smart Network Data Service",

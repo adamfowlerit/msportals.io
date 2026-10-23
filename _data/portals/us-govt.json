@@ -60,12 +60,6 @@
         "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
       },
       {
-        "portalName": "Microsoft Defender for Endpoint",
-        "primaryURL": "https://gcc.securitycenter.microsoft.us",
-        "note": "GCC",
-        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
-      },
-      {
         "portalName": "Microsoft Intune Government admin center",
         "primaryURL": "https://intune.microsoft.us/#home",
         "note": "GCC",
@@ -147,12 +141,6 @@
         "primaryURL": "https://admin.exchange.office365.us",
         "note": "GCC High",
         "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
-      },
-      {
-        "portalName": "Microsoft Defender for Endpoint",
-        "primaryURL": "https://securitycenter.microsoft.us",
-        "note": "GCC High",
-        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Entra admin center",
@@ -295,18 +283,6 @@
         ],
         "note": "DoD",
         "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
-      },
-      {
-        "portalName": "Defender Admin Center",
-        "primaryURL": "https://securitycenter.windows.us",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/DoDDef"
-          }
-        ],
-        "note": "DoD",
-        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Security Admin Center",

@@ -91,24 +91,14 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Certifications - Study Guides",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Applied Skills Certification Poster",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1bY3w",
+        "primaryURL": "https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/AppliedSkillsPoster"
           }
         ],
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Applied Skills - Study Guides",
-        "primaryURL": "https://learn.microsoft.com/credentials/applied-skills/resources/study-guides/",
         "iconUrl": ""
       },
       {
@@ -569,7 +559,7 @@
     "portals": [
       {
         "portalName": "Microsoft Security, Compliance, and Identity training and certifications PowerPoint Deck",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm",
+        "primaryURL": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/mcaps-CMMC-rt-pdf10.pdf",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -608,7 +598,7 @@
       },
       {
         "portalName": "AKS Learning Path",
-        "primaryURL": "https://aks-learning.github.io/learningpath/",
+        "primaryURL": "https://aks-learning.github.io/",
         "iconUrl": ""
       },
       {

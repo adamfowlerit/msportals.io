@@ -29,11 +29,6 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-family-safety/microsoft-family-safety-256-256x256.png"
       },
       {
-        "portalName": "Microsoft Movies & TV",
-        "primaryURL": "https://www.microsoft.com/movies-and-tv",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Microsoft Store",
         "primaryURL": "https://microsoft.com/store",
         "iconUrl": ""
@@ -231,11 +226,6 @@
       {
         "portalName": "MSN News",
         "primaryURL": "https://www.msn.com",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Insider",
-        "primaryURL": "http://insider.microsoft.com/",
         "iconUrl": ""
       },
       {

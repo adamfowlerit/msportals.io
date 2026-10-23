@@ -13,11 +13,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Learn Educator Center",
-        "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Microsoft Education Support",
         "primaryURL": "https://support.microsoft.com/home/contact/education",
         "iconUrl": ""
@@ -30,11 +25,6 @@
       {
         "portalName": "Microsoft Education Blog",
         "primaryURL": "https://www.microsoft.com/en-us/education/blog/",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Educatoion Sector Blogs",
-        "primaryURL": "https://techcommunity.microsoft.com/category/educationsector",
         "iconUrl": ""
       },
       {
