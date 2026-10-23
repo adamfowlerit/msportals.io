@@ -111,12 +111,34 @@
       },
       {
         "portalName": "Microsoft Reflect",
-        "primaryURL": "https://reflect.microsoft.com/",
+        "primaryURL": "https://reflect.edu.cloud.microsoft/",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://reflect.microsoft.com/"
+          }
+        ],
         "iconUrl": ""
       },
       {
         "portalName": "Reading Coach",
-        "primaryURL": "https://coach.microsoft.com/",
+        "primaryURL": "https://coach.edu.cloud.microsoft/",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://coach.microsoft.com/"
+          }
+        ],
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Search Coach",
+        "primaryURL": "https://searchcoach.microsoft.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Learning Activities",
+        "primaryURL": "https://learningactivities.edu.cloud.microsoft/",
         "iconUrl": ""
       }
     ]

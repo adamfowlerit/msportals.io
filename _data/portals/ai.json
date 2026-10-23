@@ -19,6 +19,12 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
+        "portalName": "Microsoft Agent 365",
+        "primaryURL": "https://agent365.cloud.microsoft",
+        "note": "Control plane for managing AI agents",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Copilot Studio",
         "primaryURL": "https://copilotstudio.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"

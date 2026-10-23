@@ -18,6 +18,11 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Designer",
+        "primaryURL": "https://designer.cloud.microsoft",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Excel",
         "primaryURL": "https://excel.cloud.microsoft",
         "secondaryURLs": [
@@ -56,7 +61,13 @@
       },
       {
         "portalName": "OneDrive",
-        "primaryURL": "https://portal.office.com/onedrive",
+        "primaryURL": "https://onedrive.cloud.microsoft",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://portal.office.com/onedrive"
+          }
+        ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
@@ -189,13 +200,23 @@
       },
       {
         "portalName": "To-Do",
-        "primaryURL": "https://to-do.office.com",
+        "primaryURL": "https://todo.cloud.microsoft",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://to-do.office.com"
+          }
+        ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Visio",
-        "primaryURL": "https://m365.cloud.microsoft/launch/visio",
+        "primaryURL": "https://visio.cloud.microsoft",
         "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://m365.cloud.microsoft/launch/visio"
+          },
           {
             "icon": "Old 🔗",
             "url": "https://www.office.com/launch/visio"
@@ -432,7 +453,7 @@
       },
       {
         "portalName": "Microsoft PSTN user settings",
-        "primaryURL": "https://dialin.teams.microsoft.com/usp/pstnconferencing",
+        "primaryURL": "https://dialin.teams.cloud.microsoft/usp/pstnconferencing",
         "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
       },
       {

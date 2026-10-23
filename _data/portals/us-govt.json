@@ -35,6 +35,12 @@
         "primaryURL": "https://rdweb.wvd.azure.us/",
         "note": "",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Microsoft Purview (Azure Government data governance)",
+        "primaryURL": "https://web.purview.azure.us",
+        "note": "",
+        "iconUrl": ""
       }
     ]
   },
@@ -153,6 +159,36 @@
         "primaryURL": "https://config.office365.us",
         "note": "GCC High",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Power BI",
+        "primaryURL": "https://app.high.powerbigov.us",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
+      },
+      {
+        "portalName": "Power Apps Maker Portal",
+        "primaryURL": "https://make.high.powerapps.us",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
+      },
+      {
+        "portalName": "Power Automate Maker Portal",
+        "primaryURL": "https://make.high.powerautomate.us",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
+      },
+      {
+        "portalName": "Power Pages",
+        "primaryURL": "https://make.high.powerpages.microsoft.us/",
+        "note": "GCC High",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Outlook",
+        "primaryURL": "https://outlook.office365.us/mail/",
+        "note": "GCC High",
+        "iconUrl": ""
       }
     ]
   },
@@ -200,6 +236,18 @@
         "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
         "note": "GCC Moderate",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
+      },
+      {
+        "portalName": "Power Pages",
+        "primaryURL": "https://make.gov.powerpages.microsoft.us/",
+        "note": "GCC Moderate",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Copilot Studio",
+        "primaryURL": "https://gcc.powerva.microsoft.us",
+        "note": "GCC Moderate",
+        "iconUrl": ""
       }
     ]
   },
@@ -331,6 +379,24 @@
         ],
         "note": "DoD",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Power BI",
+        "primaryURL": "https://app.mil.powerbigov.us/",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
+      },
+      {
+        "portalName": "Power Apps Maker Portal",
+        "primaryURL": "https://make.apps.appsplatform.us/",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
+      },
+      {
+        "portalName": "Power Automate Maker Portal",
+        "primaryURL": "https://make.powerautomate.appsplatform.us/",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       }
     ]
   }

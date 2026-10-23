@@ -223,7 +223,13 @@
       },
       {
         "portalName": "SharePoint Admin Center",
-        "primaryURL": "https://admin.microsoft.com/sharepoint",
+        "primaryURL": "https://admin.cloud.microsoft/sharepoint",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://admin.microsoft.com/sharepoint"
+          }
+        ],
         "iconUrl": "https://getyako.com/ms/logos/sharepoint/sharepoint-512.png"
       },
       {
@@ -448,8 +454,15 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Services Hub",
-        "primaryURL": "https://serviceshub.microsoft.com",
+        "portalName": "Microsoft Engage Center",
+        "primaryURL": "https://engagecenter.microsoft.com",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://serviceshub.microsoft.com"
+          }
+        ],
+        "note": "Formerly Services Hub",
         "iconUrl": ""
       },
       {
