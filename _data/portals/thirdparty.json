@@ -100,6 +100,11 @@
         "iconUrl": ""
       },
       {
+        "portalName": "GPORais - Group Policy search and registry exports",
+        "primaryURL": "https://gporais.com/en-us/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Group Policy Search",
         "primaryURL": "https://gpsearch.azurewebsites.net/",
         "iconUrl": ""
@@ -221,6 +226,11 @@
       {
         "portalName": "Search aka.ms",
         "primaryURL": "https://akasearch.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "sub2tenant - Find the tenant for an Azure subscription ID",
+        "primaryURL": "https://sub2tenant.com/",
         "iconUrl": ""
       },
       {
