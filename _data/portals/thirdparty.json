@@ -78,6 +78,11 @@
         "iconUrl": ""
       },
       {
+        "portalName": "EWS AppID Lookup",
+        "primaryURL": "https://ewsappid.com/",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Generate autounattend.xml files for Windows 10/11",
         "primaryURL": "https://schneegans.de/windows/unattend-generator/",
         "iconUrl": ""
