@@ -944,7 +944,7 @@
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft 365 E5 Security Trial - 1-month",
+        "portalName": "Microsoft Defender Suite (formerly Microsoft 365 E5 Security) Trial - 1-month",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=b73fce33-ac89-4175-b199-0173b4c74b1f&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
@@ -1032,6 +1032,91 @@
         "portalName": "Sign-up for Intune, 1-month trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2019088",
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Microsoft Entra ID P1/P2 Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2254103",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Microsoft Entra Suite Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2354222",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Microsoft Intune Suite Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2256784",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Microsoft Purview Suite Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2225056",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Defender for Business Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2188209",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Microsoft Defender for Cloud Apps (SaaS Security) Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2251929",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Microsoft Defender Vulnerability Management Trial (standalone)",
+        "primaryURL": "https://aka.ms/MdvmStandaloneStartTrial",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Microsoft Defender Vulnerability Management Add-on Trial (for MDE P2)",
+        "primaryURL": "https://aka.ms/MdvmAddonStartTrial",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Microsoft 365 Business Premium (No Teams) Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2244916",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Defender Suite for Business Premium Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2342037",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Microsoft Purview Suite for Business Premium Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2342035",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Visio Plan 1 Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=857643",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Visio Plan 2 Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=403841",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Copilot Studio Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2338793",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Power Automate Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2269057",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
+      },
+      {
+        "portalName": "Microsoft Fabric 60-day Trial",
+        "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2310156",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Windows 365 Business Trial",
+        "primaryURL": "https://www.microsoft.com/windows-365/business/windows-365-free-trial",
+        "iconUrl": ""
       }
     ]
   },
