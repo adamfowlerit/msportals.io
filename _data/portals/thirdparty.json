@@ -68,11 +68,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Defender for Endpoint Blog and KQL-Tools",
-        "primaryURL": "https://m365internals.com",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Entra Mind Maps",
         "primaryURL": "https://entra.news/p/entra-mind-maps",
         "iconUrl": ""
@@ -172,11 +167,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Token Analysis Tool",
-        "primaryURL": "https://jwt.ms/",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Microsoft365DSC",
         "primaryURL": "https://microsoft365dsc.com/",
         "iconUrl": ""
@@ -239,18 +229,8 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Twitter - Microsoft 365 Status Page",
-        "primaryURL": "https://twitter.com/MSFT365Status",
-        "iconUrl": ""
-      },
-      {
         "portalName": "URL Defanger",
         "primaryURL": "https://trustifi.com/url-defang-tool/",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Valimail DMARC Monitor",
-        "primaryURL": "https://use.valimail.com/ms-dmarc-monitor.html",
         "iconUrl": ""
       },
       {

@@ -126,12 +126,6 @@
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
-        "portalName": "Microsoft Defender for Identity",
-        "primaryURL": "https://security.microsoft.com",
-        "note": "GCC",
-        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
-      },
-      {
         "portalName": "Microsoft Defender for Cloud Apps (MCAS) (MDCA)",
         "primaryURL": "https://portal.cloudappsecuritygov.com",
         "note": "GCC",
@@ -179,7 +173,7 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Power Apps",
+        "portalName": "Power Platform Admin Center",
         "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
         "note": "GCC High",
         "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
@@ -351,12 +345,6 @@
     "groupName": "US Gov - DoD",
     "portals": [
       {
-        "portalName": "Microsoft 365 Admin Portal",
-        "primaryURL": "https://portal.apps.mil",
-        "note": "DoD",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
         "portalName": "SharePoint Online Admin Center",
         "primaryURL": "https://portal.apps.mil/SharePoint",
         "secondaryURLs": [
@@ -405,18 +393,6 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Security & Compliance Center",
-        "primaryURL": "https://scc.protection.apps.mil/#/homepage",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/DoDSCC"
-          }
-        ],
-        "note": "DoD",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Power Platform Admin Center",
         "primaryURL": "https://admin.appsplatform.us",
         "secondaryURLs": [
@@ -439,18 +415,6 @@
         ],
         "note": "DoD",
         "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft 365 Defender Reports",
-        "primaryURL": "https://security.microsoft.us/reports",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/DoDSecRep"
-          }
-        ],
-        "note": "DoD",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft Intune admin center",

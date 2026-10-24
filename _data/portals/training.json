@@ -60,11 +60,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Typespec Azure API",
-        "primaryURL": "https://azure.github.io/typespec-azure/",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Microsoft Learn Credentials",
         "primaryURL": "https://learn.microsoft.com/credentials/",
         "iconUrl": ""
@@ -236,14 +231,6 @@
         "status": "active"
       },
       {
-        "portalName": "Windows Server Hybrid Administrator Associate (AZ-800/AZ-801)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/",
-        "note": "Retiring September 30, 2026. Replacement: Windows Server Administrator Associate (AZ-802).",
-        "iconUrl": "",
-        "status": "retiring",
-        "retirementDate": "2026-09-30"
-      },
-      {
         "portalName": "Windows Server Administrator Associate (AZ-802)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-administrator-associate/",
         "note": "Replacement for Windows Server Hybrid Administrator Associate (AZ-800/AZ-801).",
@@ -391,14 +378,6 @@
         "status": "active"
       },
       {
-        "portalName": "Power Platform Functional Consultant Associate (PL-200)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-functional-consultant-associate/",
-        "note": "Retiring August 31, 2026.",
-        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg",
-        "status": "retiring",
-        "retirementDate": "2026-08-31"
-      },
-      {
         "portalName": "Power Platform Developer Associate (PL-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/",
         "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg",
@@ -464,14 +443,6 @@
         "status": "active"
       },
       {
-        "portalName": "Azure Security Engineer Associate (AZ-500)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer",
-        "note": "Retiring August 31, 2026. Replacement: Cloud and AI Security Engineer Associate (SC-500).",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
-        "status": "retiring",
-        "retirementDate": "2026-08-31"
-      },
-      {
         "portalName": "Cloud and AI Security Engineer Associate (SC-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/cloud-and-ai-security-engineer-associate/",
         "note": "Replacement for Azure Security Engineer Associate (AZ-500).",
@@ -522,12 +493,6 @@
       {
         "portalName": "Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps) (MO-310)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-powerpoint-associate-m365-apps/",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
-        "status": "active"
-      },
-      {
-        "portalName": "Microsoft Office Specialist: Outlook Associate (Microsoft 365 Apps) (MO-410)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-office-specialist-associate-m365-apps/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
         "status": "active"
       },

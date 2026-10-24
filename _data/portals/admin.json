@@ -243,16 +243,6 @@
         "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
       },
       {
-        "portalName": "Yammer Admin",
-        "primaryURL": "https://www.yammer.com/office365/admin",
-        "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
-      },
-      {
-        "portalName": "Microsoft Stream Admin Center",
-        "primaryURL": "https://web.microsoftstream.com/admin",
-        "iconUrl": "https://getyako.com/ms/logos/stream/2017-2019-postive-format/microsoft-stream-256x256.png"
-      },
-      {
         "portalName": "Microsoft Edge for Business",
         "primaryURL": "https://admin.cloud.microsoft/?#/Edge",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
@@ -586,12 +576,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Office 365 Security & Compliance",
-        "primaryURL": "https://protection.office.com",
-        "note": "Deprecated",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
         "portalName": "Entra ID Error Code Lookup",
         "primaryURL": "https://login.microsoftonline.com/error",
         "iconUrl": "https://getyako.com/ms/logos/entra-id/microsoft-entra-id-filled-bw-icon.svg"
@@ -618,11 +602,6 @@
       },
       {
         "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
-        "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Reporting Issue with Bingbot",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement",
         "iconUrl": ""
       },
@@ -666,11 +645,6 @@
         "portalName": "Adaptive Cards Designer",
         "primaryURL": "https://adaptivecards.microsoft.com/designer",
         "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
-      },
-      {
-        "portalName": "Applied AI Form Recognizer Studio - Preview",
-        "primaryURL": "https://formrecognizer.appliedai.azure.com",
-        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
       },
       {
         "portalName": "Azure Data Explorer",
@@ -731,12 +705,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Graph Toolkit",
-        "primaryURL": "https://mgt.dev/",
-        "note": "Deprecated - https://devblogs.microsoft.com/microsoft365dev/microsoft-graph-toolkit-retirement/",
-        "iconUrl": "https://getyako.com/ms/logos/graph/microsoft-graph-icon-1-small.png"
-      },
-      {
         "portalName": "Visual Studio (VS) Code in the Web",
         "primaryURL": "https://www.vscode.dev/",
         "iconUrl": ""
@@ -787,6 +755,11 @@
         "portalName": "Microsoft 365 Developer Program Dashboard",
         "primaryURL": "https://developer.microsoft.com/microsoft-365/profile",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Logic Apps Automation",
+        "primaryURL": "https://auto.azure.com/",
+        "iconUrl": ""
       }
     ]
   },
@@ -804,11 +777,6 @@
           }
         ],
         "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft 365 Service health status",
-        "primaryURL": "https://portal.office.com/ServiceStatus",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft 365 Service health status (Admin portal)",
@@ -1129,11 +1097,6 @@
         "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
       },
       {
-        "portalName": "Azure Cosmos DB Query Playground",
-        "primaryURL": "https://www.documentdb.com/sql/demo",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Azure Lighthouse Blade",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
@@ -1175,11 +1138,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Group Policy Search",
-        "primaryURL": "https://gpsearch.azurewebsites.net/",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Infringement Report",
         "primaryURL": "https://msrc.microsoft.com/report/infringement",
         "iconUrl": ""
@@ -1199,11 +1157,6 @@
         "portalName": "Microsoft 365 Lighthouse",
         "primaryURL": "https://lighthouse.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
-        "portalName": "Migrate Stream (Classic) to Stream (on SharePoint)",
-        "primaryURL": "https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365-admin-center/microsoft-365-admin.png"
       },
       {
         "portalName": "Microsoft 365 Message Center Archive",
@@ -1262,13 +1215,9 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Exam Sandbox",
-        "primaryURL": "https://mscertdemo.starttest.com/",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Home Use Program",
-        "primaryURL": "https://www.microsoft.com/home-use-program",
+        "portalName": "Microsoft Workplace Discount Program",
+        "primaryURL": "https://www.microsoft.com/workplace-discount-program",
+        "note": "Formerly Home Use Program",
         "iconUrl": ""
       },
       {
@@ -1387,11 +1336,6 @@
       {
         "portalName": "Windows release health",
         "primaryURL": "https://learn.microsoft.com/windows/release-health/",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Windows Virtual Desktop Consent Page",
-        "primaryURL": "https://rdweb.wvd.microsoft.com",
         "iconUrl": ""
       },
       {

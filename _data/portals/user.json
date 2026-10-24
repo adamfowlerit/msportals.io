@@ -19,11 +19,6 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Compliance",
-        "primaryURL": "https://compliance.microsoft.com",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Designer",
         "primaryURL": "https://designer.cloud.microsoft",
         "iconUrl": "https://getyako.com/ms/logos/designer/designer-icon.png"
@@ -166,12 +161,6 @@
         "portalName": "SharePoint",
         "primaryURL": "https://www.office.com/launch/sharepoint",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
-        "portalName": "Stream (Classic)",
-        "primaryURL": "https://web.microsoftstream.com",
-        "note": "Deprecated - aka.ms/StreamClassicRetireTimeline",
-        "iconUrl": "https://getyako.com/ms/logos/stream/2017-2019-postive-format/microsoft-stream-256x256.png"
       },
       {
         "portalName": "Stream (on SharePoint)",
@@ -433,11 +422,6 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft AppSource",
-        "primaryURL": "https://store.office.com/redirect.aspx",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
         "portalName": "Microsoft Azure Information Protection - Track Documents",
         "primaryURL": "https://track.azurerms.com/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
@@ -446,11 +430,6 @@
         "portalName": "Microsoft Create - Free Templates",
         "primaryURL": "https://create.microsoft.com/",
         "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Family Safety",
-        "primaryURL": "https://account.microsoft.com/family/",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-family-safety/microsoft-family-safety-256-256x256.png"
       },
       {
         "portalName": "Microsoft Intune Web Company Portal",
@@ -574,22 +553,6 @@
       {
         "portalName": "Windows Virtual Desktop Web Client (ARM)",
         "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient",
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Windows Virtual Desktop Web Client (Old) ",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/webclient",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/wvdweb"
-          }
-        ],
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Logic Apps Automation",
-        "primaryURL": "https://auto.azure.com/",
         "iconUrl": ""
       }
     ]

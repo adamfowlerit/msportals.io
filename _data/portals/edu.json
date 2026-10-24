@@ -90,7 +90,7 @@
       },
       {
         "portalName": "Microsoft 365 Education Student Use Benefits - M365Maps.com",
-        "primaryURL": "https://www.microsoft.com/licensing/terms/product/StudentUseBenefitsandAcademicPrograms/all",
+        "primaryURL": "https://m365maps.com/files/Microsoft-365-Education-Student-Use-Benefits-All.htm",
         "secondaryURLs": [
           {
             "icon": "Simple Version",
@@ -233,11 +233,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Imagine Cup Junior In-a-Box",
-        "primaryURL": "https://imaginecup.microsoft.com/junior",
-        "iconUrl": ""
-      },
-      {
         "portalName": "Unlocked - Innovation Stories",
         "primaryURL": "https://unlocked.microsoft.com",
         "iconUrl": ""
@@ -245,7 +240,7 @@
     ]
   },
   {
-    "groupName": "Microsoft Learning/Training links for students/university/college (3rd Party)",
+    "groupName": "Microsoft Learning/Training links for students/university/college (Microsoft and 3rd Party)",
     "portals": [
       {
         "portalName": "Year 13",
@@ -270,12 +265,6 @@
         "primaryURL": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student#applying-to-github-global-campus",
         "note": "Free GitHub Training Materials",
         "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Azure for Students",
-        "primaryURL": "https://azure.microsoft.com/free/students/",
-        "note": "Free Azure Credit and Free Azure Products",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
         "portalName": "Microsoft Learn Student Ambassadors",
