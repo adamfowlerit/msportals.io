@@ -41,6 +41,18 @@
         "primaryURL": "https://web.purview.azure.us",
         "note": "",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Engage Center (Gov)",
+        "primaryURL": "https://engagecenter.microsoft.us",
+        "note": "",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Customer Voice",
+        "primaryURL": "https://customervoice.microsoft.us",
+        "note": "",
+        "iconUrl": ""
       }
     ]
   },
@@ -187,6 +199,48 @@
       {
         "portalName": "Outlook",
         "primaryURL": "https://outlook.office365.us/mail/",
+        "note": "GCC High",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Teams",
+        "primaryURL": "https://gov.teams.microsoft.us",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "Microsoft 365 home",
+        "primaryURL": "https://www.office365.us",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Loop",
+        "primaryURL": "https://loop.office365.us",
+        "note": "GCC High",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Planner",
+        "primaryURL": "https://tasks.office365.us",
+        "note": "GCC High",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Whiteboard",
+        "primaryURL": "https://whiteboard.office365.us",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/whiteboard/whiteboard-256x256.png"
+      },
+      {
+        "portalName": "Viva Insights",
+        "primaryURL": "https://insights.viva.office365.us",
+        "note": "GCC High",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Project for the web",
+        "primaryURL": "https://high.project.microsoft.us",
         "note": "GCC High",
         "iconUrl": ""
       }
@@ -397,6 +451,66 @@
         "primaryURL": "https://make.powerautomate.appsplatform.us/",
         "note": "DoD",
         "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
+      },
+      {
+        "portalName": "Exchange Admin Center",
+        "primaryURL": "https://admin.exchange.apps.mil",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
+      },
+      {
+        "portalName": "Microsoft Purview",
+        "primaryURL": "https://purview.apps.mil",
+        "note": "DoD",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Outlook",
+        "primaryURL": "https://webmail.apps.mil/mail/",
+        "note": "DoD",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Teams",
+        "primaryURL": "https://dod.teams.microsoft.us",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "Microsoft 365 home",
+        "primaryURL": "https://www.ohome.apps.mil",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Loop",
+        "primaryURL": "https://loop.apps.mil",
+        "note": "DoD",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Whiteboard",
+        "primaryURL": "https://whiteboard.apps.mil",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/whiteboard/whiteboard-256x256.png"
+      },
+      {
+        "portalName": "OneDrive admin center",
+        "primaryURL": "https://admin.od.apps.mil",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/onedrive/onedrive-512.png"
+      },
+      {
+        "portalName": "Microsoft 365 Apps admin center",
+        "primaryURL": "https://config.apps.mil",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Studio",
+        "primaryURL": "https://powerva.appsplatform.us",
+        "note": "DoD",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
       }
     ]
   }

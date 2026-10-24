@@ -31,6 +31,41 @@
         "portalName": "Security",
         "primaryURL": " https://security.microsoftonline.cn",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Teams Admin Center",
+        "primaryURL": "https://admin.teams.microsoftonline.cn",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "Exchange Admin Center",
+        "primaryURL": "https://admin.exchange.microsoftonline.cn",
+        "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
+      },
+      {
+        "portalName": "Outlook",
+        "primaryURL": "https://partner.outlook.cn/mail/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Teams",
+        "primaryURL": "https://teams.microsoftonline.cn",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "Power BI",
+        "primaryURL": "https://app.powerbi.cn",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
+      },
+      {
+        "portalName": "Power Apps",
+        "primaryURL": "https://make.powerapps.cn",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
+      },
+      {
+        "portalName": "Power Automate",
+        "primaryURL": "https://make.powerautomate.cn",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       }
     ]
   },

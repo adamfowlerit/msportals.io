@@ -267,6 +267,11 @@
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/entra-id-governance/microsoft-entra-id-governance-bw-icon.svg"
+      },
+      {
+        "portalName": "Dynamics 365 Business Central",
+        "primaryURL": "https://businesscentral.dynamics.com",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       }
     ]
   },
@@ -838,7 +843,13 @@
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
-        "primaryURL": "https://connectivity.office.com",
+        "primaryURL": "https://connectivity.m365.cloud.microsoft",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://connectivity.office.com"
+          }
+        ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
@@ -851,6 +862,11 @@
         "portalName": "Microsoft Call Quality Dashboard (Teams)",
         "primaryURL": "https://cqd.teams.microsoft.com",
         "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "Microsoft 365 Message center (Admin portal)",
+        "primaryURL": "https://admin.microsoft.com/AdminPortal/Home#/MessageCenter",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       }
     ]
   },
@@ -1292,6 +1308,11 @@
         "portalName": "Windows Virtual Desktop Consent Page",
         "primaryURL": "https://rdweb.wvd.microsoft.com",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft 365 Roadmap",
+        "primaryURL": "https://www.microsoft.com/microsoft-365/roadmap",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       }
     ]
   }

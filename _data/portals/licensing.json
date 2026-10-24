@@ -62,6 +62,16 @@
         "primaryURL": "https://www.finops.org/wg/microsoft-licensing-management-guide/",
         "note": "Third Party",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Product Terms",
+        "primaryURL": "https://www.microsoft.com/licensing/terms",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft 365 and Office 365 service descriptions",
+        "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library",
+        "iconUrl": ""
       }
     ]
   },

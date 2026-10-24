@@ -4,7 +4,13 @@
     "portals": [
       {
         "portalName": "Bookings",
-        "primaryURL": "https://outlook.office.com/bookings",
+        "primaryURL": "https://bookings.cloud.microsoft",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://outlook.office.com/bookings"
+          }
+        ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
