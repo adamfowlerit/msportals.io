@@ -43,6 +43,48 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Microsoft Foundry",
+        "primaryURL": "https://ai.azure.us",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Machine Learning Studio",
+        "primaryURL": "https://ml.azure.us",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Speech Studio",
+        "primaryURL": "https://speech.azure.us",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Custom Vision",
+        "primaryURL": "https://www.customvision.azure.us",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Data Explorer",
+        "primaryURL": "https://dataexplorer.azure.us",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Data Factory",
+        "primaryURL": "https://adf.azure.us",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Synapse Analytics",
+        "primaryURL": "https://web.azuresynapse.usgovcloudapi.net",
+        "note": "Azure Government",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
         "portalName": "Microsoft Engage Center (Gov)",
         "primaryURL": "https://engagecenter.microsoft.us",
         "note": "",
@@ -125,7 +167,7 @@
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       },
       {
-        "portalName": "Microsoft Azure Active Directory Portal",
+        "portalName": "Microsoft Entra ID (Azure portal)",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
         "note": "GCC High",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
@@ -327,7 +369,7 @@
         "iconUrl": "https://getyako.com/ms/logos/sharepoint/sharepoint-512.png"
       },
       {
-        "portalName": "Azure AD Admin Center",
+        "portalName": "Microsoft Entra ID (Azure portal)",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade",
         "secondaryURLs": [
           {
@@ -411,12 +453,16 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Endpoint Manager",
-        "primaryURL": "https://endpoint.microsoft.us",
+        "portalName": "Microsoft Intune admin center",
+        "primaryURL": "https://intune.microsoft.us",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/DoDEP"
+          },
+          {
+            "icon": "Old 🔗",
+            "url": "https://endpoint.microsoft.us"
           }
         ],
         "note": "DoD",

@@ -312,7 +312,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Create New Tenant / Azure Active Directory",
+        "portalName": "Create New Tenant / Microsoft Entra ID",
         "primaryURL": "https://account.azure.com/organization",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -411,7 +411,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Sentinel",
+        "portalName": "Microsoft Sentinel (Azure portal)",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -1039,7 +1039,7 @@
     "groupName": "Admin - Other Useful Microsoft Portals",
     "portals": [
       {
-        "portalName": "Azure Active Directory - Where is your data located?",
+        "portalName": "Microsoft Entra ID - Where is your data located?",
         "primaryURL": "https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
         "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
       },
