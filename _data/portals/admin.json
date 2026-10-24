@@ -271,7 +271,7 @@
       {
         "portalName": "Dynamics 365 Business Central",
         "primaryURL": "https://businesscentral.dynamics.com",
-        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-business-central/businesscentral-scalable.svg"
       }
     ]
   },
@@ -1051,7 +1051,7 @@
       {
         "portalName": "Microsoft Purview Suite Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2225056",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Microsoft Defender for Business Trial",
@@ -1086,22 +1086,22 @@
       {
         "portalName": "Microsoft Purview Suite for Business Premium Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2342035",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Visio Plan 1 Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=857643",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/visio/2019-current-monochromatic-positive/visio-256x256.png"
       },
       {
         "portalName": "Visio Plan 2 Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=403841",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/visio/2019-current-monochromatic-positive/visio-256x256.png"
       },
       {
         "portalName": "Copilot Studio Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2338793",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"
       },
       {
         "portalName": "Power Automate Trial",
@@ -1111,12 +1111,12 @@
       {
         "portalName": "Microsoft Fabric 60-day Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2310156",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/fabric/fabric-256.svg"
       },
       {
         "portalName": "Windows 365 Business Trial",
         "primaryURL": "https://www.microsoft.com/windows-365/business/windows-365-free-trial",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/windows-365/windows365-logo.png"
       }
     ]
   },

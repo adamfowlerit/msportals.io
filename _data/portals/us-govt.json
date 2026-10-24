@@ -46,43 +46,43 @@
         "portalName": "Microsoft Foundry",
         "primaryURL": "https://ai.azure.us",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
       },
       {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.us",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/azure-machine-learning/10166-icon-service-machine-learning.svg"
       },
       {
         "portalName": "Speech Studio",
         "primaryURL": "https://speech.azure.us",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-speech/00797-icon-service-speech-services.svg"
       },
       {
         "portalName": "Custom Vision",
         "primaryURL": "https://www.customvision.azure.us",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-custom-vision/00793-icon-service-custom-vision.svg"
       },
       {
         "portalName": "Azure Data Explorer",
         "primaryURL": "https://dataexplorer.azure.us",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/azure-data-explorer/10145-icon-service-azure-data-explorer-clusters.svg"
       },
       {
         "portalName": "Azure Data Factory",
         "primaryURL": "https://adf.azure.us",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/azure-data-factory/10126-icon-service-data-factories.svg"
       },
       {
         "portalName": "Azure Synapse Analytics",
         "primaryURL": "https://web.azuresynapse.usgovcloudapi.net",
         "note": "Azure Government",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+        "iconUrl": "https://getyako.com/ms/logos/azure-synapse-analytics/00606-icon-service-azure-synapse-analytics.svg"
       },
       {
         "portalName": "Microsoft Engage Center (Gov)",
@@ -94,7 +94,7 @@
         "portalName": "Customer Voice",
         "primaryURL": "https://customervoice.microsoft.us",
         "note": "",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-customer-voice/customervoice-scalable-fluid.svg"
       }
     ]
   },
@@ -236,13 +236,13 @@
         "portalName": "Power Pages",
         "primaryURL": "https://make.high.powerpages.microsoft.us/",
         "note": "GCC High",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/power-pages/powerpages-scalable.svg"
       },
       {
         "portalName": "Outlook",
         "primaryURL": "https://outlook.office365.us/mail/",
         "note": "GCC High",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/outlook/outlook-512.png"
       },
       {
         "portalName": "Microsoft Teams",
@@ -260,13 +260,13 @@
         "portalName": "Loop",
         "primaryURL": "https://loop.office365.us",
         "note": "GCC High",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/loop/microsoft-loop-logo-256x256---padded.png"
       },
       {
         "portalName": "Planner",
         "primaryURL": "https://tasks.office365.us",
         "note": "GCC High",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/planner/2019-2024-full-color/planner-256x256.png"
       },
       {
         "portalName": "Whiteboard",
@@ -278,7 +278,7 @@
         "portalName": "Viva Insights",
         "primaryURL": "https://insights.viva.office365.us",
         "note": "GCC High",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/viva-insights/viva-insights.svg"
       },
       {
         "portalName": "Project for the web",
@@ -337,7 +337,7 @@
         "portalName": "Power Pages",
         "primaryURL": "https://make.gov.powerpages.microsoft.us/",
         "note": "GCC Moderate",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/power-pages/powerpages-scalable.svg"
       },
       {
         "portalName": "Copilot Studio",
@@ -508,13 +508,13 @@
         "portalName": "Microsoft Purview",
         "primaryURL": "https://purview.apps.mil",
         "note": "DoD",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Outlook",
         "primaryURL": "https://webmail.apps.mil/mail/",
         "note": "DoD",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/outlook/outlook-512.png"
       },
       {
         "portalName": "Microsoft Teams",
@@ -532,7 +532,7 @@
         "portalName": "Loop",
         "primaryURL": "https://loop.apps.mil",
         "note": "DoD",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/loop/microsoft-loop-logo-256x256---padded.png"
       },
       {
         "portalName": "Whiteboard",
