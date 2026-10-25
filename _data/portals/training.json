@@ -11,63 +11,63 @@
             "url": "https://aka.ms/LearnProfile"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Applied Skills",
         "primaryURL": "https://learn.microsoft.com/credentials/browse/?credential_types=applied%20skills",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Learn Blog",
         "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Virtual Training Days",
         "primaryURL": "https://mvtd.events.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Reactor",
         "primaryURL": "https://developer.microsoft.com/reactor/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Shows",
         "primaryURL": "https://learn.microsoft.com/shows/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Learn On Demand Instructor-led Training Series",
         "primaryURL": "https://learn.microsoft.com/shows/on-demand-instructor-led-training-series/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Learn Cloud Games",
         "primaryURL": "https://learn.microsoft.com/training/cloud-games",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Technical Quest",
         "primaryURL": "https://mtq.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "ExpertZone",
         "primaryURL": "https://expertzone.microsoft.com/",
         "note": "Requires free registration",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Learn Credentials",
         "primaryURL": "https://learn.microsoft.com/credentials/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "AI Skills Navigator",
         "primaryURL": "https://aiskillsnavigator.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg"
       },
       {
         "portalName": "LinkedIn Learning",
@@ -88,12 +88,12 @@
       {
         "portalName": "Microsoft Certifications",
         "primaryURL": "https://learn.microsoft.com/credentials/browse/?credential_types=certification",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Certification Renewal",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/renew-your-microsoft-certification",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Certification Poster - Become Microsoft Certified",
@@ -104,7 +104,7 @@
             "url": "https://aka.ms/CertificationsPoster"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Applied Skills Certification Poster",
@@ -115,27 +115,27 @@
             "url": "https://aka.ms/AppliedSkillsPoster"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Practice Assessments for Microsoft Certifications",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/practice-assessments-for-microsoft-certifications",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Exam Sandbox",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2226877",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Learn Exam Readiness Zone",
         "primaryURL": "https://learn.microsoft.com/shows/exam-readiness-zone/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Certified Trainer Program",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/mct-certification",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ],
     "certificationValidation": {
@@ -200,14 +200,14 @@
       {
         "portalName": "Machine Learning Operations Engineer Associate (AI-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/operationalizing-machine-learning-and-generative-ai-solutions/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
       },
       {
         "portalName": "Multi-Agent AI Solutions Expert (AI-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/multi-agent-ai-solutions-expert/",
         "note": "Beta.",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
       },
       {
@@ -225,13 +225,13 @@
       {
         "portalName": "Azure Databricks Data Engineer Associate (DP-750)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/implementing-data-engineering-solutions-using-azure-databricks",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure-databricks/10787-icon-service-azure-databricks.svg",
         "status": "active"
       },
       {
         "portalName": "SQL AI Developer Associate (DP-800)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/developing-ai-enabled-database-solutions",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
       },
       {
@@ -250,13 +250,13 @@
         "portalName": "Windows Server Administrator Associate (AZ-802)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/windows-server-administrator-associate/",
         "note": "Replacement for Windows Server Hybrid Administrator Associate (AZ-800/AZ-801).",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png",
         "status": "active"
       },
       {
         "portalName": "DevOps Engineer Expert (AZ-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/devops-engineer",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure-devops/10261-icon-service-azure-devops.svg",
         "status": "active"
       },
       {
@@ -298,7 +298,7 @@
       {
         "portalName": "GitHub Copilot (GH-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/github-copilot/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/github-copilot/github-copilot---256x256-padded.png",
         "status": "active"
       },
       {
@@ -359,38 +359,38 @@
       {
         "portalName": "Agentic AI Business Solutions Architect (AB-100)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/agentic-ai-business-solutions-architect/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg",
         "status": "active"
       },
       {
         "portalName": "Dynamics 365 Sales AI Consultant Associate (AB-210)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-sales-ai-consultant-associate",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg",
         "status": "active"
       },
       {
         "portalName": "Dynamics 365 Contact Center AI Engineer Associate (AB-250)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-contact-center-ai-engineer-associate/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg",
         "status": "active"
       },
       {
         "portalName": "Intelligent Applications Builder Associate (AB-410)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/intelligent-applications-builder-associate/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg",
         "status": "active"
       },
       {
         "portalName": "AI Agent Builder Associate (AB-620)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-agent-builder-associate/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg",
         "status": "active"
       },
       {
         "portalName": "AI Services Administrator Associate (AB-650)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-services-administrator-associate/",
         "note": "Beta.",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
       },
       {
@@ -438,13 +438,13 @@
       {
         "portalName": "AI Business Professional (AB-730)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-business-professional",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg",
         "status": "active"
       },
       {
         "portalName": "AI Transformation Leader (AB-731)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-transformation-leader",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg",
         "status": "active"
       }
     ]
@@ -455,38 +455,38 @@
       {
         "portalName": "Security, Compliance, and Identity Fundamentals (SC-900)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
         "status": "active"
       },
       {
         "portalName": "Cloud and AI Security Engineer Associate (SC-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/cloud-and-ai-security-engineer-associate/",
         "note": "Replacement for Azure Security Engineer Associate (AZ-500).",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png",
         "status": "active"
       },
       {
         "portalName": "Cybersecurity Architect Expert (SC-100)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/cybersecurity-architect-expert",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png",
         "status": "active"
       },
       {
         "portalName": "Security Operations Analyst Associate (SC-200)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/security-operations-analyst",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png",
         "status": "active"
       },
       {
         "portalName": "Identity and Access Administrator Associate (SC-300)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/identity-and-access-administrator",
-        "iconUrl": "https://getyako.com/ms/logos/access/access-512.png",
+        "iconUrl": "https://getyako.com/ms/logos/entra-id/microsoft-entra-id-filled-bw-icon.svg",
         "status": "active"
       },
       {
         "portalName": "Information Security Administrator Associate (SC-401)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/information-security-administrator/",
-        "iconUrl": "",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg",
         "status": "active"
       }
     ]
@@ -570,7 +570,7 @@
         "portalName": "Microsoft Mechanics",
         "primaryURL": "https://www.youtube.com/@MSFTMechanics",
         "note": "Microsoft run engineering updates",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Kusto Detective Agency",
@@ -596,7 +596,7 @@
         "portalName": "Microsoft Security Community",
         "primaryURL": "https://www.youtube.com/@MicrosoftSecurityCommunity",
         "note": "Microsoft run security content",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Entra.News",

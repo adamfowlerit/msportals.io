@@ -42,7 +42,7 @@
       {
         "portalName": "Foundry Local AI",
         "primaryURL": "https://www.foundrylocal.ai/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
       },
       {
         "portalName": "Insights - Copilot Analytics",
@@ -72,7 +72,7 @@
       {
         "portalName": "Bot Framework Dev Portal",
         "primaryURL": "https://dev.botframework.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-bot-service/10165-icon-service-bot-services.svg"
       },
       {
         "portalName": "AI FInOps Estimator",
@@ -93,27 +93,27 @@
       {
         "portalName": "Cowork Credit Planning Model",
         "primaryURL": "https://nptnlopppecostweb.azurewebsites.net/#/cowork",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/copilot-cowork/copilot-cowork.png"
       },
       {
         "portalName": "Custom Translator",
         "primaryURL": "https://portal.customtranslator.azure.ai/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-translator/00800-icon-service-translator-text.svg"
       },
       {
         "portalName": "Custom Vision",
         "primaryURL": "https://www.customvision.ai/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-custom-vision/00793-icon-service-custom-vision.svg"
       },
       {
         "portalName": "Language Studio",
         "primaryURL": "https://language.azure.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-language/02876-icon-service-language.svg"
       },
       {
         "portalName": "Microsoft AI",
         "primaryURL": "https://microsoft.ai/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "MAI Playground",
@@ -128,12 +128,12 @@
       {
         "portalName": "Speech Studio",
         "primaryURL": "https://speech.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-speech/00797-icon-service-speech-services.svg"
       },
       {
         "portalName": "SharePoint Skills",
         "primaryURL": "https://pnp.github.io/sharepoint-skills/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/sharepoint/sharepoint-512.png"
       },
       {
         "portalName": "Security Copilot Calculator",
@@ -148,13 +148,13 @@
       {
         "portalName": "Video Indexer",
         "primaryURL": "https://www.videoindexer.ai/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-video-indexer/01800-icon-service-azure-video-indexer.svg"
       },
       {
         "portalName": "Content Understanding Studio",
         "primaryURL": "https://contentunderstanding.ai.azure.com",
         "note": "Successor to Document Intelligence Studio",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-services/10162-icon-service-cognitive-services.svg"
       },
       {
         "portalName": "Microsoft Foundry Labs",
@@ -164,7 +164,7 @@
       {
         "portalName": "GitHub Copilot",
         "primaryURL": "https://github.com/copilot",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/github-copilot/github-copilot---256x256-padded.png"
       }
     ]
   }

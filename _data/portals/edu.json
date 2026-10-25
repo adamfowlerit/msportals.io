@@ -5,27 +5,27 @@
       {
         "portalName": "Microsoft Education",
         "primaryURL": "https://www.microsoft.com/education",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Learn Educator Center",
         "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Education Support",
         "primaryURL": "https://support.microsoft.com/home/contact/education",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Education TechCommunity",
         "primaryURL": "https://techcommunity.microsoft.com/category/EducationSector",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Education Blog",
         "primaryURL": "https://www.microsoft.com/en-us/education/blog/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Education on X",
@@ -35,7 +35,7 @@
       {
         "portalName": "Microsoft Education on YouTube",
         "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -55,12 +55,12 @@
       {
         "portalName": "Microsoft Education Solution Guide",
         "primaryURL": "https://learn.microsoft.com/en-us/microsoft-365/education/guide/0-start/a-start",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "School Data Sync",
         "primaryURL": "https://sds.edu.cloud.microsoft/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       }
     ]
   },
@@ -76,7 +76,7 @@
       {
         "portalName": "Student Use Benefits and Academic Programs",
         "primaryURL": "https://www.microsoft.com/licensing/terms/product/StudentUseBenefitsandAcademicPrograms/all",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft 365 Education licenses - Learn",
@@ -190,7 +190,7 @@
         "portalName": "Azure Lab Services",
         "primaryURL": "https://labs.azure.com",
         "note": "Retiring 28 June 2027",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-lab-services/10265-icon-service-lab-services.svg"
       }
     ]
   },
@@ -200,7 +200,7 @@
       {
         "portalName": "Hacking STEM",
         "primaryURL": "https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Minecraft Education",
@@ -225,7 +225,7 @@
       {
         "portalName": "AI Skills for Educators",
         "primaryURL": "https://www.microsoft.com/en-us/corporate-responsibility/digital-skills/ai-skills-for-educators",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "MakeCode Arcade",
@@ -241,7 +241,7 @@
       {
         "portalName": "Unlocked - Innovation Stories",
         "primaryURL": "https://unlocked.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -264,7 +264,7 @@
         "portalName": "Microsoft Early In Profession",
         "primaryURL": "https://careers.microsoft.com/v2/global/en/students",
         "note": "Materials/Guidance for Higher Ed Graduates",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "GitHub Global Campus",
@@ -276,7 +276,7 @@
         "portalName": "Microsoft Learn Student Ambassadors",
         "primaryURL": "https://mvp.microsoft.com/studentambassadors",
         "note": "Free Training & Support for Higher Education Students",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Student Accelerator",
@@ -288,7 +288,7 @@
         "portalName": "Microsoft Learn Training",
         "primaryURL": "https://learn.microsoft.com/training/",
         "note": "Free Official Microsoft Learning Plans and Training ",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "GitHub Education",

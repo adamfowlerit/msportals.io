@@ -341,12 +341,12 @@
       {
         "portalName": "Microsoft Accessibility",
         "primaryURL": "https://www.microsoft.com/accessibility",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Translator",
         "primaryURL": "https://translator.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-ai-translator/00800-icon-service-translator-text.svg"
       }
     ]
   },
@@ -356,7 +356,7 @@
       {
         "portalName": "Additional Security Information",
         "primaryURL": "https://account.activedirectory.windowsazure.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Bing Image Creator",
@@ -366,7 +366,7 @@
       {
         "portalName": "Change Password",
         "primaryURL": "https://account.activedirectory.windowsazure.com/ChangePassword.aspx",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Converged MFA & SSPR Portal",
@@ -392,7 +392,7 @@
             "url": "https://aka.ms/remoteconnect"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Device Login - Work or School Account",
@@ -403,7 +403,7 @@
             "url": "https://aka.ms/devicelogin"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Device Login - SIP Login",
@@ -429,7 +429,7 @@
       {
         "portalName": "Microsoft Create - Free Templates",
         "primaryURL": "https://create.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Intune Web Company Portal",
@@ -478,12 +478,12 @@
             "icon": "Alt 🔗 2"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "My Groups",
         "primaryURL": "https://mygroups.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "My Groups (Distribution Groups via Exchange Admin Center)",
@@ -529,7 +529,7 @@
             "url": "https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Windows App (Windows 365)",
@@ -553,7 +553,7 @@
       {
         "portalName": "Windows Virtual Desktop Web Client (ARM)",
         "primaryURL": "https://rdweb.wvd.microsoft.com/arm/webclient",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-virtual-desktop/00327-icon-service-azure-virtual-desktop.svg"
       },
       {
         "portalName": "Remote Help (web)",

@@ -219,7 +219,7 @@
       {
         "portalName": "Phone Number Service Center",
         "primaryURL": "https://pstnsd.powerappsportals.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
       },
       {
         "portalName": "SharePoint Admin Center",
@@ -356,7 +356,7 @@
         "portalName": "Microsoft Purview",
         "primaryURL": "https://web.purview.azure.com/",
         "note": "Azure and Fabric Governance",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Azure Resource Explorer",
@@ -382,7 +382,7 @@
       {
         "portalName": "Azure Databricks account console",
         "primaryURL": "https://accounts.azuredatabricks.net",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-databricks/10787-icon-service-azure-databricks.svg"
       },
       {
         "portalName": "Azure Arc Jumpstart",
@@ -461,7 +461,7 @@
         "portalName": "Microsoft FastTrack",
         "primaryURL": "https://fasttrack.microsoft.com",
         "note": "Includes App Assure",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Engage Center",
@@ -473,27 +473,27 @@
           }
         ],
         "note": "Formerly Services Hub",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Volume Licensing eAgreements",
         "primaryURL": "https://eagreements.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Next Generation Volume Licensing",
         "primaryURL": "https://businessaccount.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Volume Licensing Service Center (VLSC)",
         "primaryURL": "https://admin.cloud.microsoft/#/subscriptions/vlnew",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft Evaluation Center",
         "primaryURL": "https://www.microsoft.com/evalcenter",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -583,17 +583,17 @@
       {
         "portalName": "Microsoft Security Intelligence",
         "primaryURL": "https://microsoft.com/wdsi",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Multi-factor authentication (MFA)",
         "primaryURL": "https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Microsoft AccountGuard",
         "primaryURL": "https://accountguard.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Entra ID Error Code Lookup",
@@ -603,43 +603,43 @@
       {
         "portalName": "Report an unsafe site (login)",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Report an unsafe site (guest)",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Submit a file for malware analysis",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/filesubmission",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Submit Vulnerability",
         "primaryURL": "https://msrc.microsoft.com/report/vulnerability",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Security Update Guide",
         "primaryURL": "https://msrc.microsoft.com/update-guide",
         "note": "Microsoft Security Response Center",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Security Store",
         "primaryURL": "https://securitystore.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       }
     ]
   },
@@ -708,7 +708,7 @@
         "portalName": "Windows Subsystem for Linux",
         "primaryURL": "https://wsl.dev/",
         "note": "WSL",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Bing Maps Portal",
@@ -738,24 +738,24 @@
       {
         "portalName": "Visual Studio (VS) Code in the Web",
         "primaryURL": "https://www.vscode.dev/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/visual-studio-code/visual-studio-code.png"
       },
       {
         "portalName": "Visual Studio (VS) Code in the Web",
         "primaryURL": "https://insiders.vscode.dev/",
         "note": "Insiders Version",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/visual-studio-code/visual-studio-code.png"
       },
       {
         "portalName": "Visual Studio (VS) Code in the Web",
         "primaryURL": "https://vscode.dev/azure",
         "note": "Visual Studio (VS) Code in the Web (Azure Cloud Shell Experience)",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/visual-studio-code/visual-studio-code.png"
       },
       {
         "portalName": "Microsoft AppSource",
         "primaryURL": "https://appsource.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Visual Studio Subscriptions",
@@ -770,7 +770,7 @@
       {
         "portalName": "Microsoft Clarity (HeatMaps & Sessions Recordings)",
         "primaryURL": "https://clarity.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Bing WebMaster Tools",
@@ -790,17 +790,17 @@
       {
         "portalName": "Logic Apps Automation",
         "primaryURL": "https://auto.azure.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-logic-apps/02631-icon-service-logic-apps.svg"
       },
       {
         "portalName": "Bicep Playground",
         "primaryURL": "https://azure.github.io/bicep/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
         "portalName": "Visual Studio Marketplace",
         "primaryURL": "https://marketplace.visualstudio.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/visual-studio/visual-studio.png"
       },
       {
         "portalName": "NuGet Gallery",
@@ -810,28 +810,28 @@
       {
         "portalName": "Microsoft Store developer registration",
         "primaryURL": "https://storedeveloper.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Quantum",
         "primaryURL": "https://quantum.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
         "portalName": "Azure Maps Samples",
         "primaryURL": "https://samples.azuremaps.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-maps/10185-icon-service-azure-maps-accounts.svg"
       },
       {
         "portalName": "Microsoft Planetary Computer",
         "primaryURL": "https://planetarycomputer.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
         "portalName": "Microsoft Dev Box developer portal",
         "primaryURL": "https://devportal.microsoft.com",
         "note": "Retiring 18 September 2028",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-dev-box/03250-icon-service-microsoft-dev-box.svg"
       }
     ]
   },
@@ -851,7 +851,7 @@
       {
         "portalName": "GitHub Copilot settings",
         "primaryURL": "https://github.com/settings/copilot",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/github-copilot/github-copilot---256x256-padded.png"
       },
       {
         "portalName": "GitHub Codespaces",
@@ -945,7 +945,7 @@
             "url": "https://status.office.com/"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft 365 Service health status (Admin portal)",
@@ -1023,22 +1023,22 @@
       {
         "portalName": "Microsoft Partner Center",
         "primaryURL": "https://partner.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Partner Resources",
         "primaryURL": "https://partner.microsoft.com/en-US/partnership/azure-for-partners",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Partner Skilling Hub",
         "primaryURL": "https://skilling-hub.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "FastTrack Partner Community Portal",
         "primaryURL": "https://fpc.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Dynamics 365 for Partners",
@@ -1048,7 +1048,7 @@
       {
         "portalName": "Modern Work for Partners",
         "primaryURL": "https://cloudpartners.transform.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Power Platform for Partners",
@@ -1058,12 +1058,12 @@
       {
         "portalName": "Microsoft Security Partners",
         "primaryURL": "https://securitypartners.transform.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Partner Led Customer Trials",
         "primaryURL": "https://trials.transform.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Einvoice",
@@ -1113,7 +1113,7 @@
       {
         "portalName": "Microsoft Purview compliance portal trials hub",
         "primaryURL": "https://compliance.microsoft.com/trialHorizontalHub?sku=ComplianceE5&ref=DocsRef",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Microsoft 365 E5 Insider Risk Management Trial",
@@ -1133,7 +1133,7 @@
       {
         "portalName": "Compliance Manager Premium Assessment Add-On Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e320704d-b7c9-4012-b6a6-0a2679790360&culture=en-us&country=US&ali=1",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Microsoft 365 E5 eDiscovery and Audit Trial",
@@ -1143,12 +1143,12 @@
       {
         "portalName": "Privacy Management - subject rights request (50) Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=1c6c565d-cae2-4648-aa92-bf52b523fdbd&ali=1",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Priva Privacy Risk Management Trial - 90-day",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e6b633e0-1b1e-4d95-b414-3ce9e8023c39",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Sign-up for Office 365 E3, 25 licenses trial, 30-day",
@@ -1294,7 +1294,7 @@
         "portalName": "Customer Digital Experiences",
         "primaryURL": "https://cdx.transform.microsoft.com",
         "note": "Previously Demos.Microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Customer Voice",
@@ -1309,7 +1309,7 @@
       {
         "portalName": "Enterprise Skills Initiative",
         "primaryURL": "https://esi.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Entra Suite - Training hub",
@@ -1319,12 +1319,12 @@
       {
         "portalName": "Feedback",
         "primaryURL": "https://feedbackportal.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Infringement Report",
         "primaryURL": "https://msrc.microsoft.com/report/infringement",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Legacy Applications (B2B Redeem Invite)",
@@ -1335,7 +1335,7 @@
             "url": "https://account.activedirectory.windowsazure.com/?tenantid={tenant_id}"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Microsoft 365 Lighthouse",
@@ -1361,27 +1361,27 @@
       {
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Assessments",
         "primaryURL": "https://learn.microsoft.com/en-gb/assessments/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Blogs",
         "primaryURL": "https://blogs.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Community",
         "primaryURL": "https://answers.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Documentation",
         "primaryURL": "https://learn.microsoft.com/docs/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Dynamics Lifecycle Services",
@@ -1391,28 +1391,28 @@
       {
         "portalName": "Microsoft Events",
         "primaryURL": "https://events.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Workplace Discount Program",
         "primaryURL": "https://www.microsoft.com/workplace-discount-program",
         "note": "Formerly Home Use Program",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Marketplace",
         "primaryURL": "https://marketplace.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft MVP",
         "primaryURL": "https://mvp.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Open Source",
         "primaryURL": "https://opensource.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Remote Connectivity Analyzer",
@@ -1423,12 +1423,12 @@
             "url": "https://aka.ms/rca"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Reseller Profile Registration Portal",
         "primaryURL": "https://reseller.microsoftcrmportals.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Security Response Center",
@@ -1439,27 +1439,27 @@
             "url": "https://aka.ms/solorigate"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Startups",
         "primaryURL": "https://www.microsoft.com/startups",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft for Startups Founders Hub",
         "primaryURL": "https://foundershub.startups.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Training",
         "primaryURL": "https://learn.microsoft.com/training/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Unlocked",
         "primaryURL": "https://unlocked.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Office 365 Anti-Spam IP Delist Portal",
@@ -1479,12 +1479,12 @@
       {
         "portalName": "PowerShell Gallery",
         "primaryURL": "https://www.powershellgallery.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/icons/azure/10825-icon-service-powershell.svg"
       },
       {
         "portalName": "Service Trust Portal",
         "primaryURL": "https://servicetrust.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Tech Community Video Hub",
@@ -1495,12 +1495,12 @@
             "url": "https://aka.ms/VideoHub"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Volume Licensing Central",
         "primaryURL": "https://vlcentral.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Windows 365 Subscription URL",
@@ -1510,7 +1510,7 @@
       {
         "portalName": "Windows release health",
         "primaryURL": "https://learn.microsoft.com/windows/release-health/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft AI at Work Roadmap",
@@ -1521,12 +1521,12 @@
       {
         "portalName": "Microsoft Update Catalog",
         "primaryURL": "https://www.catalog.update.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Lifecycle product search",
         "primaryURL": "https://learn.microsoft.com/lifecycle/products/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Azure Updates",
@@ -1537,22 +1537,22 @@
         "portalName": "Microsoft Software Download",
         "primaryURL": "https://www.microsoft.com/software-download",
         "note": "Windows ISOs and Media Creation Tool",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Q&A",
         "primaryURL": "https://learn.microsoft.com/answers/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Advertising",
         "primaryURL": "https://ads.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Bing Places for Business",
         "primaryURL": "https://www.bingplaces.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/bing/bing-256x256-padded.png"
       }
     ]
   }

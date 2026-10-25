@@ -10,25 +10,25 @@
       {
         "portalName": "Microsoft Cloud App Security Portal",
         "primaryURL": "https://portal.cloudappsecurity.us",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Online Self Service Password Reset",
         "primaryURL": "https://passwordreset.activedirectory.windowsazure.us/",
         "note": "",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "My Apps",
         "primaryURL": "https://account.activedirectory.windowsazure.us",
         "note": "",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
         "portalName": "Microsoft Purview Admin Center",
         "primaryURL": "https://purview.microsoft.us",
         "note": "",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Azure Virtual Desktop",
@@ -40,7 +40,7 @@
         "portalName": "Microsoft Purview (Azure Government data governance)",
         "primaryURL": "https://web.purview.azure.us",
         "note": "",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
         "portalName": "Microsoft Foundry",
@@ -88,7 +88,7 @@
         "portalName": "Microsoft Engage Center (Gov)",
         "primaryURL": "https://engagecenter.microsoft.us",
         "note": "",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Customer Voice",
@@ -170,7 +170,7 @@
         "portalName": "Security",
         "primaryURL": "https://security.microsoft.us",
         "note": "GCC High",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Power Platform Admin Center",
@@ -337,7 +337,7 @@
         "portalName": "Copilot Studio",
         "primaryURL": "https://gcc.powerva.microsoft.us",
         "note": "GCC Moderate",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"
       }
     ]
   },
@@ -414,7 +414,7 @@
           }
         ],
         "note": "DoD",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Microsoft Intune admin center",
@@ -430,7 +430,7 @@
           }
         ],
         "note": "DoD",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
         "portalName": "Azure Admin Portal",

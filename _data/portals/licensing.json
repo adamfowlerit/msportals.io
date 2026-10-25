@@ -39,12 +39,12 @@
       {
         "portalName": "Licensing Resources and Documents - Product Terms",
         "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Product names and service plan identifiers for licensing (SKU List)",
         "primaryURL": "https://learn.microsoft.com/entra/identity/users/licensing-service-plan-reference",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft 365 Admin Center - Licensing",
@@ -66,12 +66,12 @@
       {
         "portalName": "Microsoft Product Terms",
         "primaryURL": "https://www.microsoft.com/licensing/terms",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Microsoft 365 and Office 365 service descriptions",
         "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       }
     ]
   },
@@ -121,7 +121,7 @@
       {
         "portalName": "Microsoft Project Plans and Pricing",
         "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/project/2019-2026-full-color/project-256x256.png"
       },
       {
         "portalName": "Microsoft Visio Plans and Pricing",
