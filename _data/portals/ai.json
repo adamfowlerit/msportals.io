@@ -165,6 +165,11 @@
         "portalName": "GitHub Copilot",
         "primaryURL": "https://github.com/copilot",
         "iconUrl": "https://getyako.com/ms/logos/github-copilot/github-copilot---256x256-padded.png"
+      },
+      {
+        "portalName": "GitHub Models",
+        "primaryURL": "https://github.com/marketplace?type=models",
+        "iconUrl": ""
       }
     ]
   }

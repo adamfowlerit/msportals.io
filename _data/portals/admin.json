@@ -846,6 +846,12 @@
       {
         "portalName": "GitHub Organization settings",
         "primaryURL": "https://github.com/settings/organizations",
+        "secondaryURLs": [
+          {
+            "icon": "Enterprise",
+            "url": "https://github.com/enterprises/{enterprise}"
+          }
+        ],
         "iconUrl": ""
       },
       {
@@ -898,6 +904,88 @@
         "portalName": "npm",
         "primaryURL": "https://www.npmjs.com",
         "note": "JavaScript package registry (GitHub)",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Personal access tokens",
+        "primaryURL": "https://github.com/settings/personal-access-tokens",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Developer settings",
+        "primaryURL": "https://github.com/settings/developers",
+        "note": "OAuth apps and GitHub Apps",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Installed apps",
+        "primaryURL": "https://github.com/settings/installations",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Security log",
+        "primaryURL": "https://github.com/settings/security-log",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Billing",
+        "primaryURL": "https://github.com/settings/billing/summary",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Copilot coding agent",
+        "primaryURL": "https://github.com/copilot/agents",
+        "iconUrl": "https://getyako.com/ms/logos/github-copilot/github-copilot.png"
+      },
+      {
+        "portalName": "GitHub Gist",
+        "primaryURL": "https://gist.github.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub CLI",
+        "primaryURL": "https://cli.github.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub REST API docs",
+        "primaryURL": "https://docs.github.com/rest",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Enterprise Server releases",
+        "primaryURL": "https://enterprise.github.com/releases",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Community discussions",
+        "primaryURL": "https://github.com/orgs/community/discussions",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Next",
+        "primaryURL": "https://githubnext.com",
+        "note": "GitHub research and prototypes",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Trust Center",
+        "primaryURL": "https://github.com/trust-center",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Copilot Trust Center",
+        "primaryURL": "https://copilot.github.trust.page",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Security Lab",
+        "primaryURL": "https://securitylab.github.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Bug Bounty",
+        "primaryURL": "https://bounty.github.com",
         "iconUrl": ""
       }
     ]
@@ -1014,6 +1102,17 @@
         "portalName": "GitHub Status",
         "primaryURL": "https://www.githubstatus.com",
         "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Enterprise Cloud EU Status",
+        "primaryURL": "https://eu.githubstatus.com",
+        "note": "Data residency (EU)",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "npm Status",
+        "primaryURL": "https://status.npmjs.org",
+        "iconUrl": ""
       }
     ]
   },
@@ -1074,6 +1173,11 @@
         "portalName": "SupplierWeb",
         "primaryURL": "https://supplier.microsoft.com/",
         "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Partner Program",
+        "primaryURL": "https://github.com/partners",
+        "iconUrl": ""
       }
     ]
   },
@@ -1081,143 +1185,149 @@
     "groupName": "Admin - Microsoft Trials",
     "portals": [
       {
-        "portalName": "Microsoft Defender for Office 365 (Plan 2) 90 Day, Full Tenant Trial",
+        "portalName": "Defender for Office 365 P2 Trial (90 days)",
         "primaryURL": "https://signup.microsoft.com/signup/logout?OfferId=20298c4d-d500-47fa-b3cd-a3f7d75d9253",
+        "note": "Full tenant",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft Defender for Endpoint P2 Trial - 3-month",
+        "portalName": "Defender for Endpoint P2 Trial (3 months)",
         "primaryURL": "https://signup.microsoft.com/create-account/signup?products=7f379fee-c4f9-4278-b0a1-e4c8c2fcdf7e&ru=https://aka.ms/MDEp2OpenTrial",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Defender Suite (formerly Microsoft 365 E5 Security) Trial - 1-month",
+        "portalName": "Defender Suite Trial (1 month)",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=b73fce33-ac89-4175-b199-0173b4c74b1f&ali=1",
+        "note": "Formerly Microsoft 365 E5 Security",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft Defender for Identity Trial - 3-month",
+        "portalName": "Defender for Identity Trial (3 months)",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=a0db242a-96d7-4f99-bd52-05c0d5556257&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "App governance add-on to Microsoft Defender for Cloud Apps Trial - 90-day",
+        "portalName": "Defender for Cloud Apps App Governance Trial (90 days)",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=a52e9277-0d85-4480-8cae-a84bc2ab32ae&culture=en-us&country=US&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft 365 Defender portal trials hub",
+        "portalName": "Defender portal trials hub",
         "primaryURL": "https://security.microsoft.com/trialHorizontalHub?sku=MDO&ref=DocsRef",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Purview compliance portal trials hub",
+        "portalName": "Purview trials hub",
         "primaryURL": "https://compliance.microsoft.com/trialHorizontalHub?sku=ComplianceE5&ref=DocsRef",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
-        "portalName": "Microsoft 365 E5 Insider Risk Management Trial",
+        "portalName": "E5 Insider Risk Management Trial",
         "primaryURL": "https://signup.microsoft.com/signup?OfferId=7B74C69A-2BFC-41C9-AAF1-23070354622D",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft 365 E5 Information Protection and Governance Trial",
+        "portalName": "E5 Information Protection & Governance Trial",
         "primaryURL": "https://signup.microsoft.com/signup?OfferId=503D4D1D-0169-4E1F-AE26-DB041C54C5C4",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft 365 E5 Compliance Trial",
+        "portalName": "E5 Compliance Trial",
         "primaryURL": "https://signup.microsoft.com/Signup?OfferId=d53d8416-fd1f-4552-831c-b5828ef2cbde&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Compliance Manager Premium Assessment Add-On Trial - 90-day",
+        "portalName": "Compliance Manager Premium Assessments Trial (90 days)",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e320704d-b7c9-4012-b6a6-0a2679790360&culture=en-us&country=US&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
-        "portalName": "Microsoft 365 E5 eDiscovery and Audit Trial",
+        "portalName": "E5 eDiscovery & Audit Trial",
         "primaryURL": "https://signup.microsoft.com/signup?OfferId=c6ca396f-4467-4761-95f6-b6d9a5386716",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Privacy Management - subject rights request (50) Trial - 90-day",
+        "portalName": "Priva Subject Rights Requests Trial (90 days)",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=1c6c565d-cae2-4648-aa92-bf52b523fdbd&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
-        "portalName": "Priva Privacy Risk Management Trial - 90-day",
+        "portalName": "Priva Privacy Risk Management Trial (90 days)",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e6b633e0-1b1e-4d95-b414-3ce9e8023c39",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
-        "portalName": "Sign-up for Office 365 E3, 25 licenses trial, 30-day",
+        "portalName": "Office 365 E3 Trial (30 days)",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4&dl=ENTERPRISEPACK&ali=1&products=cfq7ttc0k59j%3a0009&bac=1",
+        "note": "25 licenses",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft 365 Business Premium Trial, 1 Month",
+        "portalName": "Microsoft 365 Business Premium Trial (1 month)",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&culture=en-in&country=in&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Sign-up for Azure $200 US Credits in 3 months, 12 months free services trial",
+        "portalName": "Azure Free Account",
         "primaryURL": "https://azure.microsoft.com/en-us/offers/ms-azr-0044p/",
+        "note": "US$200 credit plus 12 months of free services",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Sign-up for Dynamics 365 for 30 days trial",
+        "portalName": "Dynamics 365 Trials (30 days)",
         "primaryURL": "https://trials.dynamics.com",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       },
       {
-        "portalName": "Sign-up for Microsoft 365 Developer Program trial",
+        "portalName": "Microsoft 365 Developer Program",
         "primaryURL": "https://developer.microsoft.com/en-us/microsoft-365/dev-program",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Sign-up for Intune, 1-month trial",
+        "portalName": "Intune Trial (1 month)",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2019088",
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
-        "portalName": "Microsoft Entra ID P1/P2 Trial",
+        "portalName": "Entra ID P1/P2 Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2254103",
         "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
-        "portalName": "Microsoft Entra Suite Trial",
+        "portalName": "Entra Suite Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2354222",
         "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
-        "portalName": "Microsoft Intune Suite Trial",
+        "portalName": "Intune Suite Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2256784",
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
-        "portalName": "Microsoft Purview Suite Trial",
+        "portalName": "Purview Suite Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2225056",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
-        "portalName": "Microsoft Defender for Business Trial",
+        "portalName": "Defender for Business Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2188209",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Defender for Cloud Apps (SaaS Security) Trial",
+        "portalName": "Defender for Cloud Apps Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2251929",
+        "note": "SaaS Security",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Defender Vulnerability Management Trial (standalone)",
+        "portalName": "Defender Vulnerability Management Trial",
         "primaryURL": "https://aka.ms/MdvmStandaloneStartTrial",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Defender Vulnerability Management Add-on Trial (for MDE P2)",
+        "portalName": "Defender Vulnerability Management Add-on Trial",
         "primaryURL": "https://aka.ms/MdvmAddonStartTrial",
+        "note": "For Defender for Endpoint P2",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
@@ -1226,12 +1336,12 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft Defender Suite for Business Premium Trial",
+        "portalName": "Defender Suite for Business Premium Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2342037",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
-        "portalName": "Microsoft Purview Suite for Business Premium Trial",
+        "portalName": "Purview Suite for Business Premium Trial",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2342035",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
@@ -1256,7 +1366,7 @@
         "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       },
       {
-        "portalName": "Microsoft Fabric 60-day Trial",
+        "portalName": "Fabric Trial (60 days)",
         "primaryURL": "https://go.microsoft.com/fwlink/?linkid=2310156",
         "iconUrl": "https://getyako.com/ms/logos/fabric/fabric-256.svg"
       },
