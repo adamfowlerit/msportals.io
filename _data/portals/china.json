@@ -3,67 +3,67 @@
     "groupName": "Microsoft 365 China Links",
     "portals": [
       {
-        "portalName": "Microsoft 365 Admin",
+        "portalName": "Microsoft 365 Admin (China)",
         "primaryURL": "https://portal.partner.microsoftonline.cn/AdminPortal",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Microsoft 365 End User ",
+        "portalName": "Microsoft 365 End User (China)",
         "primaryURL": "https://microsoft365.microsoftonline.cn",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
-        "portalName": "Entra",
+        "portalName": "Entra (China)",
         "primaryURL": "https://entra.microsoftonline.cn",
         "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       },
       {
-        "portalName": "Intune",
+        "portalName": "Intune (China)",
         "primaryURL": "https://intune.microsoftonline.cn",
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
       },
       {
-        "portalName": "Purview",
+        "portalName": "Purview (China)",
         "primaryURL": "https://purview.microsoftonline.cn",
         "iconUrl": ""
       },
       {
-        "portalName": "Security",
+        "portalName": "Security (China)",
         "primaryURL": "https://security.microsoftonline.cn",
         "iconUrl": ""
       },
       {
-        "portalName": "Teams Admin Center",
+        "portalName": "Teams Admin Center (China)",
         "primaryURL": "https://admin.teams.microsoftonline.cn",
         "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
       },
       {
-        "portalName": "Exchange Admin Center",
+        "portalName": "Exchange Admin Center (China)",
         "primaryURL": "https://admin.exchange.microsoftonline.cn",
         "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
       },
       {
-        "portalName": "Outlook",
+        "portalName": "Outlook (China)",
         "primaryURL": "https://partner.outlook.cn/mail/",
         "iconUrl": "https://getyako.com/ms/logos/outlook/outlook-512.png"
       },
       {
-        "portalName": "Teams",
+        "portalName": "Teams (China)",
         "primaryURL": "https://teams.microsoftonline.cn",
         "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
       },
       {
-        "portalName": "Power BI",
+        "portalName": "Power BI (China)",
         "primaryURL": "https://app.powerbi.cn",
         "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
       },
       {
-        "portalName": "Power Apps",
+        "portalName": "Power Apps (China)",
         "primaryURL": "https://make.powerapps.cn",
         "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
       },
       {
-        "portalName": "Power Automate",
+        "portalName": "Power Automate (China)",
         "primaryURL": "https://make.powerautomate.cn",
         "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       }
@@ -73,7 +73,7 @@
     "groupName": "Azure China Links",
     "portals": [
       {
-        "portalName": "Azure",
+        "portalName": "Azure (China)",
         "primaryURL": "https://portal.azure.cn",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       }
