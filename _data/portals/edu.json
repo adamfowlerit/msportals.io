@@ -185,6 +185,12 @@
         "portalName": "Azure Sponsorships",
         "primaryURL": "https://www.microsoftazuresponsorships.com/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Lab Services",
+        "primaryURL": "https://labs.azure.com",
+        "note": "Retiring 28 June 2027",
+        "iconUrl": ""
       }
     ]
   },
@@ -282,6 +288,11 @@
         "portalName": "Microsoft Learn Training",
         "primaryURL": "https://learn.microsoft.com/training/",
         "note": "Free Official Microsoft Learning Plans and Training ",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Education",
+        "primaryURL": "https://github.com/education",
         "iconUrl": ""
       }
     ]

@@ -160,6 +160,11 @@
         "portalName": "Microsoft Foundry Labs",
         "primaryURL": "https://labs.ai.azure.com",
         "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
+      },
+      {
+        "portalName": "GitHub Copilot",
+        "primaryURL": "https://github.com/copilot",
+        "iconUrl": ""
       }
     ]
   }

@@ -811,6 +811,124 @@
         "portalName": "Microsoft Store developer registration",
         "primaryURL": "https://storedeveloper.microsoft.com",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Quantum",
+        "primaryURL": "https://quantum.microsoft.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Azure Maps Samples",
+        "primaryURL": "https://samples.azuremaps.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Planetary Computer",
+        "primaryURL": "https://planetarycomputer.microsoft.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Dev Box developer portal",
+        "primaryURL": "https://devportal.microsoft.com",
+        "note": "Retiring 18 September 2028",
+        "iconUrl": ""
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - GitHub Portals",
+    "portals": [
+      {
+        "portalName": "GitHub",
+        "primaryURL": "https://github.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Organization settings",
+        "primaryURL": "https://github.com/settings/organizations",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Copilot settings",
+        "primaryURL": "https://github.com/settings/copilot",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Codespaces",
+        "primaryURL": "https://github.com/codespaces",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "github.dev",
+        "primaryURL": "https://github.dev",
+        "note": "VS Code in the browser for GitHub repos",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Marketplace",
+        "primaryURL": "https://github.com/marketplace",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Advisory Database",
+        "primaryURL": "https://github.com/advisories",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Docs",
+        "primaryURL": "https://docs.github.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Support",
+        "primaryURL": "https://support.github.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Changelog",
+        "primaryURL": "https://github.blog/changelog/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Public Roadmap",
+        "primaryURL": "https://github.com/orgs/github/projects/4247",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "npm",
+        "primaryURL": "https://www.npmjs.com",
+        "note": "JavaScript package registry (GitHub)",
+        "iconUrl": ""
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - LinkedIn Portals",
+    "portals": [
+      {
+        "portalName": "LinkedIn Learning Admin",
+        "primaryURL": "https://www.linkedin.com/learning-admin/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "LinkedIn Campaign Manager",
+        "primaryURL": "https://www.linkedin.com/campaignmanager/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "LinkedIn Sales Navigator",
+        "primaryURL": "https://www.linkedin.com/sales/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "LinkedIn Developer Portal",
+        "primaryURL": "https://developer.linkedin.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "LinkedIn Help",
+        "primaryURL": "https://www.linkedin.com/help/linkedin",
+        "iconUrl": ""
       }
     ]
   },
@@ -1146,6 +1264,11 @@
         "portalName": "Windows 365 Business Trial",
         "primaryURL": "https://www.microsoft.com/windows-365/business/windows-365-free-trial",
         "iconUrl": "https://getyako.com/ms/logos/windows-365/windows365-logo.png"
+      },
+      {
+        "portalName": "GitHub Enterprise Trial",
+        "primaryURL": "https://github.com/enterprise/trial",
+        "iconUrl": ""
       }
     ]
   },
@@ -1419,6 +1542,16 @@
       {
         "portalName": "Microsoft Q&A",
         "primaryURL": "https://learn.microsoft.com/answers/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Advertising",
+        "primaryURL": "https://ads.microsoft.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Bing Places for Business",
+        "primaryURL": "https://www.bingplaces.com",
         "iconUrl": ""
       }
     ]

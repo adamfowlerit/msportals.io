@@ -112,6 +112,12 @@
         "portalName": "Defender for Web",
         "primaryURL": "https://mydefender.microsoft.com",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Microsoft 365 Setup",
+        "primaryURL": "https://setup.microsoft365.com",
+        "note": "Get started with a Microsoft 365 subscription",
+        "iconUrl": ""
       }
     ]
   },

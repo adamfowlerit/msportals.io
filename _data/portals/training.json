@@ -68,6 +68,17 @@
         "portalName": "AI Skills Navigator",
         "primaryURL": "https://aiskillsnavigator.microsoft.com",
         "iconUrl": ""
+      },
+      {
+        "portalName": "LinkedIn Learning",
+        "primaryURL": "https://www.linkedin.com/learning/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "GitHub Learn",
+        "primaryURL": "https://learn.github.com",
+        "note": "Includes GitHub certifications",
+        "iconUrl": ""
       }
     ]
   },
