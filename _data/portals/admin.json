@@ -891,6 +891,11 @@
         "portalName": "Microsoft Fabric service status",
         "primaryURL": "https://support.fabric.microsoft.com/support",
         "iconUrl": "https://getyako.com/ms/logos/fabric/fabric-256.svg"
+      },
+      {
+        "portalName": "GitHub Status",
+        "primaryURL": "https://www.githubstatus.com",
+        "iconUrl": ""
       }
     ]
   },

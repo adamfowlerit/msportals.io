@@ -63,6 +63,11 @@
         "portalName": "Microsoft Learn Credentials",
         "primaryURL": "https://learn.microsoft.com/credentials/",
         "iconUrl": ""
+      },
+      {
+        "portalName": "AI Skills Navigator",
+        "primaryURL": "https://aiskillsnavigator.microsoft.com",
+        "iconUrl": ""
       }
     ]
   },

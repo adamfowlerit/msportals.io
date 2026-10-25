@@ -98,6 +98,12 @@
         "iconUrl": ""
       },
       {
+        "portalName": "DAX Formatter",
+        "primaryURL": "https://www.daxformatter.com/",
+        "note": "SQLBI",
+        "iconUrl": ""
+      },
+      {
         "portalName": "DAX Guide",
         "primaryURL": "https://dax.guide/",
         "note": "SQLBI",
@@ -149,6 +155,12 @@
         "iconUrl": ""
       },
       {
+        "portalName": "GetCurrent",
+        "primaryURL": "https://updates.getcurrent.cloud",
+        "note": "Message center, roadmaps and What's New in one view. Free Community plan; requires tenant consent",
+        "iconUrl": ""
+      },
+      {
         "portalName": "GPORais - Group Policy search and registry exports",
         "primaryURL": "https://gporais.com/en-us/",
         "iconUrl": ""
@@ -162,6 +174,12 @@
       {
         "portalName": "Group Policy Search",
         "primaryURL": "https://gpsearch.azurewebsites.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Intune Changelog",
+        "primaryURL": "https://www.intunechangelog.com/",
+        "note": "Ugur Koc. Requires tenant sign-in",
         "iconUrl": ""
       },
       {
@@ -184,6 +202,12 @@
         "portalName": "IntuneDiff",
         "primaryURL": "https://intunediff.com/",
         "note": "Sandy Zeng",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "IntuneGet",
+        "primaryURL": "https://www.intuneget.com/",
+        "note": "Ugur Koc. Deploy Winget apps to Intune; requires tenant consent",
         "iconUrl": ""
       },
       {
