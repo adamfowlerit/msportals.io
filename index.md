@@ -12,7 +12,7 @@ Welcome to this community driven project to list all of Microsoft's portals (and
 {% include portal.html portal="licensing" %}
 {% include portal.html portal="us-govt" %}
 {% include portal.html portal="china" %}
-{% include portal.html portal="thirdparty" %}
 {% include portal.html portal="training" %}
 {% include portal.html portal="consumer" %}
+{% include portal.html portal="thirdparty" %}
 The ![aka.ms button](.\images\akamsicon.png) icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
