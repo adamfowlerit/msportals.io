@@ -28,6 +28,12 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Apple MDM & DDM Policy Explorer",
+        "primaryURL": "https://appledevicepolicy.tools/policy-explorer",
+        "note": "Neil Johnson",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Apple School Manager",
         "primaryURL": "https://school.apple.com",
         "iconUrl": ""
@@ -58,8 +64,32 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Azure Speed Test",
+        "primaryURL": "https://www.azurespeed.com/",
+        "note": "Latency to each Azure region",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "CA Simulator",
+        "primaryURL": "https://ca.haakonwibe.com/",
+        "note": "Haakon Wibe",
+        "iconUrl": ""
+      },
+      {
         "portalName": "ChangeWindows",
         "primaryURL": "https://changewindows.org/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "CMTrace.dev",
+        "primaryURL": "https://cmtrace.dev/",
+        "note": "CMTrace log viewer in the browser",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Conditional Access Blueprint",
+        "primaryURL": "https://www.jbaes.be/Conditional-Access-Blueprint",
+        "note": "Jasper Baes",
         "iconUrl": ""
       },
       {
@@ -68,8 +98,32 @@
         "iconUrl": ""
       },
       {
+        "portalName": "DAX Guide",
+        "primaryURL": "https://dax.guide/",
+        "note": "SQLBI",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Endpoint Registry Studio",
+        "primaryURL": "https://registry.modernendpoint.de/",
+        "note": "Intune registry remediation script builder",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Entra Mind Maps",
         "primaryURL": "https://entra.news/p/entra-mind-maps",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Entra Sign-in URL Builder",
+        "primaryURL": "https://signin.merill.net/",
+        "note": "Merill Fernando",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "EntraScopes",
+        "primaryURL": "https://entrascopes.com/",
+        "note": "First-party Entra application explorer",
         "iconUrl": ""
       },
       {
@@ -100,8 +154,36 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Graph Permissions Explorer",
+        "primaryURL": "https://graphpermissions.merill.net/",
+        "note": "Merill Fernando",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Group Policy Search",
         "primaryURL": "https://gpsearch.azurewebsites.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Intune dsregcmd Analyzer",
+        "primaryURL": "https://www.intunediag.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Intune EAM App Catalog",
+        "primaryURL": "https://eam.drung.dev/",
+        "note": "Enterprise App Management catalog search",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Intune Settings Catalog Viewer",
+        "primaryURL": "https://intunesettings.app/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "IntuneDiff",
+        "primaryURL": "https://intunediff.com/",
+        "note": "Sandy Zeng",
         "iconUrl": ""
       },
       {
@@ -110,8 +192,20 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Kiosk Overseer",
+        "primaryURL": "https://kioskoverseer.com/",
+        "note": "Windows kiosk (Assigned Access) builder",
+        "iconUrl": ""
+      },
+      {
         "portalName": "KQL Search",
         "primaryURL": "https://www.kqlsearch.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "MacPPPC",
+        "primaryURL": "https://macpppc.com",
+        "note": "macOS PPPC profile builder",
         "iconUrl": ""
       },
       {
@@ -172,6 +266,12 @@
         "iconUrl": ""
       },
       {
+        "portalName": "MSIinfo",
+        "primaryURL": "https://www.msiinfo.com",
+        "note": "MSI property viewer",
+        "iconUrl": ""
+      },
+      {
         "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
         "primaryURL": "https://msshells.net/",
         "secondaryURLs": [
@@ -199,8 +299,26 @@
         "iconUrl": ""
       },
       {
+        "portalName": "Office 365 Roadmap Watch",
+        "primaryURL": "https://www.roadmapwatch.com/",
+        "note": "Tracks every change to the Microsoft 365 roadmap",
+        "iconUrl": ""
+      },
+      {
         "portalName": "Online link generator for Microsoft Store",
         "primaryURL": "https://store.rg-adguard.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Permissions Helper",
+        "primaryURL": "https://permissions.factorlabs.pl/",
+        "note": "Graph and Azure RBAC permission picker",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "REG2PS",
+        "primaryURL": "https://reg2ps.azurewebsites.net/",
+        "note": ".reg to PowerShell converter",
         "iconUrl": ""
       },
       {
@@ -241,6 +359,12 @@
       {
         "portalName": "Where's My Tenant ?",
         "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "winstall",
+        "primaryURL": "https://winstall.app/",
+        "note": "Winget package browser and script builder",
         "iconUrl": ""
       }
     ]

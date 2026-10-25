@@ -149,6 +149,17 @@
         "portalName": "Video Indexer",
         "primaryURL": "https://www.videoindexer.ai/",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Content Understanding Studio",
+        "primaryURL": "https://contentunderstanding.ai.azure.com",
+        "note": "Successor to Document Intelligence Studio",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Foundry Labs",
+        "primaryURL": "https://labs.ai.azure.com",
+        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
       }
     ]
   }

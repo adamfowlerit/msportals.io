@@ -32,6 +32,11 @@
         "portalName": "Microsoft Store",
         "primaryURL": "https://microsoft.com/store",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Store (apps and games)",
+        "primaryURL": "https://apps.microsoft.com",
+        "iconUrl": ""
       }
     ]
   },
@@ -86,6 +91,11 @@
       {
         "portalName": "Microsoft Account - Address Book",
         "primaryURL": "https://account.microsoft.com/billing/addresses",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Account - BitLocker recovery key",
+        "primaryURL": "https://account.microsoft.com/devices/recoverykey",
         "iconUrl": ""
       }
     ]

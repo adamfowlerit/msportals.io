@@ -262,6 +262,11 @@
         "portalName": "Dynamics 365 Business Central",
         "primaryURL": "https://businesscentral.dynamics.com",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365-business-central/businesscentral-scalable.svg"
+      },
+      {
+        "portalName": "Dynamics 365 Customer Insights - Data",
+        "primaryURL": "https://home.ci.ai.dynamics.com",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       }
     ]
   },
@@ -373,6 +378,16 @@
         "portalName": "Typespec Azure API playground (Explorer)",
         "primaryURL": "https://azure.github.io/typespec-azure/playground",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Databricks account console",
+        "primaryURL": "https://accounts.azuredatabricks.net",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Azure Arc Jumpstart",
+        "primaryURL": "https://jumpstart.azure.com",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       }
     ]
   },
@@ -473,6 +488,11 @@
       {
         "portalName": "Volume Licensing Service Center (VLSC)",
         "primaryURL": "https://admin.cloud.microsoft/#/subscriptions/vlnew",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Evaluation Center",
+        "primaryURL": "https://www.microsoft.com/evalcenter",
         "iconUrl": ""
       }
     ]
@@ -608,6 +628,17 @@
       {
         "portalName": "Submit Abuse Report (CERT)",
         "primaryURL": "https://msrc.microsoft.com/report/abuse",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Security Update Guide",
+        "primaryURL": "https://msrc.microsoft.com/update-guide",
+        "note": "Microsoft Security Response Center",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Security Store",
+        "primaryURL": "https://securitystore.microsoft.com",
         "iconUrl": ""
       }
     ]
@@ -760,6 +791,26 @@
         "portalName": "Logic Apps Automation",
         "primaryURL": "https://auto.azure.com/",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Bicep Playground",
+        "primaryURL": "https://azure.github.io/bicep/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Visual Studio Marketplace",
+        "primaryURL": "https://marketplace.visualstudio.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "NuGet Gallery",
+        "primaryURL": "https://www.nuget.org",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Store developer registration",
+        "primaryURL": "https://storedeveloper.microsoft.com",
+        "iconUrl": ""
       }
     ]
   },
@@ -835,6 +886,11 @@
         "portalName": "Microsoft 365 Message center (Admin portal)",
         "primaryURL": "https://admin.microsoft.com/AdminPortal/Home#/MessageCenter",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Fabric service status",
+        "primaryURL": "https://support.fabric.microsoft.com/support",
+        "iconUrl": "https://getyako.com/ms/logos/fabric/fabric-256.svg"
       }
     ]
   },
@@ -1200,11 +1256,6 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft Dynamics 365 and Power Platform Roadmap",
-        "primaryURL": "https://experience.dynamics.com/releaseplans/",
-        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
-      },
-      {
         "portalName": "Microsoft Dynamics Lifecycle Services",
         "primaryURL": "https://lcs.dynamics.com",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
@@ -1260,11 +1311,6 @@
             "url": "https://aka.ms/solorigate"
           }
         ],
-        "iconUrl": ""
-      },
-      {
-        "portalName": "Microsoft Setup",
-        "primaryURL": "https://setup.cloud.microsoft/",
         "iconUrl": ""
       },
       {
@@ -1339,9 +1385,36 @@
         "iconUrl": ""
       },
       {
-        "portalName": "Microsoft 365 Roadmap",
+        "portalName": "Microsoft AI at Work Roadmap",
         "primaryURL": "https://www.microsoft.com/microsoft-365/roadmap",
+        "note": "Formerly Microsoft 365 Roadmap",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Update Catalog",
+        "primaryURL": "https://www.catalog.update.microsoft.com",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Lifecycle product search",
+        "primaryURL": "https://learn.microsoft.com/lifecycle/products/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Azure Updates",
+        "primaryURL": "https://azure.microsoft.com/updates",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Microsoft Software Download",
+        "primaryURL": "https://www.microsoft.com/software-download",
+        "note": "Windows ISOs and Media Creation Tool",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Q&A",
+        "primaryURL": "https://learn.microsoft.com/answers/",
+        "iconUrl": ""
       }
     ]
   }
