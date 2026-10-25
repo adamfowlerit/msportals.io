@@ -175,7 +175,7 @@
       },
       {
         "portalName": "Power BI Data Analyst Associate (PL-300)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/data-analyst-associate/",
         "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg",
         "status": "active"
       },
@@ -206,7 +206,6 @@
       {
         "portalName": "Multi-Agent AI Solutions Expert (AI-500)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/multi-agent-ai-solutions-expert/",
-        "note": "Beta.",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
       },
@@ -260,6 +259,13 @@
         "status": "active"
       },
       {
+        "portalName": "Agentic DevOps Engineer Expert (AZ-401)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/agentic-devops-engineer-expert/",
+        "note": "Beta.",
+        "iconUrl": "https://getyako.com/ms/logos/azure-devops/10261-icon-service-azure-devops.svg",
+        "status": "active"
+      },
+      {
         "portalName": "Azure for SAP Workloads Specialty (AZ-120)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
@@ -272,7 +278,7 @@
         "status": "active"
       },
       {
-        "portalName": "Azure Cosmos DB Developer Specialty (DP-420)",
+        "portalName": "Azure Cosmos DB AI Developer Associate (DP-420)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
@@ -312,6 +318,13 @@
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/agentic-ai-developer/",
         "iconUrl": "",
         "status": "active"
+      },
+      {
+        "portalName": "GitHub Agentic AI Business Professional (GH-700)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/agentic-ai-business-professional/",
+        "note": "Beta.",
+        "iconUrl": "",
+        "status": "active"
       }
     ]
   },
@@ -332,17 +345,17 @@
       },
       {
         "portalName": "Endpoint Administrator Associate (MD-102)",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/modern-desktop/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
         "status": "active"
       },
       {
         "portalName": "Administrator Expert (MS-102)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/m365-administrator-expert",
-        "note": "Retiring October 31, 2026.",
+        "note": "Retiring November 30, 2026.",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
         "status": "retiring",
-        "retirementDate": "2026-10-31"
+        "retirementDate": "2026-11-30"
       },
       {
         "portalName": "Teams Administrator Associate (MS-700)",
@@ -357,7 +370,7 @@
         "status": "active"
       },
       {
-        "portalName": "Agentic AI Business Solutions Architect (AB-100)",
+        "portalName": "Agentic AI Business Solutions Architect Expert (AB-100)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/agentic-ai-business-solutions-architect/",
         "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg",
         "status": "active"
@@ -365,12 +378,20 @@
       {
         "portalName": "Dynamics 365 Sales AI Consultant Associate (AB-210)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-sales-ai-consultant-associate",
+        "note": "Beta.",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg",
         "status": "active"
       },
       {
         "portalName": "Dynamics 365 Contact Center AI Engineer Associate (AB-250)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-contact-center-ai-engineer-associate/",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg",
+        "status": "active"
+      },
+      {
+        "portalName": "Supply Chain Management AI Consultant Associate (AB-330)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/supply-chain-management-ai-consultant-associate/",
+        "note": "Beta.",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg",
         "status": "active"
       },
@@ -387,15 +408,16 @@
         "status": "active"
       },
       {
-        "portalName": "AI Services Administrator Associate (AB-650)",
+        "portalName": "Microsoft 365 and AI Services Administrator Associate (AB-650)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/ai-services-administrator-associate/",
         "note": "Beta.",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png",
         "status": "active"
       },
       {
-        "portalName": "Power Platform Developer Associate (PL-400)",
+        "portalName": "Power Platform Developer Associate (AB-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/",
+        "note": "Replaces exam PL-400, which retires October 30, 2026.",
         "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg",
         "status": "active"
       },
@@ -515,7 +537,7 @@
       {
         "portalName": "Microsoft Office Specialist: Associate (Microsoft 365 Apps)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-office-specialist-associate-m365-apps/",
-        "note": "Prerequisites: three of MO-110, MO-210, MO-310 and MO-410, or older 2019 equivalents.",
+        "note": "Prerequisites: three of MO-110, MO-210 and MO-310 (MO-410 coming soon), or older 2019 equivalents.",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
         "status": "active"
       },
@@ -532,10 +554,34 @@
         "status": "active"
       },
       {
+        "portalName": "Microsoft Office Specialist: Excel for Accounting Associate (MO-220)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-excel-for-accounting-associate/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
+        "status": "active"
+      },
+      {
+        "portalName": "Microsoft Office Specialist: Excel for Business Finance Associate (MO-230)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-excel-for-business-finance-associate/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
+        "status": "active"
+      },
+      {
+        "portalName": "Microsoft Office Specialist: Excel for Operational Management Associate (MO-240)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/mos-excel-for-operational-management-associate/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
+        "status": "active"
+      },
+      {
         "portalName": "Microsoft Office Specialist: Expert (Microsoft 365 Apps)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-office-specialist-expert-m365-apps/",
         "note": "Prerequisites: MO-211, MO-111, and Microsoft Office Specialist: Associate (Microsoft 365 Apps), or older 2019 equivalents.",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png",
+        "status": "active"
+      },
+      {
+        "portalName": "Microsoft Certified Educator (62-193)",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/microsoft-certified-educator/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png",
         "status": "active"
       }
     ]
