@@ -446,6 +446,901 @@
         "primaryURL": "https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview",
         "note": "Raw",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Resource Graph Explorer",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/ArgQueryBlade",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Subscriptions",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Billing/SubscriptionsBlade",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Resource groups",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Management Groups",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_ManagementGroups/ManagementGroupBrowseBlade",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Cost Management + Billing",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_GTM/ModernBillingMenuBlade/~/BillingAccounts",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Policy",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Policy/PolicyMenuBlade/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Advisor",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Expert/AdvisorMenuBlade/~/score",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Help + support",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Support/HelpAndSupportBlade/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Create a Resource",
+        "primaryURL": "https://portal.azure.com/#create/hub",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Network Watcher",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Network/NetworkWatcherMenuBlade/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Firewall Manager",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_HybridNetworking/FirewallManagerMenuBlade",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Key Vault",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.KeyVault%2Fvaults",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Virtual machines",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Storage accounts",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Virtual networks",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FvirtualNetworks",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Network security groups",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FNetworkSecurityGroups",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Log Analytics",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.OperationalInsights%2Fworkspaces",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Application Insights",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fcomponents",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Workbooks",
+        "primaryURL": "https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Automation",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Automation%2FAutomationAccounts",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Automanage",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_AutoManagedVirtualMachines/AutomanageMenuBlade",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Servers - Azure Arc",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.HybridCompute%2Fmachines",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Kubernetes services",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerService%2FmanagedClusters",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - App Services",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Function App",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites/kind/functionapp",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - SQL databases",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers%2Fdatabases",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Cosmos DB",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DocumentDb%2FdatabaseAccounts",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Logic Apps",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Logic%2Fworkflows",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Business Continuity Center",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_BCDRCenter/AbcCenterMenuBlade/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Carbon optimization - Emission Trends",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/AssetMenuBlade/~/EmissionTrendsId/assetName/Sustainability/extensionName/Microsoft_Azure_Sustainability",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Templates",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Gallery%2Fmyareas%2Fgalleryitems",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Shared dashboards",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Portal%2Fdashboards",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Managed Identities",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ManagedIdentity%2FuserAssignedIdentities",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - Data Collection Rules",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Insights%2FdataCollectionRules",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Front Door and CDN profiles",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - API Management services",
+        "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ApiManagement%2Fservice",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure - DNS zones",
+        "primaryURL": "https://portal.azure.com/#browse/Microsoft.Network%2FdnsZones",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - Microsoft 365 Quick Links",
+    "portals": [
+      {
+        "portalName": "Microsoft 365 admin - Licenses",
+        "primaryURL": "https://admin.cloud.microsoft/#/licenses",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft 365 admin - Active users",
+        "primaryURL": "https://admin.microsoft.com/#/users",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft 365 admin - Domains",
+        "primaryURL": "https://admin.cloud.microsoft/#/Domains",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Exchange - Mail flow rules",
+        "primaryURL": "https://admin.cloud.microsoft/exchange#/transportrules",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "SharePoint Migration Manager",
+        "primaryURL": "https://admin.cloud.microsoft/?entry=SPAC#/featureexplorer/collections/migrations",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Edge configuration overview",
+        "primaryURL": "https://admin.cloud.microsoft#/edge",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Edge configuration profiles",
+        "primaryURL": "https://admin.microsoft.com/?source=applauncher#/Edge/PolicyConfiguration",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Volume Licensing - Downloads and keys",
+        "primaryURL": "https://admin.microsoft.com/Adminportal/Home#/subscriptions/vlnew/downloadsandkeys",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft 365 admin - All tenants (partners)",
+        "primaryURL": "https://admin.microsoft.com/Adminportal/Home#/tenants",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft 365 Lighthouse - Tenants",
+        "primaryURL": "https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/Tenants.ReactView",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft 365 Lighthouse - Baselines",
+        "primaryURL": "https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/Blueprints.ReactView",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft 365 Lighthouse - Deployment insights",
+        "primaryURL": "https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/MultiTenantDeploymentReport.ReactView",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "My Account - My groups",
+        "primaryURL": "https://myaccount.microsoft.com/groups",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "My Account - My Microsoft 365 subscriptions",
+        "primaryURL": "https://portal.office.com/account/#subscriptions",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Syntex",
+        "primaryURL": "https://admin.cloud.microsoft/#/syntex",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - Entra Quick Links",
+    "portals": [
+      {
+        "portalName": "Entra - Users",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers/menuId/AllUsers",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Groups",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Devices",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Device settings",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/DeviceSettings/menuId/Devices/Microsoft_AAD_Devices/DevicesMenuBlade",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - App registrations",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Enterprise applications",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Conditional Access",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Authentication methods",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Authentication strengths",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthStrengths/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Authentication methods activity",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthMethodsActivity/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Authentication context",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/AuthenticationContext",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Cross-tenant access settings",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - External Identities",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Azure B2B Invitations",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/UserCreateBlade/initialMode~/1/b2cEnabled~/false",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Consent and permissions",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/ConsentPoliciesMenuBlade/~/UserSettings",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - User settings",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/UserSettings/menuId/UserSettings",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Roles and administrators",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/AllRoles",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Protected actions",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/ProtectedActions",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - PIM",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/quickStart",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - PIM for Roles",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - PIM for Groups",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadgroup",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - PIM for Azure resources",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/azurerbac",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Access reviews",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Controls",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra ID Entitlement Management",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/elmEntitlement",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra ID Identity Protection",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/IdentityProtectionMenuBlade/~/Overview",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Sign-in logs",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SignInEventsV3Blade/timeRangeType/last24hours/showApplicationSignIns~/true",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Password reset",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Licenses",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/LicensesMenuBlade/~/Products",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Domain names",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/DomainsManagementMenuBlade/~/CustomDomainNames",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - LAPS",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/LocalAdminPassword/menuId/Overview",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra Cloud Sync Configuration",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_Connect_Provisioning/CloudSyncMenuBlade/~/CloudSyncConfigurations",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - AAD Connect - Sync errors",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/SyncErros/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - ADFS services",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/AdfsServicesList",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Secure score",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/IdentitySecureScore/menuId/IdentitySecureScore",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Security",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/GettingStarted/menuId/SecurityCenter",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - What's new",
+        "primaryURL": "https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/ChangeManagementHubList.ReactView",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - MFA unblock",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationMenuBlade/~/BlockedUsers/fromProviders~/false",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Agent ID",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/AllAgents.MenuView/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Entra - Support",
+        "primaryURL": "https://entra.microsoft.com/#view/Microsoft_Azure_Support/NewSupportRequestV3Blade/callerName/ActiveDirectory/issueType/technical",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - Intune Quick Links",
+    "portals": [
+      {
+        "portalName": "Intune - Devices",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Windows devices",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - iOS/iPad devices",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesIosMenu/~/iosDevices",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - macOS devices",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMacOsMenu/~/macOsDevices",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Android",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesAndroidMenu/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Enroll devices",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/~/windowsEnrollment",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Windows Autopilot devices",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/AutopilotDevices.ReactView/filterOnManualRemediationRequired~/false",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Compliance policies",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesComplianceMenu/~/policies",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Configuration profiles",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configuration",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Scripts",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/scripts",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Proactive Remediations",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/proactiveRemediations?=",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Windows Update Rings",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Feature updates for Windows",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/featureUpdateDeployments",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Driver updates for Windows 10",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windowsDriverUpdate#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings?=",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Apps",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - App configuration policies",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/appConfig",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Security",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/overview",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Security - Antivirus",
+        "primaryURL": "https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Security - Firewall",
+        "primaryURL": "https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/firewall",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Security - Endpoint detection and Response",
+        "primaryURL": "https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/edr",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Security - ASR",
+        "primaryURL": "https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/asr",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Users",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Groups",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Tenant admin",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/TenantAdminMenu/~/tenantStatus",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Intune - Troubleshooting",
+        "primaryURL": "https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/SupportMenu/~/troubleshooting",
+        "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - Defender Quick Links",
+    "portals": [
+      {
+        "portalName": "Defender - Incidents",
+        "primaryURL": "https://security.microsoft.com/incidents",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Hunting",
+        "primaryURL": "https://security.microsoft.com/v2/advanced-hunting",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Action center",
+        "primaryURL": "https://security.microsoft.com/action-center",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Explorer",
+        "primaryURL": "https://security.microsoft.com/threatexplorer",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Investigations",
+        "primaryURL": "https://security.microsoft.com/airinvestigation",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Restricted entities",
+        "primaryURL": "https://security.microsoft.com/restrictedentities",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender Tenant Allow/Block List",
+        "primaryURL": "https://security.microsoft.com/tenantAllowBlockList",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Threat policies",
+        "primaryURL": "https://security.microsoft.com/threatpolicy",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Anti-Phishing policies",
+        "primaryURL": "https://security.microsoft.com/antiphishing",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Anti-spam policies",
+        "primaryURL": "https://security.microsoft.com/antispam",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Anti-malware policies",
+        "primaryURL": "https://security.microsoft.com/antimalwarev2",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Safe attachments policies",
+        "primaryURL": "https://security.microsoft.com/safeattachmentv2",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Safe links policies",
+        "primaryURL": "https://security.microsoft.com/safelinksv2",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Quarantine policies",
+        "primaryURL": "https://security.microsoft.com/quarantinePolicies",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - DKIM Email Authentication Settings",
+        "primaryURL": "https://security.microsoft.com/dkimv2",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Cloud app catalog",
+        "primaryURL": "https://security.microsoft.com/cloudapps/app-catalog",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Manage OAuth apps",
+        "primaryURL": "https://security.microsoft.com/cloudapps/oauth-apps",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Device Inventory",
+        "primaryURL": "https://security.microsoft.com/machines",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Identities",
+        "primaryURL": "https://security.microsoft.com/cloudapps/users-and-accounts",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender reports",
+        "primaryURL": "https://security.microsoft.com/securityreports",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Reports - Security report",
+        "primaryURL": "https://security.microsoft.com/reports",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Reports - Email & Collaboration",
+        "primaryURL": "https://security.microsoft.com/emailandcollabreport",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Exchange mail flow reports",
+        "primaryURL": "https://security.microsoft.com/ExchangeMailFlowReport",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Reports - Vulnerable Devices",
+        "primaryURL": "https://security.microsoft.com/mde-reports/vulnerability",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Reports - Attack Surface Reduction Rules",
+        "primaryURL": "https://security.microsoft.com/asr",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Attack Simulation Training Reports",
+        "primaryURL": "https://security.microsoft.com/attacksimulationreport",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Reports - Monthly security summary",
+        "primaryURL": "https://security.microsoft.com/value-report",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Settings",
+        "primaryURL": "https://security.microsoft.com/securitysettings",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Endpoints",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Advanced features",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/integration",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Indicators - URLs/Domains",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=url",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Indicators - IPs",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=ip",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Indicators - Files",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=files",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Indicators - Certificates",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=certificate",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Web Content Filtering",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/web_content_filtering_policy",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Device Groups",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/machine_groups",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Onboarding",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/onboarding",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Offboarding",
+        "primaryURL": "https://security.microsoft.com/securitysettings/endpoints/offboarding",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Sentinel (Defender) - Threat hunting",
+        "primaryURL": "https://security.microsoft.com/sentinel/hunting",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-sentinel/10248-icon-service-azure-sentinel.svg"
+      },
+      {
+        "portalName": "Sentinel (Defender) - Analytics rules",
+        "primaryURL": "https://security.microsoft.com/sentinel/analytics",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-sentinel/10248-icon-service-azure-sentinel.svg"
+      },
+      {
+        "portalName": "Sentinel (Defender) - Watchlists",
+        "primaryURL": "https://security.microsoft.com/sentinel/watchlist",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-sentinel/10248-icon-service-azure-sentinel.svg"
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - Purview Quick Links",
+    "portals": [
+      {
+        "portalName": "Purview Audit",
+        "primaryURL": "https://purview.microsoft.com/audit/auditsearch",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Data Loss Prevention",
+        "primaryURL": "https://purview.microsoft.com/datalossprevention",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview eDiscovery",
+        "primaryURL": "https://purview.microsoft.com/ediscovery/advancedediscovery",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Content Search",
+        "primaryURL": "https://purview.microsoft.com/ediscovery/contentsearchv2",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Information Protection",
+        "primaryURL": "https://purview.microsoft.com/informationprotection",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Insider Risk Management",
+        "primaryURL": "https://purview.microsoft.com/insiderriskmgmt",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Records Management",
+        "primaryURL": "https://purview.microsoft.com/recordsmanagement",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Data Lifecycle Management",
+        "primaryURL": "https://purview.microsoft.com/datalifecyclemanagement",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Communication Compliance",
+        "primaryURL": "https://purview.microsoft.com/cc",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Compliance manager",
+        "primaryURL": "https://purview.microsoft.com/compliancemanager",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Activity Explorer",
+        "primaryURL": "https://purview.microsoft.com/informationprotection/dataclassification/activityexplorer",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Content Explorer",
+        "primaryURL": "https://purview.microsoft.com/informationprotection/dataclassification/contentexplorer",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Sensitive Info Types",
+        "primaryURL": "https://purview.microsoft.com/cc/dataclassification/multicloudsensitiveinfotypes",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Priva Privacy Risk Management",
+        "primaryURL": "https://purview.microsoft.com/priva/prm",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Priva Subject Rights Requests",
+        "primaryURL": "https://purview.microsoft.com/priva/dsr/governance/main/privacydsr/privacy/overview",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview App Governance",
+        "primaryURL": "https://purview.microsoft.com/cloudapps/app-governance",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Permissions manager",
+        "primaryURL": "https://purview.microsoft.com/settings/purviewpermissions",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       }
     ]
   },

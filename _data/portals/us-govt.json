@@ -337,6 +337,155 @@
     ]
   },
   {
+    "groupName": "US Gov - GCC High Quick Links",
+    "portals": [
+      {
+        "portalName": "Microsoft Entra (Azure Portal) (GCC High)",
+        "primaryURL": "https://portal.azure.us/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Azure Resource Graph Explorer (GCC High)",
+        "primaryURL": "https://portal.azure.us/#view/HubsExtension/ArgQueryBlade",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Sentinel (GCC High)",
+        "primaryURL": "https://portal.azure.us/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-sentinel/10248-icon-service-azure-sentinel.svg"
+      },
+      {
+        "portalName": "Purview Permissions manager (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/permissions",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Compliance manager (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/compliancemanager",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Communication Compliance (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/supervisoryreview",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Data Loss Prevention (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/datalossprevention",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview eDiscovery (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/advancedediscovery",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Data Lifecycle Management (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/informationgovernance",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Records Management (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/recordsmanagement",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Information Protection (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/informationprotection",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Insider Risk Management (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/insiderriskmgmt",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Priva Privacy Risk Management (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/privacymgmtoverview",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Priva Subject Rights Requests (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/privacymgmtsrm",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Activity Explorer (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/dataclassification/activityexplorer",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Content Search (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/contentsearchv2",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Content Explorer (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/dataclassification/contentexplorer",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Purview Sensitive Info Types (GCC High)",
+        "primaryURL": "https://purview.microsoft.us/dataclassificationclassifiers?viewid=sensitiveinfotypes",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
+      },
+      {
+        "portalName": "Defender - Incidents (GCC High)",
+        "primaryURL": "https://security.microsoft.us/incidents",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Hunting (GCC High)",
+        "primaryURL": "https://security.microsoft.us/v2/advanced-hunting",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Action center (GCC High)",
+        "primaryURL": "https://security.microsoft.us/action-center",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Explorer (GCC High)",
+        "primaryURL": "https://security.microsoft.us/threatexplorer",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Restricted Entities (GCC High)",
+        "primaryURL": "https://security.microsoft.us/restrictedentities",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      },
+      {
+        "portalName": "Defender - Investigations (GCC High)",
+        "primaryURL": "https://security.microsoft.us/airinvestigation",
+        "note": "GCC High",
+        "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
+      }
+    ]
+  },
+  {
     "groupName": "US Gov - DoD",
     "portals": [
       {
