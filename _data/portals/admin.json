@@ -122,6 +122,74 @@
         "iconUrl": "https://getyako.com/ms/logos/places/microsoft-places.svg"
       },
       {
+        "portalName": "Phone Number Service Center",
+        "primaryURL": "https://pstnsd.powerappsportals.com/",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "SharePoint Admin Center",
+        "primaryURL": "https://admin.cloud.microsoft/sharepoint",
+        "secondaryURLs": [
+          {
+            "icon": "Old 🔗",
+            "url": "https://admin.microsoft.com/sharepoint"
+          }
+        ],
+        "iconUrl": "https://getyako.com/ms/logos/sharepoint/sharepoint-512.png"
+      },
+      {
+        "portalName": "Viva Engage Admin Center",
+        "primaryURL": "https://engage.cloud.microsoft/main/admin",
+        "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
+      },
+      {
+        "portalName": "Viva Glint",
+        "primaryURL": "https://glint.cloud.microsoft",
+        "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
+      },
+      {
+        "portalName": "Microsoft Edge for Business",
+        "primaryURL": "https://admin.cloud.microsoft/?#/Edge",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "My Access",
+        "primaryURL": "https://myaccess.microsoft.com/",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://myaccess.microsoft.com/{tenant_id}"
+          }
+        ],
+        "iconUrl": "https://getyako.com/ms/logos/entra-id-governance/microsoft-entra-id-governance-bw-icon.svg"
+      },
+      {
+        "portalName": "Office Customization Tool",
+        "primaryURL": "https://config.office.com/deploymentsettings",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365-apps/microsoft-365-apps-logo-256x256---padded.png"
+      },
+      {
+        "portalName": "Exchange Message Trace",
+        "primaryURL": "https://admin.cloud.microsoft/exchange#/messagetrace",
+        "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
+      }
+    ]
+  },
+  {
+    "groupName": "Admin - Business Applications (Dynamics 365 & Power Platform)",
+    "portals": [
+      {
+        "portalName": "Power Platform admin center",
+        "primaryURL": "https://admin.powerplatform.microsoft.com",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/ppac"
+          }
+        ],
+        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
+      },
+      {
         "portalName": "Power Apps Maker Portal",
         "primaryURL": "https://make.powerapps.com",
         "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
@@ -145,25 +213,19 @@
         "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
       },
       {
-        "portalName": "Power BI Admin Portal",
-        "primaryURL": "https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1",
-        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
-      },
-      {
         "portalName": "Power Pages",
         "primaryURL": "https://make.powerpages.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/power-pages/powerpages-scalable.svg"
       },
       {
-        "portalName": "Power Platform admin center",
-        "primaryURL": "https://admin.powerplatform.microsoft.com",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/ppac"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
+        "portalName": "Power BI Admin Portal",
+        "primaryURL": "https://app.powerbi.com/admin-portal/usageMetrics?noSignUpCheck=1",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
+      },
+      {
+        "portalName": "Dynamics 365 Business Central",
+        "primaryURL": "https://businesscentral.dynamics.com",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-business-central/businesscentral-scalable.svg"
       },
       {
         "portalName": "Dynamics 365 Customer Insights Admin Center",
@@ -217,66 +279,19 @@
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365-customer-insights/customerinsights-scalable.svg"
       },
       {
-        "portalName": "Phone Number Service Center",
-        "primaryURL": "https://pstnsd.powerappsportals.com/",
-        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
-      },
-      {
-        "portalName": "SharePoint Admin Center",
-        "primaryURL": "https://admin.cloud.microsoft/sharepoint",
-        "secondaryURLs": [
-          {
-            "icon": "Old 🔗",
-            "url": "https://admin.microsoft.com/sharepoint"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/sharepoint/sharepoint-512.png"
-      },
-      {
-        "portalName": "Viva Engage Admin Center",
-        "primaryURL": "https://engage.cloud.microsoft/main/admin",
-        "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
-      },
-      {
-        "portalName": "Viva Glint",
-        "primaryURL": "https://glint.cloud.microsoft",
-        "iconUrl": "https://getyako.com/ms/logos/viva-engage/viva-engage.svg"
-      },
-      {
-        "portalName": "Microsoft Edge for Business",
-        "primaryURL": "https://admin.cloud.microsoft/?#/Edge",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
-      },
-      {
-        "portalName": "My Access",
-        "primaryURL": "https://myaccess.microsoft.com/",
-        "secondaryURLs": [
-          {
-            "icon": "B2B",
-            "url": "https://myaccess.microsoft.com/{tenant_id}"
-          }
-        ],
-        "iconUrl": "https://getyako.com/ms/logos/entra-id-governance/microsoft-entra-id-governance-bw-icon.svg"
-      },
-      {
-        "portalName": "Dynamics 365 Business Central",
-        "primaryURL": "https://businesscentral.dynamics.com",
-        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-business-central/businesscentral-scalable.svg"
-      },
-      {
         "portalName": "Dynamics 365 Customer Insights - Data",
         "primaryURL": "https://home.ci.ai.dynamics.com",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       },
       {
-        "portalName": "Office Customization Tool",
-        "primaryURL": "https://config.office.com/deploymentsettings",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft-365-apps/microsoft-365-apps-logo-256x256---padded.png"
+        "portalName": "Customer Voice",
+        "primaryURL": "https://customervoice.microsoft.com/",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-customer-voice/customervoice-scalable-fluid.svg"
       },
       {
-        "portalName": "Exchange Message Trace",
-        "primaryURL": "https://admin.cloud.microsoft/exchange#/messagetrace",
-        "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
+        "portalName": "Microsoft Dynamics Lifecycle Services",
+        "primaryURL": "https://lcs.dynamics.com",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       }
     ]
   },
@@ -2317,11 +2332,6 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
-        "portalName": "Customer Voice",
-        "primaryURL": "https://customervoice.microsoft.com/",
-        "iconUrl": "https://getyako.com/ms/logos/dynamics-365-customer-voice/customervoice-scalable-fluid.svg"
-      },
-      {
         "portalName": "Deployment Guides for Microsoft 365 ",
         "primaryURL": "https://assistants.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
@@ -2402,11 +2412,6 @@
         "portalName": "Microsoft Documentation",
         "primaryURL": "https://learn.microsoft.com/docs/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
-      },
-      {
-        "portalName": "Microsoft Dynamics Lifecycle Services",
-        "primaryURL": "https://lcs.dynamics.com",
-        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
       },
       {
         "portalName": "Microsoft Events",
