@@ -37,6 +37,21 @@
         "portalName": "Microsoft Store (apps and games)",
         "primaryURL": "https://apps.microsoft.com",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft Rewards",
+        "primaryURL": "https://rewards.microsoft.com",
+        "iconUrl": "https://getyako.com/ms/logos/bing/bing-256x256-padded.png"
+      },
+      {
+        "portalName": "Surface",
+        "primaryURL": "https://www.microsoft.com/surface",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Surface support",
+        "primaryURL": "https://support.microsoft.com/surface",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -168,6 +183,11 @@
         "portalName": "Outlook",
         "primaryURL": "https://outlook.com",
         "iconUrl": "https://getyako.com/ms/logos/outlook/outlook-512.png"
+      },
+      {
+        "portalName": "Clipchamp (web app)",
+        "primaryURL": "https://app.clipchamp.com/",
+        "iconUrl": ""
       }
     ]
   },
@@ -203,11 +223,16 @@
         "portalName": "Edge Add-ons",
         "primaryURL": "https://microsoftedge.microsoft.com/addons/",
         "iconUrl": "https://getyako.com/ms/logos/edge/microsoft-edge.png"
+      },
+      {
+        "portalName": "Microsoft Edge Insider",
+        "primaryURL": "https://www.microsoft.com/edge/download/insider",
+        "iconUrl": "https://getyako.com/ms/logos/edge/microsoft-edge.png"
       }
     ]
   },
   {
-    "groupName": "Xbox",
+    "groupName": "Xbox & Microsoft Gaming",
     "portals": [
       {
         "portalName": "Xbox Official Site",
@@ -227,6 +252,42 @@
       {
         "portalName": "Xbox Family Settings",
         "primaryURL": "https://www.xbox.com/family-hub",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Xbox Game Pass",
+        "primaryURL": "https://www.xbox.com/xbox-game-pass",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Xbox Support",
+        "primaryURL": "https://support.xbox.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Xbox Wire",
+        "primaryURL": "https://news.xbox.com/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Minecraft",
+        "primaryURL": "https://www.minecraft.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Battle.net",
+        "primaryURL": "https://battle.net/",
+        "note": "Blizzard",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Bethesda.net",
+        "primaryURL": "https://bethesda.net/",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Activision",
+        "primaryURL": "https://www.activision.com/",
         "iconUrl": ""
       }
     ]

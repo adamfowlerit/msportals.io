@@ -76,6 +76,24 @@
         "portalName": "Azure (China)",
         "primaryURL": "https://portal.azure.cn",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure documentation (China)",
+        "primaryURL": "https://docs.azure.cn",
+        "note": "Chinese language",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure pricing (China)",
+        "primaryURL": "https://www.azure.cn/pricing/",
+        "note": "Chinese language",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure support (China)",
+        "primaryURL": "https://support.azure.cn",
+        "note": "Chinese language",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       }
     ]
   }

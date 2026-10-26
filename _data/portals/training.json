@@ -79,6 +79,11 @@
         "primaryURL": "https://learn.github.com",
         "note": "Includes GitHub certifications",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Learn AI hub",
+        "primaryURL": "https://learn.microsoft.com/ai/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -135,6 +140,33 @@
       {
         "portalName": "Microsoft Certified Trainer Program",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/mct-certification",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "My Microsoft Learn credentials",
+        "primaryURL": "https://learn.microsoft.com/users/me/credentials",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "My Microsoft Learn transcript",
+        "primaryURL": "https://learn.microsoft.com/users/me/transcript",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Pearson VUE - Microsoft exams",
+        "primaryURL": "https://home.pearsonvue.com/microsoft",
+        "note": "Book and manage exams",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Certiport",
+        "primaryURL": "https://certiport.pearsonvue.com/",
+        "note": "Microsoft Office Specialist exams",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Training Services Partners",
+        "primaryURL": "https://learn.microsoft.com/credentials/support/partners",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ],

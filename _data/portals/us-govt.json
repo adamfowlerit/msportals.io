@@ -136,6 +136,60 @@
         "primaryURL": "https://entra.microsoft.us",
         "note": "GCC",
         "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
+      },
+      {
+        "portalName": "Power Apps Maker Portal",
+        "primaryURL": "https://make.gov.powerapps.us/",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
+      },
+      {
+        "portalName": "Power Platform Admin Center",
+        "primaryURL": "https://gcc.admin.powerplatform.microsoft.us/environments",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
+      },
+      {
+        "portalName": "Microsoft Power Automate End User",
+        "primaryURL": "https://gov.flow.microsoft.us/",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
+      },
+      {
+        "portalName": "Power Automate Maker Portal",
+        "primaryURL": "https://make.gov.powerautomate.us/",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
+      },
+      {
+        "portalName": "Power BI",
+        "primaryURL": "https://app.powerbigov.us/",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
+      },
+      {
+        "portalName": "Power BI Admin Portal",
+        "primaryURL": "https://app.powerbigov.us/admin-portal",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
+      },
+      {
+        "portalName": "Dynamics 365 Instance Administration",
+        "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
+      },
+      {
+        "portalName": "Power Pages",
+        "primaryURL": "https://make.gov.powerpages.microsoft.us/",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/power-pages/powerpages-scalable.svg"
+      },
+      {
+        "portalName": "Copilot Studio",
+        "primaryURL": "https://gcc.powerva.microsoft.us",
+        "note": "GCC",
+        "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"
       }
     ]
   },
@@ -279,65 +333,6 @@
         "primaryURL": "https://high.project.microsoft.us",
         "note": "GCC High",
         "iconUrl": "https://getyako.com/ms/logos/project/2019-2026-full-color/project-256x256.png"
-      }
-    ]
-  },
-  {
-    "groupName": "US Gov - GCC Moderate",
-    "portals": [
-      {
-        "portalName": "Power Apps Maker Portal",
-        "primaryURL": "https://make.gov.powerapps.us/",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-apps/2020-2025-powerapps-scalable.svg"
-      },
-      {
-        "portalName": "Power Platform Admin Center",
-        "primaryURL": "https://gcc.admin.powerplatform.microsoft.us/environments",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
-      },
-      {
-        "portalName": "Microsoft Power Automate End User",
-        "primaryURL": "https://gov.flow.microsoft.us/",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
-      },
-      {
-        "portalName": "Power Automate Maker Portal",
-        "primaryURL": "https://make.gov.powerautomate.us/",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-automate/powerautomate-scalable.svg"
-      },
-      {
-        "portalName": "Power BI",
-        "primaryURL": "https://app.powerbigov.us/",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
-      },
-      {
-        "portalName": "Power BI Admin Portal",
-        "primaryURL": "https://app.powerbigov.us/admin-portal",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-bi/powerbi-scalable.svg"
-      },
-      {
-        "portalName": "Dynamics 365 Instance Administration",
-        "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
-      },
-      {
-        "portalName": "Power Pages",
-        "primaryURL": "https://make.gov.powerpages.microsoft.us/",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/power-pages/powerpages-scalable.svg"
-      },
-      {
-        "portalName": "Copilot Studio",
-        "primaryURL": "https://gcc.powerva.microsoft.us",
-        "note": "GCC Moderate",
-        "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"
       }
     ]
   },

@@ -267,6 +267,16 @@
         "portalName": "Dynamics 365 Customer Insights - Data",
         "primaryURL": "https://home.ci.ai.dynamics.com",
         "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
+      },
+      {
+        "portalName": "Office Customization Tool",
+        "primaryURL": "https://config.office.com/deploymentsettings",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365-apps/microsoft-365-apps-logo-256x256---padded.png"
+      },
+      {
+        "portalName": "Exchange Message Trace",
+        "primaryURL": "https://admin.cloud.microsoft/exchange#/messagetrace",
+        "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
       }
     ]
   },
@@ -1058,7 +1068,7 @@
       },
       {
         "portalName": "Azure - Status",
-        "primaryURL": "https://status.azure.com/status/",
+        "primaryURL": "https://azure.status.microsoft/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
@@ -1112,6 +1122,11 @@
       {
         "portalName": "npm Status",
         "primaryURL": "https://status.npmjs.org",
+        "iconUrl": ""
+      },
+      {
+        "portalName": "Xbox status",
+        "primaryURL": "https://support.xbox.com/xbox-live-status",
         "iconUrl": ""
       }
     ]

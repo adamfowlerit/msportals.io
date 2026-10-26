@@ -72,6 +72,11 @@
         "portalName": "Microsoft 365 and Office 365 service descriptions",
         "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Microsoft Licensing Documents",
+        "primaryURL": "https://www.microsoft.com/licensing/docs/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -91,6 +96,16 @@
       {
         "portalName": "Azure Hybrid Benefit Savings Calculator",
         "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Offers and Benefits",
+        "primaryURL": "https://azure.microsoft.com/pricing/offers/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
+        "portalName": "Azure Reserved VM Instances",
+        "primaryURL": "https://azure.microsoft.com/pricing/reserved-vm-instances/",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       }
     ]
@@ -132,6 +147,38 @@
         "portalName": "Fabric SKU Estimator",
         "primaryURL": "https://aka.ms/fabricskuestimator",
         "iconUrl": "https://getyako.com/ms/logos/fabric/fabric-256.svg"
+      },
+      {
+        "portalName": "Power Platform Licensing Guide",
+        "primaryURL": "https://aka.ms/PowerPlatformLicensingGuide",
+        "note": "PDF",
+        "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg"
+      },
+      {
+        "portalName": "Dynamics 365 Licensing Guide",
+        "primaryURL": "https://go.microsoft.com/fwlink/?LinkId=866544",
+        "note": "PDF",
+        "iconUrl": "https://getyako.com/ms/logos/dynamics-365/dynamics365-scalable.svg"
+      },
+      {
+        "portalName": "Microsoft Teams service description",
+        "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/teams-service-description",
+        "iconUrl": "https://getyako.com/ms/logos/teams/teams-512.png"
+      },
+      {
+        "portalName": "Compare Windows 11 business editions",
+        "primaryURL": "https://www.microsoft.com/windows/business/compare-windows-11",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Compare Visual Studio editions",
+        "primaryURL": "https://visualstudio.microsoft.com/vs/compare/",
+        "iconUrl": "https://getyako.com/ms/logos/visual-studio/visual-studio.png"
+      },
+      {
+        "portalName": "GitHub plans and pricing",
+        "primaryURL": "https://github.com/pricing",
+        "iconUrl": ""
       }
     ]
   }

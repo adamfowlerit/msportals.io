@@ -332,11 +332,16 @@
         "portalName": "Agent Store",
         "primaryURL": "https://m365.cloud.microsoft/chat/agentstore",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Copilot Prompt Gallery",
+        "primaryURL": "https://copilot.cloud.microsoft/prompts",
+        "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg"
       }
     ]
   },
   {
-    "groupName": "End User - Accessability",
+    "groupName": "End User - Accessibility",
     "portals": [
       {
         "portalName": "Microsoft Accessibility",
@@ -347,6 +352,21 @@
         "portalName": "Microsoft Translator",
         "primaryURL": "https://translator.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/azure-ai-translator/00800-icon-service-translator-text.svg"
+      },
+      {
+        "portalName": "Accessibility Insights",
+        "primaryURL": "https://accessibilityinsights.io/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft Inclusive Design",
+        "primaryURL": "https://inclusive.microsoft.design/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Accessibility help and learning",
+        "primaryURL": "https://support.microsoft.com/accessibility",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -560,6 +580,11 @@
         "primaryURL": "https://remotehelp.microsoft.com",
         "note": "Intune Remote Help",
         "iconUrl": "https://getyako.com/ms/logos/intune/intune.png"
+      },
+      {
+        "portalName": "Microsoft Authenticator",
+        "primaryURL": "https://www.microsoft.com/security/mobile-authenticator-app",
+        "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
       }
     ]
   }

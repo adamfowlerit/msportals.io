@@ -35,7 +35,8 @@
         "iconUrl": "https://getyako.com/ms/logos/copilot-studio/copilotstudio-scalable.svg"
       },
       {
-        "portalName": "Azure AI Foundry",
+        "portalName": "Microsoft Foundry",
+        "note": "Formerly Azure AI Foundry",
         "primaryURL": "https://ai.azure.com/",
         "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
       },
@@ -63,11 +64,6 @@
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
-        "portalName": "Azure OpenAI Studio",
-        "primaryURL": "https://oai.azure.com/portal",
-        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
       },
       {
         "portalName": "Bot Framework Dev Portal",
@@ -170,6 +166,16 @@
         "portalName": "GitHub Models",
         "primaryURL": "https://github.com/marketplace?type=models",
         "iconUrl": ""
+      },
+      {
+        "portalName": "Microsoft Copilot adoption hub",
+        "primaryURL": "https://adoption.microsoft.com/copilot/",
+        "iconUrl": "https://getyako.com/ms/logos/copilot/microsoft-365-copilot/2024-2026/microsoft-365-copilot-badge.svg"
+      },
+      {
+        "portalName": "Microsoft Responsible AI",
+        "primaryURL": "https://www.microsoft.com/ai/responsible-ai",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   }

@@ -36,6 +36,16 @@
         "portalName": "Microsoft Education on YouTube",
         "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft Learn Student Hub",
+        "primaryURL": "https://learn.microsoft.com/training/student-hub/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Microsoft Learn for Educators program",
+        "primaryURL": "https://learn.microsoft.com/training/educator-center/programs/msle/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -60,6 +70,12 @@
       {
         "portalName": "School Data Sync",
         "primaryURL": "https://sds.edu.cloud.microsoft/",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
+      },
+      {
+        "portalName": "Insights for Education",
+        "primaryURL": "https://insights.edu.cloud.microsoft",
+        "note": "Teacher Analytics Hub",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       }
     ]
@@ -241,6 +257,11 @@
       {
         "portalName": "Unlocked - Innovation Stories",
         "primaryURL": "https://unlocked.microsoft.com",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
+        "portalName": "Imagine Cup",
+        "primaryURL": "https://imaginecup.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
