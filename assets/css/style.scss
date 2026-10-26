@@ -55,13 +55,6 @@
   flex: 0 0 100%;
 }
 
-.portal-name:hover > .portal-add {
-  display: unset;
-}
-
-.portal-name:hover > .portal-remove {
-  display: unset;
-}
 
 .portal-details {
   display: flex; 
@@ -71,24 +64,6 @@
   white-space: nowrap;
 }
 
-.portal-add {
-  display: none;
-  cursor: pointer;
-  color: red;
-}
-
-.portal-add:active {
-  color: #b5e853;
-}
-
-.portal-remove {
-  display: none;
-  cursor: pointer;
-}
-
-.portal-remove:active {
-  color: #b5e853;
-}
 
 .portal-url {
   text-overflow: ellipsis;
@@ -101,7 +76,7 @@
 }
 
 .portal-url::before {
-  content: " • ";
+  content: " \2022 ";
 }
 
 .portal-note {
@@ -222,8 +197,259 @@
 }
 .container {
   max-width: 1200px;
-  width: 100vw;
+  width: 100%;
+  box-sizing: border-box;
   margin: 0 auto;
   padding-left: 16px;
   padding-right: 16px;
+}
+
+/* ---- Row buttons: favourite, copy link, remove ---- */
+.portal-add,
+.portal-copy,
+.portal-remove {
+  background: none;
+  border: 0;
+  padding: 0 4px;
+  margin: 0;
+  font: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.1s;
+}
+
+.portal-add {
+  color: red;
+}
+
+.portal-copy,
+.portal-remove {
+  color: inherit;
+}
+
+.portal:hover .portal-add,
+.portal:hover .portal-copy,
+.portal:hover .portal-remove,
+.portal:focus-within .portal-add,
+.portal:focus-within .portal-copy,
+.portal:focus-within .portal-remove,
+.portal-add.done,
+.portal-copy.done {
+  opacity: 1;
+}
+
+/* touch screens have no hover, so always show the buttons */
+@media (hover: none) {
+  .portal-add,
+  .portal-copy,
+  .portal-remove {
+    opacity: 0.8;
+  }
+}
+
+.portal-add:active,
+.portal-copy:active,
+.portal-remove:active,
+.portal-add.done,
+.portal-copy.done {
+  color: #b5e853;
+}
+
+.portal-add:focus-visible,
+.portal-copy:focus-visible,
+.portal-remove:focus-visible,
+.group-toggle:focus-visible {
+  outline: 2px solid #b5e853;
+  outline-offset: 1px;
+}
+
+/* stop long names and links pushing the page sideways */
+.portal-name {
+  overflow-wrap: anywhere;
+}
+
+.portal-details {
+  min-width: 0;
+  align-items: center;
+}
+
+/* ---- Collapsible groups ---- */
+.group-toggle {
+  background: none;
+  border: 0;
+  padding: 0 6px 0 0;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.group-toggle-icon {
+  display: inline-block;
+  transition: transform 0.15s;
+}
+
+.portal-group.collapsed .group-toggle-icon {
+  transform: rotate(-90deg);
+}
+
+.portal-group.collapsed .portal {
+  display: none;
+}
+
+/* while filtering, show matches even inside collapsed groups */
+.filtering .portal-group.collapsed .portal {
+  display: flex;
+}
+
+.group-count {
+  font-size: 0.55em;
+  vertical-align: middle;
+  margin-left: 10px;
+  padding: 1px 8px;
+  border: 1px solid rgba(181, 232, 83, 0.35);
+  border-radius: 10px;
+  color: #b5e853;
+}
+
+/* ---- Section jump menu ---- */
+.group-nav {
+  margin: 0 0 25px;
+  padding: 8px 12px;
+  border: 1px dashed rgba(181, 232, 83, 0.5);
+  border-radius: 4px;
+}
+
+.group-nav summary {
+  cursor: pointer;
+  color: #b5e853;
+}
+
+.group-nav-actions {
+  margin: 10px 0;
+}
+
+.group-nav-list {
+  columns: 2 280px;
+  margin: 0;
+  padding-left: 20px;
+}
+
+/* ---- Header: filter boxes and mobile menu ---- */
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 20px;
+}
+
+.filter-row form {
+  flex: 0 1 30%;
+  min-width: 200px;
+}
+
+.filter-row .quickfilter {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.filter-count {
+  font-size: 0.8em;
+  color: #b5e853;
+}
+
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+}
+
+.favourites-toolbar {
+  margin: 0 0 20px;
+}
+
+.favourites-toolbar .btn {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+  header {
+    padding: 12px 0;
+    margin-bottom: 20px;
+  }
+
+  header h1 {
+    font-size: 22px;
+  }
+
+  header h1:before {
+    font-size: 18px;
+  }
+
+  header h2 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .menu-toggle {
+    display: inline-block;
+    margin-bottom: 8px;
+  }
+
+  .site-nav {
+    display: none;
+  }
+
+  .site-nav.open {
+    display: block;
+  }
+
+  .site-nav .btn {
+    margin: 0 4px 6px 0;
+  }
+
+  .filter-row form {
+    flex: 1 1 40%;
+    min-width: 0;
+  }
+
+  .quickfilter {
+    margin: 4px 0;
+    padding: 6px;
+  }
+
+  #main_content h2 {
+    font-size: 20px;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .group-count,
+  .filter-count,
+  .group-nav summary {
+    color: #5a7a1a;
+  }
+
+  .group-count,
+  .group-nav {
+    border-color: rgba(90, 122, 26, 0.5);
+  }
+
+  .portal-add:active,
+  .portal-copy:active,
+  .portal-remove:active,
+  .portal-add.done,
+  .portal-copy.done {
+    color: #5a7a1a;
+  }
 }
