@@ -1766,12 +1766,6 @@
       {
         "portalName": "GitHub Organization settings",
         "primaryURL": "https://github.com/settings/organizations",
-        "secondaryURLs": [
-          {
-            "icon": "Enterprise",
-            "url": "https://github.com/enterprises/{enterprise}"
-          }
-        ],
         "iconUrl": ""
       },
       {
