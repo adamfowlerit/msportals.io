@@ -4,9 +4,13 @@ on:
   push:
     paths:
       - '_data/portals/*.json'
+      - '.github/scripts/validate_portals.py'
+      - '.github/workflows/jsonValidator.yml'
   pull_request:
     paths:
       - '_data/portals/*.json'
+      - '.github/scripts/validate_portals.py'
+      - '.github/workflows/jsonValidator.yml'
   workflow_dispatch:
 
 jobs:
@@ -15,8 +19,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validator
+        run: pip install jsonschema==4.23.0
+
+      # Checks every file in _data/portals against PortalGroup.schema.json,
+      # flags URLs with stray spaces, and fails on duplicate URLs within a group.
       - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /_data/portals/PortalGroup.schema.json
-          INPUT_JSONS: /_data/portals/admin.json,/_data/portals/thirdparty.json,/_data/portals/us-govt.json,/_data/portals/user.json
+        run: python .github/scripts/validate_portals.py

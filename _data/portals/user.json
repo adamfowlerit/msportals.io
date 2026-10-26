@@ -487,15 +487,15 @@
       },
       {
         "portalName": "My Apps",
-        "primaryURL": "https://account.activedirectory.windowsazure.com",
+        "primaryURL": "https://myapps.microsoft.com",
         "secondaryURLs": [
           {
             "url": "https://myapplications.microsoft.com",
             "icon": "Alt 🔗 1"
           },
           {
-            "url": "https://myapps.microsoft.com",
-            "icon": "Alt 🔗 2"
+            "url": "https://account.activedirectory.windowsazure.com",
+            "icon": "Old 🔗"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/entra/microsoft-entra-product-family.svg"
