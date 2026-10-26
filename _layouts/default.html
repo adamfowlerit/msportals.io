@@ -54,7 +54,8 @@
               {% endif %}
             </div>
 
-            <section id="downloads">
+            <button type="button" class="menu-toggle btn" aria-expanded="false" aria-controls="downloads">☰ Menu</button>
+            <section id="downloads" class="site-nav">
                 {% if site.show_downloads %}
                 <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
                 <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
@@ -73,17 +74,29 @@
                 <a href="https://github.com/adamfowlerit/msportals.io" class="btn" target="_blank"></span>GitHub</a>
                 <a href="{{ site.baseurl }}/about" class="btn"></span>?</a>
             </section>
-            {% if page.search %}
-            {% include quickfilter.html %}
-            {% endif %}
-            {% include tenantid.html %}
+            <div class="filter-row">
+                {% if page.search %}
+                {% include quickfilter.html %}
+                {% endif %}
+                {% include tenantid.html %}
+            </div>
 
         </div>
     </header>
 
-    
+
     <div class="container">
         <section id="main_content">
+            {% if page.search %}
+            <details class="group-nav" hidden>
+                <summary>Jump to a section</summary>
+                <div class="group-nav-actions">
+                    <button type="button" class="btn group-expand-all">Expand all</button>
+                    <button type="button" class="btn group-collapse-all">Collapse all</button>
+                </div>
+                <ul class="group-nav-list"></ul>
+            </details>
+            {% endif %}
             {{ content }}
             {% if page.search %}
             {% include nomatches.html %}
@@ -94,6 +107,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
         integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    <script src="/assets/js/site.js"></script>
 
 </body>
 

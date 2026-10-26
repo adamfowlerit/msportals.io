@@ -13,6 +13,9 @@
         {% assign icon_src = '/images/portal-placeholder.svg' %}
       {% endif %}
     {% endif %}
+    {% comment %} Show a shortened URL; the full URL is still the link target, the tooltip and searchable {% endcomment %}
+    {% assign url_text = portal.primaryURL | remove_first: 'https://' | remove_first: 'http://' %}
+    {% if url_text.size > 48 %}{% assign url_text = url_text | slice: 0, 45 | append: '…' %}{% endif %}
     <div class="portal">
         <span class="portal-name">
             <img class="portal-icon"
@@ -20,14 +23,15 @@
                  alt=""
                  loading="lazy"
                  onerror="this.onerror=null;this.src='/images/portal-placeholder.svg';" />
-            <span class="portal-add" id="{{groupidx}}.{{forloop.index}}">❤ </span>
+            <button type="button" class="portal-add" title="Save to favourites" data-s="{{ include.portal }}" data-g="{{ groupidx }}.{{ forloop.index }}">❤</button>
             {{portal.portalName}} {% if portal.note %}
             <span class="portal-note">{{ portal.note }}</span>
             {% endif %}
         </span>
         <div class="portal-details">
+            <button type="button" class="portal-copy" title="Copy link">⧉</button>
             <span class="portal-url">
-                <a href="{{portal.primaryURL}}" target="_blank">{{portal.primaryURL}}</a>
+                <a href="{{portal.primaryURL}}" target="_blank" title="{{ portal.primaryURL | escape }}">{{ url_text }}</a>
             </span>
             {% if portal.secondaryURLs %}
             <span class="portal-secondary-urls">
@@ -43,16 +47,7 @@
 {% endfor %}
 
 <script type="text/javascript">
-
-    const data = {{ site.data.portals.[include.portal] | jsonify}}
-    const portals = [].concat(...[...data.map(i => { return i.portals })])
-
-    Array.from(document.getElementsByClassName("portal-add")).forEach((e) =>
-        e.addEventListener("click", (event) => {
-            let arrayLocation = event.target.id.split(".").map(i => i - 1)
-            let newLink = data[arrayLocation[0]].portals[arrayLocation[1]]
-            newLink.groupName = data[arrayLocation[0]].groupName
-            addLinkToLocalStorage(newLink)
-        })
-    );
+    // One copy of this page section's data, used by the favourite buttons (see assets/js/site.js)
+    window.msPortalData = window.msPortalData || {};
+    window.msPortalData[{{ include.portal | jsonify }}] = {{ site.data.portals.[include.portal] | jsonify }};
 </script>
