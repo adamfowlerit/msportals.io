@@ -2,8 +2,8 @@
 // favourite and copy buttons, and the "/" shortcut for the quick filter.
 (function () {
   const collapsedKey = "collapsedGroups";
-  // Long groups of deep links start collapsed until the visitor opens them
-  const collapsedByDefault = /Quick Links|Sub Portal Links/i;
+  // Long groups of pages inside a portal (e.g. "Admin - Entra Admin Center Pages") start collapsed until opened
+  const collapsedByDefault = /(Portal|Admin Center) Pages$/i;
 
   function readCollapsedState() {
     try {

@@ -417,7 +417,7 @@
     ]
   },
   {
-    "groupName": "Azure IT Admin Portals - Sub Portal Links",
+    "groupName": "Admin - Azure Portal Pages",
     "portals": [
       {
         "portalName": "Azure - Backup center",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "groupName": "Admin - Microsoft 365 Quick Links",
+    "groupName": "Admin - Microsoft 365 Admin Center Pages",
     "portals": [
       {
         "portalName": "Microsoft 365 admin - Licenses",
@@ -730,7 +730,7 @@
     ]
   },
   {
-    "groupName": "Admin - Entra Quick Links",
+    "groupName": "Admin - Entra Admin Center Pages",
     "portals": [
       {
         "portalName": "Entra - Users",
@@ -930,7 +930,7 @@
     ]
   },
   {
-    "groupName": "Admin - Intune Quick Links",
+    "groupName": "Admin - Intune Admin Center Pages",
     "portals": [
       {
         "portalName": "Intune - Devices",
@@ -1060,7 +1060,7 @@
     ]
   },
   {
-    "groupName": "Admin - Defender Quick Links",
+    "groupName": "Admin - Defender Portal Pages",
     "portals": [
       {
         "portalName": "Defender - Incidents",
@@ -1270,7 +1270,7 @@
     ]
   },
   {
-    "groupName": "Admin - Purview Quick Links",
+    "groupName": "Admin - Purview Portal Pages",
     "portals": [
       {
         "portalName": "Purview Audit",
