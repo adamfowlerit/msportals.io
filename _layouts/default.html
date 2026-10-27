@@ -88,14 +88,16 @@
     <div class="container">
         <section id="main_content">
             {% if page.search %}
-            <details class="group-nav" hidden>
-                <summary>Jump to a section</summary>
+            <div class="group-tools" hidden>
+                <details class="group-nav">
+                    <summary>Jump to a section</summary>
+                    <ul class="group-nav-list"></ul>
+                </details>
                 <div class="group-nav-actions">
                     <button type="button" class="btn group-expand-all">Expand all</button>
                     <button type="button" class="btn group-collapse-all">Collapse all</button>
                 </div>
-                <ul class="group-nav-list"></ul>
-            </details>
+            </div>
             {% endif %}
             {{ content }}
             {% if page.search %}

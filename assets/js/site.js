@@ -87,10 +87,12 @@
       navList.appendChild(item);
     });
     nav.querySelector("summary").textContent = "Jump to a section (" + navList.children.length + ")";
-    nav.hidden = false;
+    // the jump menu and the expand/collapse buttons share one row above the groups
+    const tools = nav.closest(".group-tools") || nav;
+    tools.hidden = false;
 
-    nav.querySelector(".group-expand-all").addEventListener("click", () => groups.forEach((g) => setCollapsed(g, false, true)));
-    nav.querySelector(".group-collapse-all").addEventListener("click", () => groups.forEach((g) => setCollapsed(g, true, true)));
+    tools.querySelector(".group-expand-all").addEventListener("click", () => groups.forEach((g) => setCollapsed(g, false, true)));
+    tools.querySelector(".group-collapse-all").addEventListener("click", () => groups.forEach((g) => setCollapsed(g, true, true)));
 
     // Keep the menu in step with the quick filter: only list sections that have matches
     document.addEventListener("portals-filtered", () => {
