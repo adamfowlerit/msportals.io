@@ -70,11 +70,15 @@
     if (qfInput && (force || qfInput.value.trim().length >= 2)) scheduleFilter.call(qfInput);
   }
 
-  // Filter shortly after typing pauses rather than on every key
-  let filterTimer;
+  // Filter on the next screen refresh: no fixed delay, and several fast keystrokes in one frame filter once
+  let filterFrame = 0;
   function scheduleFilter() {
-    clearTimeout(filterTimer);
-    filterTimer = setTimeout(() => showOnlyMatchedPortals.call(this), 80);
+    if (filterFrame) return;
+    const input = this;
+    filterFrame = requestAnimationFrame(() => {
+      filterFrame = 0;
+      showOnlyMatchedPortals.call(input);
+    });
   }
 
   function idleSave() {
