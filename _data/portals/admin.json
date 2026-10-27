@@ -420,17 +420,17 @@
     "groupName": "Azure IT Admin Portals - Sub Portal Links",
     "portals": [
       {
-        "portalName": "Azure Backup Center",
+        "portalName": "Azure - Backup center",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Monitor",
+        "portalName": "Azure - Monitor",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Privileged Identity Management",
+        "portalName": "Azure - Privileged Identity Management",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_PIMCommon/CommonMenuBlade/quickStart",
         "secondaryURLs": [
           {
@@ -441,29 +441,29 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Microsoft Sentinel (Azure portal)",
+        "portalName": "Azure - Microsoft Sentinel",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Virtual Desktop",
+        "portalName": "Azure - Virtual Desktop",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview",
         "note": "AVD",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Update Manager",
+        "portalName": "Azure - Update Manager",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Automation/UpdateCenterMenuBlade/~/gettingstarted",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Universal Print",
+        "portalName": "Azure - Universal Print",
         "primaryURL": "https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview",
         "note": "Raw",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Resource Graph Explorer",
+        "portalName": "Azure - Resource Graph Explorer",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/ArgQueryBlade",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -478,7 +478,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Management Groups",
+        "portalName": "Azure - Management groups",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_ManagementGroups/ManagementGroupBrowseBlade",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -488,12 +488,12 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Policy",
+        "portalName": "Azure - Policy",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Policy/PolicyMenuBlade/~/overview",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Advisor",
+        "portalName": "Azure - Advisor",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Expert/AdvisorMenuBlade/~/score",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -503,7 +503,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Create a Resource",
+        "portalName": "Azure - Create a resource",
         "primaryURL": "https://portal.azure.com/#create/hub",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -513,12 +513,12 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Firewall Manager",
+        "portalName": "Azure - Firewall Manager",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_HybridNetworking/FirewallManagerMenuBlade",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Key Vault",
+        "portalName": "Azure - Key vaults",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.KeyVault%2Fvaults",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -543,7 +543,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Log Analytics",
+        "portalName": "Azure - Log Analytics workspaces",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.OperationalInsights%2Fworkspaces",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -553,12 +553,12 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Workbooks",
+        "portalName": "Azure - Workbooks",
         "primaryURL": "https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Automation",
+        "portalName": "Azure - Automation accounts",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Automation%2FAutomationAccounts",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -568,7 +568,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Servers - Azure Arc",
+        "portalName": "Azure - Arc-enabled servers",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.HybridCompute%2Fmachines",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -583,7 +583,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Function App",
+        "portalName": "Azure - Function apps",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites/kind/functionapp",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -593,12 +593,12 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Cosmos DB",
+        "portalName": "Azure - Cosmos DB",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DocumentDb%2FdatabaseAccounts",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Logic Apps",
+        "portalName": "Azure - Logic Apps",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Logic%2Fworkflows",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -608,7 +608,7 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Carbon optimization - Emission Trends",
+        "portalName": "Azure - Carbon optimization (emission trends)",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/AssetMenuBlade/~/EmissionTrendsId/assetName/Sustainability/extensionName/Microsoft_Azure_Sustainability",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -623,17 +623,17 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Managed Identities",
+        "portalName": "Azure - Managed identities",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ManagedIdentity%2FuserAssignedIdentities",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure - Data Collection Rules",
+        "portalName": "Azure - Data collection rules",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Insights%2FdataCollectionRules",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Front Door and CDN profiles",
+        "portalName": "Azure - Front Door and CDN profiles",
         "primaryURL": "https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
