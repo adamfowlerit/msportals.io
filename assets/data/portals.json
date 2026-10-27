@@ -1,0 +1,4 @@
+---
+# Every portal data file as one JSON object, fetched by assets/js/site.js when a favourite is saved
+---
+{{ site.data.portals | jsonify }}

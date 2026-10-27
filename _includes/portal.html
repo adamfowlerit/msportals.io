@@ -48,9 +48,3 @@
 </div>
 
 {% endfor %}
-
-<script type="text/javascript">
-    // One copy of this page section's data, used by the favourite buttons (see assets/js/site.js)
-    window.msPortalData = window.msPortalData || {};
-    window.msPortalData[{{ include.portal | jsonify }}] = {{ site.data.portals.[include.portal] | jsonify }};
-</script>

@@ -15,7 +15,11 @@
         // all text and link targets, without http(s), joined with | so words can't match across fields
         let searchableString = row.textContent.trim().replace(/\s*\n\s*/g, "|");
         searchableString += "|" + Array.from(row.getElementsByTagName("a")).map((e) => e.href).join("|");
-        return { row: row, text: searchableString.replace(/(https|http):\/\//gi, "").toUpperCase() };
+        return {
+          row: row,
+          text: searchableString.replace(/(https|http):\/\//gi, "").toUpperCase(),
+          b2b: row.querySelector(".btn-B2B") !== null,
+        };
       }),
     }));
   }
@@ -23,9 +27,13 @@
   function showOnlyMatchedPortals() {
     if (!portalIndex) buildPortalIndex();
     const query = (this.value || "").trim();
-    const filtering = query.length >= 2;
+    const textFiltering = query.length >= 2;
+    // "Only B2B links" (next to the B2B Tenant ID box) keeps just the portals with a B2B button
+    const b2bOnlyBox = document.getElementById("b2b_only");
+    const b2bOnly = b2bOnlyBox !== null && b2bOnlyBox.checked;
+    const filtering = textFiltering || b2bOnly;
     // every word must match, in any order (e.g. "entra conditional")
-    const terms = query.toUpperCase().split(/\s+/).filter((t) => t.length > 0);
+    const terms = textFiltering ? query.toUpperCase().split(/\s+/).filter((t) => t.length > 0) : [];
     document.body.classList.toggle("filtering", filtering);
 
     let matches = 0;
@@ -33,7 +41,7 @@
     portalIndex.forEach((entry) => {
       let shown = 0;
       entry.rows.forEach((r) => {
-        const show = !filtering || terms.every((term) => r.text.indexOf(term) !== -1);
+        const show = (!b2bOnly || r.b2b) && terms.every((term) => r.text.indexOf(term) !== -1);
         // only touch the page when a row actually changes
         if (r.row.hidden === show) r.row.hidden = !show;
         if (show) shown++;
@@ -53,6 +61,13 @@
       counter.textContent = !filtering ? "" : matches === 1 ? "1 match" : matches + " matches";
     }
     document.dispatchEvent(new CustomEvent("portals-filtered"));
+  }
+
+  // Called when link targets change (B2B tenant ID): rebuild the search text and re-apply any filter
+  function refreshPortalSearch(force) {
+    portalIndex = null;
+    const qfInput = document.querySelector("#search");
+    if (qfInput && (force || qfInput.value.trim().length >= 2)) scheduleFilter.call(qfInput);
   }
 
   // Filter shortly after typing pauses rather than on every key
@@ -93,7 +108,8 @@
   }
   idleSave();
 
-  window.onload = function () {
+  // Run as soon as the HTML is ready, without waiting for every icon to download
+  document.addEventListener("DOMContentLoaded", function () {
     // Select Search Box Element
     const qfInput = document.querySelector("#search");
 
@@ -133,5 +149,5 @@
         });
       }
     });
-  };
+  });
 </script>

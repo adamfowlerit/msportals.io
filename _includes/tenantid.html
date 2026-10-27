@@ -3,6 +3,10 @@
     <input id="tenant_id" name="tenant_id" class="quickfilter" type="text" placeholder="B2B Tenant ID" />
 </form>
 
+<label id="b2b_only_label" class="b2b-only" hidden>
+    <input id="b2b_only" type="checkbox" /> Only B2B links
+</label>
+
 <div id="tenant_id_privacy_warning" style="display:none">
     <strong>Privacy Note:</strong> You can save the current page as
     a bookmark to store
@@ -33,6 +37,16 @@
             links[i].href = template.replace("{tenant_id}", tenant_id).replace("%7Btenant_id%7D", tenant_id);
         }
 
+        // "Only B2B links" is offered once a tenant ID is entered, on pages with the quick filter
+        const b2bOnlyLabel = document.querySelector("#b2b_only_label");
+        const b2bOnly = document.querySelector("#b2b_only");
+        const hasTenant = document.querySelector("#tenant_id").value !== "";
+        b2bOnlyLabel.hidden = !hasTenant || !document.querySelector("#search");
+        const b2bOnlyChanged = !hasTenant && b2bOnly.checked;
+        if (b2bOnlyChanged) b2bOnly.checked = false;
+
+        // The quick filter searches link targets too, so let it pick up the new B2B links
+        if (typeof refreshPortalSearch === "function") refreshPortalSearch(b2bOnlyChanged);
 
 
         if (window.location.toString() !== theURL.href) {
@@ -63,8 +77,14 @@
         // Add Event Listeners for changes (After we set the initial value)
         tenantInput.addEventListener("change", replaceTenantId);
         tenantInput.addEventListener("keyup", replaceTenantId);
-        tenantInput.focus({
-            preventScroll: true,
+        document.querySelector("#b2b_only").addEventListener("change", function () {
+            if (typeof showOnlyMatchedPortals === "function") showOnlyMatchedPortals.call(document.querySelector("#search"));
         });
+        // pages with a quick filter put the cursor there instead
+        if (!document.querySelector("#search")) {
+            tenantInput.focus({
+                preventScroll: true,
+            });
+        }
     }, false);
 </script>

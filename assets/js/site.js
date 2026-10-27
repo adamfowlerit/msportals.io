@@ -119,17 +119,32 @@
     }, 1200);
   }
 
+  // The portal data is only needed when someone saves a favourite, so it's fetched on the first click
+  // (same ?v= as this script, so a new build fetches fresh data)
+  const scriptVersion = document.currentScript ? new URL(document.currentScript.src).search : "";
+  let portalData = null;
+  function loadPortalData() {
+    if (!portalData) {
+      portalData = fetch("/assets/data/portals.json" + scriptVersion).then((response) => {
+        if (!response.ok) throw new Error(response.status);
+        return response.json();
+      });
+      portalData.catch(() => (portalData = null)); // let the next click try again
+    }
+    return portalData;
+  }
+
   document.querySelectorAll(".portal-add").forEach((button) => {
     button.addEventListener("click", () => {
-      try {
-        const [g, i] = button.dataset.g.split(".").map(Number);
-        const group = window.msPortalData[button.dataset.s][g - 1];
-        const link = Object.assign({}, group.portals[i - 1], { groupName: group.groupName });
-        addLinkToLocalStorage(link);
-        flash(button, "✓");
-      } catch (e) {
-        flash(button, "!");
-      }
+      loadPortalData()
+        .then((data) => {
+          const [g, i] = button.dataset.g.split(".").map(Number);
+          const group = data[button.dataset.s][g - 1];
+          const link = Object.assign({}, group.portals[i - 1], { groupName: group.groupName });
+          addLinkToLocalStorage(link);
+          flash(button, "✓");
+        })
+        .catch(() => flash(button, "!"));
     });
   });
 

@@ -374,6 +374,16 @@
   box-sizing: border-box;
 }
 
+.b2b-only {
+  font-size: 0.9em;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.b2b-only[hidden] {
+  display: none;
+}
+
 .filter-count {
   font-size: 0.8em;
   color: #b5e853;
