@@ -1,6 +1,9 @@
 {% for group in site.data.portals.[include.portal] %}
 
 {% assign groupidx = forloop.index %}
+{% comment %} skip_group / only_group let a page show one group somewhere else (e.g. Trials near the bottom of the home page) {% endcomment %}
+{% if include.skip_group and group.groupName == include.skip_group %}{% continue %}{% endif %}
+{% if include.only_group and group.groupName != include.only_group %}{% continue %}{% endif %}
 
 <div class="portal-group" hidden>
     <h2>{{ group.groupName }}</h2>
