@@ -5,83 +5,61 @@
 </form>
 
 <script type="text/javascript">
+  // Search text for every portal row, built once on the first filter instead of on every keystroke
+  let portalIndex = null;
+
+  function buildPortalIndex() {
+    portalIndex = Array.from(document.querySelectorAll("div.portal-group")).map((group) => ({
+      group: group,
+      rows: Array.from(group.querySelectorAll("div.portal")).map((row) => {
+        // all text and link targets, without http(s), joined with | so words can't match across fields
+        let searchableString = row.textContent.trim().replace(/\s*\n\s*/g, "|");
+        searchableString += "|" + Array.from(row.getElementsByTagName("a")).map((e) => e.href).join("|");
+        return { row: row, text: searchableString.replace(/(https|http):\/\//gi, "").toUpperCase() };
+      }),
+    }));
+  }
+
   function showOnlyMatchedPortals() {
-    query = (this.value || "").trim();
+    if (!portalIndex) buildPortalIndex();
+    const query = (this.value || "").trim();
+    const filtering = query.length >= 2;
     // every word must match, in any order (e.g. "entra conditional")
     const terms = query.toUpperCase().split(/\s+/).filter((t) => t.length > 0);
-    document.body.classList.toggle("filtering", query.length >= 2);
+    document.body.classList.toggle("filtering", filtering);
 
-    Array.from(document.querySelectorAll("div.portal-group div.portal")).forEach((portalEntry) => {
-      // Remove individual portal entries
-      if (query.length >= 2) {
-        // build string that includes all text and link href data
-        let searchableString = portalEntry.innerText;
-        searchableString += Array.from(portalEntry.getElementsByTagName("a"))
-          .map((e) => {
-            return e.href;
-          })
-          .join("|");
-        // clean up, remove http(s) and newlines
-        searchableString = searchableString
-          .replace(/(https|http):\/\//gi, "")
-          .replace(/\n/g, "|")
-          .toUpperCase();
-        if (!terms.every((term) => searchableString.indexOf(term) !== -1)) {
-          //Iterate through all children, even nested children
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = true;
-          });
-        } else {
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = false;
-          });
-        }
-      } else {
-        //Iterate through portal entries un-hiding them in case they were hidden
-        Array.from(document.querySelectorAll("div.portal-group div.portal")).forEach((portalEntry) => {
-          Array.from(portalEntry.getElementsByTagName("*")).forEach((elem) => {
-            elem.hidden = false;
-          });
-        });
-      }
-    });
-
-    //Iterate through Portal-groups, and check each portal entries underneath and check if all child portal are hidden
-    Array.from(document.querySelectorAll("div.portal-group")).forEach((portalGroup) => {
-      let num = Array.from(portalGroup.querySelectorAll(".portal *")).reduce(
-        //Count how many elements are not-hidden (shown)
-        (total, elem) => total + (elem.hidden === false ? 1 : 0),
-        0
-      );
-      //If all elements are hidden, hide the entire portal-group
-      if (num === 0) {
-        portalGroup.hidden = true;
-      } else {
-        //If some portal elements are shown, be certain to show the parent portal-group
-        portalGroup.hidden = false;
-      }
+    let matches = 0;
+    let groupsShown = 0;
+    portalIndex.forEach((entry) => {
+      let shown = 0;
+      entry.rows.forEach((r) => {
+        const show = !filtering || terms.every((term) => r.text.indexOf(term) !== -1);
+        // only touch the page when a row actually changes
+        if (r.row.hidden === show) r.row.hidden = !show;
+        if (show) shown++;
+      });
+      const hideGroup = shown === 0;
+      if (entry.group.hidden !== hideGroup) entry.group.hidden = hideGroup;
+      matches += shown;
+      if (!hideGroup) groupsShown++;
     });
 
     // Display message if no portals are found
-    totalNum = Array.from(document.querySelectorAll("div.portal-group")).reduce((total, portalGroup) => total + (portalGroup.hidden === false ? 1 : 0), 0);
-
-    if (totalNum === 0) {
-      document.getElementsByClassName("nomatches")[0].style = "display: block;";
-    } else {
-      document.getElementsByClassName("nomatches")[0].style = "display: none;";
-    }
+    document.getElementsByClassName("nomatches")[0].style = groupsShown === 0 ? "display: block;" : "display: none;";
 
     // Show how many portals match
     const counter = document.getElementById("filter-count");
     if (counter) {
-      if (query.length >= 2) {
-        const matches = Array.from(document.querySelectorAll("div.portal-group div.portal .portal-name")).filter((e) => !e.hidden).length;
-        counter.textContent = matches === 1 ? "1 match" : matches + " matches";
-      } else {
-        counter.textContent = "";
-      }
+      counter.textContent = !filtering ? "" : matches === 1 ? "1 match" : matches + " matches";
     }
     document.dispatchEvent(new CustomEvent("portals-filtered"));
+  }
+
+  // Filter shortly after typing pauses rather than on every key
+  let filterTimer;
+  function scheduleFilter() {
+    clearTimeout(filterTimer);
+    filterTimer = setTimeout(() => showOnlyMatchedPortals.call(this), 80);
   }
 
   function idleSave() {
@@ -127,8 +105,8 @@
     qfInput.value = theURL.searchParams.get("search");
 
     // Add Event Listeners for changes (After we set the search box value)
-    qfInput.addEventListener("change", showOnlyMatchedPortals);
-    qfInput.addEventListener("keyup", showOnlyMatchedPortals);
+    qfInput.addEventListener("input", scheduleFilter);
+    qfInput.addEventListener("change", scheduleFilter);
     qfInput.focus({
       preventScroll: true,
     });

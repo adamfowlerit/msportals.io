@@ -303,6 +303,12 @@
   display: flex;
 }
 
+/* rows the quick filter hides */
+.portal[hidden],
+.filtering .portal-group.collapsed .portal[hidden] {
+  display: none;
+}
+
 .group-count {
   font-size: 0.55em;
   vertical-align: middle;
