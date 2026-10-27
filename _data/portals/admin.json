@@ -27,12 +27,12 @@
         "primaryURL": "https://admin.cloud.microsoft/exchange#/homepage",
         "secondaryURLs": [
           {
-            "icon": "B2B",
-            "url": "https://admin.cloud.microsoft/exchange?tenantid={tenant_id}#/homepage"
-          },
-          {
             "icon": "Old 🔗",
             "url": "https://admin.exchange.microsoft.com"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://admin.cloud.microsoft/exchange?tenantid={tenant_id}#/homepage"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/exchange/2013-2019-postive-format/exchange-256x256.png"
@@ -1425,12 +1425,12 @@
         "primaryURL": "https://security.microsoft.com",
         "secondaryURLs": [
           {
-            "icon": "B2B",
-            "url": "https://security.microsoft.com/homepage?tid={tenant_id}"
-          },
-          {
             "icon": "aka.ms",
             "url": "https://aka.ms/de"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://security.microsoft.com/homepage?tid={tenant_id}"
           }
         ],
         "note": "Previously Microsoft 365 security",
