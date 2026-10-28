@@ -72,7 +72,7 @@
       {
         "portalName": "LinkedIn Learning",
         "primaryURL": "https://www.linkedin.com/learning/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "GitHub Learn",
@@ -653,7 +653,7 @@
       {
         "portalName": "Kusto Detective Agency",
         "primaryURL": "https://detective.kusto.io/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/azure-data-explorer/10145-icon-service-azure-data-explorer-clusters.svg"
       },
       {
         "portalName": "Must Learn KQL",
@@ -686,7 +686,7 @@
         "portalName": "ITOpsTalk",
         "primaryURL": "https://www.youtube.com/@ITOpsTalk",
         "note": "Microsoft run ITOPSTalk TechCommunity Blog",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   }

@@ -1622,7 +1622,7 @@
       {
         "portalName": ".NET Aspire",
         "primaryURL": "https://aspire.dev/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Windows Subsystem for Linux",
@@ -1653,7 +1653,7 @@
       {
         "portalName": "JWT/MS Token Decoder",
         "primaryURL": "https://jwt.ms/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/entra-id/microsoft-entra-id-filled-bw-icon.svg"
       },
       {
         "portalName": "Visual Studio (VS) Code in the Web",
@@ -1725,7 +1725,7 @@
       {
         "portalName": "NuGet Gallery",
         "primaryURL": "https://www.nuget.org",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Store developer registration",
@@ -1910,27 +1910,27 @@
       {
         "portalName": "LinkedIn Learning Admin",
         "primaryURL": "https://www.linkedin.com/learning-admin/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "LinkedIn Campaign Manager",
         "primaryURL": "https://www.linkedin.com/campaignmanager/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "LinkedIn Sales Navigator",
         "primaryURL": "https://www.linkedin.com/sales/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "LinkedIn Developer Portal",
         "primaryURL": "https://developer.linkedin.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "LinkedIn Help",
         "primaryURL": "https://www.linkedin.com/help/linkedin",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -2031,7 +2031,7 @@
       {
         "portalName": "Xbox status",
         "primaryURL": "https://support.xbox.com/xbox-live-status",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -2086,12 +2086,12 @@
       {
         "portalName": "Einvoice",
         "primaryURL": "https://einvoice.microsoft.com",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "SupplierWeb",
         "primaryURL": "https://supplier.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "GitHub Partner Program",

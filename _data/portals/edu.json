@@ -30,7 +30,7 @@
       {
         "portalName": "Microsoft Education on X",
         "primaryURL": "https://x.com/MicrosoftEDU",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Education on YouTube",
@@ -123,7 +123,7 @@
       {
         "portalName": "Math Solver",
         "primaryURL": "https://math.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Microsoft Reflect",
@@ -134,7 +134,7 @@
             "url": "https://reflect.microsoft.com/"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Reading Coach",
@@ -145,17 +145,17 @@
             "url": "https://coach.microsoft.com/"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Search Coach",
         "primaryURL": "https://searchcoach.microsoft.com/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Learning Activities",
         "primaryURL": "https://learningactivities.edu.cloud.microsoft/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       }
     ]
   },
@@ -221,22 +221,22 @@
       {
         "portalName": "Minecraft Education",
         "primaryURL": "https://education.minecraft.net/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Minecraft Education Download",
         "primaryURL": "https://education.minecraft.net/en-us/get-started/download#",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Minecraft Education Support",
         "primaryURL": "https://edusupport.minecraft.net/",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Minecraft Education Australia",
         "primaryURL": "https://education.minecraft.net/en-us/australia",
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "AI Skills for Educators",
@@ -252,7 +252,7 @@
             "url": "https://www.microsoft.com/en-au/makecode"
           }
         ],
-        "iconUrl": ""
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "Unlocked - Innovation Stories",
