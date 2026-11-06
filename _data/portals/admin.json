@@ -1449,12 +1449,6 @@
       {
         "portalName": "Microsoft Defender for Cloud Apps",
         "primaryURL": "https://security.microsoft.com/cloudapps/policies/management",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/MCASPortal"
-          }
-        ],
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
@@ -1578,11 +1572,11 @@
       },
       {
         "portalName": "Actionable Messages Developer Dashboard",
-        "primaryURL": "https://outlook.office.com/connectors/oam/publish",
+        "primaryURL": "https://outlook.cloud.microsoft/actionablemessage/oam/",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
-            "url": "https://aka.ms/publishoam"
+            "url": "https://aka.ms/ActionableMessagesPortal"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
@@ -2044,11 +2038,6 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
-        "portalName": "Microsoft Partner Resources",
-        "primaryURL": "https://partner.microsoft.com/en-US/partnership/azure-for-partners",
-        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
-      },
-      {
         "portalName": "Microsoft Partner Skilling Hub",
         "primaryURL": "https://skilling-hub.com/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
@@ -2327,7 +2316,7 @@
       },
       {
         "portalName": "Deployment Guides for Microsoft 365 ",
-        "primaryURL": "https://assistants.microsoft.com/",
+        "primaryURL": "https://m365accelerator.microsoft.com/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {

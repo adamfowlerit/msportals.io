@@ -146,12 +146,6 @@
         "portalName": "Get Security Done",
         "primaryURL": "https://dcaddick.github.io/gsd_public/",
         "note": "Dave Caddick",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/GSD"
-          }
-        ],
         "iconUrl": ""
       },
       {
@@ -275,7 +269,14 @@
       },
       {
         "portalName": "Microsoft Mac Downloads",
-        "primaryURL": "https://macadmins.software/",
+        "primaryURL": "https://mofa.cocolabs.dev",
+        "note": "MOFA community project",
+        "secondaryURLs": [
+          {
+            "icon": "Update history",
+            "url": "https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac"
+          }
+        ],
         "iconUrl": ""
       },
       {
@@ -357,7 +358,7 @@
       },
       {
         "portalName": "Search aka.ms",
-        "primaryURL": "https://akasearch.net/",
+        "primaryURL": "https://akams.fyi/",
         "iconUrl": ""
       },
       {

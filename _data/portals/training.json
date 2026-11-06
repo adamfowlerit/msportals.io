@@ -5,12 +5,6 @@
       {
         "portalName": "Microsoft Learn Profile",
         "primaryURL": "https://learn.microsoft.com/users/me/",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/LearnProfile"
-          }
-        ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -154,7 +148,7 @@
       },
       {
         "portalName": "Pearson VUE - Microsoft exams",
-        "primaryURL": "https://home.pearsonvue.com/microsoft",
+        "primaryURL": "https://www.pearsonvue.com/us/en/microsoft.html",
         "note": "Book and manage exams",
         "iconUrl": ""
       },
@@ -449,7 +443,7 @@
       {
         "portalName": "Power Platform Developer Associate (AB-400)",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/",
-        "note": "Replaces exam PL-400, which retires October 30, 2026.",
+        "note": "Replacement for PL-400",
         "iconUrl": "https://getyako.com/ms/logos/power-platform/powerplatform-scalable.svg",
         "status": "active"
       },

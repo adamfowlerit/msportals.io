@@ -56,11 +56,6 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure AI Document Intelligence Studio",
-        "primaryURL": "https://documentintelligence.ai.azure.com/",
-        "iconUrl": "https://getyako.com/ms/logos/foundry/microsoft-foundry.svg"
-      },
-      {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
@@ -103,7 +98,7 @@
       },
       {
         "portalName": "Language Studio",
-        "primaryURL": "https://language.azure.com/",
+        "primaryURL": "https://language.cognitive.azure.com/",
         "iconUrl": "https://getyako.com/ms/logos/azure-ai-language/02876-icon-service-language.svg"
       },
       {

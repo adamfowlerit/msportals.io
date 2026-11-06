@@ -183,11 +183,6 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
-        "portalName": "Azure Dev Tools for Teaching Management Portal",
-        "primaryURL": "https://azureforeducation.microsoft.com/account/Subscriptions",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Azure Dev Tools for Teaching Support",
         "primaryURL": "https://azureforeducation.microsoft.com/institutions/Contact",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
@@ -277,7 +272,7 @@
       },
       {
         "portalName": "Australia NSW Gov Institute of Applied Technology",
-        "primaryURL": "https://www.iat.nsw.edu.au/iat-digital",
+        "primaryURL": "https://www.iat.tafensw.edu.au/iat-digital",
         "note": "Free Microskills Courses",
         "iconUrl": ""
       },
