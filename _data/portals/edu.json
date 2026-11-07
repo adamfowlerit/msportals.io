@@ -163,11 +163,6 @@
     "groupName": "Azure Education",
     "portals": [
       {
-        "portalName": "Azure Education Hub",
-        "primaryURL": "https://azureforeducation.microsoft.com/",
-        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
-      },
-      {
         "portalName": "Azure Education Hub Software/Keys",
         "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/software",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"

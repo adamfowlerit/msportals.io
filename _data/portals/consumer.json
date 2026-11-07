@@ -203,11 +203,6 @@
         "portalName": "Bing Account Settings",
         "primaryURL": "https://www.bing.com/account/",
         "iconUrl": "https://getyako.com/ms/logos/bing/bing-icon.png"
-      },
-      {
-        "portalName": "Rewards",
-        "primaryURL": "https://rewards.bing.com",
-        "iconUrl": "https://getyako.com/ms/logos/bing/bing-icon.png"
       }
     ]
   },
