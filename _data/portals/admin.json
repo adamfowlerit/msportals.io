@@ -347,6 +347,11 @@
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
       {
+        "portalName": "Azure App Service Builder",
+        "primaryURL": "https://builder.appservice.azure.com/",
+        "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
+      },
+      {
         "portalName": "Azure Cosmos DB",
         "primaryURL": "https://cosmos.azure.com",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
