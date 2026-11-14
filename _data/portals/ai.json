@@ -107,6 +107,11 @@
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
+        "portalName": "Microsoft WebIQ",
+        "primaryURL": "https://webiq.microsoft.ai",
+        "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
+      },
+      {
         "portalName": "MAI Playground",
         "primaryURL": "https://playground.microsoft.ai/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
