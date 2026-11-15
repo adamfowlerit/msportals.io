@@ -24,7 +24,7 @@
       },
       {
         "portalName": "Microsoft Education Blog",
-        "primaryURL": "https://www.microsoft.com/en-us/education/blog/",
+        "primaryURL": "https://www.microsoft.com/education/blog/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -64,7 +64,7 @@
       },
       {
         "portalName": "Microsoft Education Solution Guide",
-        "primaryURL": "https://learn.microsoft.com/en-us/microsoft-365/education/guide/0-start/a-start",
+        "primaryURL": "https://learn.microsoft.com/microsoft-365/education/guide/0-start/a-start",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -96,7 +96,7 @@
       },
       {
         "portalName": "Microsoft 365 Education licenses - Learn",
-        "primaryURL": "https://learn.microsoft.com/en-us/microsoft-365/education/guide/0-start/all-license",
+        "primaryURL": "https://learn.microsoft.com/microsoft-365/education/guide/0-start/all-license",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
@@ -205,7 +205,7 @@
     "portals": [
       {
         "portalName": "Hacking STEM",
-        "primaryURL": "https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem",
+        "primaryURL": "https://learn.microsoft.com/training/educator-center/instructor-materials/hacking-stem",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -215,7 +215,7 @@
       },
       {
         "portalName": "Minecraft Education Download",
-        "primaryURL": "https://education.minecraft.net/en-us/get-started/download#",
+        "primaryURL": "https://education.minecraft.net/get-started/download#",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -225,12 +225,12 @@
       },
       {
         "portalName": "Minecraft Education Australia",
-        "primaryURL": "https://education.minecraft.net/en-us/australia",
+        "primaryURL": "https://education.minecraft.net/australia",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
         "portalName": "AI Skills for Educators",
-        "primaryURL": "https://www.microsoft.com/en-us/corporate-responsibility/digital-skills/ai-skills-for-educators",
+        "primaryURL": "https://www.microsoft.com/corporate-responsibility/digital-skills/ai-skills-for-educators",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -239,7 +239,7 @@
         "secondaryURLs": [
           {
             "icon": "Start Page",
-            "url": "https://www.microsoft.com/en-au/makecode"
+            "url": "https://www.microsoft.com/makecode"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"

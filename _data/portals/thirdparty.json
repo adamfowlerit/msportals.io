@@ -156,7 +156,7 @@
       },
       {
         "portalName": "GPORais - Group Policy search and registry exports",
-        "primaryURL": "https://gporais.com/en-us/",
+        "primaryURL": "https://gporais.com/",
         "iconUrl": ""
       },
       {
@@ -274,7 +274,7 @@
         "secondaryURLs": [
           {
             "icon": "Update history",
-            "url": "https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac"
+            "url": "https://learn.microsoft.com/officeupdates/update-history-office-for-mac"
           }
         ],
         "iconUrl": ""

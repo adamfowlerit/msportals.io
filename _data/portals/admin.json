@@ -1521,17 +1521,17 @@
       },
       {
         "portalName": "Report an unsafe site (login)",
-        "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site",
+        "primaryURL": "https://www.microsoft.com/wdsi/support/report-unsafe-site",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Report an unsafe site (guest)",
-        "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest",
+        "primaryURL": "https://www.microsoft.com/wdsi/support/report-unsafe-site-guest",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
         "portalName": "Submit a file for malware analysis",
-        "primaryURL": "https://www.microsoft.com/en-us/wdsi/filesubmission",
+        "primaryURL": "https://www.microsoft.com/wdsi/filesubmission",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
@@ -1541,7 +1541,7 @@
       },
       {
         "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
-        "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement",
+        "primaryURL": "https://www.microsoft.com/legal/intellectualproperty/infringement",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
@@ -1636,7 +1636,7 @@
       },
       {
         "portalName": "Microsoft Graph Explorer",
-        "primaryURL": "https://developer.microsoft.com/en-us/graph/graph-explorer",
+        "primaryURL": "https://developer.microsoft.com/graph/graph-explorer",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -1644,7 +1644,7 @@
           },
           {
             "icon": "B2B",
-            "url": "https://developer.microsoft.com/en-us/graph/graph-explorer?tenant={tenant_id}"
+            "url": "https://developer.microsoft.com/graph/graph-explorer?tenant={tenant_id}"
           }
         ],
         "iconUrl": "https://getyako.com/ms/logos/graph/microsoft-graph-icon-1-small.png"
@@ -2121,7 +2121,7 @@
       },
       {
         "portalName": "Defender for Cloud Apps App Governance Trial (90 days)",
-        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=a52e9277-0d85-4480-8cae-a84bc2ab32ae&culture=en-us&country=US&ali=1",
+        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=a52e9277-0d85-4480-8cae-a84bc2ab32ae&country=US&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/defender/defender-512.png"
       },
       {
@@ -2151,7 +2151,7 @@
       },
       {
         "portalName": "Compliance Manager Premium Assessments Trial (90 days)",
-        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e320704d-b7c9-4012-b6a6-0a2679790360&culture=en-us&country=US&ali=1",
+        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=e320704d-b7c9-4012-b6a6-0a2679790360&country=US&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/purview/purview-scalable.svg"
       },
       {
@@ -2177,12 +2177,12 @@
       },
       {
         "portalName": "Microsoft 365 Business Premium Trial (1 month)",
-        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&culture=en-in&country=in&ali=1",
+        "primaryURL": "https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&country=in&ali=1",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
         "portalName": "Azure Free Account",
-        "primaryURL": "https://azure.microsoft.com/en-us/offers/ms-azr-0044p/",
+        "primaryURL": "https://azure.microsoft.com/pricing/offers/ms-azr-0044p/",
         "note": "US$200 credit plus 12 months of free services",
         "iconUrl": "https://getyako.com/ms/logos/azure/azure.png"
       },
@@ -2193,7 +2193,7 @@
       },
       {
         "portalName": "Microsoft 365 Developer Program",
-        "primaryURL": "https://developer.microsoft.com/en-us/microsoft-365/dev-program",
+        "primaryURL": "https://developer.microsoft.com/microsoft-365/dev-program",
         "iconUrl": "https://getyako.com/ms/logos/microsoft-365/microsoft-365-620x620.png"
       },
       {
@@ -2383,7 +2383,7 @@
       },
       {
         "portalName": "Microsoft Assessments",
-        "primaryURL": "https://learn.microsoft.com/en-gb/assessments/",
+        "primaryURL": "https://learn.microsoft.com/assessments/",
         "iconUrl": "https://getyako.com/ms/logos/microsoft/microsoft-logo---256x256-padded.png"
       },
       {
