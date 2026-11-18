@@ -297,14 +297,8 @@
         "iconUrl": ""
       },
       {
-        "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",
-        "primaryURL": "https://msshells.net/",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/get-itips/msshells/"
-          }
-        ],
+        "portalName": "MSShells PowerShell modules for Microsoft 365 / Azure",
+        "primaryURL": "https://msshells.gorzelany.net/",
         "iconUrl": ""
       },
       {
